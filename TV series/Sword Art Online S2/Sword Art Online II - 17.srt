@@ -1,0 +1,963 @@
+﻿1
+00:00:10,988 --> 00:00:13,505
+Punches incoming, two in a row!
+
+2
+00:00:40,949 --> 00:00:42,442
+His ice breath is next!
+
+3
+00:00:46,805 --> 00:00:48,135
+Coming up in three,
+
+4
+00:00:48,227 --> 00:00:50,761
+two, one, now!
+
+5
+00:01:14,680 --> 00:01:16,171
+Now it's our turn!
+
+6
+00:03:07,503 --> 00:03:09,887
+Attack pattern's changing! Stay sharp!
+
+7
+00:03:09,948 --> 00:03:11,687
+Oh, my god. Kazuto!
+
+8
+00:03:11,825 --> 00:03:13,648
+There's only three clear spots left.
+
+9
+00:03:13,947 --> 00:03:16,878
+Can't you use that skill
+connector thingie you used before?
+
+10
+00:03:18,045 --> 00:03:20,942
+He's still got two bars left on his HP gauge.
+
+11
+00:03:21,012 --> 00:03:23,392
+Skill connect won't even put a dent in it.
+
+12
+00:03:26,839 --> 00:03:28,948
+Watch out! Ice breath coming up!
+
+13
+00:03:40,195 --> 00:03:41,573
+Oh, no. The buff!
+
+14
+00:03:42,144 --> 00:03:43,255
+Kazuto, wa...
+
+15
+00:04:12,247 --> 00:04:13,472
+Get out of there!
+
+16
+00:04:27,341 --> 00:04:29,534
+Sinon, keep him busy for a few!
+
+17
+00:04:38,105 --> 00:04:38,612
+Eh?
+
+18
+00:04:40,450 --> 00:04:41,415
+Swordsman,
+
+19
+00:04:42,188 --> 00:04:45,515
+if we continue this course of
+action, we will not defeat Thrmyr.
+
+20
+00:04:45,708 --> 00:04:47,372
+There is but one hope now.
+
+21
+00:04:47,949 --> 00:04:50,380
+Somewhere in this room, hidden in the plunder,
+
+22
+00:04:50,505 --> 00:04:52,701
+you will find the treasure of my people.
+
+23
+00:04:52,867 --> 00:04:53,728
+I'm on it.
+
+24
+00:04:53,781 --> 00:04:55,729
+Tell me what it looks like, and I'll grab it.
+
+25
+00:04:56,340 --> 00:04:58,060
+It is about yea big.
+
+26
+00:04:58,376 --> 00:05:00,115
+It is a hammer made of gold.
+
+27
+00:05:00,452 --> 00:05:02,033
+Wait. It's a hammer?
+
+28
+00:05:11,384 --> 00:05:12,319
+Hey, Kazuto,
+
+29
+00:05:12,394 --> 00:05:14,512
+you can find it using a lightning skill.
+
+30
+00:05:14,860 --> 00:05:16,718
+Lightning? Really?
+
+31
+00:05:40,303 --> 00:05:41,300
+There it is.
+
+32
+00:05:50,673 --> 00:05:52,621
+Freyja, catch!
+
+33
+00:06:00,596 --> 00:06:04,324
+It flows into me.
+
+34
+00:06:05,298 --> 00:06:05,742
+Huh?
+
+35
+00:06:06,571 --> 00:06:07,823
+F‐Freyja?
+
+36
+00:06:10,988 --> 00:06:12,357
+Through me,
+
+37
+00:06:12,495 --> 00:06:15,001
+it overflows.
+
+38
+00:06:20,877 --> 00:06:22,963
+Freyja? Uh...
+
+39
+00:06:32,056 --> 00:06:33,077
+She's a...
+
+40
+00:06:34,366 --> 00:06:35,892
+A frigging dude?!
+
+41
+00:06:40,583 --> 00:06:43,615
+Oh, he's Thor, the god of thunder.
+
+42
+00:06:46,374 --> 00:06:47,587
+Hmm?
+
+43
+00:06:51,435 --> 00:06:53,604
+You despicable giant,
+
+44
+00:06:53,629 --> 00:06:56,632
+your treachery and deceit has come to an end,
+
+45
+00:06:56,770 --> 00:07:00,032
+and now you shall pay for stealing Mjolnir!
+
+46
+00:07:07,317 --> 00:07:12,009
+I shall make you pay for deceiving
+me, you miserable excuse of a god.
+
+47
+00:07:12,128 --> 00:07:14,832
+I shall rip that beard from your face
+
+48
+00:07:14,880 --> 00:07:17,849
+and send your body back to Asgard!
+
+49
+00:07:18,523 --> 00:07:20,329
+Thor's pulling aggro from Thrmyr.
+
+50
+00:07:20,453 --> 00:07:21,930
+Let's attack while we can.
+
+51
+00:07:22,573 --> 00:07:24,742
+Here we go, guys! Hit him hard!
+
+52
+00:07:24,767 --> 00:07:27,141
+Don't hold back! Use all your sword skills!
+
+53
+00:07:27,199 --> 00:07:29,188
+Freyja!
+
+54
+00:07:29,932 --> 00:07:32,138
+Yaah!
+
+55
+00:08:04,969 --> 00:08:05,937
+This is it!
+
+56
+00:08:26,150 --> 00:08:30,152
+Return to your abyss, king of the giants!
+
+57
+00:08:41,413 --> 00:08:43,988
+Revel in your victory, insects,
+
+58
+00:08:44,065 --> 00:08:45,359
+but take heed.
+
+59
+00:08:45,438 --> 00:08:49,524
+If you put your faith in the dogs of aesir...
+
+60
+00:09:02,822 --> 00:09:06,209
+You have my gratitude, brave faerie warriors.
+
+61
+00:09:06,369 --> 00:09:11,312
+Thanks to you, my treasure has
+been returned and my disgrace avenged.
+
+62
+00:09:11,560 --> 00:09:14,330
+Now then, I must reward you.
+
+63
+00:09:20,728 --> 00:09:23,539
+That is Mjolnir, the lightning hammer.
+
+64
+00:09:23,726 --> 00:09:25,745
+Use it in noble battles.
+
+65
+00:09:26,472 --> 00:09:28,600
+Farewell, my champions.
+
+66
+00:09:48,275 --> 00:09:49,469
+Congrats, pal.
+
+67
+00:09:49,553 --> 00:09:51,213
+You've got a legendary weapon.
+
+68
+00:09:51,279 --> 00:09:53,761
+Yeah, but it's a hammer.
+
+69
+00:09:53,830 --> 00:09:55,725
+I don't got no hammer skills.
+
+70
+00:10:02,591 --> 00:10:04,802
+The... the room's moving.
+
+71
+00:10:05,274 --> 00:10:07,603
+Wait. Is it floating?
+
+72
+00:10:09,280 --> 00:10:10,420
+Hey, Kazuto,
+
+73
+00:10:10,995 --> 00:10:13,008
+I don't think this quest is over yet.
+
+74
+00:10:13,160 --> 00:10:13,668
+Huh?
+
+75
+00:10:15,216 --> 00:10:18,142
+Good faeries, infiltrate Thrymheim,
+
+76
+00:10:18,213 --> 00:10:20,166
+remove Excalibur from its plinth,
+
+77
+00:10:20,253 --> 00:10:21,807
+and save my realm.
+
+78
+00:10:21,986 --> 00:10:23,051
+Look at the medallion.
+
+79
+00:10:23,076 --> 00:10:25,520
+It's all black except for that one clear spot.
+
+80
+00:10:26,801 --> 00:10:31,200
+Daddy, a stairway leading down
+has just appeared behind the throne.
+
+81
+00:10:31,315 --> 00:10:32,340
+Seriously?
+
+82
+00:10:42,403 --> 00:10:43,232
+Let's go.
+
+83
+00:10:59,227 --> 00:11:02,061
+System command, generate object!
+
+84
+00:11:02,133 --> 00:11:04,131
+ID, Excalibur!
+
+85
+00:11:08,263 --> 00:11:09,678
+Long time, no see.
+
+86
+00:11:17,665 --> 00:11:18,899
+You got it, Kirito!
+
+87
+00:11:18,924 --> 00:11:20,347
+Come on! Pull harder!
+
+88
+00:11:20,404 --> 00:11:21,644
+Put your back into it!
+
+89
+00:11:23,071 --> 00:11:24,618
+Don't give up, daddy!
+
+90
+00:11:24,912 --> 00:11:27,020
+You can do it! I know you can do it!
+
+91
+00:11:27,542 --> 00:11:29,432
+Go! Keep pulling!
+
+92
+00:11:56,331 --> 00:11:57,335
+Aw, crap.
+
+93
+00:11:57,525 --> 00:11:58,962
+It's breaking up.
+
+94
+00:12:04,547 --> 00:12:07,117
+Daddy, Thrymheim is collapsing.
+
+95
+00:12:07,236 --> 00:12:08,801
+We have to leave here now.
+
+96
+00:12:08,826 --> 00:12:10,094
+I know. I know.
+
+97
+00:12:15,108 --> 00:12:16,905
+Heh. All right.
+
+98
+00:12:17,019 --> 00:12:19,280
+Looks like it's up to me to save the day.
+
+99
+00:12:19,466 --> 00:12:22,469
+Time for some olympic‐grade high jumping.
+
+100
+00:12:27,506 --> 00:12:28,306
+Ow!
+
+101
+00:12:51,885 --> 00:12:53,438
+We're so screwed.
+
+102
+00:12:53,556 --> 00:12:55,411
+Leafa, how much time we got?
+
+103
+00:12:56,737 --> 00:12:57,540
+We made it.
+
+104
+00:12:58,333 --> 00:13:01,237
+Thank god. We made it!
+
+105
+00:13:03,460 --> 00:13:04,204
+Yeah.
+
+106
+00:13:07,014 --> 00:13:11,253
+Looks like I can't claim Excalibur
+unless the quest is cleared.
+
+107
+00:13:15,965 --> 00:13:17,028
+Did you hear that?
+
+108
+00:13:17,059 --> 00:13:17,498
+Huh?
+
+109
+00:13:21,062 --> 00:13:22,070
+There it is again.
+
+110
+00:13:28,395 --> 00:13:29,748
+Tonky!
+
+111
+00:13:32,456 --> 00:13:33,407
+We're saved!
+
+112
+00:13:33,865 --> 00:13:35,937
+Hurry, guys. Hop on his back.
+
+113
+00:13:41,591 --> 00:13:42,792
+We're running out of time.
+
+114
+00:13:42,817 --> 00:13:44,092
+Yeah, I know!
+
+115
+00:13:46,746 --> 00:13:48,249
+Wish it wasn't so high up.
+
+116
+00:13:48,300 --> 00:13:49,897
+Go on. Jump!
+
+117
+00:13:53,400 --> 00:13:53,949
+Huh?
+
+118
+00:13:55,750 --> 00:13:56,817
+Hey, Tonky.
+
+119
+00:13:56,972 --> 00:13:58,828
+Thanks for saving my ass.
+
+120
+00:14:04,424 --> 00:14:06,964
+I guess you're still too heavy for me.
+
+121
+00:14:07,898 --> 00:14:08,665
+Daddy?
+
+122
+00:14:11,040 --> 00:14:14,252
+Seriously, stupid cardinal system.
+
+123
+00:14:42,021 --> 00:14:43,795
+That's about 200 meters.
+
+124
+00:14:43,820 --> 00:14:44,459
+Huh?
+
+125
+00:14:45,228 --> 00:14:46,114
+Uh...
+
+126
+00:14:47,342 --> 00:14:47,995
+Uh...
+
+127
+00:14:54,085 --> 00:14:57,900
+Ecku, skeata, aftol, ale.
+
+128
+00:15:04,225 --> 00:15:05,352
+You gotta be kidding.
+
+129
+00:15:13,112 --> 00:15:14,845
+Whoa. Heavy.
+
+130
+00:15:15,683 --> 00:15:18,173
+S‐S‐S...
+
+131
+00:15:18,526 --> 00:15:21,357
+Sinon, that was awesome!
+
+132
+00:15:24,516 --> 00:15:26,172
+Don't look at me like that.
+
+133
+00:15:26,252 --> 00:15:28,425
+You can have it. Here.
+
+134
+00:15:28,699 --> 00:15:31,383
+Thanks. You're the best. Uh...
+
+135
+00:15:31,741 --> 00:15:34,080
+I'll give it to you, but with one condition.
+
+136
+00:15:34,511 --> 00:15:36,216
+You gotta promise me...
+
+137
+00:15:38,172 --> 00:15:41,541
+Every time you draw it, you have to think about me, okay?
+
+138
+00:15:43,134 --> 00:15:43,791
+Uh...
+
+139
+00:15:45,689 --> 00:15:47,059
+Well, well,
+
+140
+00:15:47,084 --> 00:15:48,953
+the chick magnet's got another girl...
+
+141
+00:15:48,998 --> 00:15:50,305
+uhh!
+
+142
+00:15:52,932 --> 00:15:53,889
+You got it.
+
+143
+00:15:53,955 --> 00:15:56,110
+I'll think about you every time I draw it.
+
+144
+00:15:56,274 --> 00:15:57,191
+Thanks a lot.
+
+145
+00:15:57,455 --> 00:15:58,886
+You're more than welcome.
+
+146
+00:16:13,698 --> 00:16:15,008
+Man, this sucks.
+
+147
+00:16:15,033 --> 00:16:18,350
+We only got to do one quest in
+it, and now it's gone for good.
+
+148
+00:16:18,407 --> 00:16:20,818
+I know. It seems like such a waste.
+
+149
+00:17:10,942 --> 00:17:13,068
+Look at that. It's sprouting.
+
+150
+00:17:25,612 --> 00:17:26,876
+So warm.
+
+151
+00:17:46,559 --> 00:17:47,801
+He's happy.
+
+152
+00:18:18,569 --> 00:18:19,878
+I'm happy, too.
+
+153
+00:18:21,251 --> 00:18:23,073
+Isn't this great, Tonky?
+
+154
+00:18:23,865 --> 00:18:26,746
+Look, all your friends have come to say hi.
+
+155
+00:18:26,834 --> 00:18:29,126
+You see 'em? They're all waving.
+
+156
+00:18:29,592 --> 00:18:31,051
+You're a popular guy.
+
+157
+00:18:33,734 --> 00:18:34,267
+Eh?
+
+158
+00:18:36,707 --> 00:18:39,112
+You removed Excalibur from its plinth.
+
+159
+00:18:39,377 --> 00:18:41,681
+The quest has been completed.
+
+160
+00:18:42,061 --> 00:18:45,524
+Now that the sword which slices wood and iron is secure,
+
+161
+00:18:45,553 --> 00:18:48,621
+Jotunheim can return to its former glory.
+
+162
+00:18:48,958 --> 00:18:51,678
+It is all thanks to you and your bravery.
+
+163
+00:18:52,197 --> 00:18:56,938
+My younger sisters would also like
+to express their gratitude towards you.
+
+164
+00:19:00,452 --> 00:19:02,926
+My name is Verdandi.
+
+165
+00:19:03,183 --> 00:19:06,121
+Thank you, all brave faerie warriors.
+
+166
+00:19:06,146 --> 00:19:09,588
+To think I can gaze upon a green Jotunheim again,
+
+167
+00:19:09,932 --> 00:19:11,698
+oh, it's like a dream.
+
+168
+00:19:20,948 --> 00:19:22,908
+And my name is Skuld.
+
+169
+00:19:23,069 --> 00:19:25,628
+You have my thanks and respect.
+
+170
+00:19:36,010 --> 00:19:39,468
+My gift to you shall be the holy sword.
+
+171
+00:19:47,409 --> 00:19:48,363
+Yes.
+
+172
+00:19:49,422 --> 00:19:51,740
+Thank you, noble faeries,
+
+173
+00:19:52,036 --> 00:19:53,517
+until we meet again.
+
+174
+00:19:55,812 --> 00:19:57,281
+We finally cleared it.
+
+175
+00:20:09,361 --> 00:20:10,474
+Um, 'scuse me,
+
+176
+00:20:10,499 --> 00:20:11,514
+lady Skuld,
+
+177
+00:20:11,613 --> 00:20:13,207
+can I get your number?!
+
+178
+00:20:43,303 --> 00:20:43,933
+Heh heh.
+
+179
+00:20:44,793 --> 00:20:47,814
+Right now, I respect you more than ever, Klein.
+
+180
+00:20:48,208 --> 00:20:50,669
+You can be a dork, but you got heart.
+
+181
+00:20:58,428 --> 00:20:59,538
+How's that, Yui?
+
+182
+00:21:00,248 --> 00:21:03,528
+I can see perfectly, daddy, and I can hear, too.
+
+183
+00:21:03,938 --> 00:21:05,672
+Cool, but what is it?
+
+184
+00:21:05,721 --> 00:21:10,115
+I'm turning real‐time footage
+of the cafe into mock‐3D images.
+
+185
+00:21:10,240 --> 00:21:12,534
+Okay, try moving, but take it slow.
+
+186
+00:21:13,082 --> 00:21:13,985
+Okay.
+
+187
+00:21:19,146 --> 00:21:20,293
+If it's working right,
+
+188
+00:21:20,318 --> 00:21:22,613
+Yui should feel like she's flying around the room.
+
+189
+00:21:23,575 --> 00:21:28,063
+I get it. That camera and its mic
+are acting like Yui's eyes and ears.
+
+190
+00:21:28,088 --> 00:21:30,113
+Gotta hand it to you, that's pretty clever.
+
+191
+00:21:30,348 --> 00:21:32,555
+Kazuto's taking a class called mecho...
+
+192
+00:21:32,934 --> 00:21:33,745
+mecha‐something.
+
+193
+00:21:33,770 --> 00:21:35,243
+It's mechatronics.
+
+194
+00:21:35,484 --> 00:21:38,289
+Like I was saying, he's taking this mecha‐thing class.
+
+195
+00:21:38,392 --> 00:21:41,012
+He has to do a project, so he came up with this idea.
+
+196
+00:21:41,087 --> 00:21:43,460
+But if you ask me, he's just doing it for Yui.
+
+197
+00:21:43,505 --> 00:21:45,132
+You're spoiling me, daddy.
+
+198
+00:21:45,200 --> 00:21:45,955
+Hmm? Eh?
+
+199
+00:21:55,207 --> 00:21:56,560
+Nice job, guys.
+
+200
+00:21:56,594 --> 00:22:00,286
+We got the holy sword Excalibur
+and Mjolnir, the lightning hammer.
+
+201
+00:22:00,506 --> 00:22:01,426
+Congrats.
+
+202
+00:22:01,477 --> 00:22:02,788
+To 2025.
+
+203
+00:22:03,160 --> 00:22:04,108
+To us.
+
+204
+00:22:04,236 --> 00:22:05,328
+To us!
+
+205
+00:22:07,310 --> 00:22:08,936
+Hey, I was wondering,
+
+206
+00:22:08,975 --> 00:22:11,450
+why did they call it Excalibur in the game?
+
+207
+00:22:11,528 --> 00:22:12,057
+Huh?
+
+208
+00:22:12,182 --> 00:22:13,266
+What do you mean, why?
+
+209
+00:22:13,291 --> 00:22:18,993
+Well, usually in the fantasy books and comics
+I've read, it's always called Caliburn, not Excalibur.
+
+210
+00:22:19,055 --> 00:22:20,706
+Oh. I don't know.
+
+211
+00:22:20,849 --> 00:22:24,744
+No way. You don't seem like someone
+who'd be a fan of fantasy books.
+
+212
+00:22:25,848 --> 00:22:28,949
+When I was in middle school, I
+pretty much lived at the library.
+
+213
+00:22:29,274 --> 00:22:32,220
+I spent all my time there reading books about king Arthur.
+
+214
+00:22:32,329 --> 00:22:34,668
+Every one of 'em referred to it as Caliburn.
+
+215
+00:22:34,958 --> 00:22:39,212
+Actually, didn't the sword go by a lot of
+different names in most of those legends?
+
+216
+00:22:39,298 --> 00:22:41,296
+Depending on which Celtic language,
+
+217
+00:22:41,321 --> 00:22:45,287
+but the word caliber is cool, 'cause it's
+what you call the diameter of a gun barrel
+
+218
+00:22:45,455 --> 00:22:48,988
+and it's also how you describe
+the quality of a person's character.
+
+219
+00:22:49,015 --> 00:22:50,450
+Thanks for the lesson, teach.
+
+220
+00:22:50,475 --> 00:22:52,580
+Sorry if I got carried away there.
+
+221
+00:22:52,606 --> 00:22:54,550
+So basically what you're saying is
+
+222
+00:22:54,601 --> 00:22:58,561
+whoever owns Excalibur has to be
+someone who's an exceptional person.
+
+223
+00:22:58,590 --> 00:22:59,956
+Huh? Who is?
+
+224
+00:23:00,049 --> 00:23:01,098
+You mean Kirito?
+
+225
+00:23:01,240 --> 00:23:02,714
+Yeah, of course. Duh.
+
+226
+00:23:02,739 --> 00:23:04,398
+In fact, he's so exceptional,
+
+227
+00:23:04,423 --> 00:23:09,610
+he wouldn't think twice about paying for dinner
+with some of that crazy money he made, right?
+
+228
+00:23:12,796 --> 00:23:15,473
+Yeah. I was saving it for a surprise,
+
+229
+00:23:15,498 --> 00:23:16,511
+but, yeah, totally.
+
+230
+00:23:16,538 --> 00:23:18,053
+This dinner's on me.
+
+231
+00:23:18,415 --> 00:23:19,236
+Thank you, Kirito.
+
+232
+00:23:19,261 --> 00:23:20,720
+Oh, thanks, Kirito.
+
+233
+00:23:20,867 --> 00:23:21,347
+It's free?
+
+234
+00:23:21,372 --> 00:23:23,278
+Yeah. Start pouring the top‐shelf stuff.
+
+235
+00:23:23,321 --> 00:23:26,552
+We're gonna eat till you're broke, dude.
+
+236
+00:23:35,563 --> 00:23:38,063
+Next time: "The Forest House".
+

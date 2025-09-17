@@ -1,0 +1,1058 @@
+﻿1
+00:00:20,051 --> 00:00:20,844
+"Class 1"
+
+2
+00:00:20,844 --> 00:00:22,220
+"Class 1"
+An errand?
+
+3
+00:00:22,220 --> 00:00:22,929
+"Class 1"
+Yes. We're all going to be doing
+a play for the school festival.
+
+4
+00:00:22,929 --> 00:00:27,267
+Yes. We're all going to be doing
+a play for the school festival.
+
+5
+00:00:27,267 --> 00:00:29,602
+We can do whatever play we want.
+
+6
+00:00:29,602 --> 00:00:33,314
+So Filo, I want you to pick
+the theme for the play.
+
+7
+00:00:33,314 --> 00:00:34,733
+The theme?
+
+8
+00:00:34,733 --> 00:00:37,777
+Yes, why don't you go talk to a bunch of people
+
+9
+00:00:37,777 --> 00:00:42,198
+about what kind of play they want,
+and then come up with an idea.
+
+10
+00:00:42,198 --> 00:00:45,326
+I think you need that experience.
+
+11
+00:00:45,326 --> 00:00:46,327
+Can you do it?
+
+12
+00:00:46,327 --> 00:00:47,370
+Okay!
+
+13
+00:00:47,370 --> 00:00:48,997
+I'll do my best!
+
+14
+00:00:48,997 --> 00:00:51,041
+I'm counting on you, Filo!
+
+15
+00:00:51,041 --> 00:00:52,042
+Okay!
+
+16
+00:00:52,042 --> 00:00:59,758
+<i>It's an invitation from another world!</i>
+
+17
+00:00:59,758 --> 00:01:01,468
+"Isekai Quartet2"
+<i>It's an invitation from another world!</i>
+
+18
+00:01:01,468 --> 00:01:03,011
+"Isekai Quartet2"
+
+19
+00:01:04,095 --> 00:01:06,264
+<i>Another world! This is another world!</i>
+
+20
+00:01:06,264 --> 00:01:09,601
+<i>Strange things await you!</i>
+
+21
+00:01:09,601 --> 00:01:14,064
+<i>It's another world, like a dream!</i>
+
+22
+00:01:14,064 --> 00:01:17,650
+<i>It won't let you go, it won't let you head home</i>
+
+23
+00:01:17,650 --> 00:01:20,403
+<i>You're not going back to your old world</i>
+
+24
+00:01:20,403 --> 00:01:25,033
+<i>It's a forbidden passport!</i>
+
+25
+00:01:25,033 --> 00:01:30,497
+<i>It's a story of four nations,</i>
+
+26
+00:01:30,497 --> 00:01:37,170
+<i>an other world quartet that gathers once a week!</i>
+
+27
+00:01:37,170 --> 00:01:39,589
+<i>Another world! This is another world!</i>
+
+28
+00:01:39,589 --> 00:01:45,428
+<i>Now let's head on a dangerous journey?</i>
+<i>Huh? Huh? Huh? Huh?!</i>
+
+29
+00:01:45,428 --> 00:01:47,847
+<i>Other world showtime!</i>
+
+30
+00:01:47,847 --> 00:01:56,439
+<i>The bell's ringing to start the day,</i>
+<i>whether you like it or not!</i>
+
+31
+00:01:56,439 --> 00:02:01,945
+<i>There's no telling what'll happen,</i>
+
+32
+00:02:01,945 --> 00:02:06,449
+<i>just like the real world!</i>
+
+33
+00:02:06,449 --> 00:02:10,286
+<i>It won't let you go, it won't let you head home</i>
+
+34
+00:02:10,286 --> 00:02:14,958
+<i>Other world! Other world!</i>
+<i>Other world! Other world! Aah!</i>
+
+35
+00:02:14,958 --> 00:02:15,834
+<i>SHOWTIME!</i>
+
+36
+00:02:15,834 --> 00:02:17,085
+<i>This story is fiction!</i>
+
+37
+00:02:17,085 --> 00:02:19,004
+<i>Warning: use only as directed!</i>
+
+38
+00:02:22,465 --> 00:02:22,716
+{\an8}"Episode 9: Investigate! First Errand"
+
+39
+00:02:22,716 --> 00:02:24,718
+{\an8}"Episode 9: Investigate! First Errand"
+Huh? There's a school festival?
+
+40
+00:02:24,718 --> 00:02:26,428
+{\an8}"Episode 9: Investigate! First Errand"
+That's what they said.
+
+41
+00:02:26,428 --> 00:02:27,303
+{\an8}"Episode 9: Investigate! First Errand"
+Mr. Ros-<i>chi </i>never tells us the important stuff.
+
+42
+00:02:27,303 --> 00:02:30,098
+{\an8}Mr. Ros-<i>chi </i>never tells us the important stuff.
+
+43
+00:02:30,098 --> 00:02:32,976
+And all the classes are doing a play?
+
+44
+00:02:32,976 --> 00:02:36,146
+Yup. What kind of story do you like?
+
+45
+00:02:36,146 --> 00:02:38,273
+What kind of story...
+
+46
+00:02:38,273 --> 00:02:41,026
+I want to see a story about my lord!
+
+47
+00:02:41,026 --> 00:02:43,945
+Doing a play about an Undead
+in front of a goddess!
+
+48
+00:02:43,945 --> 00:02:45,530
+Not a chance!
+
+49
+00:02:45,530 --> 00:02:47,365
+And stop nodding.
+
+50
+00:02:47,365 --> 00:02:49,075
+--Death Knight disappeared!
+--Again?
+
+51
+00:02:49,075 --> 00:02:51,077
+--Death Knight disappeared!
+--Aqua!
+
+52
+00:02:51,077 --> 00:02:55,040
+If you want to call yourself a goddess, fine,
+but try to get along with others!
+
+53
+00:02:55,040 --> 00:02:57,751
+I'm not just calling myself a goddess!
+I am a goddess!
+
+54
+00:02:57,751 --> 00:03:00,962
+Well, I think you should be nicer,
+
+55
+00:03:00,962 --> 00:03:04,924
+but Lord Ains told me to
+"be nice to the <i>tsundere</i>."
+
+56
+00:03:04,924 --> 00:03:07,052
+What does that mean?
+
+57
+00:03:07,052 --> 00:03:09,596
+It means you're a <i>tsundere</i>.
+
+58
+00:03:09,596 --> 00:03:12,307
+You're mean to the person you like.
+
+59
+00:03:12,307 --> 00:03:16,102
+Aqua, the minute you got lectured
+by a kid, you already lost.
+
+60
+00:03:16,102 --> 00:03:20,398
+--Why?
+--Oh, Death Knight's back.
+
+61
+00:03:20,398 --> 00:03:24,027
+Why not talk to more people?
+
+62
+00:03:24,027 --> 00:03:27,322
+Yeah, I will! Thanks!
+
+63
+00:03:31,076 --> 00:03:35,288
+It's the skeleton man...
+grandpa... skeleton guy!
+
+64
+00:03:35,288 --> 00:03:36,498
+She tried really hard there.
+
+65
+00:03:36,498 --> 00:03:37,374
+I'm Ains.
+
+66
+00:03:37,374 --> 00:03:38,500
+What is it?
+
+67
+00:03:38,500 --> 00:03:40,293
+Do you need to talk to me?
+
+68
+00:03:40,293 --> 00:03:45,298
+Um, I'm talking to a lot of people right now!
+
+69
+00:03:47,217 --> 00:03:48,468
+A play, huh?
+
+70
+00:03:48,468 --> 00:03:49,427
+Yes.
+
+71
+00:03:49,427 --> 00:03:52,555
+Hamusuke said he wanted to see
+the story of an Undead...
+
+72
+00:03:52,555 --> 00:03:54,849
+That's wonderful!
+
+73
+00:03:54,849 --> 00:03:57,977
+A story to tell everyone
+how wonderful Lord Ains is!
+
+74
+00:03:57,977 --> 00:04:01,773
+Truly a worthy gift to a supreme being!
+
+75
+00:04:01,773 --> 00:04:03,066
+Indeed!
+
+76
+00:04:03,066 --> 00:04:05,318
+And I can be his empress...
+
+77
+00:04:05,318 --> 00:04:08,196
+Did you say something, lamprey?
+
+78
+00:04:08,196 --> 00:04:10,949
+Did you say something, big-mouthed gorilla?
+
+79
+00:04:10,949 --> 00:04:12,450
+Calm down, both of you.
+
+80
+00:04:12,450 --> 00:04:14,869
+--Okay!
+--Perfect harmony!
+
+81
+00:04:15,954 --> 00:04:20,792
+Filo, I'm sorry, but we don't
+know much about drama.
+
+82
+00:04:20,792 --> 00:04:24,087
+You'd do better to ask someone else.
+
+83
+00:04:24,087 --> 00:04:25,338
+For example?
+
+84
+00:04:25,338 --> 00:04:29,718
+Hmm... How about Kazuma's gang?
+
+85
+00:04:29,718 --> 00:04:32,137
+Explosion!
+
+86
+00:04:35,932 --> 00:04:37,100
+Well?
+
+87
+00:04:37,100 --> 00:04:38,518
+Hmm...
+
+88
+00:04:38,518 --> 00:04:41,146
+The firepower is concentrated on
+a single point, and extremely effective.
+
+89
+00:04:41,146 --> 00:04:45,233
+Collateral damage is minimal.
+An excellent explosion.
+
+90
+00:04:45,233 --> 00:04:46,943
+What score would you give it?
+
+91
+00:04:46,943 --> 00:04:48,153
+Forty points.
+
+92
+00:04:48,153 --> 00:04:51,698
+If you can't shorten the incantation,
+it will be difficult to use in combat.
+
+93
+00:04:51,698 --> 00:04:54,117
+A short incantation is out of the question.
+
+94
+00:04:54,117 --> 00:04:56,202
+They aren't cool!
+
+95
+00:04:56,202 --> 00:05:00,790
+What's important is casting time. Not coolness.
+
+96
+00:05:00,790 --> 00:05:01,958
+Not true.
+
+97
+00:05:01,958 --> 00:05:05,295
+No, on the battlefield, a single second
+means the difference between life and death.
+
+98
+00:05:05,295 --> 00:05:07,172
+Shorten the incantation time
+
+99
+00:05:07,172 --> 00:05:09,632
+--Hey, Tanya.
+--to efficiently...
+
+100
+00:05:09,632 --> 00:05:12,969
+Her incantations are a mystery.
+
+101
+00:05:12,969 --> 00:05:17,390
+We don't even know if she needs
+an incantation to cast a spell at all.
+
+102
+00:05:17,390 --> 00:05:19,225
+She says something different every time.
+
+103
+00:05:19,225 --> 00:05:22,479
+If I don't use a cool incantation, I will die.
+
+104
+00:05:22,479 --> 00:05:25,315
+Are you making fun of me?
+
+105
+00:05:25,315 --> 00:05:27,233
+Are you making fun of me?
+
+106
+00:05:27,233 --> 00:05:28,985
+Is it good, Filo?
+
+107
+00:05:28,985 --> 00:05:31,071
+It's good!
+
+108
+00:05:32,238 --> 00:05:34,741
+This is tough.
+
+109
+00:05:34,741 --> 00:05:36,951
+Everybody says something different.
+
+110
+00:05:36,951 --> 00:05:38,661
+Hey there.
+
+111
+00:05:38,661 --> 00:05:40,497
+The girl from Class 2!
+
+112
+00:05:40,497 --> 00:05:43,124
+You seemed like something
+was really bothering you.
+
+113
+00:05:43,124 --> 00:05:44,250
+Is something wrong?
+
+114
+00:05:44,250 --> 00:05:47,754
+Um, I'm searching for a theme.
+
+115
+00:05:47,754 --> 00:05:48,838
+A theme?
+
+116
+00:05:48,838 --> 00:05:54,386
+Yes. We're doing something called
+a "play" at the school festival.
+
+117
+00:05:54,386 --> 00:05:56,596
+A play at the school festival?
+
+118
+00:05:56,596 --> 00:06:01,476
+I was asked to find a theme.
+
+119
+00:06:01,476 --> 00:06:04,521
+So you're going around
+to talk to everybody, huh?
+
+120
+00:06:04,521 --> 00:06:08,316
+But everybody says
+something different, so it's hard.
+
+121
+00:06:08,316 --> 00:06:10,860
+Why not go to the library then?
+
+122
+00:06:10,860 --> 00:06:12,946
+There's a lot of books there,
+
+123
+00:06:12,946 --> 00:06:16,241
+so I'm sure you'll find what you're looking for.
+
+124
+00:06:16,241 --> 00:06:17,867
+The library?
+
+125
+00:06:17,867 --> 00:06:20,829
+Got it! Thanks, miss!
+
+126
+00:06:21,913 --> 00:06:23,498
+She's a good girl.
+
+127
+00:06:23,498 --> 00:06:25,041
+Yup.
+
+128
+00:06:25,041 --> 00:06:27,252
+Anyway, we have to go find Roswaal and say,
+
+129
+00:06:27,252 --> 00:06:30,797
+"We didn't hear anything
+about a school festival."
+
+130
+00:06:30,797 --> 00:06:31,798
+Yup.
+
+131
+00:06:31,798 --> 00:06:33,758
+But, Puck.
+
+132
+00:06:33,758 --> 00:06:37,053
+Here he's "Mr. Roswaal."
+
+133
+00:06:37,053 --> 00:06:38,596
+Okay.
+
+134
+00:06:38,596 --> 00:06:38,888
+"Library"
+Okay.
+
+135
+00:06:38,888 --> 00:06:40,849
+"Library"
+That book's easy to read. I think
+it'll give you some good ideas, too.
+
+136
+00:06:40,849 --> 00:06:43,309
+That book's easy to read. I think
+it'll give you some good ideas, too.
+
+137
+00:06:43,309 --> 00:06:45,437
+"Gentle Fairy Tales"
+That book's easy to read. I think
+it'll give you some good ideas, too.
+
+138
+00:06:45,437 --> 00:06:46,062
+"Gentle Fairy Tales"
+Now take it and go.
+
+139
+00:06:46,062 --> 00:06:48,440
+Now take it and go.
+
+140
+00:06:48,440 --> 00:06:51,776
+Okay, I'll have Master read it to me.
+
+141
+00:06:51,776 --> 00:06:53,820
+Thank you, Mare!
+
+142
+00:06:53,820 --> 00:06:55,071
+Beat...
+
+143
+00:06:55,071 --> 00:06:55,989
+Beako!
+
+144
+00:06:55,989 --> 00:06:57,615
+It's not Beako, I wonder!
+
+145
+00:06:57,615 --> 00:06:59,701
+Bye!
+
+146
+00:06:59,701 --> 00:07:02,787
+What a rude girl!
+
+147
+00:07:07,459 --> 00:07:09,502
+Can I ask something?
+
+148
+00:07:09,502 --> 00:07:11,046
+Yes.
+
+149
+00:07:11,046 --> 00:07:12,630
+What is it?
+
+150
+00:07:12,630 --> 00:07:14,758
+Nothing important.
+
+151
+00:07:14,758 --> 00:07:18,678
+Do you remember how you got to the school?
+
+152
+00:07:18,678 --> 00:07:22,766
+Lord Ains said he pushed a button.
+
+153
+00:07:23,767 --> 00:07:27,562
+Lord Ains apologized and said it was his fault.
+
+154
+00:07:27,562 --> 00:07:32,067
+But he's a supreme being,
+so he must have had some reason.
+
+155
+00:07:32,067 --> 00:07:32,901
+I see.
+
+156
+00:07:32,901 --> 00:07:36,863
+It's nice to have the person
+you believe in right next to you.
+
+157
+00:07:36,863 --> 00:07:39,657
+Do you not, Beatrice?
+
+158
+00:07:39,657 --> 00:07:42,577
+Not anymore, I wonder.
+
+159
+00:07:42,577 --> 00:07:44,454
+What about Subaru?
+
+160
+00:07:44,454 --> 00:07:48,291
+I can't trust that guy at all!
+
+161
+00:07:48,291 --> 00:07:50,168
+Oh, yeah.
+
+162
+00:07:50,168 --> 00:07:51,586
+Yeah, I wonder.
+
+163
+00:07:54,506 --> 00:07:56,132
+What've you got there?
+
+164
+00:07:56,132 --> 00:07:58,468
+Oh, the wolf girl!
+
+165
+00:07:58,468 --> 00:08:01,221
+Yup. The wolf girl!
+
+166
+00:08:01,221 --> 00:08:05,016
+And the girl who's very interested
+in what you've got there!
+
+167
+00:08:05,016 --> 00:08:10,605
+"Gentle Fairy Tales"
+This? I got it to help pick the theme
+for the school festival.
+
+168
+00:08:10,605 --> 00:08:11,856
+This? I got it to help pick the theme
+for the school festival.
+
+169
+00:08:11,856 --> 00:08:13,233
+What about this?
+
+170
+00:08:13,233 --> 00:08:16,945
+A poor little bird is tricked by an evil man
+and turned into fried chicken--
+
+171
+00:08:16,945 --> 00:08:20,240
+Don't make up stories!
+
+172
+00:08:20,240 --> 00:08:22,325
+The girls with black hair!
+
+173
+00:08:22,325 --> 00:08:27,664
+You were told by Lord Ains
+to follow the rules of the school.
+
+174
+00:08:27,664 --> 00:08:33,128
+I'm just trying to see how far
+I can bend the rules, is all.
+
+175
+00:08:33,128 --> 00:08:35,839
+Your name's Filo, right?
+
+176
+00:08:35,839 --> 00:08:38,800
+You're looking for a theme for Class 1's play?
+
+177
+00:08:38,800 --> 00:08:44,556
+Yes. And Mare and Beako gave me a book to help!
+
+178
+00:08:44,556 --> 00:08:45,724
+Mare gave it to you?
+
+179
+00:08:45,724 --> 00:08:48,601
+Very well. We'll think of something with you.
+
+180
+00:08:48,601 --> 00:08:52,230
+How about a story where a poor raccoon
+is tricked by a man with--
+
+181
+00:08:52,230 --> 00:08:54,524
+You just did that.
+
+182
+00:08:54,524 --> 00:08:57,277
+But a normal story is boring!
+
+183
+00:08:57,277 --> 00:08:59,237
+We're the ones who'll be acting!
+
+184
+00:08:59,237 --> 00:09:00,113
+It's boring!
+
+185
+00:09:00,113 --> 00:09:01,406
+And Narberal's a terrible actor--
+
+186
+00:09:01,406 --> 00:09:05,035
+--A terrible what now?
+--Oww! Oww!
+
+187
+00:09:05,035 --> 00:09:08,997
+But if we're going to act, it would
+be better if we could be ourselves.
+
+188
+00:09:08,997 --> 00:09:12,667
+Though Narberal wouldn't be able
+to talk about anything but murder!
+
+189
+00:09:12,667 --> 00:09:15,170
+--What did you say?
+--Oww!
+
+190
+00:09:15,170 --> 00:09:17,630
+What are you ladies talking about?
+
+191
+00:09:17,630 --> 00:09:20,508
+None of your business,
+you piece of human garbage.
+
+192
+00:09:20,508 --> 00:09:22,802
+--Scary words from such a pretty lady.
+--Yup.
+
+193
+00:09:22,802 --> 00:09:27,265
+Hearing that from you ugly insects
+means nothing to me.
+
+194
+00:09:27,265 --> 00:09:29,768
+That's it!
+
+195
+00:09:29,768 --> 00:09:31,728
+The ugly duckling!
+
+196
+00:09:31,728 --> 00:09:35,231
+The ugly duckling gets terribly insulted
+by the other ducklings!
+
+197
+00:09:35,231 --> 00:09:38,526
+You could just be who you already are!
+
+198
+00:09:38,526 --> 00:09:40,487
+Yes, that could work in some cases...
+
+199
+00:09:40,487 --> 00:09:42,822
+It's perfect for you, since you're so violent.
+
+200
+00:09:42,822 --> 00:09:45,867
+--Who are you calling violent?
+--Oww! Oww! Oww!
+
+201
+00:09:45,867 --> 00:09:47,994
+<i>The Ugly Duckling</i>?
+
+202
+00:09:47,994 --> 00:09:51,122
+Got it! Thanks, ladies!
+
+203
+00:09:51,122 --> 00:09:52,665
+And old guys, too!
+
+204
+00:09:52,665 --> 00:09:53,917
+Yeah, you're wel--
+
+205
+00:09:53,917 --> 00:09:55,377
+We're not old!
+
+206
+00:09:55,377 --> 00:09:56,920
+"Class 1"
+"And they lived happily ever after."
+
+207
+00:09:56,920 --> 00:09:57,837
+"And they lived happily ever after."
+
+208
+00:09:57,837 --> 00:09:59,464
+"The End."
+
+209
+00:09:59,464 --> 00:10:00,465
+Well, Filo?
+
+210
+00:10:00,465 --> 00:10:02,842
+Yes, I like it!
+
+211
+00:10:02,842 --> 00:10:05,303
+Naofumi, this is wonderful!
+
+212
+00:10:05,303 --> 00:10:06,388
+Let's go with this!
+
+213
+00:10:06,388 --> 00:10:08,181
+You like it that much?
+
+214
+00:10:08,181 --> 00:10:09,432
+Yes, I do!
+
+215
+00:10:09,432 --> 00:10:11,601
+Yeah, it's a great story.
+
+216
+00:10:11,601 --> 00:10:15,647
+"The real me was actually very noble."
+
+217
+00:10:15,647 --> 00:10:17,816
+Why are you looking at me when you say that?
+
+218
+00:10:17,816 --> 00:10:20,193
+Is it okay, Felt?
+
+219
+00:10:20,193 --> 00:10:22,237
+Um...
+
+220
+00:10:23,905 --> 00:10:27,409
+Okay, Class 1 will do <i>The Ugly Duckling</i>!
+
+221
+00:10:27,409 --> 00:10:28,910
+Okay!
+
+222
+00:10:28,910 --> 00:10:32,080
+Master, I worked really hard!
+
+223
+00:10:32,080 --> 00:10:34,457
+Yes, well done.
+
+224
+00:10:34,457 --> 00:10:37,502
+Naofumi, if you'd just asked me...
+
+225
+00:10:37,502 --> 00:10:38,461
+Sorry.
+
+226
+00:10:38,461 --> 00:10:40,547
+Next time, I'll have you do something.
+
+227
+00:10:40,547 --> 00:10:42,674
+Don't treat me like a child!
+
+228
+00:10:42,674 --> 00:10:44,175
+Jeez...
+
+229
+00:11:01,943 --> 00:11:04,821
+<i>I've got special makeup on today</i>
+
+230
+00:11:04,821 --> 00:11:07,782
+<i>My boobs are padded 50% more than normal!</i>
+
+231
+00:11:07,782 --> 00:11:10,160
+<i>I've got a demon's smile on my face</i>
+
+232
+00:11:10,160 --> 00:11:13,455
+<i>Is it time for my big debut?</i>
+
+233
+00:11:13,455 --> 00:11:16,624
+<i>I've never done something like this! It's rough!</i>
+
+234
+00:11:16,624 --> 00:11:19,294
+<i>Time to show everyone how gallant I am!</i>
+
+235
+00:11:19,294 --> 00:11:22,213
+<i>That's right! Show the whole world my charm!</i>
+
+236
+00:11:22,213 --> 00:11:24,549
+<i>All right, everyone, let's calm down!</i>
+
+237
+00:11:24,549 --> 00:11:27,594
+<i>Voices warmed up!</i>
+
+238
+00:11:27,594 --> 00:11:31,097
+<i>Rehearsal went perfectly!</i>
+
+239
+00:11:31,097 --> 00:11:34,559
+<i>I'm saying all kinds of crazy stuff,</i>
+
+240
+00:11:34,559 --> 00:11:37,437
+<i>and my ad-libs are blowing up in my face!</i>
+
+241
+00:11:37,437 --> 00:11:42,233
+<i>The ditzy girls are about to</i>
+<i>put on an amazing show!</i>
+
+242
+00:11:42,233 --> 00:11:45,904
+<i>Welcome! Come in, sit right down!</i>
+
+243
+00:11:45,904 --> 00:11:48,823
+<i>It's a miraculous collaboration!</i>
+
+244
+00:11:48,823 --> 00:11:54,829
+<i>When the four of us get together,</i>
+<i>it's a sold-out house!</i>
+
+245
+00:11:54,829 --> 00:11:57,540
+<i>The acting is terrible,</i>
+
+246
+00:11:57,540 --> 00:12:00,502
+<i>but the fights are so realistic!</i>
+
+247
+00:12:00,502 --> 00:12:03,213
+<i>It's a messed-up quartet,</i>
+
+248
+00:12:03,213 --> 00:12:07,425
+<i>aiming for a happy ending!</i>
+

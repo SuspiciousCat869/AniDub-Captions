@@ -1,0 +1,1255 @@
+﻿1
+00:01:52,389 --> 00:01:53,319
+Commander.
+
+2
+00:01:53,639 --> 00:01:54,819
+He's about to climb.
+
+3
+00:02:11,055 --> 00:02:11,964
+Soldiers!
+
+4
+00:02:12,123 --> 00:02:14,698
+You are not yet to engage the Armored Titan!
+
+5
+00:02:14,850 --> 00:02:16,857
+Maintain a safe distance.
+
+6
+00:02:17,097 --> 00:02:18,152
+Yes, sir!
+
+7
+00:02:18,680 --> 00:02:19,527
+Hange.
+
+8
+00:02:19,972 --> 00:02:21,704
+Why doesn't he have us attack?
+
+9
+00:02:22,139 --> 00:02:23,215
+What's he thinking?
+
+10
+00:02:23,277 --> 00:02:25,250
+The enemy prepared quite the welcome.
+
+11
+00:02:26,155 --> 00:02:28,024
+He's watching their movements for now.
+
+12
+00:02:28,230 --> 00:02:31,344
+Erwin doesn't want to act until
+he understands their strategy.
+
+13
+00:02:37,946 --> 00:02:40,933
+That quadruped type has some kind of cargo on its back,
+
+14
+00:02:41,389 --> 00:02:43,864
+which tells me that it didn't transform just now.
+
+15
+00:02:45,347 --> 00:02:47,828
+It's also likely that this was the enemy's scout.
+
+16
+00:02:48,847 --> 00:02:52,461
+But for it to take notice of our approach
+and relay that information to Reiner...
+
+17
+00:02:53,347 --> 00:02:54,383
+That must mean...
+
+18
+00:02:55,555 --> 00:02:57,490
+They have one more intelligent Titan.
+
+19
+00:02:57,847 --> 00:02:59,388
+It's that quadruped type.
+
+20
+00:03:00,430 --> 00:03:02,480
+Though there may well be others.
+
+21
+00:03:03,394 --> 00:03:05,467
+That Titan is carrying cargo.
+
+22
+00:03:06,347 --> 00:03:07,461
+What could it be?
+
+23
+00:03:23,389 --> 00:03:24,327
+Get ready!
+
+24
+00:03:24,612 --> 00:03:26,717
+Multiple two- to three- meters approaching!
+
+25
+00:03:28,140 --> 00:03:30,555
+This is just like the siege of Utgard Castle.
+
+26
+00:03:31,389 --> 00:03:33,273
+They'll start by targeting the horses.
+
+27
+00:03:34,230 --> 00:03:36,681
+Their primary objective is still to capture Eren.
+
+28
+00:03:37,730 --> 00:03:38,890
+But towards that end,
+
+29
+00:03:39,206 --> 00:03:41,694
+they intend to eliminate our only chance of escape.
+
+30
+00:03:44,022 --> 00:03:48,186
+As of five years ago, Wall Maria's
+perimeter is deep in Titan territory.
+
+31
+00:03:48,639 --> 00:03:51,921
+So, if they do wipe out our horses,
+we'll have no means of getting back.
+
+32
+00:03:52,472 --> 00:03:54,509
+Not only would this block our escape route,
+
+33
+00:03:54,708 --> 00:03:56,518
+it would cut off our supply lines.
+
+34
+00:03:57,879 --> 00:03:59,962
+It might take a week or a month,
+
+35
+00:04:00,180 --> 00:04:02,675
+but there will come a point at which none of us can move.
+
+36
+00:04:03,476 --> 00:04:05,871
+They'll forgo the risks of a proper battle,
+
+37
+00:04:06,389 --> 00:04:09,652
+and opt instead to take Eren once he's too weak to resist.
+
+38
+00:04:11,761 --> 00:04:13,136
+I'm sure of it now.
+
+39
+00:04:13,514 --> 00:04:17,367
+The proof is in the fact that those
+larger Titans are still standing in formation.
+
+40
+00:04:17,998 --> 00:04:20,425
+Their only purpose is to prevent our retreat.
+
+41
+00:04:24,144 --> 00:04:24,820
+Sir.
+
+42
+00:04:24,912 --> 00:04:25,653
+What now?
+
+43
+00:04:25,805 --> 00:04:27,430
+The Armored Titan is almost up!
+
+44
+00:04:27,514 --> 00:04:30,268
+Bertholdt hasn't shown yet, but he must be nearby!
+
+45
+00:04:30,389 --> 00:04:32,247
+Yes. I'm well aware.
+
+46
+00:04:33,639 --> 00:04:36,236
+At this point, the thing I fear most
+
+47
+00:04:36,639 --> 00:04:40,224
+is that Reiner and Bertholdt will reach
+our horses and slaughter them unchecked.
+
+48
+00:04:41,139 --> 00:04:42,059
+Therefore...
+
+49
+00:04:44,305 --> 00:04:46,597
+You finally ready to say something, Erwin?
+
+50
+00:04:46,772 --> 00:04:49,251
+Been waiting so long, I could've made breakfast.
+
+51
+00:04:51,055 --> 00:04:53,382
+Dirk Squad and Marlene Squad, too!
+
+52
+00:04:53,469 --> 00:04:56,027
+Join Klaus Squad and protect the horses at the gate!
+
+53
+00:04:56,889 --> 00:04:58,822
+Levi Squad and Hange Squad!
+
+54
+00:04:59,139 --> 00:05:01,277
+I need you to take down the Armored Titan.
+
+55
+00:05:01,639 --> 00:05:04,010
+Employ the Thunder Spears at your own discretion.
+
+56
+00:05:04,222 --> 00:05:06,680
+Do whatever it takes to achieve your objective!
+
+57
+00:05:07,139 --> 00:05:08,309
+This is our moment.
+
+58
+00:05:08,514 --> 00:05:09,874
+Our chance to strike.
+
+59
+00:05:10,054 --> 00:05:12,534
+The fate of humankind depends on this battle!
+
+60
+00:05:12,927 --> 00:05:14,815
+Lay down your hearts and lives...
+
+61
+00:05:15,680 --> 00:05:18,180
+...one final time, for humanity!
+
+62
+00:05:18,264 --> 00:05:19,445
+Yes, sir!
+
+63
+00:05:21,097 --> 00:05:21,656
+Hear that?
+
+64
+00:05:22,021 --> 00:05:25,145
+We'll turn the tables on the
+Titans as they come for our horses!
+
+65
+00:05:25,192 --> 00:05:25,861
+Sir!
+
+66
+00:05:26,139 --> 00:05:27,656
+Hey. Hold on, you two.
+
+67
+00:05:28,724 --> 00:05:30,358
+Hange can lead both your squads.
+
+68
+00:05:30,437 --> 00:05:32,413
+I'm going to need you right here, Levi.
+
+69
+00:05:33,139 --> 00:05:35,630
+So I'll protect the horses instead of Eren?
+
+70
+00:05:35,733 --> 00:05:36,417
+That's right.
+
+71
+00:05:37,280 --> 00:05:40,079
+And when the chance arises, you'll strike him down.
+
+72
+00:05:41,305 --> 00:05:44,481
+You're the only soldier I can
+trust to dispatch the Beast Titan.
+
+73
+00:05:46,930 --> 00:05:48,119
+Understood, sir.
+
+74
+00:05:48,836 --> 00:05:51,797
+I wasn't fast enough to finish
+off the Armored one earlier,
+
+75
+00:05:52,062 --> 00:05:54,531
+but I'll atone for that by taking the Beast Titan's head.
+
+76
+00:05:58,180 --> 00:05:58,711
+Armin.
+
+77
+00:05:59,069 --> 00:06:01,022
+I have a plan for the Armored Titan, too.
+
+78
+00:06:01,365 --> 00:06:02,205
+Uh... sir.
+
+79
+00:06:02,639 --> 00:06:05,312
+We have to win on two fronts to secure victory.
+
+80
+00:06:05,847 --> 00:06:07,069
+I can handle one.
+
+81
+00:06:07,389 --> 00:06:09,619
+The other, I'll leave to you and Hange.
+
+82
+00:06:28,597 --> 00:06:29,481
+There they are.
+
+83
+00:06:30,180 --> 00:06:31,785
+Gathered up in one place.
+
+84
+00:06:32,680 --> 00:06:34,963
+I'll kill the horses and make a break for it.
+
+85
+00:06:35,764 --> 00:06:36,806
+That's good enough.
+
+86
+00:06:37,698 --> 00:06:40,080
+No matter how strong Captain Levi is,
+
+87
+00:06:40,680 --> 00:06:43,010
+he's still no match for our War Chief.
+
+88
+00:06:48,222 --> 00:06:49,527
+That was a close one.
+
+89
+00:06:50,347 --> 00:06:53,801
+If I was any slower in transferring
+my consciousness to my body,
+
+90
+00:06:54,311 --> 00:06:55,748
+I'd've died instantly.
+
+91
+00:06:57,264 --> 00:07:00,084
+How did they even think to check inside the walls?
+
+92
+00:07:02,671 --> 00:07:03,534
+Armin.
+
+93
+00:07:04,222 --> 00:07:05,139
+Was it you?
+
+94
+00:07:07,878 --> 00:07:09,342
+It doesn't matter now.
+
+95
+00:07:10,347 --> 00:07:14,545
+Once this is done, our long journey will reach its end.
+
+96
+00:07:22,911 --> 00:07:24,485
+Erwin Smith.
+
+97
+00:07:25,472 --> 00:07:27,019
+Can't let him distract me.
+
+98
+00:07:27,472 --> 00:07:29,426
+I've got to kill those horses.
+
+99
+00:07:37,180 --> 00:07:37,887
+Eren!
+
+100
+00:07:41,764 --> 00:07:44,013
+Why would he show up when he doesn't have to?
+
+101
+00:07:44,639 --> 00:07:48,040
+They should be painfully aware that
+abducting him is our main objective.
+
+102
+00:07:49,353 --> 00:07:50,615
+What is he thinking?
+
+103
+00:07:56,680 --> 00:07:58,957
+Will he run south and climb over the wall?
+
+104
+00:07:59,605 --> 00:08:03,286
+As a Titan, he could circle around
+and escape to Trost without a horse.
+
+105
+00:08:04,639 --> 00:08:05,701
+Were that to happen,
+
+106
+00:08:06,229 --> 00:08:08,594
+we'd have no reason to stay here and fight.
+
+107
+00:08:09,405 --> 00:08:12,123
+Even if we did manage to annihilate the Scouts,
+
+108
+00:08:12,847 --> 00:08:15,237
+Eren mastered hardening in two months.
+
+109
+00:08:15,680 --> 00:08:17,612
+We can't let him back in the walls.
+
+110
+00:08:17,930 --> 00:08:18,923
+No way.
+
+111
+00:08:19,472 --> 00:08:23,133
+If he learns how to harness the
+Coordinate's full power, we're finished.
+
+112
+00:08:25,264 --> 00:08:26,017
+Hold on.
+
+113
+00:08:26,389 --> 00:08:27,566
+Something's off here.
+
+114
+00:08:28,097 --> 00:08:33,551
+If his goal really was to escape, he would've used
+ODM gear to scale the south wall and then transformed.
+
+115
+00:08:35,097 --> 00:08:39,079
+But instead he transformed right in
+front of me, in the center of town.
+
+116
+00:08:41,389 --> 00:08:42,433
+I get it.
+
+117
+00:08:42,815 --> 00:08:44,077
+He's a diversion.
+
+118
+00:08:45,108 --> 00:08:48,589
+They're trying to change my
+target from the horses to Eren!
+
+119
+00:08:57,305 --> 00:09:00,006
+You're not giving me any time to think, Commander.
+
+120
+00:09:01,055 --> 00:09:02,532
+You clever bastard.
+
+121
+00:09:03,055 --> 00:09:05,216
+Makin' me get down when I just climbed up.
+
+122
+00:09:11,522 --> 00:09:13,361
+Good. He went for it!
+
+123
+00:09:14,655 --> 00:09:16,770
+He wants to use Eren as bait?
+
+124
+00:09:17,305 --> 00:09:19,686
+Yes, that was the Commander's order.
+
+125
+00:09:20,055 --> 00:09:20,846
+Hold on.
+
+126
+00:09:21,180 --> 00:09:24,953
+So he's willing to risk Eren's
+capture just to protect the horses?
+
+127
+00:09:25,014 --> 00:09:25,882
+You're kidding.
+
+128
+00:09:26,328 --> 00:09:29,681
+Even if we try it, Reiner might
+just go after the horses anyway.
+
+129
+00:09:29,844 --> 00:09:30,483
+No.
+
+130
+00:09:30,722 --> 00:09:32,175
+I'm sure he'll chase Eren.
+
+131
+00:09:33,097 --> 00:09:35,274
+If Reiner does go after the horses,
+
+132
+00:09:35,399 --> 00:09:39,357
+then Eren can continue running north and
+wrap around the Beast Titan's formation.
+
+133
+00:09:39,972 --> 00:09:42,145
+With Levi, the Scouts, and Eren,
+
+134
+00:09:42,313 --> 00:09:44,696
+they can catch the Beast Titan in a pincer attack.
+
+135
+00:09:44,972 --> 00:09:47,580
+Erwin must've said as much himself, right?
+
+136
+00:09:47,722 --> 00:09:48,923
+Um, yes.
+
+137
+00:09:49,139 --> 00:09:51,083
+Even if things don't go as we hope,
+
+138
+00:09:51,222 --> 00:09:53,347
+the enemy doesn't expect Eren to flee,
+
+139
+00:09:53,430 --> 00:09:56,305
+so it might confuse them enough
+to get them to break ranks.
+
+140
+00:09:56,436 --> 00:09:59,322
+The only question is can Reiner see that far ahead.
+
+141
+00:10:04,055 --> 00:10:06,989
+Knowing him, he should work it out pretty quickly.
+
+142
+00:10:08,264 --> 00:10:08,905
+Okay.
+
+143
+00:10:09,581 --> 00:10:11,900
+This is where we'll bring down the Armored Titan.
+
+144
+00:10:13,314 --> 00:10:14,340
+Wait a second!
+
+145
+00:10:14,639 --> 00:10:16,706
+There's one more factor we need to consider.
+
+146
+00:10:17,930 --> 00:10:20,878
+He's still hiding, but Bertholdt must be nearby.
+
+147
+00:10:21,722 --> 00:10:23,047
+The last time they fought,
+
+148
+00:10:23,154 --> 00:10:26,201
+Eren outmaneuvered Reiner and
+had him on the verge of defeat,
+
+149
+00:10:26,674 --> 00:10:29,163
+but then Bertholdt caught him with a surprise attack,
+
+150
+00:10:29,555 --> 00:10:31,211
+and he ended up their captive.
+
+151
+00:10:35,045 --> 00:10:36,666
+As a simple counter-measure,
+
+152
+00:10:37,254 --> 00:10:40,137
+do what you can to keep the fight away from the walls.
+
+153
+00:10:47,222 --> 00:10:49,059
+It might've been a fluke,
+
+154
+00:10:50,180 --> 00:10:52,482
+but I've beaten you once before.
+
+155
+00:10:54,222 --> 00:10:56,168
+And I'm stronger now.
+
+156
+00:10:58,389 --> 00:11:00,609
+One-on-one, I can win.
+
+157
+00:11:02,055 --> 00:11:04,533
+When it comes to hand-to-hand combat,
+
+158
+00:11:04,805 --> 00:11:07,330
+Annie makes you look downright weak.
+
+159
+00:11:36,180 --> 00:11:41,000
+Do you have any idea where we're standing right now?
+
+160
+00:11:44,041 --> 00:11:45,132
+This place...
+
+161
+00:11:50,188 --> 00:11:51,743
+...was my home.
+
+162
+00:11:52,823 --> 00:11:54,531
+Was our home!
+
+163
+00:11:55,889 --> 00:11:58,058
+But then you stole it!
+
+164
+00:12:00,174 --> 00:12:02,085
+We're taking it back.
+
+165
+00:12:02,611 --> 00:12:04,491
+And you can't stop us.
+
+166
+00:12:06,430 --> 00:12:11,305
+Get in our way, and we'll slaughter you all.
+
+167
+00:12:20,774 --> 00:12:23,506
+Recruits! Keep moving with the horses!
+
+168
+00:12:23,640 --> 00:12:25,486
+We'll keep the Titans off your backs!
+
+169
+00:12:26,628 --> 00:12:27,460
+Hey, Marlo!
+
+170
+00:12:27,484 --> 00:12:28,043
+Huh?
+
+171
+00:12:28,197 --> 00:12:29,697
+Where do we tie the horses?
+
+172
+00:12:29,746 --> 00:12:32,516
+We were told to avoid putting
+all of them in the same place.
+
+173
+00:12:33,097 --> 00:12:34,447
+Just keep going, all right?
+
+174
+00:12:34,823 --> 00:12:36,965
+Two more small ones coming from the east!
+
+175
+00:12:42,014 --> 00:12:44,886
+So those... are Titans?
+
+176
+00:12:55,051 --> 00:12:56,239
+It's Captain Levi!
+
+177
+00:12:56,472 --> 00:12:57,892
+Now's our chance! Hurry!
+
+178
+00:12:58,229 --> 00:13:00,354
+Finish killing the small ones already!
+
+179
+00:13:00,514 --> 00:13:02,604
+Get it done before the Beast Titan moves!
+
+180
+00:13:02,676 --> 00:13:04,987
+And no casualties! Don't you dare get eaten.
+
+181
+00:13:05,264 --> 00:13:05,972
+Sir!
+
+182
+00:13:09,472 --> 00:13:10,215
+Shit.
+
+183
+00:13:10,612 --> 00:13:12,066
+Who the hell am I kidding?
+
+184
+00:13:12,537 --> 00:13:14,663
+These kids are gonna drop like flies.
+
+185
+00:13:14,889 --> 00:13:16,332
+Shoulda left 'em up there.
+
+186
+00:13:21,363 --> 00:13:23,872
+We struggle against the smallest Titans now.
+
+187
+00:13:24,847 --> 00:13:26,398
+The Scouts have grown weak.
+
+188
+00:13:26,929 --> 00:13:29,648
+Most of our veterans have been buried, burned, or...
+
+189
+00:13:31,514 --> 00:13:34,717
+Still, if not for the lives we sacrificed,
+
+190
+00:13:35,180 --> 00:13:37,052
+we never would have made it half this far.
+
+191
+00:13:42,847 --> 00:13:43,972
+When I was a cadet,
+
+192
+00:13:44,472 --> 00:13:46,577
+I told the others about my father's theory...
+
+193
+00:13:47,139 --> 00:13:48,008
+My faith in it.
+
+194
+00:13:48,847 --> 00:13:52,052
+I told them that once I was a
+scout, I would prove he was right.
+
+195
+00:13:53,389 --> 00:13:55,261
+But once I actually joined the Scouts,
+
+196
+00:13:56,014 --> 00:13:58,082
+I stopped talking about it for some reason.
+
+197
+00:13:59,230 --> 00:14:01,124
+No, that's wrong.
+
+198
+00:14:03,514 --> 00:14:04,893
+It wasn't "some reason."
+
+199
+00:14:05,647 --> 00:14:06,886
+I'd realized something.
+
+200
+00:14:07,847 --> 00:14:09,603
+That of all my brave comrades,
+
+201
+00:14:10,264 --> 00:14:12,376
+only one was fighting for himself.
+
+202
+00:14:13,180 --> 00:14:14,878
+They bled and died for each other,
+
+203
+00:14:15,514 --> 00:14:17,460
+while I fought for a selfish dream.
+
+204
+00:14:21,889 --> 00:14:24,141
+Then I came to lead my comrades.
+
+205
+00:14:24,502 --> 00:14:27,502
+Gave them orders and inspiring words.
+
+206
+00:14:28,222 --> 00:14:29,036
+Be brave.
+
+207
+00:14:29,472 --> 00:14:31,189
+Give your hearts to humanity.
+
+208
+00:14:32,472 --> 00:14:34,248
+I played them all for fools.
+
+209
+00:14:35,180 --> 00:14:36,234
+Myself, too.
+
+210
+00:14:37,597 --> 00:14:38,284
+And now,
+
+211
+00:14:38,379 --> 00:14:41,009
+standing on this mountain of brave corpses...
+
+212
+00:14:42,394 --> 00:14:43,757
+...I have quite the view.
+
+213
+00:14:52,264 --> 00:14:52,879
+Still,
+
+214
+00:14:53,597 --> 00:14:56,057
+Grisha's secret lingers in the back of my mind.
+
+215
+00:14:56,986 --> 00:14:58,735
+Even if this plan should fail,
+
+216
+00:14:59,445 --> 00:15:01,936
+there's a chance that I could still reach that cellar.
+
+217
+00:15:03,764 --> 00:15:06,616
+Before I die, I'd like to see it.
+
+218
+00:15:07,453 --> 00:15:08,944
+The truth of our world.
+
+219
+00:15:18,472 --> 00:15:20,544
+Those experiments paid off!
+
+220
+00:15:23,180 --> 00:15:25,755
+These fists are all I need to beat you!
+
+221
+00:15:28,914 --> 00:15:33,334
+When I focus my hardening on one point, it gets stronger.
+
+222
+00:15:33,847 --> 00:15:37,014
+Since his armor's spread across his whole body,
+
+223
+00:15:37,097 --> 00:15:39,769
+I can smash it like thin ice!
+
+224
+00:15:45,847 --> 00:15:47,730
+You're too slow, you stupid oaf.
+
+225
+00:15:47,812 --> 00:15:49,590
+You won't win!
+
+226
+00:15:51,566 --> 00:15:52,989
+Damn it, no!
+
+227
+00:16:38,805 --> 00:16:39,944
+He needs our help!
+
+228
+00:16:40,180 --> 00:16:41,136
+Not yet!
+
+229
+00:16:41,194 --> 00:16:43,178
+Everything rides on our first attack!
+
+230
+00:16:43,720 --> 00:16:46,427
+We need to wait and trust Eren to give us a good opening.
+
+231
+00:16:54,845 --> 00:16:57,303
+Your new weapon is a big metal rod?
+
+232
+00:16:57,514 --> 00:16:59,767
+It's pointy, dumbass. That makes it a spear.
+
+233
+00:16:59,886 --> 00:17:02,715
+The Corps of Engineers really
+came through for me with this one.
+
+234
+00:17:02,930 --> 00:17:07,227
+They've been going through a plethora of
+technologies kept hidden by the Interior Police.
+
+235
+00:17:07,597 --> 00:17:09,395
+And I told 'em that while they were at it,
+
+236
+00:17:09,597 --> 00:17:12,733
+they should try to cook up a weapon
+that'll work against the Armored Titan.
+
+237
+00:17:13,014 --> 00:17:14,822
+And that's what they came up with?
+
+238
+00:17:15,555 --> 00:17:19,208
+Our blades may as well have been
+made of paper against that armor of his.
+
+239
+00:17:20,196 --> 00:17:24,745
+All we could do in our last battle was watch
+Eren fight the Armored Titan from the sidelines.
+
+240
+00:17:25,063 --> 00:17:28,247
+There just aren't enough openings
+in the plating for us to cut through.
+
+241
+00:17:31,472 --> 00:17:32,475
+True enough.
+
+242
+00:17:32,597 --> 00:17:35,987
+Even at close range, we couldn't
+do anything to make him let Eren go.
+
+243
+00:17:37,972 --> 00:17:42,033
+Back then, if the Commander hadn't
+drawn that horde of Titans towards him...
+
+244
+00:17:44,139 --> 00:17:49,327
+Until now, the only attacks that've hurt
+Reiner did so by working around his armor.
+
+245
+00:17:49,514 --> 00:17:51,965
+I'm referring to Eren's grappling techniques.
+
+246
+00:17:52,227 --> 00:17:55,945
+Also, Eren's been experimenting
+with a new "hardened punch,"
+
+247
+00:17:55,992 --> 00:17:57,566
+for which we have high hopes.
+
+248
+00:17:58,248 --> 00:18:00,822
+With that said, if those were our sole weapons,
+
+249
+00:18:00,847 --> 00:18:02,460
+this mission would be doomed to fail.
+
+250
+00:18:02,667 --> 00:18:05,185
+It's vital that we plug the holes in Wall Maria,
+
+251
+00:18:05,438 --> 00:18:06,885
+but what matters most here
+
+252
+00:18:06,946 --> 00:18:11,755
+is that we eliminate Bertholdt and Reiner,
+ensuring that they can't breach the wall again.
+
+253
+00:18:13,264 --> 00:18:15,386
+Okay, so what's the plan?
+
+254
+00:18:15,680 --> 00:18:18,055
+We'll stab the Armored Titan with those spears?
+
+255
+00:18:18,194 --> 00:18:19,501
+Think I'll just show you.
+
+256
+00:18:20,555 --> 00:18:21,574
+Let's go outside.
+
+257
+00:18:32,301 --> 00:18:34,168
+It's powerful, as you can see.
+
+258
+00:18:34,280 --> 00:18:35,877
+Not far from a lightning strike.
+
+259
+00:18:36,472 --> 00:18:38,706
+Hence our calling them "Thunder Spears."
+
+260
+00:18:38,850 --> 00:18:40,183
+They're good weapons,
+
+261
+00:18:40,208 --> 00:18:42,359
+but are they enough to bring down the Armored Titan?
+
+262
+00:18:42,514 --> 00:18:44,806
+There's no way to be sure until we try.
+
+263
+00:18:45,472 --> 00:18:47,639
+These can tear a normal Titan apart,
+
+264
+00:18:47,722 --> 00:18:50,392
+but to do real damage against the Armored Titan,
+
+265
+00:18:50,555 --> 00:18:52,457
+it'll take some extra work.
+
+266
+00:19:14,807 --> 00:19:15,853
+Shit!
+
+267
+00:19:28,392 --> 00:19:32,277
+It doesn't look like biting Eren out of
+there is something I can handle by myself.
+
+268
+00:19:33,930 --> 00:19:35,527
+Guess it's on to Plan B.
+
+269
+00:19:41,855 --> 00:19:43,733
+Go! Now!
+
+270
+00:19:44,485 --> 00:19:45,943
+They're making a move?
+
+271
+00:19:46,597 --> 00:19:48,922
+I knew they've been gradually surrounding me, but...
+
+272
+00:19:49,264 --> 00:19:51,592
+...how exactly do they plan to hurt me?
+
+273
+00:19:52,264 --> 00:19:55,684
+I've got hardened plate armor
+covering every vital point of my body.
+
+274
+00:19:56,264 --> 00:19:58,202
+Their blades can't even scratch it.
+
+275
+00:20:22,555 --> 00:20:23,617
+Did we do it?
+
+276
+00:20:24,014 --> 00:20:25,397
+This just might work.
+
+277
+00:20:25,889 --> 00:20:28,074
+The Thunder Spears are so destructive,
+
+278
+00:20:28,222 --> 00:20:30,339
+they pose a danger to those who fire them.
+
+279
+00:20:31,305 --> 00:20:35,364
+If you anchor to the Titan itself and
+move in as if to slash it with your blade,
+
+280
+00:20:35,389 --> 00:20:37,649
+you'll end up caught in the resulting explosion.
+
+281
+00:20:38,555 --> 00:20:41,343
+Which means the only chance to use Thunder Spears
+
+282
+00:20:41,680 --> 00:20:45,586
+is when the target is surrounded
+by multiple tall, solid structures.
+
+283
+00:20:46,222 --> 00:20:50,646
+We can only attack with Thunder
+Spears in situations exactly like this.
+
+284
+00:20:51,656 --> 00:20:53,045
+Right here and now,
+
+285
+00:20:53,132 --> 00:20:54,633
+we have to end it!
+
+286
+00:21:07,389 --> 00:21:08,887
+Good! We've got him!
+
+287
+00:21:09,180 --> 00:21:10,285
+The spears worked!
+
+288
+00:21:10,389 --> 00:21:12,517
+The armor on his nape is in splinters now!
+
+289
+00:21:15,514 --> 00:21:17,381
+Whoa, it really worked?
+
+290
+00:21:17,847 --> 00:21:19,383
+We can actually do some damage!
+
+291
+00:21:19,408 --> 00:21:20,495
+Do it again!
+
+292
+00:21:20,639 --> 00:21:22,305
+You each still have a Thunder Spear.
+
+293
+00:21:22,389 --> 00:21:23,639
+Use them to end this!
+
+294
+00:21:28,972 --> 00:21:29,997
+But it's Reiner...
+
+295
+00:21:31,139 --> 00:21:32,271
+Come on, guys!
+
+296
+00:21:33,280 --> 00:21:35,750
+We said we'd do it if it ever came down to this!
+
+297
+00:21:36,555 --> 00:21:37,737
+So let's go!
+
+298
+00:21:55,842 --> 00:21:58,082
+No! I don't wanna die!
+
+299
+00:23:41,847 --> 00:23:44,355
+If someone had just said the right thing,
+
+300
+00:23:44,680 --> 00:23:46,356
+could the future have been different?
+
+301
+00:23:47,180 --> 00:23:48,596
+Lives in the balance,
+
+302
+00:23:48,805 --> 00:23:49,953
+weighing them down.
+
+303
+00:23:50,472 --> 00:23:52,936
+None can be saved, except through more death.
+
+304
+00:23:53,634 --> 00:23:56,119
+Next episode: "Descent."
+

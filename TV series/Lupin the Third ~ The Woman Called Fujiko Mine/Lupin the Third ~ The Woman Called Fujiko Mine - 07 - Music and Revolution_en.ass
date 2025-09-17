@@ -1,0 +1,407 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+Title: English Uncut (English Closed Captions, FUNimation)
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,HelveticaNeue LT 65 Medium,47,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,133,133,30,1
+Style: MainTop,HelveticaNeue LT 65 Medium,47,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,133,133,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.27,0:00:10.31,Main,,0,0,0,,Cease what you are\Ndoing and gaze at me.
+Dialogue: 0,0:00:10.33,0:00:14.24,Main,,0,0,0,,Stop everything, save for\Nthe thrumming of your heart.
+Dialogue: 0,0:00:14.26,0:00:17.29,Main,,0,0,0,,Theft. It is an\Nespecially sweet vice,
+Dialogue: 0,0:00:17.31,0:00:19.21,Main,,0,0,0,,more elegant than vandalism
+Dialogue: 0,0:00:19.23,0:00:21.42,Main,,0,0,0,,and more complex\Nthan simple robbery.
+Dialogue: 0,0:00:22.20,0:00:25.41,Main,,0,0,0,,A beautiful blend of secrets\Nand crime and mischief and fear.
+Dialogue: 0,0:00:25.43,0:00:27.36,Main,,0,0,0,,Like dear Heathcliff,
+Dialogue: 0,0:00:27.38,0:00:30.35,Main,,0,0,0,,I am defined by my\Nall-consuming passion.
+Dialogue: 0,0:00:30.37,0:00:33.27,Main,,0,0,0,,Stealing is my greatest\Ncarnal pleasure,
+Dialogue: 0,0:00:33.29,0:00:35.38,Main,,0,0,0,,a pleasure for which\NI will risk my life,
+Dialogue: 0,0:00:35.40,0:00:38.34,Main,,0,0,0,,a sexy prison from\Nwhich there is no escape.
+Dialogue: 0,0:00:38.36,0:00:41.34,Main,,0,0,0,,Why am I this way?\NWho can know?
+Dialogue: 0,0:00:41.36,0:00:44.27,Main,,0,0,0,,Who is the slave and\Nwho's the master?
+Dialogue: 0,0:00:44.29,0:00:47.22,Main,,0,0,0,,Do divine eyes fall\Nupon me any longer,
+Dialogue: 0,0:00:47.24,0:00:48.40,Main,,0,0,0,,or have the given up?
+Dialogue: 0,0:00:48.42,0:00:51.40,Main,,0,0,0,,The rush of a theft\Nallows me to forget all,
+Dialogue: 0,0:00:51.42,0:00:55.20,Main,,0,0,0,,and yet to distantly\Nremember all, as well.
+Dialogue: 0,0:00:59.30,0:01:03.26,Main,,0,0,0,,Run and speak not.\NHide and run not.
+Dialogue: 0,0:01:03.28,0:01:05.35,Main,,0,0,0,,When you've found\Nme, punish me.
+Dialogue: 0,0:01:05.37,0:01:09.32,Main,,0,0,0,,When you've punished\Nme, kill me. Save me.
+Dialogue: 0,0:01:11.25,0:01:15.27,Main,,0,0,0,,Little boy, there is nothing\Nleft to steal from you.
+Dialogue: 0,0:01:15.29,0:01:21.22,Main,,0,0,0,,You have long been an\Nempty shell. Just as I have.
+Dialogue: 0,0:01:21.24,0:01:25.21,Main,,0,0,0,,And so, if you would gaze at\Nme, cease what you are doing.
+Dialogue: 0,0:01:25.23,0:01:29.41,Main,,0,0,0,,Stop everything save for the\Nthrumming of your heart.
+Dialogue: 0,0:01:52.42,0:01:54.33,Main,,0,0,0,,You might as well talk.
+Dialogue: 0,0:01:54.35,0:01:57.36,Main,,0,0,0,,Who are you working for,\Nyou sneaky bitch?
+Dialogue: 0,0:01:57.38,0:02:00.35,Main,,0,0,0,,We know your media\Ncredentials were faked.
+Dialogue: 0,0:02:00.37,0:02:02.21,Main,,0,0,0,,You're wrong.
+Dialogue: 0,0:02:02.23,0:02:03.29,Main,,0,0,0,,I don't know wha--.
+Dialogue: 0,0:02:03.31,0:02:04.37,Main,,0,0,0,,Who do you work for?
+Dialogue: 0,0:02:04.39,0:02:06.27,Main,,0,0,0,,You better start talking!
+Dialogue: 0,0:02:28.43,0:02:30.32,Main,,0,0,0,,You're safe now.
+Dialogue: 0,0:02:32.26,0:02:33.42,Main,,0,0,0,,Princesa.
+Dialogue: 0,0:02:38.36,0:02:40.43,Main,,0,0,0,,Have you heard of\Nthe Doomsday Clock?
+Dialogue: 0,0:02:41.21,0:02:43.40,Main,,0,0,0,,In 1947, the clash\Nbetween communist
+Dialogue: 0,0:02:43.42,0:02:47.32,Main,,0,0,0,,and capitalist camps\Nbegan to intensify.
+Dialogue: 0,0:02:47.34,0:02:50.33,Main,,0,0,0,,That year marked the birth\Nof the Cold War Era
+Dialogue: 0,0:02:50.35,0:02:53.32,Main,,0,0,0,,and of the Doomsday Clock\Nwhich symbolically marks
+Dialogue: 0,0:02:53.34,0:02:56.36,Main,,0,0,0,,the time remaining\Nuntil global disaster.
+Dialogue: 0,0:02:56.38,0:03:00.34,Main,,0,0,0,,When the clock's hands are moved\Nto the midnight position,
+Dialogue: 0,0:03:00.36,0:03:03.43,Main,,0,0,0,,they say it's the beginning\Nof the end of the world.
+Dialogue: 0,0:03:06.43,0:03:09.43,Main,,0,0,0,,Here we see the small Central\NAmerican nation Carib
+Dialogue: 0,0:03:10.21,0:03:11.25,Main,,0,0,0,,in upheaval.
+Dialogue: 0,0:03:11.27,0:03:13.25,Main,,0,0,0,,A revolutionary group,\NThe Bloody Vow,
+Dialogue: 0,0:03:13.27,0:03:15.31,Main,,0,0,0,,has toppled the\Nnation's dictatorship.
+Dialogue: 0,0:03:15.33,0:03:18.40,Main,,0,0,0,,The group's leader, Philadel\NKest, is making an appearance.
+Dialogue: 0,0:03:18.42,0:03:22.22,Main,,0,0,0,,Kest is scheduled to address\Nthe UN Headquarters soon,
+Dialogue: 0,0:03:22.24,0:03:24.35,Main,,0,0,0,,where he will likely extol\Nthe virtues of communism
+Dialogue: 0,0:03:24.37,0:03:26.32,Main,,0,0,0,,and declare independence.
+Dialogue: 0,0:03:26.34,0:03:30.37,Main,,0,0,0,,This is Fujiko Mine, reporting\Nto you from Nahava in Carib.
+Dialogue: 0,0:04:08.34,0:04:09.32,Main,,0,0,0,,Politics?
+Dialogue: 0,0:04:09.34,0:04:11.30,Main,,0,0,0,,I'm afraid I'm not interested.
+Dialogue: 0,0:04:11.32,0:04:13.36,Main,,0,0,0,,I heard assassination\Nwas your forte.
+Dialogue: 0,0:04:13.38,0:04:16.28,Main,,0,0,0,,Then you were misinformed.
+Dialogue: 0,0:04:16.30,0:04:19.41,Main,,0,0,0,,No, I don't consider\Nthat a job.
+Dialogue: 0,0:04:19.43,0:04:21.38,Main,,0,0,0,,Okay, then what is it?
+Dialogue: 0,0:04:21.40,0:04:24.27,Main,,0,0,0,,It's just training.
+Dialogue: 0,0:04:24.29,0:04:25.30,Main,,0,0,0,,That woman.
+Dialogue: 0,0:04:25.32,0:04:28.34,Main,,0,0,0,,Ah, Fujiko Mine.
+Dialogue: 0,0:04:28.36,0:04:30.34,Main,,0,0,0,,A Japanese journalist.
+Dialogue: 0,0:04:30.36,0:04:33.32,Main,,0,0,0,,Recently, she's become\Na favorite of Philadel's.
+Dialogue: 0,0:04:33.34,0:04:38.35,Main,,0,0,0,,She's helping us out a bit\Nwith this particular project.
+Dialogue: 0,0:04:38.37,0:04:39.42,Main,,0,0,0,,"Journalist"?
+Dialogue: 0,0:04:40.20,0:04:42.26,Main,,0,0,0,,So, she's still pretending.
+Dialogue: 0,0:04:44.25,0:04:47.40,Main,,0,0,0,,I feel like there's\Nno place for me anywhere.
+Dialogue: 0,0:04:49.28,0:04:50.31,Main,,0,0,0,,Do you know her?
+Dialogue: 0,0:04:50.33,0:04:52.40,Main,,0,0,0,,What is it you want?
+Dialogue: 0,0:04:52.42,0:04:56.24,Main,,0,0,0,,We want it done before his\Nspeech to the United Nations.
+Dialogue: 0,0:05:01.25,0:05:03.40,Main,,0,0,0,,Long time no see,\NMister Samurai.
+Dialogue: 0,0:05:16.41,0:05:20.32,Main,,0,0,0,,This is our golden opportunity,\NMr. General Secretary.
+Dialogue: 0,0:05:20.34,0:05:24.33,Main,,0,0,0,,A nuclear threat in Carib,\Nright in their own backyard.
+Dialogue: 0,0:05:24.35,0:05:26.23,Main,,0,0,0,,They're a new state, still.
+Dialogue: 0,0:05:26.25,0:05:28.27,Main,,0,0,0,,If we want to tie a bell\Naround the leader's neck,
+Dialogue: 0,0:05:28.29,0:05:30.27,Main,,0,0,0,,these first hours are crucial.
+Dialogue: 0,0:05:30.29,0:05:31.43,Main,,0,0,0,,A bell, eh?
+Dialogue: 0,0:05:32.21,0:05:33.28,Main,,0,0,0,,I like it.
+Dialogue: 0,0:05:33.30,0:05:34.40,Main,,0,0,0,,How?
+Dialogue: 0,0:05:34.42,0:05:37.23,Main,,0,0,0,,I have bribed some of\Nthe more volatile men
+Dialogue: 0,0:05:37.25,0:05:39.28,Main,,0,0,0,,from the ousted government.
+Dialogue: 0,0:05:46.21,0:05:48.30,Main,,0,0,0,,The situation is\Ngrave, Mr. President.
+Dialogue: 0,0:05:48.32,0:05:51.40,Main,,0,0,0,,We must act now before the man\Nhas public opinion on his side.
+Dialogue: 0,0:05:51.42,0:05:53.23,Main,,0,0,0,,The revolutionary?
+Dialogue: 0,0:05:53.25,0:05:55.42,Main,,0,0,0,,Ordering the assassination\Nof a foreign leader.
+Dialogue: 0,0:05:56.20,0:05:58.43,Main,,0,0,0,,I don't see how I can agree\Nto something like that.
+Dialogue: 0,0:05:59.21,0:06:02.24,Main,,0,0,0,,Sir, we can't wait for them\Nto make the first move.
+Dialogue: 0,0:06:03.37,0:06:04.40,Main,,0,0,0,,All right.
+Dialogue: 0,0:06:04.42,0:06:07.24,Main,,0,0,0,,Deploy a unit to\NCentral America.
+Dialogue: 0,0:06:22.22,0:06:24.29,Main,,0,0,0,,I'm bound for\Nthe United Nations.
+Dialogue: 0,0:06:24.31,0:06:27.29,Main,,0,0,0,,The time has come to tell the\Nwhole world of our revolution.
+Dialogue: 0,0:06:27.31,0:06:31.25,Main,,0,0,0,,We must learn who shares our\Ngoals and then join with them!
+Dialogue: 0,0:06:39.22,0:06:40.33,Main,,0,0,0,,Princesa!
+Dialogue: 0,0:06:40.35,0:06:42.20,Main,,0,0,0,,Shall we?
+Dialogue: 0,0:06:43.21,0:06:45.26,Main,,0,0,0,,It's like you're a rock star.
+Dialogue: 0,0:07:01.43,0:07:06.24,Main,,0,0,0,,More than anything else,\Nthis job is about timing.
+Dialogue: 0,0:07:06.26,0:07:08.33,Main,,0,0,0,,And you're sure this\Nis what you want to do?
+Dialogue: 0,0:07:08.35,0:07:10.33,Main,,0,0,0,,What are you talking about?
+Dialogue: 0,0:07:10.35,0:07:13.21,Main,,0,0,0,,Uncertainty can kill.
+Dialogue: 0,0:07:13.23,0:07:14.38,Main,,0,0,0,,I'll keep that in mind.
+Dialogue: 0,0:07:14.40,0:07:16.39,Main,,0,0,0,,Thanks for the advice.
+Dialogue: 0,0:07:18.36,0:07:20.38,Main,,0,0,0,,Miss Maria.
+Dialogue: 0,0:07:23.22,0:07:25.29,Main,,0,0,0,,The leader of a revolution must\Nbe willing to give everything
+Dialogue: 0,0:07:25.31,0:07:29.30,Main,,0,0,0,,he can and expect no\Nmaterial reward in return.
+Dialogue: 0,0:07:29.32,0:07:31.33,Main,,0,0,0,,That's what true\Nrevolution looks like.
+Dialogue: 0,0:07:31.35,0:07:34.20,Main,,0,0,0,,The revolutionary\Nas vanguard.
+Dialogue: 0,0:07:34.22,0:07:36.22,Main,,0,0,0,,You're an idealist, then.
+Dialogue: 0,0:07:36.24,0:07:38.41,Main,,0,0,0,,Ideals are what\Ndrive a revolution.
+Dialogue: 0,0:07:38.43,0:07:42.36,Main,,0,0,0,,You were born in South America\Nnot in Carib.
+Dialogue: 0,0:07:42.38,0:07:45.24,Main,,0,0,0,,Why do you fight for\Nyour adopted country?
+Dialogue: 0,0:07:45.26,0:07:47.36,Main,,0,0,0,,Because I made a vow\Nto the people of Carib.
+Dialogue: 0,0:07:47.38,0:07:51.21,Main,,0,0,0,,They accepted me,\Nbelieved in me.
+Dialogue: 0,0:07:51.23,0:07:52.34,Main,,0,0,0,,I fight for honor.
+Dialogue: 0,0:07:52.36,0:07:53.35,Main,,0,0,0,,Goodness!
+Dialogue: 0,0:07:53.37,0:07:55.29,Main,,0,0,0,,Quite a statement.
+Dialogue: 0,0:07:55.31,0:07:57.39,Main,,0,0,0,,You're from Japan, yes?
+Dialogue: 0,0:07:57.41,0:08:01.30,Main,,0,0,0,,Your country also had warriors\Nwho fought for revolution.
+Dialogue: 0,0:08:01.32,0:08:03.20,Main,,0,0,0,,During the bakumatsu?
+Dialogue: 0,0:08:03.22,0:08:04.38,Main,,0,0,0,,You're talking about samurai?
+Dialogue: 0,0:08:04.40,0:08:05.33,Main,,0,0,0,,That's right.
+Dialogue: 0,0:08:05.35,0:08:07.21,Main,,0,0,0,,Samurai.
+Dialogue: 0,0:08:07.23,0:08:08.29,Main,,0,0,0,,That's what we are.
+Dialogue: 0,0:08:10.38,0:08:11.43,Main,,0,0,0,,Sit down!
+Dialogue: 0,0:08:12.21,0:08:15.23,Main,,0,0,0,,We've got questions\Nfor you, too, journalist.
+Dialogue: 0,0:08:15.25,0:08:18.31,Main,,0,0,0,,Today your revolution is\Ngoing to die along with you.
+Dialogue: 0,0:08:18.33,0:08:19.37,Main,,0,0,0,,Let me guess.
+Dialogue: 0,0:08:19.39,0:08:22.23,Main,,0,0,0,,You're members of\Nthe former government?
+Dialogue: 0,0:08:22.25,0:08:23.30,Main,,0,0,0,,This is pointless.
+Dialogue: 0,0:08:23.32,0:08:26.25,Main,,0,0,0,,The revolution will\Nlive on long after me.
+Dialogue: 0,0:08:26.27,0:08:28.35,Main,,0,0,0,,I wouldn't be so cocky\Nif I was you.
+Dialogue: 0,0:08:28.37,0:08:30.25,Main,,0,0,0,,We aren't the only ones\Nwho don't want you
+Dialogue: 0,0:08:30.27,0:08:32.23,Main,,0,0,0,,to address the UN.
+Dialogue: 0,0:08:36.37,0:08:38.41,Main,,0,0,0,,Philadel Kest is our hostage.
+Dialogue: 0,0:08:38.43,0:08:41.31,Main,,0,0,0,,We'll release him on\Nthe following condition.
+Dialogue: 0,0:08:41.33,0:08:45.30,Main,,0,0,0,,We want asylum until our\Ngovernment is restored to power.
+Dialogue: 0,0:08:45.32,0:08:47.23,Main,,0,0,0,,We're running low on fuel here.
+Dialogue: 0,0:08:47.25,0:08:48.40,Main,,0,0,0,,Refuel in the air.
+Dialogue: 0,0:08:48.42,0:08:52.36,Main,,0,0,0,,Or Philadel won't be the only\None getting a watery grave.
+Dialogue: 0,0:08:52.38,0:08:55.36,Main,,0,0,0,,We've been promised asylum\Nin exchange for you.
+Dialogue: 0,0:08:55.38,0:08:59.25,Main,,0,0,0,,Once we get off this plane,\Nour safety is guaranteed.
+Dialogue: 0,0:08:59.27,0:09:01.24,Main,,0,0,0,,You think so?
+Dialogue: 0,0:09:01.26,0:09:04.30,Main,,0,0,0,,These things tend to go wrong.
+Dialogue: 0,0:09:04.32,0:09:06.33,Main,,0,0,0,,How's the operation?
+Dialogue: 0,0:09:06.35,0:09:08.42,Main,,0,0,0,,I've dispatched\Na unit to the scene.
+Dialogue: 0,0:09:09.20,0:09:12.22,Main,,0,0,0,,We don't have intel on the\Nnumber of hijackers just yet.
+Dialogue: 0,0:09:12.24,0:09:13.37,Main,,0,0,0,,We acted recklessly.
+Dialogue: 0,0:09:13.39,0:09:16.30,Main,,0,0,0,,I don't see how\Nthis can end well.
+Dialogue: 0,0:09:37.42,0:09:39.29,Main,,0,0,0,,I apologize.
+Dialogue: 0,0:09:39.31,0:09:42.25,Main,,0,0,0,,Once again, I have dragged you\Ninto my country's struggle.
+Dialogue: 0,0:09:42.27,0:09:44.26,Main,,0,0,0,,I understand.
+Dialogue: 0,0:09:44.28,0:09:45.30,Main,,0,0,0,,It's all right.
+Dialogue: 0,0:09:45.32,0:09:48.21,Main,,0,0,0,,So, where do you think\Nthey're taking us?
+Dialogue: 0,0:09:48.23,0:09:49.27,Main,,0,0,0,,Who knows?
+Dialogue: 0,0:09:49.29,0:09:51.38,Main,,0,0,0,,They're likely backed\Nby a Communist state.
+Dialogue: 0,0:09:51.40,0:09:52.42,Main,,0,0,0,,That right?
+Dialogue: 0,0:09:53.20,0:09:55.26,Main,,0,0,0,,We don't have to\Nexplain ourselves to you.
+Dialogue: 0,0:09:55.28,0:09:56.37,Main,,0,0,0,,Now, tell me.
+Dialogue: 0,0:09:56.39,0:09:58.37,Main,,0,0,0,,What are the coordinates\Nof the oil field?
+Dialogue: 0,0:09:58.39,0:10:02.23,Main,,0,0,0,,I see, so that's it.
+Dialogue: 0,0:10:02.25,0:10:04.23,Main,,0,0,0,,I'd heard the rumors\Nthat the old regime had
+Dialogue: 0,0:10:04.25,0:10:06.39,Main,,0,0,0,,a secret oil field\Non Cariban land.
+Dialogue: 0,0:10:06.41,0:10:08.21,Main,,0,0,0,,They aren't rumors!
+Dialogue: 0,0:10:08.23,0:10:09.30,Main,,0,0,0,,It's true!
+Dialogue: 0,0:10:09.32,0:10:11.26,Main,,0,0,0,,No it isn't.
+Dialogue: 0,0:10:11.28,0:10:14.22,Main,,0,0,0,,It's nothing more than a story\Nthey made up to give themselves
+Dialogue: 0,0:10:14.24,0:10:15.43,Main,,0,0,0,,an edge in the negotiations.
+Dialogue: 0,0:10:16.21,0:10:18.25,Main,,0,0,0,,You're the one\Nmaking things up.
+Dialogue: 0,0:10:18.27,0:10:21.33,Main,,0,0,0,,There is no such\Ntreasure hidden on our land.
+Dialogue: 0,0:10:21.35,0:10:22.39,Main,,0,0,0,,You know what they want?
+Dialogue: 0,0:10:22.41,0:10:25.22,Main,,0,0,0,,To build their missile bases.
+Dialogue: 0,0:10:25.24,0:10:28.38,Main,,0,0,0,,Lie all you want but\Nyou're coming with us.
+Dialogue: 0,0:10:34.43,0:10:36.35,Main,,0,0,0,,Refueling.
+Dialogue: 0,0:10:36.37,0:10:38.24,Main,,0,0,0,,Preparing to attack.
+Dialogue: 0,0:10:39.37,0:10:41.23,Main,,0,0,0,,Wait, what's that?!
+Dialogue: 0,0:10:44.29,0:10:45.25,Main,,0,0,0,,It's them.
+Dialogue: 0,0:10:45.27,0:10:46.30,Main,,0,0,0,,We've got visual\Non the decal.
+Dialogue: 0,0:10:46.32,0:10:48.21,Main,,0,0,0,,That's a Red Star plane.
+Dialogue: 0,0:10:48.23,0:10:49.28,Main,,0,0,0,,So it is.
+Dialogue: 0,0:10:49.30,0:10:50.42,Main,,0,0,0,,We've got company.
+Dialogue: 0,0:10:51.20,0:10:54.27,Main,,0,0,0,,Looks like there are more dogs\Nin this fight than you expected.
+Dialogue: 0,0:10:54.29,0:10:56.41,Main,,0,0,0,,Detecting an unknown craft\Nin our airspace, sir.
+Dialogue: 0,0:10:56.43,0:10:58.40,Main,,0,0,0,,This is no time to negotiate.
+Dialogue: 0,0:10:58.42,0:11:00.40,Main,,0,0,0,,We need to end this!
+Dialogue: 0,0:11:00.42,0:11:03.25,Main,,0,0,0,,You know what the consequences\Nof fighting are.
+Dialogue: 0,0:11:03.27,0:11:07.32,Main,,0,0,0,,A clash between us will mean the\Nbeginning of World War III.
+Dialogue: 0,0:11:07.34,0:11:10.38,Main,,0,0,0,,If they so much as look like\Nthey're going on the offensive,
+Dialogue: 0,0:11:10.40,0:11:12.26,Main,,0,0,0,,attack them!
+Dialogue: 0,0:11:34.39,0:11:38.37,Main,,0,0,0,,Hey, Mister, that's our--\NThat's really him!
+Dialogue: 0,0:11:38.39,0:11:41.33,Main,,0,0,0,,Okay, ready, catch!
+Dialogue: 0,0:11:41.35,0:11:42.42,Main,,0,0,0,,Gracias!
+Dialogue: 0,0:11:45.38,0:11:47.23,Main,,0,0,0,,Looks like fun.
+Dialogue: 0,0:11:47.25,0:11:49.42,Main,,0,0,0,,Yes but it's also serious.
+Dialogue: 0,0:11:50.20,0:11:52.31,Main,,0,0,0,,For them, baseball\Nisn't just a game.
+Dialogue: 0,0:11:52.33,0:11:54.40,Main,,0,0,0,,Carib has baseball and music.
+Dialogue: 0,0:11:54.42,0:11:56.37,Main,,0,0,0,,Those are the only things\Nthat give a kid a shot
+Dialogue: 0,0:11:56.39,0:11:58.36,Main,,0,0,0,,at a better life.
+Dialogue: 0,0:11:58.38,0:12:01.20,Main,,0,0,0,,The world isn't following\Nyour country's revolution
+Dialogue: 0,0:12:01.22,0:12:02.35,Main,,0,0,0,,because of its ideals.
+Dialogue: 0,0:12:02.37,0:12:04.35,Main,,0,0,0,,You have to know that.
+Dialogue: 0,0:12:04.37,0:12:06.38,Main,,0,0,0,,It's the oil field\Nthey care about.
+Dialogue: 0,0:12:06.40,0:12:10.28,Main,,0,0,0,,I know but this\Nis still my fight.
+Dialogue: 0,0:12:10.30,0:12:13.38,Main,,0,0,0,,We do what we must,\Neven if it isn't pretty.
+Dialogue: 0,0:12:13.40,0:12:15.33,Main,,0,0,0,,You know that.
+Dialogue: 0,0:12:15.35,0:12:18.20,Main,,0,0,0,,And, of course, let's not\Nforget the country that's
+Dialogue: 0,0:12:18.22,0:12:20.36,Main,,0,0,0,,supporting you only because\Nthey like the idea of throwing
+Dialogue: 0,0:12:20.38,0:12:23.41,Main,,0,0,0,,a nuclear threat in\Ntheir enemy's face.
+Dialogue: 0,0:12:23.43,0:12:26.27,Main,,0,0,0,,That kind of deterrent\Nis necessary.
+Dialogue: 0,0:12:26.29,0:12:29.22,Main,,0,0,0,,For now, it helps us to\Nremain under their umbrella
+Dialogue: 0,0:12:29.24,0:12:31.37,Main,,0,0,0,,but in time, our revolution\Nwill sweep across the world
+Dialogue: 0,0:12:31.39,0:12:33.35,Main,,0,0,0,,like a great tide.
+Dialogue: 0,0:12:33.37,0:12:37.36,Main,,0,0,0,,South America, Easten Europe,\Nthen Asia, and before long,
+Dialogue: 0,0:12:37.38,0:12:39.28,Main,,0,0,0,,the entire globe.
+Dialogue: 0,0:12:39.30,0:12:43.30,Main,,0,0,0,,I wonder, are you after\Nrevolution or chaos?
+Dialogue: 0,0:12:47.43,0:12:51.35,Main,,0,0,0,,I just want to dance\Nto my own beat.
+Dialogue: 0,0:12:51.37,0:12:53.32,Main,,0,0,0,,That's all.
+Dialogue: 0,0:12:53.34,0:12:57.20,Main,,0,0,0,,I'm so tired of being a puppet\Non a bigger country's strings.
+Dialogue: 0,0:12:58.42,0:13:00.30,Main,,0,0,0,,Philadel?
+Dialogue: 0,0:13:02.36,0:13:05.34,Main,,0,0,0,,Dance with me, Princesa.
+Dialogue: 0,0:13:07.23,0:13:08.41,Main,,0,0,0,,You've got more than\Nenough for your story,
+Dialogue: 0,0:13:08.43,0:13:11.31,Main,,0,0,0,,but you're still with us.\NIs it for the coordinates?
+Dialogue: 0,0:13:11.33,0:13:12.41,Main,,0,0,0,,The oil field?
+Dialogue: 0,0:13:14.41,0:13:17.30,Main,,0,0,0,,What do you want?
+Dialogue: 0,0:13:17.32,0:13:18.38,Main,,0,0,0,,Very well.
+Dialogue: 0,0:13:18.40,0:13:20.40,Main,,0,0,0,,Since you asked, I'll tell you.
+Dialogue: 0,0:13:30.32,0:13:32.26,Main,,0,0,0,,We're in attack formation.
+Dialogue: 0,0:13:32.28,0:13:33.32,Main,,0,0,0,,What the hell are they doing?
+Dialogue: 0,0:13:33.34,0:13:34.28,Main,,0,0,0,,Damn it!
+Dialogue: 0,0:13:34.30,0:13:36.22,Main,,0,0,0,,This wasn't our deal!
+Dialogue: 0,0:13:36.24,0:13:38.31,Main,,0,0,0,,They're starting\Na shootout right here?!
+Dialogue: 0,0:13:38.33,0:13:39.35,Main,,0,0,0,,Looks like it.
+Dialogue: 0,0:13:39.37,0:13:41.37,Main,,0,0,0,,Seems like you guys\Nhave been set up.
+Dialogue: 0,0:13:43.38,0:13:47.36,Main,,0,0,0,,You know, Princesa,\Nthat isn't very ladylike.
+Dialogue: 0,0:13:47.38,0:13:49.30,Main,,0,0,0,,Now, then.
+Dialogue: 0,0:13:49.32,0:13:51.24,Main,,0,0,0,,You asked what I want.
+Dialogue: 0,0:13:53.40,0:13:54.38,Main,,0,0,0,,I'm in place.
+Dialogue: 0,0:13:54.40,0:13:56.35,Main,,0,0,0,,Ready to fire, on your order.
+Dialogue: 0,0:13:57.38,0:14:01.31,Main,,0,0,0,,Let me knock those capitalist\Ndogs clear out of the sky.
+Dialogue: 0,0:14:01.33,0:14:02.41,Main,,0,0,0,,A battle of wills.
+Dialogue: 0,0:14:02.43,0:14:04.28,Main,,0,0,0,,Who fires first?
+Dialogue: 0,0:14:04.30,0:14:05.39,Main,,0,0,0,,Them or us?
+Dialogue: 0,0:14:05.41,0:14:08.40,Main,,0,0,0,,Sir, we need to make\Na preemptive strike.
+Dialogue: 0,0:14:08.42,0:14:11.31,Main,,0,0,0,,The only way we're going\Nto survive this is if
+Dialogue: 0,0:14:11.33,0:14:13.41,Main,,0,0,0,,we take the enemy out first.
+Dialogue: 0,0:14:13.43,0:14:16.22,Main,,0,0,0,,Whoever strikes goes down\Nin history as the one
+Dialogue: 0,0:14:16.24,0:14:18.20,Main,,0,0,0,,who started the\Nthird World War.
+Dialogue: 0,0:14:18.22,0:14:19.29,Main,,0,0,0,,How can we?
+Dialogue: 0,0:14:19.31,0:14:21.41,Main,,0,0,0,,History won't mean much\Nif the human race
+Dialogue: 0,0:14:21.43,0:14:24.26,Main,,0,0,0,,is obliterated, Mr. President.
+Dialogue: 0,0:14:28.21,0:14:29.28,Main,,0,0,0,,Hey, pilot!
+Dialogue: 0,0:14:29.30,0:14:32.30,Main,,0,0,0,,Try making contact\Nwith that fighter jet.
+Dialogue: 0,0:14:32.32,0:14:34.30,Main,,0,0,0,,Okay, but which one?
+Dialogue: 0,0:14:34.32,0:14:36.28,Main,,0,0,0,,I don't care.
+Dialogue: 0,0:14:36.30,0:14:38.34,Main,,0,0,0,,Just stop them\Nfrom attacking us!
+Dialogue: 0,0:14:38.36,0:14:41.28,Main,,0,0,0,,Right, this is our chance.
+Dialogue: 0,0:14:43.28,0:14:47.32,Main,,0,0,0,,What you said before, about\Nthe oil field not being real.
+Dialogue: 0,0:14:47.34,0:14:49.21,Main,,0,0,0,,Were you lying?
+Dialogue: 0,0:14:49.23,0:14:52.21,Main,,0,0,0,,In my UN speech,\NI'll say it doesn't exist.
+Dialogue: 0,0:14:52.23,0:14:56.24,Main,,0,0,0,,That will become reality, and we\Nwon't be dragged into more war.
+Dialogue: 0,0:14:56.26,0:14:57.37,Main,,0,0,0,,How naïve.
+Dialogue: 0,0:14:57.39,0:15:00.21,Main,,0,0,0,,Have you forgotten that whole\Nthing about nuclear missiles
+Dialogue: 0,0:15:00.23,0:15:01.40,Main,,0,0,0,,being stationed in Carib?
+Dialogue: 0,0:15:01.42,0:15:04.29,Main,,0,0,0,,You've already been dragged in.
+Dialogue: 0,0:15:04.31,0:15:06.41,Main,,0,0,0,,That's true but\Nthis staring contest
+Dialogue: 0,0:15:06.43,0:15:09.39,Main,,0,0,0,,between superpowers\Nwill end eventually.
+Dialogue: 0,0:15:11.24,0:15:14.33,Main,,0,0,0,,And, in time, the scars of war\Nburned into our land will fade,
+Dialogue: 0,0:15:14.35,0:15:16.41,Main,,0,0,0,,as well.
+Dialogue: 0,0:15:16.43,0:15:19.34,Main,,0,0,0,,When that happens\Nwhat we'll need is--
+Dialogue: 0,0:15:21.37,0:15:23.20,Main,,0,0,0,,The oil field's--
+Dialogue: 0,0:15:23.22,0:15:23.41,Main,,0,0,0,,Shh!
+Dialogue: 0,0:15:23.43,0:15:24.39,Main,,0,0,0,,That's for you.
+Dialogue: 0,0:15:24.41,0:15:26.34,Main,,0,0,0,,Your exclusive.
+Dialogue: 0,0:15:26.36,0:15:28.31,Main,,0,0,0,,But why me?
+Dialogue: 0,0:15:28.33,0:15:31.31,Main,,0,0,0,,You know, I love to dance\Nand I fell in love
+Dialogue: 0,0:15:31.33,0:15:33.29,Main,,0,0,0,,with the rhythm of Carib.
+Dialogue: 0,0:15:33.31,0:15:37.35,Main,,0,0,0,,Their lovely beaches, delicious\Nrum, and beautiful women.
+Dialogue: 0,0:15:37.37,0:15:40.20,Main,,0,0,0,,What more can a man ask for?
+Dialogue: 0,0:15:40.22,0:15:41.41,Main,,0,0,0,,I don't understand.
+Dialogue: 0,0:15:41.43,0:15:43.31,Main,,0,0,0,,It's okay.
+Dialogue: 0,0:15:43.33,0:15:45.40,Main,,0,0,0,,Someone should know\NCarib's secret.
+Dialogue: 0,0:15:45.42,0:15:47.35,Main,,0,0,0,,I don't know who it is\Nyou're working for,
+Dialogue: 0,0:15:47.37,0:15:50.26,Main,,0,0,0,,but better you than\Nthe nuclear powers.
+Dialogue: 0,0:15:50.28,0:15:53.25,Main,,0,0,0,,Even if you're\Nnot a journalist.
+Dialogue: 0,0:15:53.27,0:15:54.37,Main,,0,0,0,,How long have you--?
+Dialogue: 0,0:15:54.39,0:15:56.33,Main,,0,0,0,,Since the day we met.
+Dialogue: 0,0:15:56.35,0:15:58.41,Main,,0,0,0,,You could have been\Nkilled saving me.
+Dialogue: 0,0:16:00.28,0:16:02.28,Main,,0,0,0,,I couldn't help myself.
+Dialogue: 0,0:16:02.30,0:16:03.42,Main,,0,0,0,,You were too beautiful.
+Dialogue: 0,0:16:04.20,0:16:05.41,Main,,0,0,0,,Philadel.
+Dialogue: 0,0:16:05.43,0:16:07.42,Main,,0,0,0,,We don't want to become\Nthe trigger for the next war
+Dialogue: 0,0:16:08.20,0:16:09.38,Main,,0,0,0,,that tears the world apart.
+Dialogue: 0,0:16:11.26,0:16:14.30,Main,,0,0,0,,Whatever we do, they still\Nmight pull the trigger.
+Dialogue: 0,0:16:16.26,0:16:17.35,Main,,0,0,0,,Affirmative!
+Dialogue: 0,0:16:21.26,0:16:23.24,Main,,0,0,0,,The first move is ours.
+Dialogue: 0,0:16:26.34,0:16:28.22,Main,,0,0,0,,Missiles launched!
+Dialogue: 0,0:16:29.37,0:16:31.31,Main,,0,0,0,,I just heard word,\Nwe're under fire!
+Dialogue: 0,0:16:31.33,0:16:32.39,Main,,0,0,0,,They've fired?
+Dialogue: 0,0:16:32.41,0:16:34.21,Main,,0,0,0,,Missiles launched!
+Dialogue: 0,0:16:34.23,0:16:36.25,Main,,0,0,0,,We've struck first.
+Dialogue: 0,0:16:36.27,0:16:37.22,Main,,0,0,0,,They fired?!
+Dialogue: 0,0:16:37.24,0:16:38.42,Main,,0,0,0,,It's the end of the world!
+Dialogue: 0,0:16:45.39,0:16:46.37,Main,,0,0,0,,Hold on.
+Dialogue: 0,0:16:46.39,0:16:48.43,Main,,0,0,0,,Is that a samurai?!
+Dialogue: 0,0:17:00.42,0:17:03.31,Main,,0,0,0,,A samurai took out\Nour missiles.
+Dialogue: 0,0:17:05.22,0:17:08.31,Main,,0,0,0,,Uh, Command.\NI think I just saw a samurai.
+Dialogue: 0,0:17:11.30,0:17:13.41,Main,,0,0,0,,What? Have we been saved?
+Dialogue: 0,0:17:13.43,0:17:14.43,Main,,0,0,0,,But why?
+Dialogue: 0,0:17:15.21,0:17:16.32,Main,,0,0,0,,And by whom?
+Dialogue: 0,0:17:19.43,0:17:22.21,Main,,0,0,0,,He's right on time.
+Dialogue: 0,0:17:22.23,0:17:25.34,Main,,0,0,0,,Though this wasn't exactly\Nthe original plan.
+Dialogue: 0,0:17:25.36,0:17:27.41,Main,,0,0,0,,What the hell is that?
+Dialogue: 0,0:17:29.21,0:17:30.39,Main,,0,0,0,,A samurai friend of mine.
+Dialogue: 0,0:17:30.41,0:17:32.31,Main,,0,0,0,,I asked him to come get us.
+Dialogue: 0,0:17:32.33,0:17:33.39,Main,,0,0,0,,Shall we?
+Dialogue: 0,0:17:33.41,0:17:36.24,Main,,0,0,0,,Sir, the incoming missiles\Nhave been neutralized!
+Dialogue: 0,0:17:36.26,0:17:37.37,Main,,0,0,0,,What are you tell me?
+Dialogue: 0,0:17:37.39,0:17:41.34,Main,,0,0,0,,I'm saying, that for the moment,\Nwe've avoided World War III.
+Dialogue: 0,0:17:41.36,0:17:44.24,Main,,0,0,0,,Our missiles were\Ndestroyed before they hit!
+Dialogue: 0,0:17:44.26,0:17:44.41,Main,,0,0,0,,No.
+Dialogue: 0,0:17:44.43,0:17:46.36,Main,,0,0,0,,Not our missiles.
+Dialogue: 0,0:17:46.38,0:17:47.38,Main,,0,0,0,,You acted alone.
+Dialogue: 0,0:17:47.40,0:17:48.32,Main,,0,0,0,,What?
+Dialogue: 0,0:17:48.34,0:17:49.36,Main,,0,0,0,,No, sir, please--
+Dialogue: 0,0:17:49.38,0:17:52.24,Main,,0,0,0,,I won't be exiled for this!
+Dialogue: 0,0:17:54.43,0:17:55.41,Main,,0,0,0,,Come on.
+Dialogue: 0,0:17:55.43,0:17:57.35,Main,,0,0,0,,Where are you planning to go?
+Dialogue: 0,0:17:57.37,0:18:00.22,Main,,0,0,0,,You're not getting away!
+Dialogue: 0,0:18:00.24,0:18:02.32,Main,,0,0,0,,By all means,\Ngo ahead and shoot.
+Dialogue: 0,0:18:02.34,0:18:03.28,Main,,0,0,0,,Huh?
+Dialogue: 0,0:18:03.30,0:18:05.21,Main,,0,0,0,,What're you talking about?
+Dialogue: 0,0:18:05.23,0:18:07.29,Main,,0,0,0,,You would become a pawn for\Npeople who barely even know
+Dialogue: 0,0:18:07.31,0:18:10.28,Main,,0,0,0,,the name of your country,\Nlet alone your name?
+Dialogue: 0,0:18:10.30,0:18:11.35,Main,,0,0,0,,That's real smart.
+Dialogue: 0,0:18:11.37,0:18:13.24,Main,,0,0,0,,Silence!
+Dialogue: 0,0:18:13.26,0:18:15.35,Main,,0,0,0,,What we do today will\Ngo down in history!
+Dialogue: 0,0:18:15.37,0:18:18.32,Main,,0,0,0,,We're changing the world,\Nright here and now!
+Dialogue: 0,0:18:18.34,0:18:21.23,Main,,0,0,0,,So, you think\Nyou're rock stars, huh?
+Dialogue: 0,0:18:21.25,0:18:23.20,Main,,0,0,0,,Yeah, welcome to\Nthe real world.
+Dialogue: 0,0:18:23.22,0:18:24.28,Main,,0,0,0,,This isn't some game.
+Dialogue: 0,0:18:24.30,0:18:26.31,Main,,0,0,0,,I just have to kill\NPhiladel Kest.
+Dialogue: 0,0:18:26.33,0:18:29.30,Main,,0,0,0,,The whole world will\Nremember my name!
+Dialogue: 0,0:18:29.32,0:18:32.27,Main,,0,0,0,,In that case, why not\Njust kill the Beatles?
+Dialogue: 0,0:18:32.29,0:18:34.22,Main,,0,0,0,,Shut up!
+Dialogue: 0,0:18:34.24,0:18:35.35,Main,,0,0,0,,Please, no rock.
+Dialogue: 0,0:18:35.37,0:18:38.29,Main,,0,0,0,,I like something with\Na little more rhythm to it.
+Dialogue: 0,0:18:40.38,0:18:43.29,Main,,0,0,0,,Sorry, you'll have\Nto wait for the rum.
+Dialogue: 0,0:18:47.33,0:18:49.24,Main,,0,0,0,,That's our ride, comrade.
+Dialogue: 0,0:18:49.26,0:18:50.39,Main,,0,0,0,,Shall we?
+Dialogue: 0,0:18:50.41,0:18:52.40,Main,,0,0,0,,A samurai.
+Dialogue: 0,0:19:08.41,0:19:12.24,Main,,0,0,0,,Moments ago we witnessed\Nthe arrival of Philadel Kest,
+Dialogue: 0,0:19:12.26,0:19:14.30,Main,,0,0,0,,the man who led the\Noverthrow of the dictator
+Dialogue: 0,0:19:14.32,0:19:17.35,Main,,0,0,0,,in the small Central\NAmerican nation of Carib.
+Dialogue: 0,0:19:20.32,0:19:24.26,Main,,0,0,0,,Comrade Philadel,\Neveryone is waiting for you.
+Dialogue: 0,0:19:24.28,0:19:26.28,Main,,0,0,0,,Just listen to them\Ncheering, sir!
+Dialogue: 0,0:19:26.30,0:19:27.31,Main,,0,0,0,,Indeed.
+Dialogue: 0,0:19:27.33,0:19:29.25,Main,,0,0,0,,Like I'm a rock star.
+Dialogue: 0,0:19:29.27,0:19:30.22,Main,,0,0,0,,Yes.
+Dialogue: 0,0:19:30.24,0:19:32.37,Main,,0,0,0,,This will be an historic day.
+Dialogue: 0,0:19:40.39,0:19:43.31,Main,,0,0,0,,But please, no rock.
+Dialogue: 0,0:19:46.27,0:19:49.26,Main,,0,0,0,,In his address to the UN,\NComrade Philadel shockingly
+Dialogue: 0,0:19:49.28,0:19:52.26,Main,,0,0,0,,revealed that claims that the\Nprevious regime was concealing
+Dialogue: 0,0:19:52.28,0:19:55.43,Main,,0,0,0,,the location of an oil field\Nwere entirely fictitious.
+Dialogue: 0,0:19:57.41,0:20:00.31,Main,,0,0,0,,Why didn't you carry out\Nthe assassination?
+Dialogue: 0,0:20:00.33,0:20:02.27,Main,,0,0,0,,Did you get cold feet?
+Dialogue: 0,0:20:02.29,0:20:05.43,Main,,0,0,0,,Hey, would you rub oil\Non my back?
+Dialogue: 0,0:20:11.35,0:20:13.43,Main,,0,0,0,,Are you planning\Nto go straight?
+Dialogue: 0,0:20:15.36,0:20:19.27,Main,,0,0,0,,You didn't complete the job\Nbut you did carry out justice.
+Dialogue: 0,0:20:19.29,0:20:21.34,Main,,0,0,0,,In that sense, I suppose\Nit would be a fitting way
+Dialogue: 0,0:20:21.36,0:20:24.25,Main,,0,0,0,,to end your career.
+Dialogue: 0,0:20:24.27,0:20:26.37,Main,,0,0,0,,I have no intention\Nof going straight.
+Dialogue: 0,0:20:26.39,0:20:27.34,Main,,0,0,0,,What?
+Dialogue: 0,0:20:27.36,0:20:29.37,Main,,0,0,0,,Then why didn't you kill him?
+Dialogue: 0,0:20:29.39,0:20:33.33,Main,,0,0,0,,My true goal was always\Nthe oil field's location.
+Dialogue: 0,0:20:33.35,0:20:36.37,Main,,0,0,0,,So that's what you\Nreally wanted all along?
+Dialogue: 0,0:20:36.39,0:20:39.32,Main,,0,0,0,,What I really wanted, well.
+Dialogue: 0,0:20:41.26,0:20:42.37,Main,,0,0,0,,Never mind.
+Dialogue: 0,0:20:46.38,0:20:48.38,Main,,0,0,0,,I checked out the coordinates.
+Dialogue: 0,0:20:48.40,0:20:50.38,Main,,0,0,0,,So where is the oil field?
+Dialogue: 0,0:20:50.40,0:20:52.41,Main,,0,0,0,,Right here.
+Dialogue: 0,0:20:52.43,0:20:55.26,Main,,0,0,0,,It's like the Comrade\Nsaid: an oil field is not
+Dialogue: 0,0:20:55.28,0:20:57.22,Main,,0,0,0,,what the country most needs.
+Dialogue: 0,0:20:57.24,0:20:58.24,Main,,0,0,0,,This is.
+Dialogue: 0,0:20:59.37,0:21:00.37,Main,,0,0,0,,I see.
+Dialogue: 0,0:21:00.39,0:21:02.28,Main,,0,0,0,,What about you?
+Dialogue: 0,0:21:03.39,0:21:06.33,Main,,0,0,0,,You said before that there\Nis nowhere you belong.
+Dialogue: 0,0:21:06.35,0:21:08.28,Main,,0,0,0,,Has that changed now?
+Dialogue: 0,0:21:09.43,0:21:11.33,Main,,0,0,0,,Do you love him?
+Dialogue: 0,0:21:11.35,0:21:15.28,Main,,0,0,0,,Rock stars really aren't\Nmy kind of thing.
+Dialogue: 0,0:21:15.30,0:21:16.36,Main,,0,0,0,,Who is?
+Dialogue: 0,0:21:16.38,0:21:17.35,Main,,0,0,0,,Maria!
+Dialogue: 0,0:21:17.37,0:21:19.26,Main,,0,0,0,,I'm not Maria.
+Dialogue: 0,0:21:19.28,0:21:23.42,Main,,0,0,0,,The name is Fujiko Mine,\NMister Samurai.
+Dialogue: 0,0:21:24.20,0:21:25.34,Main,,0,0,0,,See you around.
+Dialogue: 0,0:21:27.29,0:21:29.31,Main,,0,0,0,,Bye, Fujiko.

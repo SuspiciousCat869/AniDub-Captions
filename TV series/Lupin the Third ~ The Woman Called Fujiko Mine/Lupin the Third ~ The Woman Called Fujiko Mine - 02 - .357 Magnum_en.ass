@@ -1,0 +1,353 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+Title: English Uncut (English Closed Captions, FUNimation)
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,HelveticaNeue LT 65 Medium,47,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,133,133,30,1
+Style: MainTop,HelveticaNeue LT 65 Medium,47,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,133,133,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.27,0:00:10.31,Main,,0,0,0,,Cease what you are\Ndoing and gaze at me.
+Dialogue: 0,0:00:10.33,0:00:14.24,Main,,0,0,0,,Stop everything, save for\Nthe thrumming of your heart.
+Dialogue: 0,0:00:14.26,0:00:17.29,Main,,0,0,0,,Theft. It is an\Nespecially sweet vice,
+Dialogue: 0,0:00:17.31,0:00:19.21,Main,,0,0,0,,more elegant than vandalism
+Dialogue: 0,0:00:19.23,0:00:21.42,Main,,0,0,0,,and more complex\Nthan simple robbery.
+Dialogue: 0,0:00:22.20,0:00:25.41,Main,,0,0,0,,A beautiful blend of secrets\Nand crime and mischief and fear.
+Dialogue: 0,0:00:25.43,0:00:27.36,Main,,0,0,0,,Like dear Heathcliff,
+Dialogue: 0,0:00:27.38,0:00:30.35,Main,,0,0,0,,I am defined by my\Nall-consuming passion.
+Dialogue: 0,0:00:30.37,0:00:33.27,Main,,0,0,0,,Stealing is my greatest\Ncarnal pleasure,
+Dialogue: 0,0:00:33.29,0:00:35.38,Main,,0,0,0,,a pleasure for which\NI will risk my life,
+Dialogue: 0,0:00:35.40,0:00:38.34,Main,,0,0,0,,a sexy prison from\Nwhich there is no escape.
+Dialogue: 0,0:00:38.36,0:00:41.34,Main,,0,0,0,,Why am I this way?\NWho can know?
+Dialogue: 0,0:00:41.36,0:00:44.27,Main,,0,0,0,,Who is the slave and\Nwho's the master?
+Dialogue: 0,0:00:44.29,0:00:47.22,Main,,0,0,0,,Do divine eyes fall\Nupon me any longer,
+Dialogue: 0,0:00:47.24,0:00:48.40,Main,,0,0,0,,or have the given up?
+Dialogue: 0,0:00:48.42,0:00:51.40,Main,,0,0,0,,The rush of a theft\Nallows me to forget all,
+Dialogue: 0,0:00:51.42,0:00:55.20,Main,,0,0,0,,and yet to distantly\Nremember all, as well.
+Dialogue: 0,0:00:59.30,0:01:03.26,Main,,0,0,0,,Run and speak not.\NHide and run not.
+Dialogue: 0,0:01:03.28,0:01:05.35,Main,,0,0,0,,When you've found\Nme, punish me.
+Dialogue: 0,0:01:05.37,0:01:09.32,Main,,0,0,0,,When you've punished\Nme, kill me. Save me.
+Dialogue: 0,0:01:11.25,0:01:15.27,Main,,0,0,0,,Little boy, there is nothing\Nleft to steal from you.
+Dialogue: 0,0:01:15.29,0:01:21.22,Main,,0,0,0,,You have long been an\Nempty shell. Just as I have.
+Dialogue: 0,0:01:21.24,0:01:25.21,Main,,0,0,0,,And so, if you would gaze at\Nme, cease what you are doing.
+Dialogue: 0,0:01:25.23,0:01:29.41,Main,,0,0,0,,Stop everything save for the\Nthrumming of your heart.
+Dialogue: 0,0:02:06.39,0:02:09.23,Main,,0,0,0,,They say everyone\Ngets lucky once in a while.
+Dialogue: 0,0:02:10.40,0:02:14.32,Main,,0,0,0,,Every gambler knows\Nthe touch of fortune's smile.
+Dialogue: 0,0:02:14.34,0:02:17.30,Main,,0,0,0,,Perhaps today\Nwill be your lucky day.
+Dialogue: 0,0:02:17.32,0:02:18.38,Main,,0,0,0,,But who can know?
+Dialogue: 0,0:02:18.40,0:02:21.34,Main,,0,0,0,,They also say\NFortune's a fickle lady.
+Dialogue: 0,0:02:21.36,0:02:23.41,Main,,0,0,0,,Then why don't we\Nput it to the test?
+Dialogue: 0,0:02:25.25,0:02:29.33,Main,,0,0,0,,I'm sure you must be growing\Nbored with such low stakes.
+Dialogue: 0,0:02:29.35,0:02:31.20,Main,,0,0,0,,I appreciate it.
+Dialogue: 0,0:02:31.22,0:02:33.29,Main,,0,0,0,,Things were getting a bit dull.
+Dialogue: 0,0:02:33.31,0:02:35.20,Main,,0,0,0,,Excellent.
+Dialogue: 0,0:02:35.22,0:02:38.24,Main,,0,0,0,,In that case, I wager\Nthe whole casino.
+Dialogue: 0,0:02:39.21,0:02:40.34,Main,,0,0,0,,Quite a wager.
+Dialogue: 0,0:02:40.36,0:02:43.27,Main,,0,0,0,,Well, it's entirely\Nmine to bet.
+Dialogue: 0,0:02:43.29,0:02:46.22,Main,,0,0,0,,I own the place, you see.
+Dialogue: 0,0:02:46.24,0:02:47.31,Main,,0,0,0,,Indeed?
+Dialogue: 0,0:02:47.33,0:02:49.43,Main,,0,0,0,,Unfortunately, I don't have\Nanything of equal value
+Dialogue: 0,0:02:50.21,0:02:51.26,Main,,0,0,0,,to put up.
+Dialogue: 0,0:02:51.28,0:02:53.23,Main,,0,0,0,,You do, though.
+Dialogue: 0,0:02:53.25,0:02:55.35,Main,,0,0,0,,Bet your lovely self.
+Dialogue: 0,0:02:55.37,0:02:59.31,Main,,0,0,0,,I'd say your beauty is equal\Nthe worth of my casino.
+Dialogue: 0,0:02:59.33,0:03:01.30,Main,,0,0,0,,Bet myself?
+Dialogue: 0,0:03:01.32,0:03:03.40,Main,,0,0,0,,That's dangerous.
+Dialogue: 0,0:03:03.42,0:03:05.32,Main,,0,0,0,,And intriguing.
+Dialogue: 0,0:03:05.34,0:03:07.20,Main,,0,0,0,,Count me in.
+Dialogue: 0,0:03:45.27,0:03:47.38,Main,,0,0,0,,You have an incredible body.
+Dialogue: 0,0:03:47.40,0:03:51.33,Main,,0,0,0,,I can see why all men--and some\Nwomen, even-- are so easily
+Dialogue: 0,0:03:51.35,0:03:53.37,Main,,0,0,0,,wrapped around\Nyour little finger.
+Dialogue: 0,0:03:53.39,0:03:55.32,Main,,0,0,0,,Fujiko Mine.
+Dialogue: 0,0:03:55.34,0:03:58.40,Main,,0,0,0,,Ah, so you know who I am, then.
+Dialogue: 0,0:03:58.42,0:04:01.38,Main,,0,0,0,,I had you looked\Ninto, naturally.
+Dialogue: 0,0:04:01.40,0:04:06.36,Main,,0,0,0,,Seductress, thief, spy.\NYou wear many hats
+Dialogue: 0,0:04:06.38,0:04:10.42,Main,,0,0,0,,and yet your true identity\Nis shrouded in mystery.
+Dialogue: 0,0:04:11.20,0:04:14.26,Main,,0,0,0,,And now your future\Nis in my hands.
+Dialogue: 0,0:04:14.28,0:04:20.22,Main,,0,0,0,,I could kill you or let you live\Nor give you a living death.
+Dialogue: 0,0:04:20.24,0:04:21.30,Main,,0,0,0,,You are mine.
+Dialogue: 0,0:04:21.32,0:04:24.29,Main,,0,0,0,,However, I am not\Na woman without mercy.
+Dialogue: 0,0:04:24.31,0:04:27.29,Main,,0,0,0,,Do two things for me,\Nand I shall set you free.
+Dialogue: 0,0:04:27.31,0:04:28.41,Main,,0,0,0,,Is that so?
+Dialogue: 0,0:04:28.43,0:04:30.29,Main,,0,0,0,,Yes.
+Dialogue: 0,0:04:30.31,0:04:34.22,Main,,0,0,0,,First I would like you to steal\Na gun from a certain man.
+Dialogue: 0,0:04:34.24,0:04:38.43,Main,,0,0,0,,And second, I want you to\Nsee this through to the end.
+Dialogue: 0,0:04:39.21,0:04:41.25,Main,,0,0,0,,Penne, get the car.
+Dialogue: 0,0:04:44.31,0:04:47.23,Main,,0,0,0,,This town is Borgata territory.
+Dialogue: 0,0:04:47.25,0:04:49.35,Main,,0,0,0,,Has been for a long time.
+Dialogue: 0,0:04:49.37,0:04:51.42,Main,,0,0,0,,But the old boss got\Nwhacked a while ago,
+Dialogue: 0,0:04:52.20,0:04:55.22,Main,,0,0,0,,and his wife Ciccolina\Ntook over the business.
+Dialogue: 0,0:04:55.24,0:04:56.28,Main,,0,0,0,,It's been dicey.
+Dialogue: 0,0:04:56.30,0:04:59.34,Main,,0,0,0,,The Chinese Mob's been\Ngaining a lotta power.
+Dialogue: 0,0:04:59.36,0:05:01.43,Main,,0,0,0,,And it doesn't help any that\Nthe guy who iced the boss
+Dialogue: 0,0:05:02.21,0:05:04.20,Main,,0,0,0,,went over to the other side.
+Dialogue: 0,0:05:04.22,0:05:06.21,Main,,0,0,0,,You mean Daisuke Jigen?
+Dialogue: 0,0:05:06.23,0:05:07.33,Main,,0,0,0,,Yes.
+Dialogue: 0,0:05:07.35,0:05:11.30,Main,,0,0,0,,He has a three-fifty-seven\NMagnum that I want you to steal.
+Dialogue: 0,0:05:11.32,0:05:13.26,Main,,0,0,0,,What's he like?
+Dialogue: 0,0:05:13.28,0:05:15.24,Main,,0,0,0,,A quick draw for one thing.
+Dialogue: 0,0:05:15.26,0:05:17.35,Main,,0,0,0,,And the best\Nbodyguard out there.
+Dialogue: 0,0:05:17.37,0:05:22.22,Main,,0,0,0,,Likely one of the most dangerous\Nmen you will ever come across.
+Dialogue: 0,0:05:22.24,0:05:25.35,Main,,0,0,0,,And you want me to steal\Na gun from somebody like that?
+Dialogue: 0,0:05:25.37,0:05:28.21,Main,,0,0,0,,Don't worry,\Nyou have an advantage.
+Dialogue: 0,0:05:28.23,0:05:30.23,Main,,0,0,0,,He has one weakness.
+Dialogue: 0,0:05:30.25,0:05:32.27,Main,,0,0,0,,Women frighten him.
+Dialogue: 0,0:05:32.29,0:05:34.25,Main,,0,0,0,,That Magnum's his baby.
+Dialogue: 0,0:05:34.27,0:05:37.42,Main,,0,0,0,,He values it at least\Nas much as his own life.
+Dialogue: 0,0:05:38.20,0:05:43.29,Main,,0,0,0,,If we take it, he's sure\Nto come here and get it back.
+Dialogue: 0,0:05:43.31,0:05:47.37,Main,,0,0,0,,And then, I'll kill the man\Nwho murdered my husband
+Dialogue: 0,0:05:47.39,0:05:49.38,Main,,0,0,0,,and defected to the enemy.
+Dialogue: 0,0:05:49.40,0:05:51.43,Main,,0,0,0,,With my own hands.
+Dialogue: 0,0:05:54.30,0:05:56.29,Main,,0,0,0,,I forgot to tell you my name.
+Dialogue: 0,0:05:56.31,0:05:57.34,Main,,0,0,0,,Ciccolina.
+Dialogue: 0,0:05:57.36,0:05:59.32,Main,,0,0,0,,It's nice to meet you.
+Dialogue: 0,0:06:01.41,0:06:05.32,Main,,0,0,0,,All right, then, where\Nexactly are you taking me?
+Dialogue: 0,0:06:05.34,0:06:07.34,Main,,0,0,0,,We're going to\Nthe audition hall.
+Dialogue: 0,0:06:07.36,0:06:08.40,Main,,0,0,0,,"Audition"?
+Dialogue: 0,0:06:08.42,0:06:10.23,Main,,0,0,0,,Yep.
+Dialogue: 0,0:06:10.25,0:06:12.37,Main,,0,0,0,,Lin Chin-Chin is in\Nthe market for a mistress.
+Dialogue: 0,0:06:41.39,0:06:42.29,Main,,0,0,0,,Hey!
+Dialogue: 0,0:06:42.31,0:06:43.42,Main,,0,0,0,,Bodyguard guy!
+Dialogue: 0,0:06:44.20,0:06:46.36,Main,,0,0,0,,This is my new woman,\NFujiko Mine.
+Dialogue: 0,0:06:46.38,0:06:49.26,Main,,0,0,0,,I want you to take\Ngood care of her.
+Dialogue: 0,0:06:49.28,0:06:50.28,Main,,0,0,0,,Good afternoon.
+Dialogue: 0,0:06:50.30,0:06:52.32,Main,,0,0,0,,It's nice to meet you.
+Dialogue: 0,0:06:52.34,0:06:55.34,Main,,0,0,0,,Baby-sitting little girls isn't\Npart of my job description.
+Dialogue: 0,0:06:55.36,0:06:56.32,Main,,0,0,0,,Sorry.
+Dialogue: 0,0:06:56.34,0:06:57.37,Main,,0,0,0,,That's where you're wrong.
+Dialogue: 0,0:06:57.39,0:06:59.32,Main,,0,0,0,,Your job is to\Nprotect what's mine,
+Dialogue: 0,0:06:59.34,0:07:01.28,Main,,0,0,0,,and I expect you to do that.
+Dialogue: 0,0:07:30.27,0:07:31.37,Main,,0,0,0,,Come in!
+Dialogue: 0,0:07:38.33,0:07:40.22,Main,,0,0,0,,I was afraid you wouldn't come.
+Dialogue: 0,0:07:40.24,0:07:42.40,Main,,0,0,0,,But I'm so glad you did.
+Dialogue: 0,0:07:42.42,0:07:44.21,Main,,0,0,0,,Where's the boss?
+Dialogue: 0,0:07:44.23,0:07:45.25,Main,,0,0,0,,He went out.
+Dialogue: 0,0:07:45.27,0:07:47.40,Main,,0,0,0,,It could be a while\Nbefore he gets back.
+Dialogue: 0,0:07:47.42,0:07:49.31,Main,,0,0,0,,Don't go!
+Dialogue: 0,0:07:49.33,0:07:50.43,Main,,0,0,0,,Come on.
+Dialogue: 0,0:07:51.21,0:07:54.20,Main,,0,0,0,,Let's have some fun, I knew\NI wanted you from the moment
+Dialogue: 0,0:07:54.22,0:07:56.20,Main,,0,0,0,,I laid eyes on you.
+Dialogue: 0,0:07:56.22,0:07:58.28,Main,,0,0,0,,Thanks for the offer,\Nbut I think I'm gonna pass.
+Dialogue: 0,0:07:58.30,0:07:59.23,Main,,0,0,0,,Oh?
+Dialogue: 0,0:07:59.25,0:08:01.23,Main,,0,0,0,,Loyal to the boss?
+Dialogue: 0,0:08:01.25,0:08:03.28,Main,,0,0,0,,Or are you just spineless?
+Dialogue: 0,0:08:03.30,0:08:04.27,Main,,0,0,0,,Neither.
+Dialogue: 0,0:08:04.29,0:08:05.35,Main,,0,0,0,,I just hate women.
+Dialogue: 0,0:08:05.37,0:08:07.25,Main,,0,0,0,,Oh, no!
+Dialogue: 0,0:08:07.27,0:08:09.21,Main,,0,0,0,,That can't be true!
+Dialogue: 0,0:08:09.23,0:08:11.37,Main,,0,0,0,,Surely you don't hate all of us.
+Dialogue: 0,0:08:11.39,0:08:14.26,Main,,0,0,0,,What, do you want me\Nto beg or something?
+Dialogue: 0,0:08:15.20,0:08:16.24,Main,,0,0,0,,Huh?
+Dialogue: 0,0:08:32.32,0:08:35.40,Main,,0,0,0,,The boss has got more than\Nhis fair share of enemies.
+Dialogue: 0,0:08:35.42,0:08:39.43,Main,,0,0,0,,Including some who would play\N"mistress" to get close to him.
+Dialogue: 0,0:08:40.21,0:08:42.36,Main,,0,0,0,,And some who would\Nbe happy to kill me.
+Dialogue: 0,0:09:02.23,0:09:03.32,Main,,0,0,0,,Some tea?
+Dialogue: 0,0:09:06.24,0:09:07.39,Main,,0,0,0,,Oh, fine.
+Dialogue: 0,0:09:07.41,0:09:11.31,Main,,0,0,0,,You go through life suspecting\Neverybody who gets close to you.
+Dialogue: 0,0:09:11.33,0:09:13.31,Main,,0,0,0,,Doesn't that get\Na little lonely?
+Dialogue: 0,0:09:15.40,0:09:20.43,Main,,0,0,0,,Oh, I see, you've been\Nburned before, haven't you?
+Dialogue: 0,0:09:21.21,0:09:24.42,Main,,0,0,0,,A bodyguard who's not suspicious\Nisn't doing the job right.
+Dialogue: 0,0:09:25.20,0:09:26.29,Main,,0,0,0,,Very well then.
+Dialogue: 0,0:09:26.31,0:09:29.23,Main,,0,0,0,,I can see how\Ntrust is a liability.
+Dialogue: 0,0:09:29.25,0:09:31.37,Main,,0,0,0,,At least in your line of work.
+Dialogue: 0,0:09:31.39,0:09:35.21,Main,,0,0,0,,Still, your suspicions\Nof me are silly.
+Dialogue: 0,0:09:35.23,0:09:37.39,Main,,0,0,0,,I carry a knife\Nfor protection, that's all.
+Dialogue: 0,0:09:37.41,0:09:40.34,Main,,0,0,0,,Though right now, I'm unarmed.
+Dialogue: 0,0:09:44.30,0:09:45.33,Main,,0,0,0,,Hold on.
+Dialogue: 0,0:09:45.35,0:09:47.38,Main,,0,0,0,,Guarding me is\Npart of your job, isn't it?
+Dialogue: 0,0:09:47.40,0:09:50.29,Main,,0,0,0,,How can you do that\Nif you're not with me?
+Dialogue: 0,0:09:53.39,0:09:56.39,Main,,0,0,0,,I knew I could appeal\Nto your sense of duty.
+Dialogue: 0,0:09:56.41,0:09:59.28,Main,,0,0,0,,Yeah, well, I'm an\Nold fashioned man.
+Dialogue: 0,0:09:59.30,0:10:01.28,Main,,0,0,0,,Oh really?
+Dialogue: 0,0:10:01.30,0:10:04.21,Main,,0,0,0,,So then what was it that led\Nyou to kill your former boss
+Dialogue: 0,0:10:04.23,0:10:06.32,Main,,0,0,0,,and take a job with\Nthe rival family?
+Dialogue: 0,0:10:08.33,0:10:09.36,Main,,0,0,0,,Was it money?
+Dialogue: 0,0:10:09.38,0:10:13.33,Main,,0,0,0,,Or perhaps was it a woman?
+Dialogue: 0,0:10:13.35,0:10:16.32,Main,,0,0,0,,My past is none of\Nyour business, lady.
+Dialogue: 0,0:10:18.41,0:10:20.35,Main,,0,0,0,,Daisuke Jigen.
+Dialogue: 0,0:10:20.37,0:10:22.31,Main,,0,0,0,,I heard the rumors about you.
+Dialogue: 0,0:10:22.33,0:10:25.29,Main,,0,0,0,,Everyone says you're\Na damn good shot.
+Dialogue: 0,0:10:25.31,0:10:28.33,Main,,0,0,0,,Why don't you give us\Na little demonstration?
+Dialogue: 0,0:10:34.29,0:10:36.24,Main,,0,0,0,,William Tell, huh?
+Dialogue: 0,0:10:36.26,0:10:38.30,Main,,0,0,0,,Talk about a stunt\Nthat's overdone.
+Dialogue: 0,0:10:55.35,0:10:57.39,Main,,0,0,0,,I think I'm going\Nto like this one.
+Dialogue: 0,0:11:04.38,0:11:05.38,Main,,0,0,0,,Hey!
+Dialogue: 0,0:11:05.40,0:11:07.22,Main,,0,0,0,,Wake up!
+Dialogue: 0,0:11:07.24,0:11:08.28,Main,,0,0,0,,Hey!
+Dialogue: 0,0:11:11.40,0:11:13.20,Main,,0,0,0,,Call a doctor.
+Dialogue: 0,0:11:13.22,0:11:14.27,Main,,0,0,0,,Yessir!
+Dialogue: 0,0:11:15.32,0:11:17.38,Main,,0,0,0,,Leave me alone!
+Dialogue: 0,0:11:17.40,0:11:21.36,Main,,0,0,0,,There's nobody left\Nin my life I can trust.
+Dialogue: 0,0:11:21.38,0:11:23.43,Main,,0,0,0,,I can't live like this anymore.
+Dialogue: 0,0:11:24.21,0:11:26.29,Main,,0,0,0,,So please, just go.
+Dialogue: 0,0:11:26.31,0:11:28.22,Main,,0,0,0,,Leave me.
+Dialogue: 0,0:11:37.27,0:11:41.22,Main,,0,0,0,,Why didn't you\Njust let me die?
+Dialogue: 0,0:11:41.24,0:11:44.20,Main,,0,0,0,,It's not like you've\Nbeen a stranger to death.
+Dialogue: 0,0:11:44.22,0:11:46.34,Main,,0,0,0,,Killing people\Nis part of your job.
+Dialogue: 0,0:11:46.36,0:11:49.20,Main,,0,0,0,,Don't try to tell me\Nyou're sentimental.
+Dialogue: 0,0:11:49.22,0:11:50.36,Main,,0,0,0,,Stop talking.
+Dialogue: 0,0:11:52.37,0:11:54.40,Main,,0,0,0,,There are plenty of\Nhard-hearted, callous people
+Dialogue: 0,0:11:54.42,0:11:58.23,Main,,0,0,0,,in this world, but no one is\Ncompletely without sentiment.
+Dialogue: 0,0:11:58.25,0:12:01.36,Main,,0,0,0,,There are also plenty of people\Nwho are disgusted with life.
+Dialogue: 0,0:12:01.38,0:12:04.40,Main,,0,0,0,,But no one is\Ncompletely without hope.
+Dialogue: 0,0:12:04.42,0:12:07.20,Main,,0,0,0,,You included.
+Dialogue: 0,0:12:07.22,0:12:10.31,Main,,0,0,0,,You don't really wanna die.
+Dialogue: 0,0:12:10.33,0:12:13.20,Main,,0,0,0,,That's why I saved your life.
+Dialogue: 0,0:12:15.30,0:12:17.38,Main,,0,0,0,,So what do you\Nthink I should do?
+Dialogue: 0,0:12:17.40,0:12:19.37,Main,,0,0,0,,What are you talking about?
+Dialogue: 0,0:12:19.39,0:12:21.24,Main,,0,0,0,,My wife.
+Dialogue: 0,0:12:21.26,0:12:23.35,Main,,0,0,0,,This isn't the first time\Nshe's tried to kill herself.
+Dialogue: 0,0:12:23.37,0:12:26.38,Main,,0,0,0,,She finds living too difficult,\Nso she's constantly flirting
+Dialogue: 0,0:12:26.40,0:12:28.33,Main,,0,0,0,,with death.
+Dialogue: 0,0:12:28.35,0:12:32.31,Main,,0,0,0,,Frankly, she's more than\NI can handle sometimes.
+Dialogue: 0,0:12:32.33,0:12:36.39,Main,,0,0,0,,Thing is, I love her anyway.
+Dialogue: 0,0:12:36.41,0:12:39.23,Main,,0,0,0,,This kinda thing isn't my area.
+Dialogue: 0,0:12:39.25,0:12:41.35,Main,,0,0,0,,I'm just a hired gun,\Nthat's all.
+Dialogue: 0,0:12:43.23,0:12:46.25,Main,,0,0,0,,You'll see what I mean.
+Dialogue: 0,0:12:46.27,0:12:49.26,Main,,0,0,0,,Just keep a close eye\Non her for me, will ya?
+Dialogue: 0,0:12:51.41,0:12:53.43,Main,,0,0,0,,You want my bodyguard\Nfor a day?
+Dialogue: 0,0:12:54.21,0:12:54.42,Main,,0,0,0,,Yes.
+Dialogue: 0,0:12:55.20,0:12:57.23,Main,,0,0,0,,You don't mind\Nif I borrow him.
+Dialogue: 0,0:12:57.25,0:12:59.38,Main,,0,0,0,,A girl likes to go out\Nevery once in a while.
+Dialogue: 0,0:13:03.26,0:13:04.39,Main,,0,0,0,,Go ahead.
+Dialogue: 0,0:13:04.41,0:13:06.43,Main,,0,0,0,,Do whatever you want.
+Dialogue: 0,0:13:10.29,0:13:11.38,Main,,0,0,0,,Come dance with me.
+Dialogue: 0,0:13:11.40,0:13:14.34,Main,,0,0,0,,Dancing isn't part\Nof my job description.
+Dialogue: 0,0:13:14.36,0:13:16.36,Main,,0,0,0,,Oh, how disappointing.
+Dialogue: 0,0:13:16.38,0:13:19.34,Main,,0,0,0,,You aren't man enough\Nto play escort for one evening?
+Dialogue: 0,0:13:21.38,0:13:23.42,Main,,0,0,0,,Don't leave my side.
+Dialogue: 0,0:13:24.20,0:13:26.40,Main,,0,0,0,,You're a walking\Ncontradiction, you know.
+Dialogue: 0,0:13:26.42,0:13:28.22,Main,,0,0,0,,Say what?
+Dialogue: 0,0:13:28.24,0:13:30.35,Main,,0,0,0,,Cruel, but also kind.
+Dialogue: 0,0:13:30.37,0:13:33.31,Main,,0,0,0,,Confident, but also hesitant.
+Dialogue: 0,0:13:35.36,0:13:37.39,Main,,0,0,0,,I find it fascinating.
+Dialogue: 0,0:14:00.30,0:14:01.37,Main,,0,0,0,,What's going on?
+Dialogue: 0,0:14:01.39,0:14:05.21,Main,,0,0,0,,What does your body\Ntell you is happening?
+Dialogue: 0,0:14:08.33,0:14:09.41,Main,,0,0,0,,What was that?
+Dialogue: 0,0:14:09.43,0:14:12.34,Main,,0,0,0,,Oh, it's just a type\Nof Taoist energy joining.
+Dialogue: 0,0:14:12.36,0:14:14.20,Main,,0,0,0,,And what's that?
+Dialogue: 0,0:14:14.22,0:14:17.25,Main,,0,0,0,,An ancient sexual art that\Nthe Chinese are known for.
+Dialogue: 0,0:14:17.27,0:14:18.30,Main,,0,0,0,,How is it?
+Dialogue: 0,0:14:18.32,0:14:20.41,Main,,0,0,0,,You should be starting\Nto feel pretty good.
+Dialogue: 0,0:14:20.43,0:14:22.24,Main,,0,0,0,,Damn.
+Dialogue: 0,0:14:23.30,0:14:26.41,Main,,0,0,0,,There just let your body relax.
+Dialogue: 0,0:14:29.32,0:14:33.20,Main,,0,0,0,,Would it be so bad to do\Nwhat you really want to?
+Dialogue: 0,0:14:40.37,0:14:43.22,Main,,0,0,0,,She requested\NI deliver a message.
+Dialogue: 0,0:14:43.24,0:14:44.41,Main,,0,0,0,,"Tell him that I'll be\Nwaiting for him where
+Dialogue: 0,0:14:44.43,0:14:46.39,Main,,0,0,0,,we first made love."
+Dialogue: 0,0:15:19.21,0:15:22.21,Main,,0,0,0,,That woman is as much\Ntrouble as she looks.
+Dialogue: 0,0:15:24.32,0:15:25.32,Main,,0,0,0,,This is it.
+Dialogue: 0,0:15:25.34,0:15:27.32,Main,,0,0,0,,You are good.
+Dialogue: 0,0:15:27.34,0:15:28.39,Main,,0,0,0,,Will it work?
+Dialogue: 0,0:15:28.41,0:15:31.27,Main,,0,0,0,,Will he really come?
+Dialogue: 0,0:15:31.29,0:15:33.38,Main,,0,0,0,,He'll come.
+Dialogue: 0,0:15:33.40,0:15:35.25,Main,,0,0,0,,I'm sure of it.
+Dialogue: 0,0:15:35.27,0:15:37.37,Main,,0,0,0,,And when he does,\Nyou'll kill him?
+Dialogue: 0,0:15:39.38,0:15:44.23,Main,,0,0,0,,Don't forget the second part\Nof the bargain we made.
+Dialogue: 0,0:15:44.25,0:15:47.23,Main,,0,0,0,,I want you to see this\Nthrough to the end.
+Dialogue: 0,0:16:01.43,0:16:03.22,Main,,0,0,0,,Oh, no.
+Dialogue: 0,0:16:14.40,0:16:17.21,Main,,0,0,0,,Ciccolina, where are you?
+Dialogue: 0,0:16:19.38,0:16:22.26,Main,,0,0,0,,Can you hear me, woman?
+Dialogue: 0,0:16:22.28,0:16:24.29,Main,,0,0,0,,You in here? Huh?!
+Dialogue: 0,0:16:24.31,0:16:25.39,Main,,0,0,0,,Hey.
+Dialogue: 0,0:16:25.41,0:16:30.26,Main,,0,0,0,,If you go out there now,\Nthen we're both as good as dead.
+Dialogue: 0,0:16:30.28,0:16:33.31,Main,,0,0,0,,This is the only thing\Nthat makes the pain go away.
+Dialogue: 0,0:16:33.33,0:16:35.40,Main,,0,0,0,,Having someone in my arms.
+Dialogue: 0,0:16:35.42,0:16:38.35,Main,,0,0,0,,It helps me to forget.
+Dialogue: 0,0:16:43.35,0:16:45.23,Main,,0,0,0,,Please.
+Dialogue: 0,0:16:48.37,0:16:50.39,Main,,0,0,0,,What are you playing at, anyway?
+Dialogue: 0,0:16:50.41,0:16:53.20,Main,,0,0,0,,And where have you\Nbeen all day long?
+Dialogue: 0,0:16:53.22,0:16:55.34,Main,,0,0,0,,Were you with\Nthat damn bodyguard?
+Dialogue: 0,0:16:55.36,0:16:57.33,Main,,0,0,0,,And if I was, what then?
+Dialogue: 0,0:16:58.42,0:17:01.31,Main,,0,0,0,,You going to shoot me?
+Dialogue: 0,0:17:01.33,0:17:03.23,Main,,0,0,0,,That's fine.
+Dialogue: 0,0:17:03.25,0:17:05.29,Main,,0,0,0,,If you love me, then kill me.
+Dialogue: 0,0:17:05.31,0:17:07.29,Main,,0,0,0,,Please, I won't stop you.
+Dialogue: 0,0:17:07.31,0:17:09.31,Main,,0,0,0,,I won't kill you.
+Dialogue: 0,0:17:09.33,0:17:11.42,Main,,0,0,0,,But he's going to die!
+Dialogue: 0,0:17:12.20,0:17:13.20,Main,,0,0,0,,No, don't!
+Dialogue: 0,0:17:13.22,0:17:13.39,Main,,0,0,0,,Get down!
+Dialogue: 0,0:17:13.41,0:17:15.36,Main,,0,0,0,,--Stop this!\N--Let go!
+Dialogue: 0,0:17:27.28,0:17:29.31,Main,,0,0,0,,Cicciolina.
+Dialogue: 0,0:17:29.33,0:17:31.39,Main,,0,0,0,,Alright, you need\Nto snap out of it!
+Dialogue: 0,0:17:31.41,0:17:32.43,Main,,0,0,0,,Listen to me.
+Dialogue: 0,0:17:33.21,0:17:34.38,Main,,0,0,0,,I was the one who shot him.
+Dialogue: 0,0:17:34.40,0:17:37.24,Main,,0,0,0,,You had nothing to do\Nwith it, understand?
+Dialogue: 0,0:17:37.26,0:17:38.26,Main,,0,0,0,,Was that a shot?!
+Dialogue: 0,0:17:38.28,0:17:39.30,Main,,0,0,0,,Over here!
+Dialogue: 0,0:17:39.32,0:17:40.30,Main,,0,0,0,,There he is!
+Dialogue: 0,0:17:40.32,0:17:42.22,Main,,0,0,0,,--Traitor!\N--He's getting away--
+Dialogue: 0,0:17:42.24,0:17:43.38,Main,,0,0,0,,Don't let him go!
+Dialogue: 0,0:17:47.29,0:17:49.24,Main,,0,0,0,,So you actually did come.
+Dialogue: 0,0:17:49.26,0:17:50.30,Main,,0,0,0,,Don't mind me.
+Dialogue: 0,0:17:50.32,0:17:52.30,Main,,0,0,0,,I'm just seeing things\Nthrough to the end.
+Dialogue: 0,0:17:52.32,0:17:55.34,Main,,0,0,0,,What you stole from me\Nwas more than just some gun.
+Dialogue: 0,0:17:55.36,0:17:57.24,Main,,0,0,0,,It was my past.
+Dialogue: 0,0:17:57.26,0:17:58.40,Main,,0,0,0,,It was my life.
+Dialogue: 0,0:18:03.32,0:18:05.31,Main,,0,0,0,,Long time no see.
+Dialogue: 0,0:18:05.33,0:18:06.30,Main,,0,0,0,,Enough.
+Dialogue: 0,0:18:06.32,0:18:08.31,Main,,0,0,0,,Let's skip past the small talk.
+Dialogue: 0,0:18:08.33,0:18:11.20,Main,,0,0,0,,I hear you're the one\Nthat's running the show now.
+Dialogue: 0,0:18:11.22,0:18:12.26,Main,,0,0,0,,You hear right.
+Dialogue: 0,0:18:12.28,0:18:15.24,Main,,0,0,0,,I played you like\Na well-tuned instrument.
+Dialogue: 0,0:18:15.26,0:18:18.20,Main,,0,0,0,,And considering how much I know,\Nit would be in your interest
+Dialogue: 0,0:18:18.22,0:18:19.36,Main,,0,0,0,,to shut me up.
+Dialogue: 0,0:18:21.34,0:18:23.26,Main,,0,0,0,,You think you're so tough?!
+Dialogue: 0,0:18:23.28,0:18:25.28,Main,,0,0,0,,You ain't nothing but a joke.
+Dialogue: 0,0:18:25.30,0:18:27.42,Main,,0,0,0,,I'm the one she\Nwas sleeping with.
+Dialogue: 0,0:18:28.20,0:18:30.27,Main,,0,0,0,,Aw, does that bother you?
+Dialogue: 0,0:18:30.29,0:18:34.22,Main,,0,0,0,,Wait, you didn't actually\Nthink she loved you?
+Dialogue: 0,0:18:34.24,0:18:35.41,Main,,0,0,0,,I should thank you.
+Dialogue: 0,0:18:35.43,0:18:39.36,Main,,0,0,0,,I've finally met a woman\Nwho I won't mind killing.
+Dialogue: 0,0:18:39.38,0:18:42.28,Main,,0,0,0,,Time to settle old scores.
+Dialogue: 0,0:18:51.42,0:18:53.24,Main,,0,0,0,,Watch it!
+Dialogue: 0,0:19:06.37,0:19:10.34,Main,,0,0,0,,I've got one bullet left\Nand it's got your name on it.
+Dialogue: 0,0:19:10.36,0:19:12.26,Main,,0,0,0,,I'm not so sure.
+Dialogue: 0,0:19:12.28,0:19:14.37,Main,,0,0,0,,Do you really think\Nyou can shoot me?
+Dialogue: 0,0:19:15.42,0:19:18.30,Main,,0,0,0,,Like hell you can.
+Dialogue: 0,0:19:18.32,0:19:20.41,Main,,0,0,0,,Good bye at last, Jigen.
+Dialogue: 0,0:19:36.31,0:19:37.39,Main,,0,0,0,,It's not loaded.
+Dialogue: 0,0:19:37.41,0:19:39.24,Main,,0,0,0,,It was true.
+Dialogue: 0,0:19:39.26,0:19:43.35,Main,,0,0,0,,I really did plan to use\Nyou at first but then,
+Dialogue: 0,0:19:43.37,0:19:46.36,Main,,0,0,0,,Somewhere along the line,\Nyou became the only thing
+Dialogue: 0,0:19:46.38,0:19:49.23,Main,,0,0,0,,tying me to the world.
+Dialogue: 0,0:19:49.25,0:19:50.42,Main,,0,0,0,,My only hope.
+Dialogue: 0,0:19:51.20,0:19:54.31,Main,,0,0,0,,I've felt like an empty shell\Never since I lost you.
+Dialogue: 0,0:19:54.33,0:19:56.24,Main,,0,0,0,,I didn't know what to do.
+Dialogue: 0,0:19:56.26,0:19:57.42,Main,,0,0,0,,I thought about killing you.
+Dialogue: 0,0:19:58.20,0:20:00.22,Main,,0,0,0,,I thought about killing myself.
+Dialogue: 0,0:20:00.24,0:20:04.36,Main,,0,0,0,,But then I decided,\NIf I was going to die,
+Dialogue: 0,0:20:04.38,0:20:07.37,Main,,0,0,0,,I wanted you to be\Nthe one to kill me.
+Dialogue: 0,0:20:10.41,0:20:13.41,Main,,0,0,0,,I don't understand.
+Dialogue: 0,0:20:13.43,0:20:16.36,Main,,0,0,0,,I really just don't understand.
+Dialogue: 0,0:20:18.42,0:20:22.21,Main,,0,0,0,,I definitely saw this\Nthrough to the end.
+Dialogue: 0,0:20:22.23,0:20:25.30,Main,,0,0,0,,It was your own end you were\Ntalking about, wasn't it?
+Dialogue: 0,0:20:28.31,0:20:29.34,Main,,0,0,0,,In some way.
+Dialogue: 0,0:20:29.36,0:20:31.42,Main,,0,0,0,,She reminded me of myself.
+Dialogue: 0,0:20:32.20,0:20:34.41,Main,,0,0,0,,I guess that's why I did it,\Nplayed along with
+Dialogue: 0,0:20:34.43,0:20:37.37,Main,,0,0,0,,her little thief act.
+Dialogue: 0,0:20:37.39,0:20:39.20,Main,,0,0,0,,Oh, shut up.
+Dialogue: 0,0:20:39.22,0:20:41.39,Main,,0,0,0,,The two of you\Nare nothing alike.
+Dialogue: 0,0:20:41.41,0:20:45.34,Main,,0,0,0,,Guess the thing that ultimately\Nkilled her was her past.
+Dialogue: 0,0:20:45.36,0:20:47.26,Main,,0,0,0,,That won't be me.
+Dialogue: 0,0:20:47.28,0:20:50.29,Main,,0,0,0,,I'll escape any past\Nthat tries to hunt me down.
+Dialogue: 0,0:20:50.31,0:20:54.37,Main,,0,0,0,,So maybe the best assassin out\Nthere is a person's own past.
+Dialogue: 0,0:20:54.39,0:20:57.42,Main,,0,0,0,,I'm getting out of\Nthe killing business.
+Dialogue: 0,0:20:58.20,0:21:01.41,Main,,0,0,0,,In this line of work, a moment\Nof hesitation means death.
+Dialogue: 0,0:21:01.43,0:21:04.25,Main,,0,0,0,,Getting emotionally\Ninvolved is suicide.
+Dialogue: 0,0:21:04.27,0:21:06.33,Main,,0,0,0,,I can't hack it anymore.
+Dialogue: 0,0:21:06.35,0:21:09.24,Main,,0,0,0,,So, what are you going to do?
+Dialogue: 0,0:21:09.26,0:21:10.37,Main,,0,0,0,,Good question.
+Dialogue: 0,0:21:10.39,0:21:13.30,Main,,0,0,0,,The life of a thief\Nmight not be so bad.
+Dialogue: 0,0:21:13.32,0:21:15.27,Main,,0,0,0,,Are you propositioning me?
+Dialogue: 0,0:21:15.29,0:21:17.25,Main,,0,0,0,,Don't you worry.
+Dialogue: 0,0:21:17.27,0:21:20.24,Main,,0,0,0,,I would never team up\Nwith you for anything.
+Dialogue: 0,0:21:20.26,0:21:22.22,Main,,0,0,0,,I don't know.
+Dialogue: 0,0:21:22.24,0:21:24.37,Main,,0,0,0,,"Never" is a very long time.

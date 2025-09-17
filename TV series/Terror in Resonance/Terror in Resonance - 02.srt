@@ -1,0 +1,1320 @@
+﻿1
+00:00:04,420 --> 00:00:05,546
+Plus wi-fi...
+
+2
+00:00:11,199 --> 00:00:13,361
+Choice one, you can die where you stand.
+
+3
+00:00:13,706 --> 00:00:16,637
+Or choice two: you can become an accomplice.
+
+4
+00:00:25,587 --> 00:00:28,119
+Lisa, there's no going back.
+
+5
+00:02:27,808 --> 00:02:29,687
+We're here at the scene of the bombing.
+
+6
+00:02:29,712 --> 00:02:32,682
+The police have concluded this was not an accident.
+
+7
+00:02:32,707 --> 00:02:35,074
+What we experienced was an act of terror.
+
+8
+00:02:35,377 --> 00:02:39,458
+In their official statement, the police
+promised to take down these terrorists.
+
+9
+00:02:47,498 --> 00:02:48,581
+Lisa!
+
+10
+00:02:48,805 --> 00:02:51,263
+Do you know how many times I texted you?
+
+11
+00:02:51,288 --> 00:02:53,618
+Why would you wanna make me worry like that?
+
+12
+00:02:53,993 --> 00:02:55,420
+I'm sorry, Mom.
+
+13
+00:02:55,524 --> 00:02:56,739
+No, you're not.
+
+14
+00:02:56,795 --> 00:02:58,344
+This is all a part of your plan!
+
+15
+00:02:58,390 --> 00:02:58,910
+Wha...?
+
+16
+00:02:58,935 --> 00:03:01,337
+Don't lie to me! Please tell me the truth.
+
+17
+00:03:01,420 --> 00:03:02,846
+What are you trying to do to me?
+
+18
+00:03:02,871 --> 00:03:03,673
+Please stop.
+
+19
+00:03:03,698 --> 00:03:06,212
+Are you planning to run away just like your father?
+
+20
+00:03:06,295 --> 00:03:10,200
+You're going to leave me, too. I won't allow it! Lisa! No!
+
+21
+00:03:11,915 --> 00:03:14,941
+Come back here! Lisa!
+
+22
+00:03:22,837 --> 00:03:26,126
+In that moment, I was terrified.
+
+23
+00:03:29,462 --> 00:03:31,314
+It wasn't my mother, though.
+
+24
+00:03:31,379 --> 00:03:33,258
+I was afraid of something else.
+
+25
+00:03:34,170 --> 00:03:36,624
+Lisa, there's no going back.
+
+26
+00:03:37,381 --> 00:03:38,792
+The words he said,
+
+27
+00:03:39,406 --> 00:03:41,354
+and how cold they made me feel.
+
+28
+00:03:50,669 --> 00:03:52,169
+Can those in the back hear all right?
+
+29
+00:03:52,194 --> 00:03:53,454
+Yes sir, we can hear.
+
+30
+00:03:53,576 --> 00:03:54,581
+Sounds fine to me.
+
+31
+00:03:54,606 --> 00:03:56,212
+Welcome. I'm Kurahashi.
+
+32
+00:03:56,440 --> 00:03:59,719
+The First Investigation Division Chief. To start with,
+
+33
+00:03:59,828 --> 00:04:02,141
+we'll hear updates from the different departments.
+
+34
+00:04:02,214 --> 00:04:05,130
+All right. Director Shimada will share casualties.
+
+35
+00:04:05,233 --> 00:04:05,804
+Thank you.
+
+36
+00:04:07,159 --> 00:04:09,208
+Before the Government Offices collapse,
+
+37
+00:04:09,254 --> 00:04:11,044
+the building's fire alarm was triggered
+
+38
+00:04:11,069 --> 00:04:12,764
+allowing a full evacuation.
+
+39
+00:04:12,983 --> 00:04:15,205
+As far as we know, there were no fatalities.
+
+40
+00:04:15,312 --> 00:04:17,437
+There were 27 injuries reported,
+
+41
+00:04:17,500 --> 00:04:19,402
+but they were all relatively minor.
+
+42
+00:04:19,577 --> 00:04:21,385
+We got lucky on this one, guys.
+
+43
+00:04:21,730 --> 00:04:23,661
+Considering the scale of the damage,
+
+44
+00:04:23,686 --> 00:04:25,488
+these numbers are extremely low.
+
+45
+00:04:25,768 --> 00:04:29,289
+Thank you, and now to Division
+Chief Kinoshita from Cybercrime.
+
+46
+00:04:29,435 --> 00:04:30,169
+Thanks.
+
+47
+00:04:31,205 --> 00:04:35,511
+Regarding the video the alleged suspects
+uploaded on the day the incident occurred,
+
+48
+00:04:35,556 --> 00:04:37,211
+there's not much to report yet.
+
+49
+00:04:37,518 --> 00:04:41,289
+We know they used anonymity software
+called Tor when accessing the Internet.
+
+50
+00:04:41,847 --> 00:04:44,979
+So, basically, it's impossible
+to determine their IP address.
+
+51
+00:04:45,004 --> 00:04:47,869
+Excuse me! I'm Hamura from First Division.
+
+52
+00:04:48,062 --> 00:04:51,406
+From watching the video, it seems
+like the suspects are a couple of kids.
+
+53
+00:04:51,431 --> 00:04:53,819
+Is there any way to find out if
+their threat was the real deal?
+
+54
+00:04:54,629 --> 00:04:57,587
+It's possible. We are analyzing the video again.
+
+55
+00:04:58,016 --> 00:05:01,674
+Next up. Okano, head of Special Investigations.
+
+56
+00:05:01,795 --> 00:05:04,895
+He'll be reporting on the
+surveillance video from the crime scene.
+
+57
+00:05:05,018 --> 00:05:07,687
+Yes, at this point in time,
+
+58
+00:05:07,733 --> 00:05:10,412
+we have not found anyone that looks like the suspects.
+
+59
+00:05:10,763 --> 00:05:13,531
+Thanks to the large-scale
+blackout right before the incident,
+
+60
+00:05:13,581 --> 00:05:17,170
+the cameras stopped for a period of time,
+and it is believed they placed the bombs
+
+61
+00:05:17,195 --> 00:05:20,651
+in the 25 minutes it took for
+the backup generators to kick in.
+
+62
+00:05:21,077 --> 00:05:22,452
+Sorry, but,
+
+63
+00:05:22,697 --> 00:05:26,721
+are we also looking into the possibility these
+suspects might have been behind the blackout?
+
+64
+00:05:28,275 --> 00:05:31,446
+The Special Investigation team
+is following up on that, now.
+
+65
+00:05:31,652 --> 00:05:34,920
+That's correct. We're in the process
+of interviewing the construction workers
+
+66
+00:05:34,985 --> 00:05:37,670
+involved with the crane accident that caused the outage.
+
+67
+00:05:38,339 --> 00:05:40,922
+Finally, Section Chief Hamada from Forensics.
+
+68
+00:05:41,045 --> 00:05:43,534
+Please give us your professional opinion about the bomb.
+
+69
+00:05:43,770 --> 00:05:49,396
+Yes, sir. But, before that, I'd like to talk
+about the structure of the government office.
+
+70
+00:05:49,538 --> 00:05:53,312
+The pillars that support the frame of the
+building are, in fact, four times thicker than usual,
+
+71
+00:05:53,378 --> 00:05:57,445
+and due to that particular strength, they
+are commonly referred to as "super pillars."
+
+72
+00:05:57,484 --> 00:06:01,599
+They were created with attacks in mind, so
+they can't be destroyed by standard bombs.
+
+73
+00:06:02,428 --> 00:06:03,412
+To be clear.
+
+74
+00:06:03,955 --> 00:06:07,020
+You're telling us these were not run-of-the-mill devices?
+
+75
+00:06:07,045 --> 00:06:08,997
+Thermite reaction tells you they weren't.
+
+76
+00:06:09,212 --> 00:06:13,307
+Um, an on-site investigation detected
+the chemical reaction was present.
+
+77
+00:06:13,465 --> 00:06:14,875
+A thermite reaction?
+
+78
+00:06:15,337 --> 00:06:17,870
+Is that unusual in your experience, Chief?
+
+79
+00:06:18,127 --> 00:06:21,557
+No, on the contrary, this reaction's extremely common.
+
+80
+00:06:21,669 --> 00:06:24,534
+As a matter of fact, it's an
+everyday practice for welding metal.
+
+81
+00:06:25,049 --> 00:06:29,420
+To put it very simply, if a mixture of
+iron oxide and aluminum powder is ignited,
+
+82
+00:06:29,490 --> 00:06:31,240
+it produces a large amount of heat.
+
+83
+00:06:31,396 --> 00:06:33,635
+Up to 3,000 degrees Celsius.
+
+84
+00:06:34,655 --> 00:06:38,729
+Such a high temperature is greater than
+the melting point of both iron and concrete,
+
+85
+00:06:38,754 --> 00:06:41,758
+which means the reaction has
+the ability to melt either one.
+
+86
+00:06:42,346 --> 00:06:47,705
+The ingredients required to create such a reaction
+are also quite a bit easier to obtain than gunpowder.
+
+87
+00:06:48,008 --> 00:06:50,615
+Are you're saying this is what
+was used to melt the pillars?
+
+88
+00:06:50,755 --> 00:06:52,754
+It more than likely was, yes.
+
+89
+00:06:52,931 --> 00:06:55,864
+The purpose of the mixture was to set off the fire alarms.
+
+90
+00:06:56,060 --> 00:07:00,374
+Then, once the water from the sprinklers
+combined with it, a phreatic explosion was created.
+
+91
+00:07:01,184 --> 00:07:06,126
+At that point, the pillars, unable to withstand the weight
+of the building, collapsed along with the structure.
+
+92
+00:07:06,586 --> 00:07:10,505
+There have not been many terrorist attacks
+that have used this method in the past.
+
+93
+00:07:10,609 --> 00:07:15,511
+However, these bombers didn't just use the reaction,
+they planned for the phreatic explosion as well.
+
+94
+00:07:15,562 --> 00:07:19,703
+Whoever is behind this assault is
+without a doubt extremely intelligent.
+
+95
+00:07:21,098 --> 00:07:22,571
+That being said,
+
+96
+00:07:22,924 --> 00:07:25,423
+there's still one thing I can't figure out.
+
+97
+00:07:25,786 --> 00:07:26,929
+And that would be?
+
+98
+00:07:26,988 --> 00:07:30,973
+Strangely enough, there was a
+single TNT bomb used in the attack.
+
+99
+00:07:31,290 --> 00:07:33,300
+In no way could that have been necessary to cause
+
+100
+00:07:33,325 --> 00:07:36,257
+the collapse of the building, so I decided to reconstruct
+
+101
+00:07:36,282 --> 00:07:39,761
+the TNT bomb myself to see if I
+could find out why it was there.
+
+102
+00:07:39,819 --> 00:07:42,542
+What? I didn't know you could reconstruct a bomb.
+
+103
+00:07:42,634 --> 00:07:45,822
+Oh, it's not all that difficult when TNT is being used.
+
+104
+00:07:46,108 --> 00:07:51,059
+Anyway, on the TNT, I found letters that
+looked like they had been written by the bombers.
+
+105
+00:07:51,084 --> 00:07:51,819
+And?
+
+106
+00:07:52,252 --> 00:07:53,808
+This is what I discovered.
+
+107
+00:07:55,785 --> 00:07:57,476
+You can see them very clearly.
+
+108
+00:07:57,676 --> 00:08:01,131
+Three letters. V-O-N.
+
+109
+00:08:18,386 --> 00:08:22,670
+Can you believe Public Safety is letting
+First Division lead a terrorist investigation?
+
+110
+00:08:22,720 --> 00:08:23,733
+Of course.
+
+111
+00:08:23,917 --> 00:08:26,542
+If this thing turns into a worst-case scenario,
+
+112
+00:08:27,031 --> 00:08:30,931
+both the media and the police department
+want to be certain they can still cover it up.
+
+113
+00:08:31,736 --> 00:08:33,331
+V-O-N.
+
+114
+00:08:33,633 --> 00:08:34,287
+Yeah.
+
+115
+00:08:34,921 --> 00:08:37,413
+Guess we know it's connected to that recent theft.
+
+116
+00:08:41,045 --> 00:08:43,160
+If the public finds out, they'll panic.
+
+117
+00:08:44,386 --> 00:08:45,520
+Indeed, they will.
+
+118
+00:08:45,762 --> 00:08:50,209
+We need to consider the likelihood that these
+attackers are not with an existing terrorist cell.
+
+119
+00:08:50,295 --> 00:08:51,262
+I agree.
+
+120
+00:08:51,349 --> 00:08:55,521
+But the Public Safety Bureau does not, and
+we're supposed to be cooperating with them...
+
+121
+00:08:55,716 --> 00:08:57,008
+indirectly, of course.
+
+122
+00:08:57,045 --> 00:08:58,327
+No surprise there.
+
+123
+00:08:58,616 --> 00:09:01,697
+If things don't go well, they
+want the freedom to blame us.
+
+124
+00:09:15,254 --> 00:09:16,344
+Huh?
+
+125
+00:09:22,761 --> 00:09:26,639
+Hey Nine, did you catch that news report?
+
+126
+00:09:26,965 --> 00:09:29,893
+Assume you mean the one comparing us to the Unabomber.
+
+127
+00:09:30,180 --> 00:09:31,261
+That's the one!
+
+128
+00:09:31,293 --> 00:09:33,941
+I was hoping to remind them of Kenji Sawada, though.
+
+129
+00:09:36,572 --> 00:09:37,898
+Hear from that girl?
+
+130
+00:09:37,923 --> 00:09:39,164
+Lisa Mishima?
+
+131
+00:09:39,442 --> 00:09:40,157
+Yeah.
+
+132
+00:09:40,700 --> 00:09:41,512
+You worried?
+
+133
+00:09:41,673 --> 00:09:45,096
+Nah. I can't imagine she has the guts to report us.
+
+134
+00:09:45,442 --> 00:09:48,790
+Let me ask you something. Why "accomplice"?
+
+135
+00:09:48,909 --> 00:09:51,167
+Why use that word when you were talking to her?
+
+136
+00:09:52,383 --> 00:09:53,893
+Just trying to scare her.
+
+137
+00:09:54,852 --> 00:09:55,937
+That's all, huh?
+
+138
+00:10:00,338 --> 00:10:01,431
+Whose turn?
+
+139
+00:10:02,129 --> 00:10:05,463
+Hmm. One, two,
+
+140
+00:10:05,565 --> 00:10:06,329
+Three!
+
+141
+00:10:17,088 --> 00:10:19,755
+Hello. Delivery from Choujyuan Noodles.
+
+142
+00:10:20,056 --> 00:10:22,087
+Oh. Yeah, just bring it on in.
+
+143
+00:10:22,112 --> 00:10:23,467
+Cool. Thank you.
+
+144
+00:10:39,527 --> 00:10:41,854
+Yeah, tried that new ramen place last night.
+
+145
+00:10:41,893 --> 00:10:43,187
+You gotta go.
+
+146
+00:11:13,850 --> 00:11:15,360
+I don't get you, man.
+
+147
+00:11:15,592 --> 00:11:17,510
+How can you work on a crossword puzzle?
+
+148
+00:11:18,810 --> 00:11:21,810
+First Division looks like they're
+in serious trouble, you know.
+
+149
+00:11:21,907 --> 00:11:24,748
+But I guess that doesn't affect us down here in archives.
+
+150
+00:11:25,049 --> 00:11:27,879
+Which is why you're just screwing around online.
+
+151
+00:11:28,325 --> 00:11:29,324
+Hey, help me out.
+
+152
+00:11:29,349 --> 00:11:33,803
+Do you know what the "instant pork ramen
+from 1987 that was recently reissued" is?
+
+153
+00:11:33,837 --> 00:11:34,856
+Oh, come on!
+
+154
+00:11:35,089 --> 00:11:39,264
+Maybe you could help me out and not assume
+all fat people are experts on carbs, yeah?
+
+155
+00:11:39,344 --> 00:11:41,879
+Oh. Try Toppa Chikara Kusa Yantsuki.
+
+156
+00:11:42,072 --> 00:11:45,267
+Ah. T.O.P.
+
+157
+00:11:45,292 --> 00:11:47,094
+And I'm not screwing around, by the way.
+
+158
+00:11:47,728 --> 00:11:51,435
+I'm secretly and covertly trying to
+figure out what Sphinx's next move could be.
+
+159
+00:11:52,815 --> 00:11:56,398
+Too late! They released a new video!
+
+160
+00:11:58,714 --> 00:12:00,678
+I'm Sphinx Number One.
+
+161
+00:12:00,891 --> 00:12:03,997
+I'm Sphinx Two, and I heart explosions!
+
+162
+00:12:04,030 --> 00:12:07,118
+Did you enjoy the fireworks
+at the Tokyo Government Office?
+
+163
+00:12:07,231 --> 00:12:10,784
+All that excitement came from our very own handmade bombs.
+
+164
+00:12:11,180 --> 00:12:12,979
+He worked pretty hard on it, too!
+
+165
+00:12:13,004 --> 00:12:15,338
+This is only the beginning of the party, though!
+
+166
+00:12:15,363 --> 00:12:19,003
+In the very near future, we'll
+be setting off a second bomb!
+
+167
+00:12:19,537 --> 00:12:21,265
+We have a riddle for everyone.
+
+168
+00:12:21,290 --> 00:12:23,181
+Specifically those of you from law enforcement.
+
+169
+00:12:23,206 --> 00:12:24,026
+What?
+
+170
+00:12:25,280 --> 00:12:29,395
+What first walks on two legs, then on four legs,
+
+171
+00:12:29,420 --> 00:12:31,932
+and finally on three legs?
+
+172
+00:12:32,492 --> 00:12:35,880
+If you solve the riddle, then the next bomb can be yours!
+
+173
+00:12:35,905 --> 00:12:36,940
+Good luck!
+
+174
+00:12:37,005 --> 00:12:39,172
+Aw, poor First Division.
+
+175
+00:12:39,295 --> 00:12:42,549
+Those guys sure as hell won't be goin' home for a while.
+
+176
+00:13:16,505 --> 00:13:18,181
+The hell's the point of a riddle?
+
+177
+00:13:19,244 --> 00:13:21,993
+Damn snots need to learn some respect!
+
+178
+00:13:22,087 --> 00:13:23,093
+How dare they?
+
+179
+00:13:23,352 --> 00:13:26,067
+They could just be mouthpieces for the real guys.
+
+180
+00:13:26,496 --> 00:13:28,982
+In the long run though, I guess it doesn't matter.
+
+181
+00:13:30,883 --> 00:13:34,405
+The last thing we need right now
+is children using bombs as toys.
+
+182
+00:13:34,462 --> 00:13:35,485
+Director Kurahashi.
+
+183
+00:13:35,510 --> 00:13:40,703
+The suspects refer to themselves as "Sphinx,"
+pronouncing it with a "P" instead of the usual "F".
+
+184
+00:13:40,879 --> 00:13:42,379
+This isn't from the Egyptian.
+
+185
+00:13:42,404 --> 00:13:44,418
+It's actually a Greek pronunciation.
+
+186
+00:13:45,801 --> 00:13:46,968
+Sphinx.
+
+187
+00:13:47,085 --> 00:13:52,466
+Commonly known as one of the many creatures
+from Greek mythology. It appears in Oedipus Rex.
+
+188
+00:13:53,331 --> 00:13:55,430
+Laius, Oedipus's father,
+
+189
+00:13:55,533 --> 00:13:59,799
+after being told by an Oracle that
+his son would kill him, abandoned Oedipus
+
+190
+00:13:59,837 --> 00:14:02,241
+in the forest when he was still just a child.
+
+191
+00:14:03,289 --> 00:14:06,664
+However, Oedipus survived and grew into an adult.
+
+192
+00:14:06,833 --> 00:14:10,583
+The Oracle was right, and one day,
+Oedipus did end up killing Laius.
+
+193
+00:14:10,652 --> 00:14:14,198
+Of course, at the time, he did
+not know Laius was his father.
+
+194
+00:14:15,200 --> 00:14:18,099
+Afterwards, Oedipus married the king's wife.
+
+195
+00:14:18,383 --> 00:14:20,589
+But Queen Jocasta was his mother.
+
+196
+00:14:23,097 --> 00:14:25,269
+When Oedipus discovered the truth,
+
+197
+00:14:25,728 --> 00:14:27,825
+that he had murdered his own father,
+
+198
+00:14:28,216 --> 00:14:30,277
+that he had married his own mother.
+
+199
+00:14:30,921 --> 00:14:34,165
+He could not bear the guilt,
+and in order to punish himself,
+
+200
+00:14:35,545 --> 00:14:39,470
+he gouged out his eyes, making himself blind.
+
+201
+00:14:43,486 --> 00:14:44,299
+Whatcha readin'?
+
+202
+00:14:44,324 --> 00:14:46,954
+Oh, I... n-nothing.
+
+203
+00:14:47,477 --> 00:14:48,168
+Hm.
+
+204
+00:14:53,991 --> 00:14:57,489
+Um, if you don't mind me asking, why are you here?
+
+205
+00:14:58,151 --> 00:15:01,109
+I understand if you're keeping tabs.
+
+206
+00:15:01,134 --> 00:15:02,548
+It makes perfect sense.
+
+207
+00:15:03,420 --> 00:15:04,868
+You wanna learn a fun trick?
+
+208
+00:15:04,892 --> 00:15:05,373
+Huh?
+
+209
+00:15:05,596 --> 00:15:07,241
+I'll just take that as a yes.
+
+210
+00:15:07,443 --> 00:15:10,551
+First, make a blend of half cola and half green tea.
+
+211
+00:15:11,295 --> 00:15:14,242
+Here you go. Then, put this in and laugh.
+
+212
+00:15:21,087 --> 00:15:22,623
+It's the fresh maker cola!
+
+213
+00:15:22,648 --> 00:15:24,190
+Hey! Hold on a sec!
+
+214
+00:15:34,082 --> 00:15:36,428
+Oedipus went to visit the country of his father,
+
+215
+00:15:36,453 --> 00:15:39,772
+whom he had killed. He was confronted there.
+
+216
+00:15:39,986 --> 00:15:42,040
+A monster appeared and blocked his way.
+
+217
+00:15:43,233 --> 00:15:45,864
+The Sphinx asked riddles of the people it encountered.
+
+218
+00:15:45,889 --> 00:15:48,867
+If they didn't give the correct
+answer, they would be devoured.
+
+219
+00:15:49,420 --> 00:15:52,680
+Sounds fun. What kind of riddles are we talkin'?
+
+220
+00:15:53,257 --> 00:15:55,299
+"What walks on four legs in the morning,
+
+221
+00:15:55,462 --> 00:15:57,295
+on two legs in the afternoon,
+
+222
+00:15:57,547 --> 00:15:59,462
+and on three legs in the evening?"
+
+223
+00:15:59,719 --> 00:16:01,195
+That's right.
+
+224
+00:16:01,867 --> 00:16:04,154
+It's very similar to the riddle in the video.
+
+225
+00:16:04,379 --> 00:16:06,624
+We need to take these guys seriously.
+
+226
+00:16:06,690 --> 00:16:08,964
+Okay, if that's the question, what's the answer?
+
+227
+00:16:09,837 --> 00:16:11,265
+The answer is "man."
+
+228
+00:16:11,337 --> 00:16:12,254
+How come?
+
+229
+00:16:12,283 --> 00:16:13,230
+I get it.
+
+230
+00:16:13,358 --> 00:16:16,352
+As an infant, man is forced to crawl on four legs.
+
+231
+00:16:16,462 --> 00:16:18,525
+Then as adults, we walk on two.
+
+232
+00:16:18,893 --> 00:16:21,237
+Elderly people use canes, which makes three.
+
+233
+00:16:21,262 --> 00:16:23,697
+Correct. And the times of day?
+
+234
+00:16:24,209 --> 00:16:26,780
+They represent the different stages in a man's life.
+
+235
+00:16:26,805 --> 00:16:30,238
+So how does that relate to
+the next bomb they've set "Man?"
+
+236
+00:16:31,810 --> 00:16:33,371
+Yeah, or people?
+
+237
+00:16:33,879 --> 00:16:37,063
+So, a busy shopping area with a lot of foot traffic?
+
+238
+00:16:37,088 --> 00:16:39,238
+What if those numbers match up to an address?
+
+239
+00:16:39,338 --> 00:16:42,102
+Like Fourth Street, Building Two-Three or something?
+
+240
+00:16:42,127 --> 00:16:44,639
+Checking on corresponding addresses, now.
+
+241
+00:16:46,932 --> 00:16:49,315
+There's a DNA research facility in Minato!
+
+242
+00:16:49,742 --> 00:16:52,781
+DNA, riddle of man. That has to be it!
+
+243
+00:16:52,806 --> 00:16:54,809
+Good enough for me, let's get a search warrant.
+
+244
+00:16:54,859 --> 00:16:56,263
+I'm coming, too.
+
+245
+00:17:03,413 --> 00:17:04,177
+Come on!
+
+246
+00:17:04,208 --> 00:17:05,242
+Let's go!
+
+247
+00:17:05,862 --> 00:17:07,097
+Move now, people!
+
+248
+00:17:07,121 --> 00:17:07,602
+Yes, sir!
+
+249
+00:17:07,627 --> 00:17:08,294
+As of right now.
+
+250
+00:17:08,319 --> 00:17:11,611
+Police on the scene, are not
+giving us an awful lot of information.
+
+251
+00:17:11,636 --> 00:17:16,045
+So, we're left to wonder if the next
+bomb is at this DNA research facility.
+
+252
+00:17:16,070 --> 00:17:18,938
+It doesn't seem they're any closer in finding out who...
+
+253
+00:17:27,115 --> 00:17:28,682
+Ah, Shibazaki.
+
+254
+00:17:28,910 --> 00:17:30,064
+Oh good.
+
+255
+00:17:30,089 --> 00:17:32,134
+You haven't changed your number on me, yet.
+
+256
+00:17:32,176 --> 00:17:33,213
+Not yet.
+
+257
+00:17:33,521 --> 00:17:36,882
+I've been thinkin' about that riddle
+those self-proclaimed bombers left you.
+
+258
+00:17:37,170 --> 00:17:38,557
+Care to hear my thoughts?
+
+259
+00:17:38,582 --> 00:17:42,289
+Of course I do. N'you haven't changed a bit, my friend.
+
+260
+00:17:43,822 --> 00:17:47,854
+Nope. They're referring to the mythology of Oedipus.
+
+261
+00:17:47,879 --> 00:17:49,597
+Yeah. The answer is "man".
+
+262
+00:17:49,997 --> 00:17:50,751
+Wrong.
+
+263
+00:17:50,939 --> 00:17:54,837
+Although "Man" was the answer to
+other riddle the Sphinx was known to ask.
+
+264
+00:17:54,862 --> 00:17:56,609
+You mean it asked more than one?
+
+265
+00:17:56,983 --> 00:17:59,905
+Yeah, there's another lesser-known version of the story.
+
+266
+00:18:00,004 --> 00:18:04,131
+Two legs in the morning, four in the
+afternoon, and three legs in the evening.
+
+267
+00:18:04,156 --> 00:18:06,457
+In other words, a two-four-three progression.
+
+268
+00:18:06,642 --> 00:18:07,584
+Two-four...?
+
+269
+00:18:08,037 --> 00:18:10,429
+Meaning the answer can't be "man" anymore.
+
+270
+00:18:10,920 --> 00:18:12,712
+So do you know what the answer is?
+
+271
+00:18:12,795 --> 00:18:14,726
+Yes, it's Oedipus himself.
+
+272
+00:18:15,045 --> 00:18:16,663
+Gonna have to explain that one.
+
+273
+00:18:17,415 --> 00:18:19,832
+He started off as a man with two legs,
+
+274
+00:18:19,908 --> 00:18:22,374
+however, after killing his father and having intercourse
+
+275
+00:18:22,399 --> 00:18:25,251
+with his mother, he fell to
+the level of a beast, so to speak.
+
+276
+00:18:25,276 --> 00:18:26,438
+That makes four.
+
+277
+00:18:26,717 --> 00:18:31,354
+In the end, he gouged out his own eyes,
+blinding himself. He needed a cane to walk.
+
+278
+00:18:31,901 --> 00:18:33,542
+So, three legs.
+
+279
+00:18:36,318 --> 00:18:38,072
+Ah! Watch it!
+
+280
+00:18:38,682 --> 00:18:39,843
+I'm sorry!
+
+281
+00:18:51,908 --> 00:18:54,342
+It's true you may be an accomplice.
+
+282
+00:18:55,757 --> 00:18:57,407
+You're not one of us, though.
+
+283
+00:18:59,853 --> 00:19:01,507
+So, we know it's Oedipus.
+
+284
+00:19:02,254 --> 00:19:03,432
+And what did they say?
+
+285
+00:19:03,710 --> 00:19:07,062
+"The riddle was for everyone,
+but specifically for the police?"
+
+286
+00:19:07,705 --> 00:19:12,404
+In my opinion, they're insinuating the
+bomb has been planted somewhere the police are.
+
+287
+00:19:12,708 --> 00:19:14,004
+The police?
+
+288
+00:19:14,458 --> 00:19:16,588
+If that number sequence is an address.
+
+289
+00:19:16,690 --> 00:19:19,116
+It corresponds with a local police station.
+
+290
+00:19:19,679 --> 00:19:21,204
+Roppongi Station!
+
+291
+00:19:35,462 --> 00:19:36,699
+Nothing personal.
+
+292
+00:19:37,257 --> 00:19:40,196
+But one false move, and I'll have to kill ya.
+
+293
+00:19:56,763 --> 00:19:59,219
+There's been an explosion in Roppongi?
+
+294
+00:20:06,295 --> 00:20:08,679
+Shibazaki! Roppongi's been hit!
+
+295
+00:20:09,694 --> 00:20:11,207
+Damn it. I was too late.
+
+296
+00:20:11,453 --> 00:20:12,167
+Huh?
+
+297
+00:20:13,200 --> 00:20:13,937
+Director!
+
+298
+00:20:14,268 --> 00:20:16,351
+There was an explosion at Roppongi Station!
+
+299
+00:20:16,482 --> 00:20:19,190
+We should take this as a direct
+challenge to the police force!
+
+300
+00:20:19,327 --> 00:20:19,949
+Hamura!
+
+301
+00:20:20,520 --> 00:20:22,145
+Head to Roppongi immediately!
+
+302
+00:20:22,241 --> 00:20:22,999
+Yes, sir!
+
+303
+00:20:23,485 --> 00:20:27,738
+Shibazaki, understand what I am about
+to tell you is highly confidential.
+
+304
+00:20:28,450 --> 00:20:33,294
+Six months ago, a nuclear fuel reprocessing
+facility in Aomori was broken into.
+
+305
+00:20:33,629 --> 00:20:35,712
+The two criminals stole plutonium.
+
+306
+00:20:37,090 --> 00:20:40,269
+They vanished immediately, and we have no leads.
+
+307
+00:20:40,389 --> 00:20:43,239
+However, they did leave something
+at the scene of the crime.
+
+308
+00:20:44,449 --> 00:20:49,591
+A message. The same three letters
+left on the TNT at the government office.
+
+309
+00:20:50,744 --> 00:20:52,108
+Don't tell me.
+
+310
+00:20:53,170 --> 00:20:54,107
+That's right.
+
+311
+00:20:54,415 --> 00:20:59,037
+I think these guys have every intention
+of picking a fight with this entire country.
+
+312
+00:21:00,465 --> 00:21:02,827
+We need you back. I'm sorry.
+
+313
+00:21:13,242 --> 00:21:16,416
+Come on out. I'm waiting for you.
+

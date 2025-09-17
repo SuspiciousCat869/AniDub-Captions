@@ -1,0 +1,1849 @@
+﻿1
+00:00:02,392 --> 00:00:04,691
+Lelouch, a youth of Brittania,
+
+2
+00:00:04,716 --> 00:00:08,024
+had been granted special abilities by a mysterious girl.
+
+3
+00:00:08,325 --> 00:00:09,267
+Geass.
+
+4
+00:00:09,451 --> 00:00:13,144
+The power to command others. To do absolutely anything.
+
+5
+00:00:14,541 --> 00:00:20,218
+And Lelouch is determined to use that power
+to bring the Britannian Empire to its knees,
+
+6
+00:00:20,243 --> 00:00:22,872
+to avenge his mother, and create a world
+
+7
+00:00:22,897 --> 00:00:26,012
+where his younger sister Nunnally can find happiness.
+
+8
+00:00:26,308 --> 00:00:28,855
+All the while knowing at the end of his quest,
+
+9
+00:00:28,887 --> 00:00:31,891
+the Britannian Emperor, his father, awaits.
+
+10
+00:00:32,116 --> 00:00:33,058
+Or at least.
+
+11
+00:00:33,241 --> 00:00:36,502
+that was the hope Lelouch carried in his heart back then.
+
+12
+00:02:13,576 --> 00:02:15,692
+Do you know anything about this weapon,
+
+13
+00:02:16,208 --> 00:02:17,811
+Suzaku Kururugi?
+
+14
+00:02:17,958 --> 00:02:20,805
+It was the one used to rob Prince Clovis of his life.
+
+15
+00:02:20,830 --> 00:02:22,920
+The barrel striations leave no doubt.
+
+16
+00:02:22,945 --> 00:02:25,537
+And we've done a little homework on you as well.
+
+17
+00:02:25,716 --> 00:02:29,991
+You're the eldest child of Japan's
+last acting Prime Minister, are you not?
+
+18
+00:02:30,016 --> 00:02:31,603
+Your motive here is clear.
+
+19
+00:02:32,058 --> 00:02:33,355
+You're making a mistake.
+
+20
+00:02:33,380 --> 00:02:35,504
+I have never even laid eyes on that gun.
+
+21
+00:02:37,467 --> 00:02:40,325
+We found your fingerprints all over this weapon.
+
+22
+00:02:40,433 --> 00:02:43,555
+You're also suspected of
+murdering members of the Royal Guard.
+
+23
+00:02:43,707 --> 00:02:47,262
+Come clean now, and you'll be judged
+as though you were born a Britannian,
+
+24
+00:02:47,287 --> 00:02:48,665
+not some worthless Eleven.
+
+25
+00:02:48,852 --> 00:02:51,221
+You're wrong! I've done nothing!
+
+26
+00:02:53,466 --> 00:02:56,387
+That was Suzaku they mentioned on the news, wasn't it?
+
+27
+00:02:56,532 --> 00:02:58,771
+Yep. It looks like he's still alive.
+
+28
+00:02:58,857 --> 00:03:00,751
+Yeah. It's been ages.
+
+29
+00:03:00,776 --> 00:03:02,943
+We haven't seen him since the war ended.
+
+30
+00:03:02,968 --> 00:03:03,856
+Even we...
+
+31
+00:03:05,908 --> 00:03:06,914
+And, Lelouch?
+
+32
+00:03:06,939 --> 00:03:07,705
+What is it?
+
+33
+00:03:07,892 --> 00:03:10,153
+It wasn't true what the news said, was it?
+
+34
+00:03:10,178 --> 00:03:10,871
+Of course not.
+
+35
+00:03:11,558 --> 00:03:13,945
+Suzaku would never do anything like that.
+
+36
+00:03:13,970 --> 00:03:15,320
+They've just made a mistake.
+
+37
+00:03:15,659 --> 00:03:17,443
+Yeah... Must be.
+
+38
+00:03:17,468 --> 00:03:22,084
+Right. Well... Good night, Nunnally.
+
+39
+00:03:22,741 --> 00:03:25,801
+That's why we should've issued
+a friggin' statement sooner!
+
+40
+00:03:25,826 --> 00:03:27,651
+We could've taken credit for it!
+
+41
+00:03:32,825 --> 00:03:35,977
+Naoto... I'm not cut out for this.
+
+42
+00:03:36,199 --> 00:03:37,507
+I'm no leader...
+
+43
+00:03:38,926 --> 00:03:41,704
+Yes, everything is just as you requested.
+
+44
+00:03:41,866 --> 00:03:44,247
+We have the best in the business working on it.
+
+45
+00:03:44,272 --> 00:03:47,316
+Once the slide system is in order, it's all yours.
+
+46
+00:03:48,330 --> 00:03:52,211
+Once I've erased all of the evidence, I
+should forget this ever happened, right?
+
+47
+00:03:54,473 --> 00:03:57,709
+Truly this has been a painful incident for all.
+
+48
+00:03:58,125 --> 00:04:04,100
+The Viceroy of Area 11, our beloved
+Prince Clovis, has been lost to us forever.
+
+49
+00:04:04,433 --> 00:04:08,573
+However, we can and will bear the weight of this tragedy.
+
+50
+00:04:08,733 --> 00:04:11,840
+And from this darkest of hours, draw strength.
+
+51
+00:04:12,321 --> 00:04:15,333
+We've lose the most crucial part of the equation...
+
+52
+00:04:15,516 --> 00:04:16,756
+Can we do it without him?
+
+53
+00:04:16,888 --> 00:04:18,388
+Don't I wish.
+
+54
+00:04:18,413 --> 00:04:21,448
+The other units never let go of a good pilot.
+
+55
+00:04:21,658 --> 00:04:24,712
+And even if we got one, they'd never match his readings...
+
+56
+00:04:25,208 --> 00:04:28,364
+His operational efficiciency clocked in at 94%!
+
+57
+00:04:28,389 --> 00:04:29,759
+And you wanna replace him?
+
+58
+00:04:30,050 --> 00:04:32,708
+You should tell them that, perhaps they'll let Suzaku go.
+
+59
+00:04:32,733 --> 00:04:35,383
+He's an honorary Britannian, they'd never listen.
+
+60
+00:04:35,408 --> 00:04:39,868
+Ever since General Bartley's disgrace, the
+purebloods have the military in an iron grip.
+
+61
+00:04:39,957 --> 00:04:41,041
+The purebloods what?
+
+62
+00:04:41,066 --> 00:04:44,007
+Well, from what I understand, they're
+saying that only pureblood Britannians
+
+63
+00:04:44,032 --> 00:04:45,726
+should be allowed to serve in the military.
+
+64
+00:04:45,751 --> 00:04:49,538
+Their view is, one of their own can never be a criminal.
+
+65
+00:04:50,492 --> 00:04:52,426
+But if the criminal is an Eleven,
+
+66
+00:04:52,451 --> 00:04:58,427
+it paves the way for Margrave Jeremiah to shut
+down the practice of granting natives Honorary status.
+
+67
+00:04:59,058 --> 00:05:00,616
+And what of Suzaku?
+
+68
+00:05:00,641 --> 00:05:02,965
+His fate's all but decided.
+
+69
+00:05:04,075 --> 00:05:06,408
+Hey, Lelouch, you got anything goin' on later?
+
+70
+00:05:06,433 --> 00:05:08,776
+After all, classes have been canceled for the day.
+
+71
+00:05:08,801 --> 00:05:10,697
+Folks have been askin' for a rematch!
+
+72
+00:05:10,722 --> 00:05:12,428
+You are not gambling, you guys!
+
+73
+00:05:12,453 --> 00:05:14,237
+C'mon, don't be such a stick in the mud.
+
+74
+00:05:14,286 --> 00:05:16,290
+She's right, though, maybe it's time to quit.
+
+75
+00:05:16,321 --> 00:05:16,752
+Huh?!
+
+76
+00:05:16,958 --> 00:05:18,741
+I've found a better opponent, actually.
+
+77
+00:05:18,766 --> 00:05:20,856
+You did? I don't get it?
+
+78
+00:05:20,951 --> 00:05:23,506
+You're cuttin' me in on the action too, right?!
+
+79
+00:05:24,449 --> 00:05:26,800
+Better not. It's not really up your alley.
+
+80
+00:05:28,633 --> 00:05:34,073
+Britannia's resounding victory over
+Japan opened the unenlightened nation's eyes
+
+81
+00:05:34,160 --> 00:05:36,708
+to its true place in today's world order.
+
+82
+00:05:36,733 --> 00:05:41,943
+Since then, the Empire and Area 11 have
+walked hand in hand down the road to revival.
+
+83
+00:05:41,968 --> 00:05:44,343
+Sixteen hundred hours at Tokyo Tower.
+
+84
+00:05:44,368 --> 00:05:46,333
+Why here of all places?
+
+85
+00:05:46,550 --> 00:05:49,210
+It was Kururugi who contacted us, wasn't it?
+
+86
+00:05:49,332 --> 00:05:50,529
+Hard to say.
+
+87
+00:05:50,721 --> 00:05:53,992
+Yeah, but he might have been arrested
+after his communciation with Kallen.
+
+88
+00:05:54,037 --> 00:05:56,225
+Then we're in danger here, we should go...
+
+89
+00:05:56,341 --> 00:05:57,883
+Attention please.
+
+90
+00:05:57,958 --> 00:06:01,350
+Paging a Miss Kallen Stadtfeld of Ashford Academy.
+
+91
+00:06:01,500 --> 00:06:07,037
+One of your personal effects has been turned in
+at the kiosk on the observation deck. I repeat...
+
+92
+00:06:07,066 --> 00:06:09,443
+Hi, I'm assuming this phone is yours, ma'am.
+
+93
+00:06:13,092 --> 00:06:15,199
+Um, something wrong, it is yours, isn't it?
+
+94
+00:06:15,224 --> 00:06:17,636
+Uh... Yeah. Thank you so much.
+
+95
+00:06:18,825 --> 00:06:20,533
+Oh yeah, there's no debating it,
+
+96
+00:06:20,558 --> 00:06:22,966
+life is better here thanks to Prince Clovis.
+
+97
+00:06:23,150 --> 00:06:26,978
+I mean, it's all due to Britannia that
+we could rebuild as quickly as we did.
+
+98
+00:06:27,017 --> 00:06:27,799
+I'm happy about that...
+
+99
+00:06:27,824 --> 00:06:28,698
+Zero?
+
+100
+00:06:32,269 --> 00:06:33,952
+Um... Hello?
+
+101
+00:06:34,316 --> 00:06:37,158
+I want you to board the outbound train on Loop Line 5.
+
+102
+00:06:37,184 --> 00:06:38,311
+And bring your friends.
+
+103
+00:06:38,341 --> 00:06:38,901
+What?!
+
+104
+00:06:39,714 --> 00:06:42,796
+You handled His Highness's memorial program very well.
+
+105
+00:06:42,942 --> 00:06:45,233
+A little too weepy for my tastes, but...
+
+106
+00:06:45,341 --> 00:06:48,736
+Yes, well, the masses tend to
+like tearjerkers, Your Excellency.
+
+107
+00:06:48,917 --> 00:06:50,867
+Spoken like a true TV man.
+
+108
+00:06:50,893 --> 00:06:53,685
+Still, I have to acknowledge the finesse you've shown.
+
+109
+00:06:53,723 --> 00:06:55,776
+You did well in the short time you had.
+
+110
+00:06:55,975 --> 00:06:57,574
+One would almost think you were expecting
+
+111
+00:06:57,599 --> 00:06:59,755
+His Highness to meet his untimely end.
+
+112
+00:06:59,874 --> 00:07:04,354
+It's quite common for memorial programs
+to be set in advance for important people.
+
+113
+00:07:04,476 --> 00:07:06,291
+Does that include me as well?
+
+114
+00:07:06,574 --> 00:07:09,837
+Recent events may've bumped you
+up the list a bit, Your Excellency.
+
+115
+00:07:09,985 --> 00:07:12,847
+I wasn't deemed important enough till now, is that it?
+
+116
+00:07:13,058 --> 00:07:14,444
+How forthright of you.
+
+117
+00:07:14,545 --> 00:07:15,938
+I'm afraid so, sir.
+
+118
+00:07:16,041 --> 00:07:17,301
+Ever thought of enlisting?
+
+119
+00:07:17,374 --> 00:07:19,216
+The army could use more men like you.
+
+120
+00:07:19,375 --> 00:07:21,267
+I don't think it would be a very good fit.
+
+121
+00:07:21,317 --> 00:07:22,787
+Not really my cup of tea.
+
+122
+00:07:23,057 --> 00:07:25,221
+You prefer the civil sector, I take it?
+
+123
+00:07:25,416 --> 00:07:27,907
+No matter. I have another favor to ask of you.
+
+124
+00:07:28,199 --> 00:07:31,991
+Tomorrow night, Suzaku Kururugi will
+be transferred to his court martial.
+
+125
+00:07:32,330 --> 00:07:35,581
+We should line the road with good, patriotic Britannians.
+
+126
+00:07:36,073 --> 00:07:38,311
+Excellent, you catch on quickly, don't you?
+
+127
+00:07:38,557 --> 00:07:40,723
+Be sure the rabble can see his face.
+
+128
+00:07:40,792 --> 00:07:41,912
+Lord Jeremiah.
+
+129
+00:07:42,186 --> 00:07:45,822
+There are those among the Elevens
+who see Private Kururugi as a hero.
+
+130
+00:07:45,895 --> 00:07:48,401
+Some might very well make an attempt to free him.
+
+131
+00:07:48,541 --> 00:07:51,112
+I'll be there personally aboard my Sutherland.
+
+132
+00:07:51,137 --> 00:07:54,937
+If anyone even thinks of causing
+trouble, they'll be executed on the spot!
+
+133
+00:07:57,941 --> 00:07:59,705
+Attention, all passengers.
+
+134
+00:07:59,730 --> 00:08:02,972
+If you become aware of any suspicious items onboard,
+
+135
+00:08:02,997 --> 00:08:05,553
+please alert metro personnel by using the nearest...
+
+136
+00:08:05,578 --> 00:08:06,524
+What now?
+
+137
+00:08:06,549 --> 00:08:06,989
+Uh.
+
+138
+00:08:09,601 --> 00:08:11,596
+Face forward and look to your right.
+
+139
+00:08:12,922 --> 00:08:13,972
+What do you see?
+
+140
+00:08:14,492 --> 00:08:15,984
+The Britannian city.
+
+141
+00:08:16,433 --> 00:08:20,247
+It was stolen away from us... and built on our sacrifice.
+
+142
+00:08:20,633 --> 00:08:21,811
+And on the left?
+
+143
+00:08:23,349 --> 00:08:24,788
+I see our city.
+
+144
+00:08:25,197 --> 00:08:29,257
+Remants of a desiccated city
+after the Britannians sucked it dry.
+
+145
+00:08:29,484 --> 00:08:30,571
+Good answer.
+
+146
+00:08:30,791 --> 00:08:32,694
+Now make your way to the front of the train.
+
+147
+00:08:36,350 --> 00:08:39,670
+The next stop is Okubo. Okubo is next.
+
+148
+00:08:39,941 --> 00:08:46,818
+Those wishing to transfer to the Chuo Soubu Line
+should exit at the next stop. Okubo will be next.
+
+149
+00:08:47,199 --> 00:08:52,396
+Once again, those wishing to transfer to the
+Chuo Soubu Line should exit at the next stop.
+
+150
+00:09:01,408 --> 00:09:03,769
+Was it you... on the phone?
+
+151
+00:09:05,866 --> 00:09:07,894
+Whoa... Do you think it's a trap?
+
+152
+00:09:11,174 --> 00:09:13,280
+Well? Was that you in Shinjuku?
+
+153
+00:09:13,325 --> 00:09:14,783
+Was that cease-fire your doing?
+
+154
+00:09:14,808 --> 00:09:17,024
+Hey, we're talkin' to you!
+
+155
+00:09:20,658 --> 00:09:23,288
+What do you think of my tour of the settlement?
+
+156
+00:09:23,418 --> 00:09:24,381
+Your tour?
+
+157
+00:09:24,558 --> 00:09:27,051
+Aw, come on, there's no way it was this joker.
+
+158
+00:09:27,283 --> 00:09:29,657
+I wanted you to fully grasp the two.
+
+159
+00:09:29,958 --> 00:09:32,063
+The settlement and the ghetto.
+
+160
+00:09:32,276 --> 00:09:33,365
+Yeah, we know.
+
+161
+00:09:33,458 --> 00:09:35,348
+There's a difference between us and them.
+
+162
+00:09:35,696 --> 00:09:36,944
+A very harsh one.
+
+163
+00:09:37,325 --> 00:09:38,710
+And that's why we resist them.
+
+164
+00:09:38,735 --> 00:09:39,672
+You're wrong.
+
+165
+00:09:39,884 --> 00:09:42,167
+Britannia will not fall to terrorism.
+
+166
+00:09:42,722 --> 00:09:43,642
+Fall...?
+
+167
+00:09:43,825 --> 00:09:46,497
+It's little better than childish nuisance.
+
+168
+00:09:46,522 --> 00:09:47,392
+What was that?!
+
+169
+00:09:47,468 --> 00:09:49,155
+You callin' us a buncha kids?!
+
+170
+00:09:49,180 --> 00:09:50,819
+You should know your enemy.
+
+171
+00:09:51,010 --> 00:09:54,385
+It is not people... but Britannia itself!
+
+172
+00:09:54,448 --> 00:09:57,751
+It is a war you must wage, but not on the innocent!
+
+173
+00:09:58,181 --> 00:10:00,818
+Take up your sword! Fight for justice!
+
+174
+00:10:02,274 --> 00:10:03,678
+Heh... Oh, please.
+
+175
+00:10:03,730 --> 00:10:05,664
+That's all easy enough to say, isn't it?!
+
+176
+00:10:05,755 --> 00:10:07,103
+Hiding behind that mask.
+
+177
+00:10:07,128 --> 00:10:08,676
+Why should we even trust you?!
+
+178
+00:10:08,701 --> 00:10:09,552
+She's right!
+
+179
+00:10:09,643 --> 00:10:10,901
+Lose the mask!
+
+180
+00:10:10,926 --> 00:10:13,574
+Right. Are you going to show us your face or not?
+
+181
+00:10:13,599 --> 00:10:15,639
+Very well. I'll show you.
+
+182
+00:10:15,949 --> 00:10:19,551
+But rather than my face, bear witness to my power.
+
+183
+00:10:20,875 --> 00:10:23,175
+If I deliver to you the impossible,
+
+184
+00:10:23,322 --> 00:10:25,592
+then I might have earned your trust.
+
+185
+00:10:26,050 --> 00:10:27,849
+He killed a Prince of Britannia!
+
+186
+00:10:27,874 --> 00:10:30,406
+Suzaku Kururugi should be treated as a hero!
+
+187
+00:10:30,431 --> 00:10:32,181
+But he's an honorary Britannian!
+
+188
+00:10:32,206 --> 00:10:34,347
+Prime Minister Kururugi was his father!
+
+189
+00:10:34,372 --> 00:10:35,080
+So what!
+
+190
+00:10:35,105 --> 00:10:36,603
+The bastard gave up Japan!
+
+191
+00:10:36,628 --> 00:10:38,351
+Our people don't know that about him!
+
+192
+00:10:38,376 --> 00:10:41,843
+The whole Shinjuku business was the
+work of Kouzuki's group, wasn't it?
+
+193
+00:10:41,868 --> 00:10:45,057
+Yes, sir, they're being led by
+a man named Ohgi at the present.
+
+194
+00:10:45,124 --> 00:10:46,004
+Hmm...
+
+195
+00:10:46,816 --> 00:10:49,101
+Has Kururugi's family said anything?
+
+196
+00:10:49,126 --> 00:10:52,522
+No, sir, they broke contact with
+him once he joined the military.
+
+197
+00:10:52,782 --> 00:10:54,619
+Tohdoh, what are your thoughts?
+
+198
+00:10:54,849 --> 00:10:57,931
+We should not become involved in this public execution.
+
+199
+00:10:58,633 --> 00:10:59,975
+That's cowardly.
+
+200
+00:11:00,150 --> 00:11:02,037
+You're Tohdoh the Miracle Worker, right?
+
+201
+00:11:02,062 --> 00:11:05,235
+There is a difference between miracles and foolhardiness.
+
+202
+00:11:05,416 --> 00:11:07,062
+Congratulations!
+
+203
+00:11:07,087 --> 00:11:11,136
+Those two you asked me about
+weren't on the list of casualties.
+
+204
+00:11:11,300 --> 00:11:12,351
+That's good to hear...
+
+205
+00:11:12,376 --> 00:11:13,980
+Not much luck on your end though.
+
+206
+00:11:14,005 --> 00:11:17,489
+You may be getting a trial, but no
+one is pulling for you, certainly.
+
+207
+00:11:17,514 --> 00:11:19,698
+But the courts are where truth comes to light.
+
+208
+00:11:20,882 --> 00:11:24,126
+I expect there'll be more smoke and mirrors than anything.
+
+209
+00:11:24,151 --> 00:11:25,887
+"The truth" is scarce of late...
+
+210
+00:11:26,156 --> 00:11:28,068
+If that's how the world works, then...
+
+211
+00:11:28,153 --> 00:11:30,901
+...so be it. I've no regret.
+
+212
+00:11:36,349 --> 00:11:38,493
+Any moment. Any moment now.
+
+213
+00:11:38,921 --> 00:11:40,296
+It's a sight to see.
+
+214
+00:11:40,399 --> 00:11:41,760
+The throngs lining the route.
+
+215
+00:11:41,954 --> 00:11:44,027
+All of them waiting on bated breath.
+
+216
+00:11:44,627 --> 00:11:48,045
+Waiting for the accused murderer
+of Prince Clovis to pass by.
+
+217
+00:11:48,379 --> 00:11:52,606
+Honoary Britannian, and former Eleven, Suzaku Kururugi.
+
+218
+00:11:53,849 --> 00:11:55,224
+Camera five's a little slow.
+
+219
+00:11:55,249 --> 00:11:57,580
+Talk to me, Charles. Your team been deployed yet?
+
+220
+00:11:58,241 --> 00:12:00,595
+What? The studio? Let 'em wait.
+
+221
+00:12:00,620 --> 00:12:03,709
+Nothing's been pushed back,
+everything's going according to plan.
+
+222
+00:12:04,327 --> 00:12:05,164
+Here we go.
+
+223
+00:12:05,783 --> 00:12:07,367
+I-I can see them!
+
+224
+00:12:07,416 --> 00:12:08,541
+They have the suspect!
+
+225
+00:12:08,640 --> 00:12:10,945
+Suzaku Kururugi is headed this way!
+
+226
+00:12:11,150 --> 00:12:12,178
+Like clockwork.
+
+227
+00:12:12,906 --> 00:12:14,897
+Heh. What a circus this is.
+
+228
+00:12:15,049 --> 00:12:16,622
+And I'm as corrupt as any of 'em.
+
+229
+00:12:23,591 --> 00:12:26,214
+This is insane. We know that Suzaku is innocent.
+
+230
+00:12:26,850 --> 00:12:29,517
+The court deemed our testimony inadmissible.
+
+231
+00:12:29,542 --> 00:12:31,334
+There's nothing we can do.
+
+232
+00:12:31,449 --> 00:12:32,165
+Yes, but...
+
+233
+00:12:32,224 --> 00:12:34,847
+Is that altruism or humanitarianism?
+
+234
+00:12:34,872 --> 00:12:37,166
+This isn't the time for a game in semantics!
+
+235
+00:12:37,683 --> 00:12:39,512
+Not much else to do.
+
+236
+00:12:39,841 --> 00:12:42,436
+We both know where this case is headed, don't we?
+
+237
+00:12:42,656 --> 00:12:44,347
+We couldn't reach him at the summit.
+
+238
+00:12:44,372 --> 00:12:46,930
+All we can do is cut our losses, really.
+
+239
+00:12:46,961 --> 00:12:49,457
+Voices of scorn, growing ever louder.
+
+240
+00:12:49,546 --> 00:12:52,748
+Voices bearing testament to a
+people's love of their prince.
+
+241
+00:12:52,867 --> 00:12:55,450
+Raining their judgment down on a terrorist.
+
+242
+00:12:56,174 --> 00:12:57,284
+Suzaku!
+
+243
+00:12:59,508 --> 00:13:01,083
+Margrave Jeremiah,
+
+244
+00:13:01,142 --> 00:13:05,555
+integral in settling this case, will be
+presiding over the trial as acting consul.
+
+245
+00:13:10,462 --> 00:13:13,398
+No way the three of 'em can pull this off on their own.
+
+246
+00:13:15,217 --> 00:13:16,480
+He told us...
+
+247
+00:13:17,055 --> 00:13:19,605
+He said he'd make the impossible possible...
+
+248
+00:13:20,417 --> 00:13:24,424
+He gave his word... to save Suzaku Kururugi.
+
+249
+00:13:24,666 --> 00:13:29,089
+Right. No need to turn back. The die is cast.
+
+250
+00:13:30,532 --> 00:13:32,377
+Acting Consul Jeremiah!
+
+251
+00:13:32,507 --> 00:13:33,231
+What is it?
+
+252
+00:13:33,256 --> 00:13:35,614
+Vehicle approaching the main highway from Third.
+
+253
+00:13:35,639 --> 00:13:38,144
+We just let it through, as you instructed, but...
+
+254
+00:13:38,339 --> 00:13:41,108
+Do you believe the target could be a terrorist vehicle?
+
+255
+00:13:41,160 --> 00:13:44,045
+Well, sir... it's Prince Clovis's car.
+
+256
+00:13:44,097 --> 00:13:45,455
+The prince's car?
+
+257
+00:13:45,824 --> 00:13:47,608
+Well, looks like we've got a comedian.
+
+258
+00:13:47,633 --> 00:13:50,083
+Don't worry about it, just let him through to us.
+
+259
+00:13:50,208 --> 00:13:52,254
+All forces, halt here!
+
+260
+00:13:52,691 --> 00:13:54,837
+Hey, they stopped, they really did.
+
+261
+00:13:54,931 --> 00:13:56,389
+It's just a coincidence.
+
+262
+00:13:56,414 --> 00:14:00,664
+Yeah but he said Jerimiah would try to hog all
+the limelight and make some sort of stand about it.
+
+263
+00:14:00,689 --> 00:14:01,804
+Coincidence!
+
+264
+00:14:01,916 --> 00:14:03,461
+This is not a scheduled stop.
+
+265
+00:14:03,650 --> 00:14:05,538
+Could there have been some sort of accident?
+
+266
+00:14:06,200 --> 00:14:07,342
+This is site five.
+
+267
+00:14:07,367 --> 00:14:08,975
+There's a vehicle approaching them.
+
+268
+00:14:09,649 --> 00:14:10,316
+Hmph.
+
+269
+00:14:10,474 --> 00:14:13,503
+It's... It's Prince Clovis's personal transport!
+
+270
+00:14:14,036 --> 00:14:15,536
+And it's heading straight for the cavalcade!
+
+271
+00:14:15,561 --> 00:14:16,761
+He's heading straight at 'em...
+
+272
+00:14:17,324 --> 00:14:18,544
+What's he planning?
+
+273
+00:14:20,759 --> 00:14:22,747
+Hope they can't tell it's fake...
+
+274
+00:14:28,211 --> 00:14:30,647
+I see. Just you two then.
+
+275
+00:14:30,672 --> 00:14:33,084
+I'm sorry, we just need a little more time.
+
+276
+00:14:33,109 --> 00:14:34,673
+If more people understood what we...
+
+277
+00:14:34,698 --> 00:14:37,086
+No, the two of you will do just fine.
+
+278
+00:14:37,735 --> 00:14:40,743
+Come on, that's ridiculous, there'll be too many of them!
+
+279
+00:14:40,890 --> 00:14:44,393
+With your help, clearing the
+task at hand will be child's play.
+
+280
+00:14:45,575 --> 00:14:47,243
+I'll need this by tomorrow.
+
+281
+00:14:47,335 --> 00:14:49,358
+All that matters is the exterior...
+
+282
+00:14:51,627 --> 00:14:54,335
+You dare desecrate His Highness' transport?!
+
+283
+00:14:54,439 --> 00:14:55,703
+Come out of there!
+
+284
+00:15:00,187 --> 00:15:00,723
+Huh?
+
+285
+00:15:00,758 --> 00:15:01,661
+Huh?
+
+286
+00:15:02,320 --> 00:15:03,243
+I am...
+
+287
+00:15:03,509 --> 00:15:04,389
+...Zero!
+
+288
+00:15:04,608 --> 00:15:05,516
+Zero?
+
+289
+00:15:05,541 --> 00:15:07,173
+Wh-Who is this person.
+
+290
+00:15:07,198 --> 00:15:09,030
+This man calling himself Zero,
+
+291
+00:15:09,055 --> 00:15:11,705
+standing before a full military convoy?!
+
+292
+00:15:12,016 --> 00:15:13,449
+What is all this?
+
+293
+00:15:14,329 --> 00:15:16,406
+What the hell does he think he's doin'?
+
+294
+00:15:19,604 --> 00:15:21,906
+Who is this man calling himself Zero?!
+
+295
+00:15:22,034 --> 00:15:22,792
+Ladies and gentleman...
+
+296
+00:15:22,817 --> 00:15:25,043
+Zero? Whaddya mean, like "nothing"?
+
+297
+00:15:25,256 --> 00:15:26,916
+Are we gazing on a terrorist?
+
+298
+00:15:27,066 --> 00:15:29,490
+Certainly not the wisest if such is the case.
+
+299
+00:15:29,959 --> 00:15:31,957
+Is he... an Eleven?
+
+300
+00:15:32,195 --> 00:15:34,667
+Now to return the favor, Suzaku...
+
+301
+00:15:35,386 --> 00:15:38,790
+I've seen enough, Zero. This little show of yours is over!
+
+302
+00:15:46,149 --> 00:15:47,649
+First things first.
+
+303
+00:15:47,735 --> 00:15:49,503
+Why don't you lose that mask?
+
+304
+00:15:57,445 --> 00:15:58,271
+What in the...?!
+
+305
+00:15:58,296 --> 00:15:59,842
+Lord Jeremiah, be careful, he's got the...!
+
+306
+00:15:59,867 --> 00:16:01,439
+Yes, Jeremiah...
+
+307
+00:16:01,575 --> 00:16:06,206
+You never saw inside this thing,
+so you assume it holds poison gas.
+
+308
+00:16:06,469 --> 00:16:08,944
+Wait, you don't understand... Ah!
+
+309
+00:16:08,969 --> 00:16:10,846
+Can all of you watching at home see this?
+
+310
+00:16:10,871 --> 00:16:12,302
+It's some sort of device,
+
+311
+00:16:12,327 --> 00:16:13,944
+although it's purpose is unclear.
+
+312
+00:16:14,002 --> 00:16:18,136
+Stay with us, and we'll see if this
+so-called terrorist has anything to say.
+
+313
+00:16:19,285 --> 00:16:20,929
+You... bastard...
+
+314
+00:16:21,464 --> 00:16:24,053
+He's taken every Britannian here hostage.
+
+315
+00:16:24,426 --> 00:16:27,356
+And he's done it without them even knowing it!
+
+316
+00:16:29,015 --> 00:16:30,517
+You intend to shoot?
+
+317
+00:16:30,673 --> 00:16:32,161
+I think you know full well what...
+
+318
+00:16:32,205 --> 00:16:33,795
+Unit six, bring up the sound!
+
+319
+00:16:33,820 --> 00:16:35,868
+And get that camera right in his face!
+
+320
+00:16:35,893 --> 00:16:37,913
+Sir, it's too hairy out here.
+
+321
+00:16:38,653 --> 00:16:39,707
+Amateurs.
+
+322
+00:16:42,060 --> 00:16:43,896
+Fine. What are your demands?
+
+323
+00:16:43,921 --> 00:16:46,670
+An exchange. This for Kururugi.
+
+324
+00:16:46,978 --> 00:16:48,110
+Like hell!
+
+325
+00:16:48,573 --> 00:16:51,467
+He's charged with high treason for murdering a prince!
+
+326
+00:16:51,566 --> 00:16:52,971
+I can't hand him over!
+
+327
+00:16:53,025 --> 00:16:55,959
+No. You're mistaken, Jeremiah.
+
+328
+00:16:56,163 --> 00:16:57,645
+He's no murder...
+
+329
+00:17:00,065 --> 00:17:02,154
+The man who killed Clovis...
+
+330
+00:17:02,756 --> 00:17:04,027
+...was myself!
+
+331
+00:17:06,672 --> 00:17:07,608
+Ah-ha.
+
+332
+00:17:07,919 --> 00:17:08,669
+Unbelievable!
+
+333
+00:17:08,694 --> 00:17:10,245
+The real culprit, eh?
+
+334
+00:17:10,291 --> 00:17:11,832
+What? Wh-What does this mean?!
+
+335
+00:17:12,002 --> 00:17:13,616
+This masked man called Zero...
+
+336
+00:17:13,831 --> 00:17:15,364
+No, we can't be sure who he is.
+
+337
+00:17:15,451 --> 00:17:16,451
+But in any case...
+
+338
+00:17:16,476 --> 00:17:18,465
+...he claims to be the real assassin!
+
+339
+00:17:18,634 --> 00:17:22,089
+So, where does this leave the
+current suspect, Private Kururugi?
+
+340
+00:17:22,782 --> 00:17:24,908
+Ah, crap, there's no way outta this!
+
+341
+00:17:25,182 --> 00:17:26,430
+We are so screwed.
+
+342
+00:17:26,455 --> 00:17:28,000
+For a single Eleven,
+
+343
+00:17:28,063 --> 00:17:30,890
+you'll save scores of precious Britannians.
+
+344
+00:17:31,169 --> 00:17:33,474
+I find that to be a bargain.
+
+345
+00:17:33,788 --> 00:17:36,484
+This is all one big performance to him!
+
+346
+00:17:36,652 --> 00:17:38,087
+He's mad, I tell you!
+
+347
+00:17:38,112 --> 00:17:40,002
+Disguising this truck as His Highness's!
+
+348
+00:17:40,027 --> 00:17:42,355
+He'll pay the price for mocking the crown!
+
+349
+00:17:42,485 --> 00:17:43,372
+Careful.
+
+350
+00:17:43,444 --> 00:17:46,370
+You don't wish the public to learn of "Orange," do you?
+
+351
+00:17:46,395 --> 00:17:47,052
+Huh?
+
+352
+00:17:47,077 --> 00:17:48,790
+Orange? What's he talkin' about?
+
+353
+00:17:48,815 --> 00:17:49,547
+I don't know.
+
+354
+00:17:53,890 --> 00:17:56,490
+If I die, it'll all go public.
+
+355
+00:17:56,868 --> 00:17:58,406
+If you don't want that to happen...
+
+356
+00:17:58,431 --> 00:18:00,964
+What are you talking about? What is this?!
+
+357
+00:18:00,989 --> 00:18:03,456
+You'll do everything in your power to let us go.
+
+358
+00:18:03,815 --> 00:18:05,366
+Your prisoner as well!
+
+359
+00:18:14,220 --> 00:18:15,798
+Right, understood.
+
+360
+00:18:15,823 --> 00:18:17,701
+You there, release the prisoner!
+
+361
+00:18:18,413 --> 00:18:20,628
+What on earth are you doing, my lord?!
+
+362
+00:18:20,764 --> 00:18:22,324
+Get that man over here!
+
+363
+00:18:22,349 --> 00:18:23,017
+Huh?!
+
+364
+00:18:23,301 --> 00:18:24,497
+Should we? But...
+
+365
+00:18:25,210 --> 00:18:27,323
+Hand him over! Nobody gets in his way!
+
+366
+00:18:27,348 --> 00:18:28,729
+No, what are you thinking?!
+
+367
+00:18:28,929 --> 00:18:30,012
+You can't do this!
+
+368
+00:18:30,037 --> 00:18:32,353
+Lord Kewell, this is an order!
+
+369
+00:18:33,210 --> 00:18:35,196
+It's hard to tell what's happening from here,
+
+370
+00:18:35,335 --> 00:18:37,800
+but it seems that Kururugi's release has been brokered!
+
+371
+00:18:45,117 --> 00:18:47,358
+So, who the hell are you... Uh!
+
+372
+00:18:47,425 --> 00:18:50,464
+As I thought, they didn't allow you to speak.
+
+373
+00:18:55,156 --> 00:18:57,218
+If they get away, we'll lose everything!
+
+374
+00:18:57,393 --> 00:18:58,855
+It's time to go, Zero.
+
+375
+00:18:58,880 --> 00:19:01,086
+Well then, till next time.
+
+376
+00:19:03,868 --> 00:19:05,949
+You cowardly Eleven!
+
+377
+00:19:06,467 --> 00:19:07,807
+Lord Jeremiah, what are you...?!
+
+378
+00:19:07,832 --> 00:19:10,032
+You heard me, stand down, now!
+
+379
+00:19:13,419 --> 00:19:15,821
+They're not alone at all! They jumped right off!
+
+380
+00:19:21,682 --> 00:19:23,493
+It worked! Now we can...
+
+381
+00:19:25,278 --> 00:19:27,932
+You imbecile! There's nowhere for you to run!
+
+382
+00:19:27,957 --> 00:19:29,197
+Lord Kewell!
+
+383
+00:19:29,469 --> 00:19:31,337
+Are you going to follow orders or not?!
+
+384
+00:19:31,362 --> 00:19:33,931
+And believe me, there will be repercussions.
+
+385
+00:19:33,956 --> 00:19:36,349
+All units, do I make myself clear?!
+
+386
+00:19:36,589 --> 00:19:39,499
+Do everything in your power to help them get away!
+
+387
+00:19:44,108 --> 00:19:46,141
+Man... I didn't really think he could do it.
+
+388
+00:19:46,166 --> 00:19:48,166
+Yeah, who is this guy?
+
+389
+00:19:48,191 --> 00:19:49,483
+That's crap!
+
+390
+00:19:49,508 --> 00:19:52,211
+How many times can a bluff like that work, anyway?
+
+391
+00:19:52,284 --> 00:19:54,174
+Ya gotta give the guy some credit, though.
+
+392
+00:19:54,199 --> 00:19:54,652
+Huh?
+
+393
+00:19:54,750 --> 00:19:57,729
+Gotta admit it, nobody else could 'a pulled that off.
+
+394
+00:19:58,070 --> 00:20:00,126
+Not the Japanese Liberation Front.
+
+395
+00:20:00,437 --> 00:20:01,779
+Certainly not me.
+
+396
+00:20:03,075 --> 00:20:07,708
+We've always thought that a full on war
+with Britannia wasn't a possibility at all.
+
+397
+00:20:07,846 --> 00:20:10,085
+But maybe with him... it is.
+
+398
+00:20:12,728 --> 00:20:15,244
+It looks like they treated you rather roughly.
+
+399
+00:20:15,432 --> 00:20:18,554
+Now you know what they're really like, Private Kururugi.
+
+400
+00:20:18,920 --> 00:20:20,711
+Britannia is rotten.
+
+401
+00:20:20,756 --> 00:20:24,372
+If you wish to bring change to this world, then join me.
+
+402
+00:20:24,397 --> 00:20:25,603
+So is it true?
+
+403
+00:20:25,795 --> 00:20:28,336
+Are you really the one who killed Prince Clovis?
+
+404
+00:20:28,456 --> 00:20:30,092
+This is war.
+
+405
+00:20:30,181 --> 00:20:32,861
+Why wouldn't I kill an enemy commander?
+
+406
+00:20:33,442 --> 00:20:35,846
+And the gas? Those were civilians out there!
+
+407
+00:20:35,871 --> 00:20:38,254
+A bluff. To help things along.
+
+408
+00:20:38,279 --> 00:20:40,434
+The result: Not a single death.
+
+409
+00:20:40,507 --> 00:20:41,534
+The result?
+
+410
+00:20:42,223 --> 00:20:44,418
+That's all that matters to you, I suppose.
+
+411
+00:20:44,795 --> 00:20:45,431
+Hmph.
+
+412
+00:20:45,916 --> 00:20:47,172
+Come, join me.
+
+413
+00:20:47,263 --> 00:20:50,285
+The Britannia you serve is a worthless dominion.
+
+414
+00:20:51,297 --> 00:20:53,035
+Maybe that's true. But...
+
+415
+00:20:53,627 --> 00:20:56,874
+But this nation, it can be changed for the better.
+
+416
+00:20:56,988 --> 00:20:58,360
+And from within.
+
+417
+00:20:58,511 --> 00:20:59,517
+Changed?
+
+418
+00:20:59,951 --> 00:21:03,578
+And any ends gained through
+contemptible means aren't worth anything.
+
+419
+00:21:03,695 --> 00:21:05,540
+Wait! Where are you going?!
+
+420
+00:21:05,579 --> 00:21:07,569
+My court martial begins in an hour.
+
+421
+00:21:08,948 --> 00:21:09,963
+Are you mad?!
+
+422
+00:21:10,188 --> 00:21:13,414
+The only reason they're giving
+you a trial is to find you guilty!
+
+423
+00:21:13,439 --> 00:21:15,746
+The judge, the prosecution, and defense!
+
+424
+00:21:15,774 --> 00:21:17,208
+Rules are rules.
+
+425
+00:21:17,349 --> 00:21:22,584
+And if I don't go, they'll start cracking
+down on Elevens and Honorary Britannians.
+
+426
+00:21:23,252 --> 00:21:24,372
+But you'll die!
+
+427
+00:21:24,585 --> 00:21:25,474
+I don't mind.
+
+428
+00:21:25,544 --> 00:21:27,144
+Don't be an idiot!
+
+429
+00:21:27,513 --> 00:21:30,161
+An old friend of mine always used to tell me that.
+
+430
+00:21:30,243 --> 00:21:31,648
+He'd say I was a fool...
+
+431
+00:21:32,684 --> 00:21:34,336
+It's my weakness, I guess.
+
+432
+00:21:35,140 --> 00:21:38,420
+I'd try to bring you in, but you'd just end up killing me.
+
+433
+00:21:38,989 --> 00:21:42,309
+And if I'm going to die, it'll
+be in the service of the people.
+
+434
+00:21:43,147 --> 00:21:44,580
+Even so. I thank you.
+
+435
+00:21:45,519 --> 00:21:46,430
+For saving me.
+
+436
+00:21:53,586 --> 00:21:55,176
+You... fool!
+
+437
+00:21:55,874 --> 00:21:57,291
+Yes, apparently.
+
+438
+00:21:57,316 --> 00:21:59,972
+Private Kururugi has made conatct with the authorities.
+
+439
+00:21:59,997 --> 00:22:02,200
+It would seem this Zero has released him.
+
+440
+00:22:02,225 --> 00:22:05,818
+However, now that the original charges
+against him have been thrown into question,
+
+441
+00:22:05,843 --> 00:22:09,582
+it's very possible Kururugi will
+be found innocent and acquited.
+
+442
+00:22:09,663 --> 00:22:10,938
+Thank goodness.
+
+443
+00:22:13,557 --> 00:22:14,653
+Miss Sayoko?
+
+444
+00:23:49,984 --> 00:23:51,526
+So naive...
+
+445
+00:23:51,646 --> 00:23:53,884
+I was sure Suzaku would understand.
+
+446
+00:23:53,956 --> 00:23:55,840
+Change the system from within?
+
+447
+00:23:55,865 --> 00:23:56,904
+Ridiculous!
+
+448
+00:23:56,929 --> 00:23:58,502
+The system will just swallow him up!
+
+449
+00:23:58,527 --> 00:23:59,731
+It'll eat him alive!
+
+450
+00:24:00,099 --> 00:24:02,766
+I can't beg for their charity to live my life.
+
+451
+00:24:02,903 --> 00:24:06,753
+I just can't! I won't live by their "rules" anymore!
+

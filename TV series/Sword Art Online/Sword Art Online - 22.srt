@@ -1,0 +1,897 @@
+﻿1
+00:00:02,880 --> 00:00:03,697
+Mommy!
+
+2
+00:00:04,880 --> 00:00:05,888
+It's mommy!
+
+3
+00:00:06,157 --> 00:00:07,055
+She's here!
+
+4
+00:00:09,088 --> 00:00:10,145
+Are you sure?
+
+5
+00:00:10,352 --> 00:00:11,536
+Yes, I'm positive!
+
+6
+00:00:11,561 --> 00:00:12,148
+Hey, I...
+
+7
+00:00:12,173 --> 00:00:14,937
+I scanned again, and it's mommy's player I.D.!
+
+8
+00:00:15,126 --> 00:00:17,977
+Her coordinates are above us in the tree!
+
+9
+00:00:22,012 --> 00:00:22,813
+Kirito!
+
+10
+00:00:24,997 --> 00:00:25,734
+Wait!
+
+11
+00:00:26,448 --> 00:00:27,696
+Kirito!
+
+12
+00:00:31,722 --> 00:00:34,026
+Why are you acting like this, Kirito?
+
+13
+00:00:35,160 --> 00:00:37,086
+Is this person that important?
+
+14
+00:00:37,550 --> 00:00:39,186
+Are they worth all this trouble?
+
+15
+00:00:42,505 --> 00:00:44,238
+Watch out, Kirito!
+
+16
+00:00:44,428 --> 00:00:46,296
+You're gonna hit the barrier!
+
+17
+00:00:50,325 --> 00:00:51,038
+Aah!
+
+18
+00:00:51,142 --> 00:00:51,795
+Aah!
+
+19
+00:00:51,919 --> 00:00:52,879
+Kirito!
+
+20
+00:00:55,411 --> 00:00:56,256
+No!
+
+21
+00:00:56,940 --> 00:00:57,669
+Aah!
+
+22
+00:01:00,588 --> 00:01:03,104
+Stop it, Kirito! It's impossible!
+
+23
+00:01:03,334 --> 00:01:05,338
+You can't get any higher from here!
+
+24
+00:01:05,363 --> 00:01:06,211
+I have to.
+
+25
+00:01:08,152 --> 00:01:09,722
+Damn it, I have to try!
+
+26
+00:01:12,374 --> 00:01:13,241
+Mommy!
+
+27
+00:01:13,347 --> 00:01:14,662
+I'm here, mommy!
+
+28
+00:01:17,356 --> 00:01:19,609
+Momm-y-y-y-y-y!
+
+29
+00:03:19,178 --> 00:03:20,154
+Mommy!
+
+30
+00:03:22,584 --> 00:03:23,219
+Ohh.
+
+31
+00:03:28,699 --> 00:03:29,908
+Mommy!
+
+32
+00:03:30,654 --> 00:03:32,960
+Y-Yui! Is that you?!
+
+33
+00:03:33,158 --> 00:03:36,472
+Mommy! Mommy! I'm here!
+
+34
+00:03:39,438 --> 00:03:40,508
+I'm up here!
+
+35
+00:03:41,355 --> 00:03:42,358
+Where are you?!
+
+36
+00:03:43,162 --> 00:03:44,770
+Yui, I'm up here!
+
+37
+00:03:49,087 --> 00:03:50,127
+Kirito!
+
+38
+00:03:56,287 --> 00:03:57,367
+Come on... think.
+
+39
+00:03:57,590 --> 00:04:00,369
+There's got to be something I
+can drop to let them know I'm here.
+
+40
+00:04:06,019 --> 00:04:11,380
+Why can't I bust through it?! I used warning
+mode to contact her, but I don't know if it worked.
+
+41
+00:04:21,514 --> 00:04:22,629
+What's that?
+
+42
+00:04:29,327 --> 00:04:30,319
+A card?
+
+43
+00:04:30,970 --> 00:04:33,482
+Leafa, do you know what this thing does?
+
+44
+00:04:33,886 --> 00:04:36,986
+Unh-unh. I've never seen an item like that before.
+
+45
+00:04:40,127 --> 00:04:41,985
+I can't access the menu on it.
+
+46
+00:04:42,891 --> 00:04:43,874
+Let's see.
+
+47
+00:04:45,090 --> 00:04:48,229
+I got it! This is a system admin access code!
+
+48
+00:04:48,888 --> 00:04:49,553
+Really?
+
+49
+00:04:49,578 --> 00:04:51,919
+Do you think we can access the G.M. Controls with it?
+
+50
+00:04:52,533 --> 00:04:53,158
+No.
+
+51
+00:04:54,261 --> 00:04:57,083
+You need the right console to access the controls,
+
+52
+00:04:57,353 --> 00:05:01,817
+and the way to find it is through the
+system menu, and even I can't bring that up.
+
+53
+00:05:02,244 --> 00:05:03,190
+No one can.
+
+54
+00:05:03,603 --> 00:05:04,365
+I see.
+
+55
+00:05:05,977 --> 00:05:10,523
+Although... i doubt something like
+this would just fall out of the sky.
+
+56
+00:05:11,341 --> 00:05:12,613
+I wonder...
+
+57
+00:05:12,922 --> 00:05:15,227
+Yes! It's from mommy!
+
+58
+00:05:15,338 --> 00:05:17,269
+She must have heard us and dropped it!
+
+59
+00:05:26,288 --> 00:05:27,230
+Asuna.
+
+60
+00:05:34,568 --> 00:05:40,023
+Leafa, I got a plan. I need to know where the
+gate is that will get me inside the world tree.
+
+61
+00:05:41,097 --> 00:05:44,337
+Well, the gate's in the dome
+at the base of the tree, but...
+
+62
+00:05:44,940 --> 00:05:47,427
+Ahh! You're not thinking about going in there!
+
+63
+00:05:47,546 --> 00:05:49,738
+The biggest raiding parties couldn't even get through!
+
+64
+00:05:49,854 --> 00:05:51,784
+The whole thing's protected by guardians!
+
+65
+00:05:51,809 --> 00:05:53,609
+It doesn't matter. I have to try.
+
+66
+00:05:57,485 --> 00:05:58,326
+It's okay.
+
+67
+00:05:58,914 --> 00:06:00,193
+Thank you for everything.
+
+68
+00:06:01,352 --> 00:06:03,412
+I'll be going on my own from here on.
+
+69
+00:06:03,713 --> 00:06:04,436
+Ohh.
+
+70
+00:06:28,526 --> 00:06:29,572
+Kirito.
+
+71
+00:06:38,396 --> 00:06:39,550
+Should we get going now?
+
+72
+00:06:39,575 --> 00:06:40,329
+Yeah, sure.
+
+73
+00:06:40,359 --> 00:06:40,863
+Aah!
+
+74
+00:06:41,854 --> 00:06:42,655
+What the hell?
+
+75
+00:06:42,680 --> 00:06:43,814
+Is this an event?
+
+76
+00:06:45,197 --> 00:06:47,787
+Yui, do you know how to get to the dome?
+
+77
+00:06:48,589 --> 00:06:52,347
+Yes. Just go up those stairs and then g... yah!
+
+78
+00:06:55,581 --> 00:06:57,424
+A-Are you sure about this, daddy?
+
+79
+00:06:57,752 --> 00:07:01,537
+I'm only asking because, based on
+everything we've been told about the gate,
+
+80
+00:07:01,561 --> 00:07:04,120
+breaking in sounds like it's going to be really hard.
+
+81
+00:07:04,179 --> 00:07:05,895
+We don't have any other choice.
+
+82
+00:07:06,125 --> 00:07:08,857
+Besides, it's not like we'll die if we fail.
+
+83
+00:07:09,626 --> 00:07:11,162
+Yeah, I guess you're right.
+
+84
+00:07:13,107 --> 00:07:17,968
+If I have to spend another second waiting
+around, doing nothing, I'm gonna lose my mind.
+
+85
+00:07:20,010 --> 00:07:23,284
+And I know you want to see
+mommy, too, just as bad as I do.
+
+86
+00:07:23,836 --> 00:07:24,744
+I do.
+
+87
+00:08:00,243 --> 00:08:03,214
+Thou knowest not the heights of heaven above.
+
+88
+00:08:04,097 --> 00:08:07,075
+Dost thou seek entry to the castle of the king?
+
+89
+00:08:09,667 --> 00:08:11,238
+I'm coming, Asuna.
+
+90
+00:08:12,257 --> 00:08:13,479
+I'm almost there.
+
+91
+00:08:14,233 --> 00:08:15,409
+Go, then.
+
+92
+00:08:15,560 --> 00:08:18,404
+Prove thou art worthy of thy wings.
+
+93
+00:08:18,507 --> 00:08:20,971
+Prove thou art worthy of flight.
+
+94
+00:08:30,107 --> 00:08:33,073
+Here we go, Yui. Keep your head down, okay?
+
+95
+00:08:33,487 --> 00:08:35,432
+Okay. Good luck.
+
+96
+00:09:27,638 --> 00:09:30,989
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+97
+00:09:38,499 --> 00:09:41,207
+Get out of my wa-a-a-a-a-y!
+
+98
+00:09:48,229 --> 00:09:49,510
+I can do this.
+
+99
+00:10:07,527 --> 00:10:10,021
+Aaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+100
+00:10:25,185 --> 00:10:26,093
+Die!
+
+101
+00:10:28,923 --> 00:10:32,156
+Die, damn you!
+
+102
+00:10:40,239 --> 00:10:44,431
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+103
+00:11:10,815 --> 00:11:13,329
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+104
+00:11:14,006 --> 00:11:15,165
+Ugh!
+
+105
+00:11:27,280 --> 00:11:28,073
+Asuna.
+
+106
+00:11:28,909 --> 00:11:29,703
+Asuna.
+
+107
+00:11:30,402 --> 00:11:31,236
+Asuna.
+
+108
+00:11:31,903 --> 00:11:32,739
+Asuna.
+
+109
+00:11:33,365 --> 00:11:34,253
+Asuna!
+
+110
+00:11:34,820 --> 00:11:35,328
+Asuna!
+
+111
+00:11:36,244 --> 00:11:36,982
+Asu...
+
+112
+00:11:58,184 --> 00:11:59,527
+Almost there.
+
+113
+00:12:00,170 --> 00:12:01,650
+I'm almost there!
+
+114
+00:12:03,702 --> 00:12:04,667
+Aaah!
+
+115
+00:12:22,840 --> 00:12:25,578
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+116
+00:12:25,840 --> 00:12:28,519
+Just a... Little further.
+
+117
+00:12:28,689 --> 00:12:33,967
+Aaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+118
+00:12:42,567 --> 00:12:43,289
+I...
+
+119
+00:12:45,781 --> 00:12:46,643
+I...
+
+120
+00:12:49,524 --> 00:12:50,862
+I died?
+
+121
+00:12:55,422 --> 00:13:02,220
+I always believed that, deep
+down, this world was just a game.
+
+122
+00:13:04,164 --> 00:13:07,051
+Is this my punishment for thinking that?
+
+123
+00:13:08,958 --> 00:13:15,091
+My strength in the game is a lie...
+nothing more than a bunch of skills and stats.
+
+124
+00:13:18,104 --> 00:13:22,727
+I didn't give a damn about its rules or its limits.
+
+125
+00:13:23,466 --> 00:13:25,580
+I thought I could do anything.
+
+126
+00:14:11,482 --> 00:14:14,576
+A game where it's okay to die
+shouldn't be that big a deal.
+
+127
+00:14:20,053 --> 00:14:20,884
+Asuna.
+
+128
+00:14:27,502 --> 00:14:28,106
+Huh?
+
+129
+00:14:33,586 --> 00:14:35,691
+Get away! Stay back!
+
+130
+00:14:55,687 --> 00:14:56,779
+Kirito!
+
+131
+00:15:10,442 --> 00:15:11,312
+Aaah!
+
+132
+00:15:27,908 --> 00:15:30,664
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+
+133
+00:15:50,547 --> 00:15:51,628
+Kirito.
+
+134
+00:15:53,459 --> 00:15:54,070
+Mm.
+
+135
+00:16:14,821 --> 00:16:16,037
+Kirito!
+
+136
+00:16:27,404 --> 00:16:28,669
+Thank you, Leafa.
+
+137
+00:16:29,160 --> 00:16:30,737
+I-I didn't...
+
+138
+00:16:30,777 --> 00:16:32,659
+Promise me you won't do that again.
+
+139
+00:16:33,373 --> 00:16:35,058
+I can do this on my own.
+
+140
+00:16:36,018 --> 00:16:38,189
+But I don't want to cause you any more trouble.
+
+141
+00:16:38,363 --> 00:16:40,008
+Trouble?! But it's not!
+
+142
+00:16:40,452 --> 00:16:41,540
+I was just...
+
+143
+00:16:45,974 --> 00:16:47,753
+hold on. Where are you going?
+
+144
+00:16:48,325 --> 00:16:48,909
+Wait!
+
+145
+00:16:49,209 --> 00:16:51,107
+You can't do this alone, Kirito!
+
+146
+00:16:53,059 --> 00:16:53,757
+Yeah.
+
+147
+00:16:53,980 --> 00:16:54,918
+Maybe you're right.
+
+148
+00:16:55,442 --> 00:16:56,943
+You know I'm right! Listen!
+
+149
+00:16:56,968 --> 00:16:58,127
+I'm going anyway.
+
+150
+00:17:01,912 --> 00:17:04,184
+Please... stop.
+
+151
+00:17:05,462 --> 00:17:07,806
+Just go back to how you were.
+
+152
+00:17:08,742 --> 00:17:13,136
+I-I just... you mean so much to me.
+
+153
+00:17:17,069 --> 00:17:17,847
+Leafa...
+
+154
+00:17:21,723 --> 00:17:22,543
+Sorry.
+
+155
+00:17:24,638 --> 00:17:27,039
+If I don't get up there, nothing will end.
+
+156
+00:17:27,564 --> 00:17:28,834
+Nothing will begin.
+
+157
+00:17:29,460 --> 00:17:32,377
+I have to see her again, just once.
+
+158
+00:17:33,211 --> 00:17:35,025
+I have to see Asuna.
+
+159
+00:17:38,091 --> 00:17:40,760
+What... what did you just say?
+
+160
+00:17:41,835 --> 00:17:43,232
+Her name's Asuna.
+
+161
+00:17:44,727 --> 00:17:46,672
+She's the one I've been looking for.
+
+162
+00:17:48,759 --> 00:17:51,829
+But... but then...
+
+163
+00:17:53,679 --> 00:17:54,681
+Then you're...
+
+164
+00:17:55,652 --> 00:17:56,690
+Oh, my god.
+
+165
+00:18:08,582 --> 00:18:09,733
+Is that you...
+
+166
+00:18:10,622 --> 00:18:11,593
+Kazuto?
+
+167
+00:18:12,021 --> 00:18:12,521
+Huh?
+
+168
+00:18:15,105 --> 00:18:16,153
+Sugu?
+
+169
+00:18:17,318 --> 00:18:18,298
+Suguha?
+
+170
+00:18:20,348 --> 00:18:21,794
+I can't believe it.
+
+171
+00:18:22,518 --> 00:18:23,932
+It's not fair!
+
+172
+00:18:24,522 --> 00:18:25,323
+No!
+
+173
+00:18:25,711 --> 00:18:26,553
+S-Sugu.
+
+174
+00:18:28,697 --> 00:18:29,888
+Sugu!
+
+175
+00:19:08,069 --> 00:19:09,878
+Sugu, it's me.
+
+176
+00:19:09,974 --> 00:19:11,188
+Go away!
+
+177
+00:19:12,114 --> 00:19:13,294
+Just go!
+
+178
+00:19:14,194 --> 00:19:15,624
+Leave me alone!
+
+179
+00:19:18,418 --> 00:19:20,334
+I want to know what's wrong, Sugu.
+
+180
+00:19:20,748 --> 00:19:23,196
+I mean, it was kind of a shock for me, too.
+
+181
+00:19:23,895 --> 00:19:27,232
+And if you're mad because I'm
+using the nervegear again, I'm sorry.
+
+182
+00:19:27,408 --> 00:19:29,940
+I just... I didn't have a choice.
+
+183
+00:19:30,654 --> 00:19:31,845
+You're wrong.
+
+184
+00:19:32,456 --> 00:19:34,125
+That's not why.
+
+185
+00:19:34,883 --> 00:19:36,103
+It's not.
+
+186
+00:19:39,470 --> 00:19:40,210
+Sugu?
+
+187
+00:19:41,933 --> 00:19:42,815
+I...
+
+188
+00:19:43,498 --> 00:19:44,434
+I...
+
+189
+00:19:45,258 --> 00:19:45,838
+I...
+
+190
+00:19:47,020 --> 00:19:49,555
+I betrayed the feelings I had!
+
+191
+00:19:49,720 --> 00:19:53,280
+I betrayed the love I felt for you.
+
+192
+00:19:53,964 --> 00:19:59,255
+When I met Kirito, I thought finally I could
+give up on all these feelings I have for you.
+
+193
+00:19:59,356 --> 00:20:00,423
+What the hell?
+
+194
+00:20:00,463 --> 00:20:02,099
+I already had!
+
+195
+00:20:02,536 --> 00:20:05,300
+But... i think now I...
+
+196
+00:20:06,719 --> 00:20:08,606
+Well, I mean, love?
+
+197
+00:20:08,828 --> 00:20:10,109
+But you and me... we're...
+
+198
+00:20:10,159 --> 00:20:11,164
+No, we're not.
+
+199
+00:20:11,252 --> 00:20:11,697
+Huh?
+
+200
+00:20:11,783 --> 00:20:13,588
+I said, "no, we're not!"
+
+201
+00:20:14,121 --> 00:20:17,320
+I know you're not really my
+brother and I'm not your sister!
+
+202
+00:20:17,938 --> 00:20:21,562
+I've known all along... for the last two years, anyway.
+
+203
+00:20:23,080 --> 00:20:29,770
+That's why you quit kendo, isn't it, and why you started
+avoiding it's because you knew the whole time, didn't you?
+
+204
+00:20:30,286 --> 00:20:33,552
+You pushed me away 'cause I'm
+not your real sister, didn't you?!
+
+205
+00:20:34,657 --> 00:20:35,373
+You did.
+
+206
+00:20:36,397 --> 00:20:39,345
+Well, if that's how it is, why do you care about me now?!
+
+207
+00:20:40,980 --> 00:20:46,871
+I just... I was so... happy you came back from S.A.O.
+
+208
+00:20:47,754 --> 00:20:52,408
+I was happy 'cause you were being nice
+to me again, just like when we were little.
+
+209
+00:20:53,044 --> 00:20:55,713
+It felt like you were finally giving me a chance.
+
+210
+00:20:56,043 --> 00:20:57,286
+That's what I thought.
+
+211
+00:20:58,548 --> 00:21:04,000
+But now, if this is how it is, I
+wish you'd kept on being a jerk to me.
+
+212
+00:21:05,754 --> 00:21:10,314
+If you had, I wouldn't have realized how I felt about you.
+
+213
+00:21:10,760 --> 00:21:14,249
+I wouldn't have felt sad and
+jealous when I found out about her,
+
+214
+00:21:14,622 --> 00:21:18,951
+and I wouldn't have tried forgetting about
+you and falling in love with Kirito instead!
+
+215
+00:21:24,113 --> 00:21:25,327
+I'm sorry.
+
+216
+00:21:33,666 --> 00:21:34,592
+Go on.
+
+217
+00:21:35,313 --> 00:21:36,459
+Leave me alone.
+
+218
+00:22:02,942 --> 00:22:03,949
+Sugu.
+
+219
+00:23:36,119 --> 00:23:38,802
+Next time: "Bonds".
+

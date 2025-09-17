@@ -1,0 +1,1936 @@
+﻿1
+00:00:02,435 --> 00:00:05,105
+(\"Mad Machine\")
+
+2
+00:00:07,173 --> 00:00:10,176
+(upbeat rock music)
+
+3
+00:00:27,527 --> 00:00:28,828
+♪ Mad machine
+
+4
+00:00:28,828 --> 00:00:31,564
+♪ How, when we cross the plains ♪
+
+5
+00:00:31,564 --> 00:00:34,968
+♪ Low raging sandstorms deliver me ♪
+
+6
+00:00:34,968 --> 00:00:36,136
+♪ Hey, hey
+
+7
+00:00:36,136 --> 00:00:37,303
+♪ Mad machine
+
+8
+00:00:37,303 --> 00:00:40,006
+♪ I always catch my prey
+
+9
+00:00:40,006 --> 00:00:43,576
+♪ Two screaming wheels are my destiny ♪
+
+10
+00:00:43,576 --> 00:00:44,744
+♪ Hey, hey
+
+11
+00:00:44,744 --> 00:00:45,912
+♪ Mad machine
+
+12
+00:00:45,912 --> 00:00:48,648
+♪ There's just no logic to
+
+13
+00:00:48,648 --> 00:00:52,118
+♪ This fire that burns in my heart for you ♪
+
+14
+00:00:52,118 --> 00:00:53,219
+♪ Hey, hey
+
+15
+00:00:53,219 --> 00:00:54,687
+♪ Mad machine
+
+16
+00:00:54,687 --> 00:00:57,023
+♪ Whenever I'm with you (machine beeping)
+
+17
+00:00:57,023 --> 00:01:00,293
+♪ Sharing the same dream, connect the two ♪
+
+18
+00:01:00,293 --> 00:01:01,995
+♪ Hey, hey
+
+19
+00:01:01,995 --> 00:01:06,232
+♪ I know what I want, what I really need ♪
+
+20
+00:01:06,232 --> 00:01:10,303
+♪ I don't wanna cool down your fire ♪
+
+21
+00:01:10,303 --> 00:01:14,107
+♪ Until all my sadness is torn all to shreds ♪
+
+22
+00:01:14,107 --> 00:01:17,644
+♪ You're all that I'm dreaming of ♪
+
+23
+00:01:17,644 --> 00:01:20,079
+♪ Don't stop your love
+
+24
+00:01:20,079 --> 00:01:22,949
+♪ Your love
+
+25
+00:01:22,949 --> 00:01:24,851
+♪ Tell me, what do you want
+
+26
+00:01:24,851 --> 00:01:26,820
+♪ Tell me, how do you feel
+
+27
+00:01:26,820 --> 00:01:31,091
+♪ Cold, angry child, wounded and wild ♪
+
+28
+00:01:31,091 --> 00:01:35,361
+♪ Seeking the blood of our rival ♪
+
+29
+00:01:35,361 --> 00:01:39,432
+♪ You and I ride, raging inside ♪
+
+30
+00:01:39,432 --> 00:01:41,601
+♪ Challenging them for survival ♪
+
+31
+00:01:41,601 --> 00:01:42,769
+- [Reporter] An accident occurred
+
+32
+00:01:42,769 --> 00:01:44,103
+at about four o'clock this morning.
+
+33
+00:01:44,103 --> 00:01:46,506
+A USSD orbital particle beam satellite
+
+34
+00:01:46,506 --> 00:01:47,674
+discharged by mistake,
+
+35
+00:01:47,674 --> 00:01:49,442
+striking the Tokyo Bay Aqua City
+
+36
+00:01:49,442 --> 00:01:50,977
+and sending it up in flames.
+
+37
+00:01:50,977 --> 00:01:53,079
+In addition, according to a police statement.
+
+38
+00:01:53,079 --> 00:01:54,347
+♪ Heart stops in fear
+
+39
+00:01:54,347 --> 00:01:56,483
+♪ Nothing is clear
+
+40
+00:01:56,483 --> 00:02:00,753
+♪ Each time, my head is turning ♪
+
+41
+00:02:00,753 --> 00:02:02,856
+♪ Tell me, what do you want
+
+42
+00:02:02,856 --> 00:02:07,861
+♪ Tell me, how do you feel
+
+43
+00:02:09,062 --> 00:02:14,067
+♪ Mad machine
+
+44
+00:02:18,104 --> 00:02:19,205
+♪ Mad machine
+
+45
+00:02:19,205 --> 00:02:21,941
+♪ What will tomorrow bring
+
+46
+00:02:21,941 --> 00:02:25,311
+♪ We can't be sure about anything ♪
+
+47
+00:02:25,311 --> 00:02:26,346
+♪ Hey, hey
+
+48
+00:02:26,346 --> 00:02:27,780
+♪ Mad machine
+
+49
+00:02:27,780 --> 00:02:30,517
+♪ You give me what I need
+
+50
+00:02:30,517 --> 00:02:34,254
+♪ Someone to run with who'll let me be ♪
+
+51
+00:02:34,254 --> 00:02:35,522
+♪ Hey, hey
+
+52
+00:02:35,522 --> 00:02:36,890
+♪ Everything was real
+
+53
+00:02:36,890 --> 00:02:39,425
+♪ Now it melts away
+
+54
+00:02:39,425 --> 00:02:40,927
+♪ Plain such sad truth can be
+
+55
+00:02:40,927 --> 00:02:43,263
+- With regard to the Aqua City incident yesterday,
+
+56
+00:02:43,263 --> 00:02:45,832
+the accidental particle beam satellite discharge
+
+57
+00:02:45,832 --> 00:02:47,500
+was most regrettable.
+
+58
+00:02:47,500 --> 00:02:49,702
+USSD will therefore place
+
+59
+00:02:49,702 --> 00:02:51,804
+its full resources into an inquiry.
+
+60
+00:02:51,804 --> 00:02:56,576
+We strive to prevent such an accident from occurring again.
+
+61
+00:02:56,576 --> 00:02:58,444
+♪ Tell me, what do you want
+
+62
+00:02:58,444 --> 00:03:00,380
+♪ Tell me, what do you need
+
+63
+00:03:00,380 --> 00:03:02,248
+♪ Time's not a friend
+
+64
+00:03:02,248 --> 00:03:04,417
+♪ Nearing the end
+
+65
+00:03:04,417 --> 00:03:08,688
+♪ Can we defend our freedom (sirens blaring)
+
+66
+00:03:08,688 --> 00:03:10,823
+♪ Wounded beasts screams
+
+67
+00:03:10,823 --> 00:03:12,926
+♪ Shattering dreams
+
+68
+00:03:12,926 --> 00:03:17,230
+♪ Charging in blind confusion
+
+69
+00:03:17,230 --> 00:03:19,332
+♪ Wild, angry cries
+
+70
+00:03:19,332 --> 00:03:22,435
+♪ Open my eyes
+
+71
+00:03:22,435 --> 00:03:23,603
+- [Man] No, you're wrong.
+
+72
+00:03:23,603 --> 00:03:25,572
+We're with the appliances department.
+
+73
+00:03:25,572 --> 00:03:28,241
+And besides, a patrol section showed up right away
+
+74
+00:03:28,241 --> 00:03:29,475
+and kept us from entering.
+
+75
+00:03:29,475 --> 00:03:30,743
+- [Daley] If you're covering something up
+
+76
+00:03:30,743 --> 00:03:31,778
+it won't do any good.
+
+77
+00:03:33,279 --> 00:03:34,981
+- But it's under the jurisdiction of the research
+
+78
+00:03:34,981 --> 00:03:36,449
+and development department.
+
+79
+00:03:36,449 --> 00:03:38,384
+It's got nothing to do with us.
+
+80
+00:03:38,384 --> 00:03:39,586
+- Really?
+
+81
+00:03:39,586 --> 00:03:41,654
+A bunch of useless, blind witnesses.
+
+82
+00:03:41,654 --> 00:03:43,189
+Now, get the hell outta here!
+
+83
+00:03:45,725 --> 00:03:47,860
+Hey, someone get the guys from the patrol section
+
+84
+00:03:47,860 --> 00:03:50,129
+and the research department down here.
+
+85
+00:03:50,129 --> 00:03:52,198
+And get everything in this room tagged.
+
+86
+00:03:53,566 --> 00:03:56,336
+(sirens wailing)
+
+87
+00:04:04,911 --> 00:04:06,613
+- [Linna] Hey, that girl.
+
+88
+00:04:06,613 --> 00:04:07,947
+- [Priss] You know her, Linna?
+
+89
+00:04:07,947 --> 00:04:09,882
+- [Linna] Yeah, from the aerobics club.
+
+90
+00:04:11,384 --> 00:04:12,619
+- You can't fool me!
+
+91
+00:04:12,619 --> 00:04:15,154
+You murdered him, I know you did!
+
+92
+00:04:15,154 --> 00:04:16,990
+(hand thwacks) (Irene screams)
+
+93
+00:04:16,990 --> 00:04:18,124
+- You sorry bitch.
+
+94
+00:04:20,193 --> 00:04:21,461
+Move it.
+
+95
+00:04:21,461 --> 00:04:22,962
+- Where do you think you're going, babe?
+
+96
+00:04:22,962 --> 00:04:23,930
+(knee thuds) (man groans)
+
+97
+00:04:23,930 --> 00:04:25,932
+- Hey, Carl, I bet that hurts.
+
+98
+00:04:27,734 --> 00:04:30,103
+- Damn you! (hand whacks)
+
+99
+00:04:30,103 --> 00:04:32,138
+Ow, shit.
+
+100
+00:04:33,573 --> 00:04:36,175
+(Priss groans)
+
+101
+00:04:44,617 --> 00:04:45,885
+You're a Boomer?
+
+102
+00:04:48,254 --> 00:04:50,757
+(Priss yells)
+
+103
+00:04:54,560 --> 00:04:57,563
+- Hold it right there, I'm Leon, AD Police.
+
+104
+00:04:57,563 --> 00:05:00,667
+Now, cut the crap or I'm taking all of you in.
+
+105
+00:05:00,667 --> 00:05:02,402
+- That's enough, let her go.
+
+106
+00:05:03,569 --> 00:05:06,406
+We don't welcome false accusations.
+
+107
+00:05:06,406 --> 00:05:09,375
+We consider our corporate image very important.
+
+108
+00:05:10,877 --> 00:05:12,912
+Now if you don't mind.
+
+109
+00:05:18,017 --> 00:05:19,085
+- Who was that?
+
+110
+00:05:19,085 --> 00:05:20,687
+- Brian Jane Mason.
+
+111
+00:05:20,687 --> 00:05:22,922
+He's the personal assistant to the chairman
+
+112
+00:05:22,922 --> 00:05:25,091
+of the Genom corporation.
+
+113
+00:05:25,091 --> 00:05:26,492
+A real snake.
+
+114
+00:05:27,427 --> 00:05:28,261
+- Hmm.
+
+115
+00:05:41,340 --> 00:05:44,444
+- [Man] Cynthia was a weapon we developed to synchronize
+
+116
+00:05:44,444 --> 00:05:46,446
+with the orbital satellites.
+
+117
+00:05:46,446 --> 00:05:49,582
+- [Sylia] She may have been just a weapon to you, but to us,
+
+118
+00:05:49,582 --> 00:05:52,919
+she was a little girl that needed to be rescued.
+
+119
+00:05:52,919 --> 00:05:54,821
+- [Man] During the design phase
+
+120
+00:05:54,821 --> 00:05:58,991
+we considered many possible shapes but--
+
+121
+00:05:58,991 --> 00:06:02,762
+- Do us all a favor and make the next one look like a dog
+
+122
+00:06:02,762 --> 00:06:03,596
+or a cat.
+
+123
+00:06:06,032 --> 00:06:09,802
+But we'll take the job, loose ends and all.
+
+124
+00:06:09,802 --> 00:06:11,738
+- [Man] We deeply appreciate it.
+
+125
+00:06:11,738 --> 00:06:13,606
+Here are the details of the assignment,
+
+126
+00:06:13,606 --> 00:06:16,109
+as well as data about Black Box,
+
+127
+00:06:16,109 --> 00:06:19,545
+the orbital satellite synchronization system.
+
+128
+00:06:20,947 --> 00:06:24,417
+- We will expect our 20 million fee upon completion.
+
+129
+00:06:30,423 --> 00:06:32,291
+So heartless.
+
+130
+00:06:32,291 --> 00:06:34,961
+(horns honking)
+
+131
+00:06:40,433 --> 00:06:42,001
+- Case closed?
+
+132
+00:06:42,001 --> 00:06:45,138
+(scoffs) It's more pressure from Genom, isn't it?
+
+133
+00:06:45,138 --> 00:06:46,072
+- Not at all.
+
+134
+00:06:46,072 --> 00:06:47,707
+Upstairs has already decided
+
+135
+00:06:47,707 --> 00:06:50,376
+that this was merely an accident.
+
+136
+00:06:50,376 --> 00:06:53,112
+There's absolutely no evidence of Boomer involvement.
+
+137
+00:06:53,112 --> 00:06:55,381
+- They haven't even been to the scene.
+
+138
+00:06:55,381 --> 00:06:57,150
+What the hell do they know?
+
+139
+00:06:57,150 --> 00:06:59,519
+- They know that your job is dealing with real Boomer crimes
+
+140
+00:06:59,519 --> 00:07:00,787
+so lay off this one!
+
+141
+00:07:00,787 --> 00:07:02,522
+- Come on, are you blind?
+
+142
+00:07:02,522 --> 00:07:05,858
+Genom is developing a monster Boomer.
+
+143
+00:07:05,858 --> 00:07:06,859
+- Bullshit!
+
+144
+00:07:06,859 --> 00:07:08,494
+That's just a hunch.
+
+145
+00:07:08,494 --> 00:07:11,497
+Anyway, nothing's really happened yet.
+
+146
+00:07:11,497 --> 00:07:14,801
+- What are you gonna do, just sit and wait for it?
+
+147
+00:07:14,801 --> 00:07:16,702
+- Get outta my face!
+
+148
+00:07:16,702 --> 00:07:20,173
+It's about time somebody starting reining you in!
+
+149
+00:07:20,173 --> 00:07:23,743
+- Listen, lard ass, any time you wanna consider disability,
+
+150
+00:07:23,743 --> 00:07:24,977
+just let me know.
+
+151
+00:07:24,977 --> 00:07:26,212
+- [Captain] Why you arrogant punk!
+
+152
+00:07:26,212 --> 00:07:27,146
+I'm gonna make you eat those words.
+
+153
+00:07:27,146 --> 00:07:27,814
+- (laughs) Are they at it again?
+
+154
+00:07:27,814 --> 00:07:28,981
+- [Cop] Yup.
+
+155
+00:07:28,981 --> 00:07:31,417
+- I swear it's all this political bullshit
+
+156
+00:07:31,417 --> 00:07:33,085
+that keeps us from doing our job.
+
+157
+00:07:33,085 --> 00:07:35,321
+- Oh, Leon, I can help you with that job,
+
+158
+00:07:35,321 --> 00:07:36,689
+but you're so tense.
+
+159
+00:07:36,689 --> 00:07:37,957
+I know just the thing,
+
+160
+00:07:37,957 --> 00:07:40,359
+there's this quiet little motel.
+
+161
+00:07:40,359 --> 00:07:43,329
+- Oh, yeah, Daley, someplace where we can be alone.
+
+162
+00:07:44,530 --> 00:07:46,165
+- [Daley] How 'bout your car?
+
+163
+00:07:46,165 --> 00:07:48,901
+- [Leon] Nah, an APC, it's roomier.
+
+164
+00:07:48,901 --> 00:07:51,904
+(officers laughing)
+
+165
+00:07:58,711 --> 00:08:00,980
+- [Sylia] Someone beat USSD to the Black Box
+
+166
+00:08:00,980 --> 00:08:03,382
+and recovered it from the wreckage of Aqua City.
+
+167
+00:08:04,550 --> 00:08:06,652
+I've got a hunch Genom's involved,
+
+168
+00:08:06,652 --> 00:08:09,655
+and that today's explosion is somehow related to it.
+
+169
+00:08:11,657 --> 00:08:13,626
+- (groans) Genom huh?
+
+170
+00:08:13,626 --> 00:08:15,628
+So we get another crack at 'em.
+
+171
+00:08:17,029 --> 00:08:18,698
+(grunts)
+
+172
+00:08:18,698 --> 00:08:20,166
+- But aren't they too big for us?
+
+173
+00:08:20,166 --> 00:08:24,971
+Besides, I'm not too keen on this payment on delivery stuff.
+
+174
+00:08:26,405 --> 00:08:28,374
+- I'm so sick of watching the AD Police screw up.
+
+175
+00:08:28,374 --> 00:08:31,210
+This is driving me totally insane.
+
+176
+00:08:31,210 --> 00:08:34,714
+- Well then the three of you should get started immediately.
+
+177
+00:08:34,714 --> 00:08:37,717
+Priss, you check out activities connected with Genom.
+
+178
+00:08:37,717 --> 00:08:40,520
+Nene, crack into the AD Police databases.
+
+179
+00:08:40,520 --> 00:08:42,622
+Mackie can help you with the passwords.
+
+180
+00:08:42,622 --> 00:08:43,823
+- [Priss and Nene] Okay.
+
+181
+00:09:01,140 --> 00:09:03,843
+- [Cop] Good morning, AD Police Investigation section.
+
+182
+00:09:03,843 --> 00:09:05,077
+Who?
+
+183
+00:09:05,077 --> 00:09:06,012
+Yeah, hang on a sec.
+
+184
+00:09:06,012 --> 00:09:08,381
+Hey, Leon, line two, pick it up.
+
+185
+00:09:08,381 --> 00:09:10,683
+- If it's a guy, tell him I'm not here.
+
+186
+00:09:10,683 --> 00:09:12,485
+- [Cop] It's a babe, name's Priss.
+
+187
+00:09:12,485 --> 00:09:13,419
+- Huh?
+
+188
+00:09:13,419 --> 00:09:15,354
+Hey, Priss, I can't believe it.
+
+189
+00:09:15,354 --> 00:09:18,090
+I feel so honored to get a phone call from ya.
+
+190
+00:09:18,991 --> 00:09:20,092
+- I'll go out with you.
+
+191
+00:09:20,092 --> 00:09:21,394
+- Huh, really?
+
+192
+00:09:21,394 --> 00:09:22,295
+When?
+
+193
+00:09:22,295 --> 00:09:24,096
+- [Priss] Today, at 11.
+
+194
+00:09:24,096 --> 00:09:26,999
+- If you wanna meet that late then let's meet a hotel,
+
+195
+00:09:26,999 --> 00:09:29,201
+and I know just the place.
+
+196
+00:09:29,201 --> 00:09:31,904
+- 11 in the morning, you jerk.
+
+197
+00:09:31,904 --> 00:09:33,439
+- [Leon] In the middle of the day?
+
+198
+00:09:33,439 --> 00:09:35,408
+I'm still on duty then.
+
+199
+00:09:35,408 --> 00:09:37,643
+- Make up something then sneak out.
+
+200
+00:09:37,643 --> 00:09:40,012
+Meet me at the Ragu Steakhouse on 26th.
+
+201
+00:09:40,012 --> 00:09:40,846
+Later.
+
+202
+00:09:40,846 --> 00:09:41,681
+- Huh?
+
+203
+00:09:43,549 --> 00:09:44,850
+Yesterday I'm scum,
+
+204
+00:09:46,552 --> 00:09:48,854
+today she can't wait to see me.
+
+205
+00:09:48,854 --> 00:09:50,456
+I must be cooler than I thought.
+
+206
+00:09:51,624 --> 00:09:53,893
+Boy, you can really put it away.
+
+207
+00:09:53,893 --> 00:09:56,762
+- [Priss] This is both breakfast and lunch for me.
+
+208
+00:09:56,762 --> 00:09:58,030
+Sure you won't have anything?
+
+209
+00:09:58,030 --> 00:10:00,599
+- [Leon] No, just being here with you is enough.
+
+210
+00:10:00,599 --> 00:10:02,735
+- Oh, come on, don't deprive yourself.
+
+211
+00:10:02,735 --> 00:10:04,303
+You're paying after all.
+
+212
+00:10:05,571 --> 00:10:07,106
+Delicious.
+
+213
+00:10:07,106 --> 00:10:08,975
+I saw on the morning news that you're investigating
+
+214
+00:10:08,975 --> 00:10:10,977
+last night's explosion.
+
+215
+00:10:10,977 --> 00:10:12,945
+- So did I look good or what?
+
+216
+00:10:12,945 --> 00:10:14,180
+- Not bad.
+
+217
+00:10:14,180 --> 00:10:16,182
+But what did they mean by case closed?
+
+218
+00:10:16,182 --> 00:10:18,818
+- Oh, that the brass have made up their minds.
+
+219
+00:10:18,818 --> 00:10:20,152
+But I disagree.
+
+220
+00:10:20,152 --> 00:10:21,988
+- Oh, you do?
+
+221
+00:10:21,988 --> 00:10:24,523
+- The way I see it there's something fishy going on
+
+222
+00:10:24,523 --> 00:10:26,792
+inside the Genom building.
+
+223
+00:10:26,792 --> 00:10:29,595
+Like the development of an advance Boomer, for example.
+
+224
+00:10:29,595 --> 00:10:31,664
+- An advanced Boomer?
+
+225
+00:10:31,664 --> 00:10:32,498
+- [Leon] Right.
+
+226
+00:10:32,498 --> 00:10:33,866
+- And that means.
+
+227
+00:10:33,866 --> 00:10:36,168
+- So, why are you so interested in all this anyway?
+
+228
+00:10:36,168 --> 00:10:38,704
+- Oh, I just kinda like this kind of stuff.
+
+229
+00:10:38,704 --> 00:10:42,508
+You know, it's like watching a science fiction movie.
+
+230
+00:10:42,508 --> 00:10:45,978
+So, the explosion was a project related accident?
+
+231
+00:10:45,978 --> 00:10:48,481
+- Uh-huh, some sort of screw up.
+
+232
+00:10:48,481 --> 00:10:51,017
+- Now that must mean that the development project
+
+233
+00:10:51,017 --> 00:10:52,985
+is still underway in the Genom building.
+
+234
+00:10:54,186 --> 00:10:55,855
+- When I was at the scene of the accident
+
+235
+00:10:55,855 --> 00:10:57,490
+one of their patrol guys told me
+
+236
+00:10:57,490 --> 00:11:00,026
+that a delivery truck left at the same time
+
+237
+00:11:00,026 --> 00:11:03,396
+as the explosion through a normally unused gate.
+
+238
+00:11:03,396 --> 00:11:05,531
+- You mean they moved to another location?
+
+239
+00:11:05,531 --> 00:11:06,365
+- Right.
+
+240
+00:11:08,434 --> 00:11:10,202
+- Would you look at the time?
+
+241
+00:11:11,103 --> 00:11:13,172
+This has been very interesting,
+
+242
+00:11:13,172 --> 00:11:15,408
+but I've got a show to do now.
+
+243
+00:11:15,408 --> 00:11:16,242
+- Hmm?
+
+244
+00:11:16,242 --> 00:11:17,176
+You can't do that.
+
+245
+00:11:17,176 --> 00:11:18,744
+So far all we've done is eat.
+
+246
+00:11:20,579 --> 00:11:22,415
+- Good luck hunting Boomers.
+
+247
+00:11:22,415 --> 00:11:23,949
+- Hey, hold on a second.
+
+248
+00:11:25,418 --> 00:11:26,685
+(register beeps)
+
+249
+00:11:26,685 --> 00:11:27,887
+Huh?
+
+250
+00:11:27,887 --> 00:11:29,321
+(groans)
+
+251
+00:11:29,321 --> 00:11:32,058
+(dramatic music)
+
+252
+00:11:54,880 --> 00:11:57,683
+(machine buzzing)
+
+253
+00:12:10,096 --> 00:12:12,932
+(monitor beeping)
+
+254
+00:12:14,700 --> 00:12:17,269
+(Sylia laughs)
+
+255
+00:12:20,139 --> 00:12:22,708
+(upbeat music)
+
+256
+00:12:44,296 --> 00:12:45,931
+- My boyfriend was an engineer
+
+257
+00:12:45,931 --> 00:12:48,634
+doing R and D on Boomers for use in space.
+
+258
+00:12:50,102 --> 00:12:52,471
+- It sounds like he must've been a really special guy.
+
+259
+00:12:53,405 --> 00:12:54,673
+- He always seemed happy
+
+260
+00:12:54,673 --> 00:12:57,109
+when he talked about his research projects,
+
+261
+00:12:57,109 --> 00:12:59,245
+but after he got involved with this project
+
+262
+00:12:59,245 --> 00:13:02,715
+he got very nervous about something.
+
+263
+00:13:02,715 --> 00:13:04,717
+- What was the project?
+
+264
+00:13:04,717 --> 00:13:07,219
+- He said it was some sort of a linkage system.
+
+265
+00:13:07,219 --> 00:13:08,721
+But he was scared.
+
+266
+00:13:08,721 --> 00:13:11,957
+Scared that if he said anymore he might be silenced.
+
+267
+00:13:11,957 --> 00:13:12,791
+- Oh no!
+
+268
+00:13:12,791 --> 00:13:14,260
+What about the police?
+
+269
+00:13:14,260 --> 00:13:16,795
+- We told them, but they wouldn't pay any attention.
+
+270
+00:13:19,131 --> 00:13:22,568
+If only I knew what really happened to him.
+
+271
+00:13:22,568 --> 00:13:24,436
+- [Linna] So that was why you did what you did?
+
+272
+00:13:24,436 --> 00:13:25,971
+- Yes.
+
+273
+00:13:25,971 --> 00:13:28,040
+It's just that as soon as this project was finished
+
+274
+00:13:28,040 --> 00:13:29,642
+we were going to be married.
+
+275
+00:13:34,446 --> 00:13:37,016
+Now this ring is all that I have left.
+
+276
+00:13:39,185 --> 00:13:42,588
+(light electronic music)
+
+277
+00:14:05,711 --> 00:14:08,380
+(tires screech)
+
+278
+00:14:09,415 --> 00:14:12,818
+(light electronic music)
+
+279
+00:14:37,343 --> 00:14:39,712
+I am feeling a little bit better.
+
+280
+00:14:39,712 --> 00:14:40,546
+- I'm glad.
+
+281
+00:14:40,546 --> 00:14:41,380
+You look better.
+
+282
+00:14:42,715 --> 00:14:44,016
+- Well, thanks.
+
+283
+00:14:44,016 --> 00:14:45,684
+But I'm still going to try to find out
+
+284
+00:14:45,684 --> 00:14:47,953
+what really happened to him.
+
+285
+00:14:47,953 --> 00:14:49,288
+- Find out?
+
+286
+00:14:49,288 --> 00:14:52,124
+(scanner beeping)
+
+287
+00:14:53,926 --> 00:14:55,094
+- What I discovered is that
+
+288
+00:14:55,094 --> 00:14:56,829
+because of the recent Boomer crimes
+
+289
+00:14:56,829 --> 00:14:58,731
+Genom will be a media target
+
+290
+00:14:58,731 --> 00:15:00,599
+since they produce the Boomers.
+
+291
+00:15:00,599 --> 00:15:04,036
+I'll try to expose what really happened.
+
+292
+00:15:04,036 --> 00:15:07,606
+- But, Irene, if you go to far it'll put you in danger too.
+
+293
+00:15:08,607 --> 00:15:10,042
+- Maybe so,
+
+294
+00:15:10,042 --> 00:15:13,045
+but I just wanna make some sense out of this.
+
+295
+00:15:13,045 --> 00:15:15,614
+Now if something does happen to me,
+
+296
+00:15:15,614 --> 00:15:18,384
+see that those vigilantes avenge me.
+
+297
+00:15:18,384 --> 00:15:21,287
+You will promise me that, won't you, Linna?
+
+298
+00:15:21,287 --> 00:15:22,554
+- Huh?
+
+299
+00:15:22,554 --> 00:15:25,557
+- [Irene] I'm only kidding. (laughs)
+
+300
+00:15:25,557 --> 00:15:26,659
+- That's not funny.
+
+301
+00:15:27,493 --> 00:15:30,162
+(Irene giggles)
+
+302
+00:15:33,399 --> 00:15:36,835
+I tell ya, that waitress really had an attitude problem.
+
+303
+00:15:36,835 --> 00:15:37,670
+What the?
+
+304
+00:15:38,504 --> 00:15:39,538
+My car!
+
+305
+00:15:45,978 --> 00:15:47,146
+- I'll walk home.
+
+306
+00:15:47,146 --> 00:15:49,315
+Besides, it's not that far.
+
+307
+00:15:49,315 --> 00:15:52,017
+And I'm kinda in the mood for it anyway.
+
+308
+00:15:52,017 --> 00:15:53,419
+- [Linna] Okay, be careful.
+
+309
+00:15:53,419 --> 00:15:57,156
+- Linna, I'm glad you're so concerned about me.
+
+310
+00:15:57,990 --> 00:15:59,258
+Thanks so much.
+
+311
+00:15:59,258 --> 00:16:00,292
+- See you tomorrow.
+
+312
+00:16:03,696 --> 00:16:05,864
+Oh, great, how do I get home?
+
+313
+00:16:13,072 --> 00:16:15,908
+(tires crunching)
+
+314
+00:16:19,178 --> 00:16:21,814
+(dramatic music) (engine revs)
+
+315
+00:16:21,814 --> 00:16:24,249
+(tires screech)
+
+316
+00:16:24,249 --> 00:16:26,585
+(car thuds)
+
+317
+00:16:28,721 --> 00:16:30,356
+Irene!
+
+318
+00:16:30,356 --> 00:16:31,590
+- Got it.
+
+319
+00:16:31,590 --> 00:16:32,825
+Mackie, contact Priss immediately.
+
+320
+00:16:32,825 --> 00:16:33,859
+We've got a problem.
+
+321
+00:16:33,859 --> 00:16:35,327
+- Okay, I've got it.
+
+322
+00:16:35,327 --> 00:16:38,397
+(communicator beeps)
+
+323
+00:16:39,398 --> 00:16:42,167
+(dramatic music)
+
+324
+00:16:49,007 --> 00:16:51,143
+- [Mackie] Priss, head for the Third Street corner
+
+325
+00:16:51,143 --> 00:16:52,878
+of Yokohama, Chinatown.
+
+326
+00:16:55,114 --> 00:17:00,119
+(dramatic music) (car rumbles)
+
+327
+00:17:09,928 --> 00:17:12,164
+(Irene yelps)
+
+328
+00:17:12,164 --> 00:17:14,233
+(tires screech)
+
+329
+00:17:14,233 --> 00:17:17,002
+(dramatic music)
+
+330
+00:17:28,580 --> 00:17:31,083
+(Irene pants)
+
+331
+00:17:41,026 --> 00:17:43,462
+(Irene sobs)
+
+332
+00:17:47,733 --> 00:17:48,567
+- Irene!
+
+333
+00:17:51,036 --> 00:17:53,705
+(Irene sobbing)
+
+334
+00:17:58,510 --> 00:18:00,212
+(dramatic music)
+
+335
+00:18:00,212 --> 00:18:03,715
+(Irene whimpers)
+
+336
+00:18:03,715 --> 00:18:06,485
+(dramatic music)
+
+337
+00:18:12,424 --> 00:18:14,927
+(Irene yelps)
+
+338
+00:18:17,196 --> 00:18:18,497
+Irene!
+
+339
+00:18:18,497 --> 00:18:21,233
+(dramatic music)
+
+340
+00:18:26,205 --> 00:18:28,440
+(Irene groans)
+
+341
+00:18:28,440 --> 00:18:30,008
+Priss, over here!
+
+342
+00:18:30,008 --> 00:18:32,044
+(tires screech)
+
+343
+00:18:32,044 --> 00:18:34,546
+(Linna gasps)
+
+344
+00:18:42,921 --> 00:18:43,755
+Irene.
+
+345
+00:18:44,756 --> 00:18:45,824
+- [Priss] Bitch!
+
+346
+00:18:45,824 --> 00:18:47,025
+- Priss, wait a minute.
+
+347
+00:18:47,025 --> 00:18:49,428
+Where do you think you're going?
+
+348
+00:18:49,428 --> 00:18:52,397
+I'll do this, this is my fight!
+
+349
+00:18:52,397 --> 00:18:55,901
+(dramatic music)
+
+350
+00:18:55,901 --> 00:18:58,403
+Irene, I'm sorry.
+
+351
+00:18:58,403 --> 00:19:01,106
+(dramatic music)
+
+352
+00:19:18,190 --> 00:19:20,759
+(elevator dings)
+
+353
+00:19:20,759 --> 00:19:24,363
+(intense electronic music)
+
+354
+00:19:42,247 --> 00:19:44,383
+- Mackie! (grunts)
+
+355
+00:19:44,383 --> 00:19:47,986
+(intense electronic music)
+
+356
+00:20:05,170 --> 00:20:07,739
+♪ There is a place I know
+
+357
+00:20:07,739 --> 00:20:11,977
+♪ Where all my tears are wiped away ♪
+
+358
+00:20:11,977 --> 00:20:14,846
+♪ Frozen in the scarlet haze
+
+359
+00:20:14,846 --> 00:20:17,916
+♪ Far from the danger zone
+
+360
+00:20:17,916 --> 00:20:20,719
+(truck rumbles)
+
+361
+00:20:20,719 --> 00:20:23,522
+♪ Times of trouble fade
+
+362
+00:20:23,522 --> 00:20:27,526
+♪ My worries have no meaning
+
+363
+00:20:27,526 --> 00:20:29,494
+♪ Soon it takes away the fear
+
+364
+00:20:29,494 --> 00:20:31,063
+- [Mackie] There are four Genom laboratories
+
+365
+00:20:31,063 --> 00:20:33,265
+in the Kawasaki factory zone.
+
+366
+00:20:33,265 --> 00:20:35,334
+But two of them have been closed down.
+
+367
+00:20:35,334 --> 00:20:38,337
+Activity has resumed at one of them since the explosion
+
+368
+00:20:38,337 --> 00:20:40,606
+and according to AD Police data,
+
+369
+00:20:40,606 --> 00:20:43,675
+the truck that left by gate R headed straight from that gate
+
+370
+00:20:43,675 --> 00:20:44,610
+for Kawasaki.
+
+371
+00:20:47,079 --> 00:20:49,314
+- The closed laboratory seems suspicious.
+
+372
+00:20:49,314 --> 00:20:50,716
+It was a terrible place
+
+373
+00:20:50,716 --> 00:20:52,918
+with a history of research accidents.
+
+374
+00:20:52,918 --> 00:20:55,654
+It was finally shut down after 12 people died.
+
+375
+00:20:55,654 --> 00:20:57,289
+That was six years ago.
+
+376
+00:20:57,289 --> 00:20:59,257
+- [Sylia] Boomers I'll bet.
+
+377
+00:20:59,257 --> 00:21:01,493
+- [Mackie] They were allegedly developing power sources
+
+378
+00:21:01,493 --> 00:21:04,529
+for a new resin based, biomechanical fusion system,
+
+379
+00:21:04,529 --> 00:21:07,466
+but it must've been a cover up for Boomer related work.
+
+380
+00:21:07,466 --> 00:21:08,767
+(alarm blaring)
+
+381
+00:21:08,767 --> 00:21:10,569
+- Welcome Knight Sabers.
+
+382
+00:21:10,569 --> 00:21:15,574
+Join me as we toast the birth of a super Boomer.
+
+383
+00:21:16,174 --> 00:21:19,077
+(truck thuds)
+
+384
+00:21:19,077 --> 00:21:22,314
+(mechanical arm whirs)
+
+385
+00:21:24,783 --> 00:21:26,818
+- [Sylia] Knight Sabers, it's showtime!
+
+386
+00:21:30,322 --> 00:21:32,791
+(engine revs)
+
+387
+00:21:32,791 --> 00:21:36,561
+(dramatic electronic music)
+
+388
+00:21:38,230 --> 00:21:40,298
+- [Priss] Damn, a Boomer!
+
+389
+00:21:41,833 --> 00:21:44,903
+(Priss thuds)
+
+390
+00:21:44,903 --> 00:21:46,138
+(engine rumbles)
+
+391
+00:21:46,138 --> 00:21:48,874
+(Linna whooshes)
+
+392
+00:21:50,876 --> 00:21:52,377
+- [Nene] They're somewhere between
+
+393
+00:21:52,377 --> 00:21:54,179
+the third and fifth floors but I can't figure out where.
+
+394
+00:21:54,179 --> 00:21:56,648
+- [Linna] I don't expect them to stay in just one place.
+
+395
+00:21:56,648 --> 00:21:58,283
+- [Nene] Ah-ha, now I see.
+
+396
+00:22:01,119 --> 00:22:02,387
+- [Priss] Nene!
+
+397
+00:22:04,322 --> 00:22:09,327
+(Nene screaming) (lasers blasting)
+
+398
+00:22:11,029 --> 00:22:13,532
+(Nene grunts)
+
+399
+00:22:18,136 --> 00:22:19,371
+(Boomer thuds)
+
+400
+00:22:19,371 --> 00:22:20,405
+- [Linna] Nene!
+
+401
+00:22:20,405 --> 00:22:21,740
+- [Nene] I'm okay.
+
+402
+00:22:21,740 --> 00:22:23,108
+Owie, owie, owie!
+
+403
+00:22:23,108 --> 00:22:26,378
+(fists thudding)
+
+404
+00:22:26,378 --> 00:22:28,547
+(monitor beeps)
+
+405
+00:22:28,547 --> 00:22:31,116
+(upbeat music)
+
+406
+00:22:33,585 --> 00:22:36,655
+(gun blasting)
+
+407
+00:22:36,655 --> 00:22:39,224
+(upbeat music)
+
+408
+00:22:43,562 --> 00:22:46,398
+(Boomer whooshes)
+
+409
+00:22:49,134 --> 00:22:51,937
+(lasers blasting)
+
+410
+00:22:53,405 --> 00:22:55,941
+(metal clangs)
+
+411
+00:22:58,076 --> 00:23:00,612
+(upbeat music)
+
+412
+00:23:06,585 --> 00:23:09,254
+(fire whooshes)
+
+413
+00:23:11,356 --> 00:23:13,959
+(metal clangs)
+
+414
+00:23:17,763 --> 00:23:20,432
+(pipe whooshes)
+
+415
+00:23:23,468 --> 00:23:26,138
+(gun bangs)
+
+416
+00:23:26,138 --> 00:23:28,707
+(Boomer thuds)
+
+417
+00:23:29,875 --> 00:23:34,880
+(metal rattles) (suspenseful music)
+
+418
+00:23:38,049 --> 00:23:39,484
+Something's coming!
+
+419
+00:23:39,484 --> 00:23:42,788
+(Boomer growls)
+
+420
+00:23:42,788 --> 00:23:45,824
+(metal clangs)
+
+421
+00:23:45,824 --> 00:23:48,193
+(dramatic music)
+
+422
+00:23:48,193 --> 00:23:49,394
+- [Mackie] I'm picking up transmissions
+
+423
+00:23:49,394 --> 00:23:51,296
+on the same frequency that Cynthia used.
+
+424
+00:23:51,296 --> 00:23:53,331
+It's syncing to the particle beam satellites.
+
+425
+00:23:53,331 --> 00:23:55,367
+If I can't remove the satellite from the transmission
+
+426
+00:23:55,367 --> 00:23:56,868
+frequency I don't know--
+
+427
+00:23:56,868 --> 00:23:59,571
+- [Sylia] Mackie, calm down and see what you can do!
+
+428
+00:23:59,571 --> 00:24:02,240
+(dramatic music)
+
+429
+00:24:04,943 --> 00:24:06,511
+- [Priss] You bastard!
+
+430
+00:24:06,511 --> 00:24:08,313
+Go for its head.
+
+431
+00:24:08,313 --> 00:24:11,783
+(dramatic music)
+
+432
+00:24:11,783 --> 00:24:14,619
+(explosion booms)
+
+433
+00:24:16,521 --> 00:24:19,524
+(laser blasts)
+
+434
+00:24:19,524 --> 00:24:22,260
+(dramatic music)
+
+435
+00:24:27,265 --> 00:24:28,800
+- [Mackie] The particle beam satellites,
+
+436
+00:24:28,800 --> 00:24:30,502
+they lost target lock but they're still operational.
+
+437
+00:24:30,502 --> 00:24:31,736
+- [Priss] I don't believe it.
+
+438
+00:24:31,736 --> 00:24:32,971
+- [Mackie] Well you better believe it.
+
+439
+00:24:32,971 --> 00:24:34,406
+- [Priss] No choice, the knuckle bomb.
+
+440
+00:24:35,907 --> 00:24:38,310
+- [Mackie] The satellites, they're locking on target.
+
+441
+00:24:38,310 --> 00:24:40,212
+- [Priss] Linna, outta my way!
+
+442
+00:24:40,212 --> 00:24:42,714
+(dramatic music)
+
+443
+00:24:42,714 --> 00:24:45,717
+(explosion booming)
+
+444
+00:25:02,167 --> 00:25:03,101
+- [Mackie] The particle beam satellites
+
+445
+00:25:03,101 --> 00:25:04,369
+seem to be standing down.
+
+446
+00:25:04,369 --> 00:25:06,037
+- [Nene] The Black Box has gone up in smoke.
+
+447
+00:25:06,037 --> 00:25:07,606
+- [Linna] It's best this way.
+
+448
+00:25:07,606 --> 00:25:08,840
+- [Nene] Huh?
+
+449
+00:25:08,840 --> 00:25:11,176
+What about our 20 million, Linna?
+
+450
+00:25:13,111 --> 00:25:15,547
+(fire roars)
+
+451
+00:25:19,251 --> 00:25:21,920
+- [Reporter] Commander Schwartz of the scandal plagued USSD
+
+452
+00:25:21,920 --> 00:25:24,055
+announced his resignation a short time ago.
+
+453
+00:25:24,055 --> 00:25:25,156
+His successor.
+
+454
+00:25:34,666 --> 00:25:38,336
+(\"Kizudarake no Wild\")
+
+455
+00:25:38,336 --> 00:25:41,006
+(upbeat music)
+
+456
+00:25:56,655 --> 00:25:57,822
+♪ Shattered dreams
+
+457
+00:25:57,822 --> 00:25:59,691
+♪ Broken hearts
+
+458
+00:25:59,691 --> 00:26:04,629
+♪ That were once my crystal castles in the sky ♪
+
+459
+00:26:05,263 --> 00:26:07,232
+♪ Washed away
+
+460
+00:26:07,232 --> 00:26:12,103
+♪ By the tears, so bitterly I've cried ♪
+
+461
+00:26:12,103 --> 00:26:15,740
+♪ I'm not the only one
+
+462
+00:26:15,740 --> 00:26:18,743
+♪ In this sea of light
+
+463
+00:26:18,743 --> 00:26:23,748
+♪ Having pain in my heart
+
+464
+00:26:24,582 --> 00:26:26,651
+♪ Midnight dreaming
+
+465
+00:26:26,651 --> 00:26:31,656
+♪ There is no peace out in the angry city streets ♪
+
+466
+00:26:33,325 --> 00:26:38,330
+♪ I hear them stirring in my memory ♪
+
+467
+00:26:39,397 --> 00:26:41,466
+♪ They keep on calling
+
+468
+00:26:41,466 --> 00:26:43,601
+♪ I won't give in
+
+469
+00:26:43,601 --> 00:26:48,139
+♪ This race with time will never end ♪
+
+470
+00:26:48,139 --> 00:26:53,144
+♪ Those demons from the past tormenting me ♪
+
+471
+00:26:55,613 --> 00:26:57,849
+♪ Teardrops
+
+472
+00:26:57,849 --> 00:27:02,654
+♪ No longer hide the courage deep inside ♪
+
+473
+00:27:02,654 --> 00:27:06,257
+♪ I'm running free, I was born to be ♪
+
+474
+00:27:06,257 --> 00:27:09,427
+♪ Wild at heart
+
+475
+00:27:09,427 --> 00:27:12,030
+(upbeat music)
+
+476
+00:27:29,581 --> 00:27:34,586
+♪ We just seek love out in these angry city streets ♪
+
+477
+00:27:36,121 --> 00:27:41,126
+♪ Though unseen walls may try and block the way ♪
+
+478
+00:27:42,293 --> 00:27:44,329
+♪ They keep on falling
+
+479
+00:27:44,329 --> 00:27:46,297
+♪ I won't give in
+
+480
+00:27:46,297 --> 00:27:51,169
+♪ Because I know that in the end ♪
+
+481
+00:27:51,169 --> 00:27:56,174
+♪ Tenderness is the gift pain gives to me ♪
+
+482
+00:27:58,476 --> 00:28:00,779
+♪ Nevermind
+
+483
+00:28:00,779 --> 00:28:05,483
+♪ I've learned to fly with wings though weak and scarred ♪
+
+484
+00:28:05,483 --> 00:28:10,488
+♪ I'm running free, I was born to be wild at heart ♪
+

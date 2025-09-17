@@ -1,0 +1,1455 @@
+﻿1
+00:01:49,849 --> 00:01:54,688
+{\an8}[GAMILIAN RECON
+speaking Gamilan]
+
+2
+00:01:58,191 --> 00:02:00,360
+[KOBASHI] So we're
+restricted to visual range?
+
+3
+00:02:00,443 --> 00:02:02,278
+Talk about old school!
+
+4
+00:02:07,117 --> 00:02:08,368
+[KOBASHI]
+Captain!
+
+5
+00:02:08,451 --> 00:02:10,453
+[KATO] Yeah, I see 'em.
+Time to greet our guests.
+
+6
+00:02:10,537 --> 00:02:12,330
+Don't let them kill you.
+You kill them!
+
+7
+00:02:12,414 --> 00:02:13,665
+[FALCON PILOTS]
+Yes, sir!
+
+8
+00:02:20,672 --> 00:02:24,217
+{\an8}[SNUKA PILOT speaking Gamilan]
+
+9
+00:02:26,177 --> 00:02:28,972
+[BRIDGE OFFICER A] Attack Force
+Group Two, launch immediately.
+
+10
+00:02:29,055 --> 00:02:32,392
+Repeat: Attack Force Group Two,
+launch immediately.
+
+11
+00:02:51,119 --> 00:02:53,496
+[BERGER]
+Fomt Berger, launching.
+
+12
+00:03:09,596 --> 00:03:11,806
+[BRIDGE OFFICER A] Attack Force
+Group Two is in position.
+
+13
+00:03:11,890 --> 00:03:14,017
+Activating Matter
+Transfer System!
+
+14
+00:03:14,100 --> 00:03:19,314
+Inputting recon data now, sir.
+Coordinates: Over their ship.
+
+15
+00:03:19,397 --> 00:03:22,692
+Matter Transfer Waves
+calibrated and ready.
+
+16
+00:03:22,776 --> 00:03:24,110
+Then fire!
+
+17
+00:03:44,297 --> 00:03:46,633
+[BERGER]
+There they are.
+
+18
+00:03:46,716 --> 00:03:48,968
+[gasps] They're
+right over us, sir!
+
+19
+00:03:49,052 --> 00:03:50,053
+[OKITA]
+Huh?
+
+20
+00:04:08,822 --> 00:04:10,365
+[NAV. OFFICER A]
+Direct hit!
+
+21
+00:04:12,701 --> 00:04:14,119
+--[SHIMA] Damage control!
+--[OTA] Torpedoes coming fast!
+
+22
+00:04:14,202 --> 00:04:16,204
+Gunners, AA formation!
+
+23
+00:04:21,292 --> 00:04:23,253
+Maintain a wall of fire!
+
+24
+00:04:25,130 --> 00:04:27,298
+Secondary Gunport One is hit!
+
+25
+00:04:27,382 --> 00:04:28,466
+Damn it!
+
+26
+00:04:28,550 --> 00:04:31,678
+[YAMAMOTO]
+Yamamoto to Bridge.
+
+27
+00:04:31,761 --> 00:04:33,972
+Alpha Two launching now.
+
+28
+00:04:39,978 --> 00:04:42,147
+[BERGER]
+Melhi, you target the catapult.
+
+29
+00:04:42,230 --> 00:04:44,190
+I'll knock out their eyes.
+
+30
+00:04:51,865 --> 00:04:53,450
+[BERGER]
+We don't want to sink it. Yet.
+
+31
+00:04:53,533 --> 00:04:54,284
+[CO-PILOT A]
+Enemy behind us!
+
+32
+00:04:54,367 --> 00:04:55,744
+[BERGER]
+Huh?
+
+33
+00:04:55,827 --> 00:04:57,662
+I won't let you get
+away with this!
+
+34
+00:04:57,746 --> 00:04:59,080
+[OTA] Port-side catapult
+has been destroyed!
+
+35
+00:04:59,164 --> 00:04:59,998
+[SAIJO]
+Radar, system hit!
+
+36
+00:05:00,081 --> 00:05:01,541
+[KODAI]
+Gunners, keep firing!
+
+37
+00:05:01,624 --> 00:05:03,918
+[AIHARA] <i>Yamato</i> to all
+fighters! Do you copy?
+
+38
+00:05:04,002 --> 00:05:06,046
+This is the <i>Yamato</i>
+with a change of orders.
+
+39
+00:05:06,129 --> 00:05:07,589
+We are under surprise attack!
+
+40
+00:05:07,672 --> 00:05:10,258
+All fighters are to return
+immediately to close perimeter
+
+41
+00:05:10,342 --> 00:05:11,426
+and defend the <i>Yamato</i> !
+
+42
+00:05:11,509 --> 00:05:14,220
+[KATO]
+What? We're chasing decoys?
+
+43
+00:05:14,304 --> 00:05:15,847
+[KOBASHI]
+Captain, what do we do?
+
+44
+00:05:15,930 --> 00:05:18,767
+[PILOT screams]
+
+45
+00:05:18,850 --> 00:05:20,810
+[DAIKUHARA] Don't lose
+your nerve, Kobashi.
+
+46
+00:05:20,894 --> 00:05:23,063
+I'll shoot down
+anyone on your tail!
+
+47
+00:05:29,611 --> 00:05:30,945
+[KOBASHI]
+Daikuhara's down!
+
+48
+00:05:31,029 --> 00:05:32,906
+[gasps]
+
+49
+00:05:32,989 --> 00:05:35,075
+[KATO]
+Akira, keep 'em busy!
+
+50
+00:05:51,132 --> 00:05:52,384
+[CO-PILOT A]
+That was one Fighter?
+
+51
+00:05:52,467 --> 00:05:55,345
+[BERGER] Doesn't matter.
+Our job's done. Withdraw.
+
+52
+00:05:59,516 --> 00:06:01,643
+Their fighter
+group's retreating.
+
+53
+00:06:01,726 --> 00:06:03,103
+[ENOMOTO]
+Bridge Three to Bridge One.
+
+54
+00:06:03,186 --> 00:06:04,229
+Our converter's shot.
+
+55
+00:06:04,312 --> 00:06:06,731
+We cannot deploy
+Wave Motion Shields.
+
+56
+00:06:06,815 --> 00:06:08,149
+If we don't patch this,
+
+57
+00:06:08,233 --> 00:06:10,652
+it's going to affect
+inertial control.
+
+58
+00:06:10,735 --> 00:06:12,570
+I'll go supervise repairs.
+
+59
+00:06:12,654 --> 00:06:14,364
+But those fighters came
+down out of nowhere.
+
+60
+00:06:14,447 --> 00:06:15,740
+How'd they do that?
+
+61
+00:06:15,824 --> 00:06:17,659
+[OKITA]
+They warped.
+
+62
+00:06:17,742 --> 00:06:18,993
+There's no way.
+
+63
+00:06:19,077 --> 00:06:21,371
+Those small fighters could
+never hold a warp drive.
+
+64
+00:06:21,454 --> 00:06:24,791
+You can't win if you only rely
+on what you think you know.
+
+65
+00:06:24,874 --> 00:06:27,585
+They've got one hell
+of a commander.
+
+66
+00:06:30,463 --> 00:06:33,466
+Excellent bit of flying, Berger.
+
+67
+00:06:33,550 --> 00:06:36,052
+Surface the ship and
+release our guests.
+
+68
+00:06:41,016 --> 00:06:43,643
+[BELLGER]
+Remember that face, soldiers.
+
+69
+00:06:43,727 --> 00:06:45,854
+I gotta say, she's beautiful.
+
+70
+00:06:45,937 --> 00:06:47,689
+Well, that's nobility for you.
+
+71
+00:06:47,772 --> 00:06:48,648
+[RAITSCH]
+Hm.
+
+72
+00:06:48,732 --> 00:06:50,358
+Don't fall in love, Norran.
+
+73
+00:06:50,442 --> 00:06:51,901
+[ORTSCHETT grunts]
+
+74
+00:06:51,985 --> 00:06:53,194
+[ORTSCHETT]
+I'm not!
+
+75
+00:07:34,527 --> 00:07:35,695
+[AIHARA]
+All damage teams,
+
+76
+00:07:35,779 --> 00:07:37,989
+full priority to Bridge
+Three converter...
+
+77
+00:07:38,073 --> 00:07:40,283
+Norran, stay here and
+keep that airlock secure
+
+78
+00:07:40,367 --> 00:07:41,659
+until we get back.
+
+79
+00:07:41,743 --> 00:07:43,203
+Zar Belk.
+
+80
+00:07:45,830 --> 00:07:47,082
+[HEYDELN]
+So tell me, Barlen.
+
+81
+00:07:47,165 --> 00:07:49,751
+How does it feel sittin'
+in the pilot seat again?
+
+82
+00:07:49,834 --> 00:07:51,044
+[BARLEN]
+Feels wonderful.
+
+83
+00:07:51,127 --> 00:07:53,672
+I may be all scars and
+wrinkles on the outside,
+
+84
+00:07:53,755 --> 00:07:56,132
+but I'm still as sharp
+as the day I enlisted.
+
+85
+00:07:56,216 --> 00:07:59,135
+[HEYDELN laughs]
+
+86
+00:07:59,219 --> 00:08:01,346
+<i>Garlent</i> primed and launching.
+
+87
+00:08:13,983 --> 00:08:15,485
+[OKITA]
+That was only the start.
+
+88
+00:08:15,568 --> 00:08:17,862
+Their commander will
+have more surprises.
+
+89
+00:08:17,946 --> 00:08:20,365
+Everyone stay on the
+lookout for the next one.
+
+90
+00:08:20,448 --> 00:08:23,076
+How can we, sir?
+Our sensors are down.
+
+91
+00:08:23,159 --> 00:08:25,286
+With the <i>Yamato</i> flying
+blind and deaf now,
+
+92
+00:08:25,370 --> 00:08:27,747
+our human senses are
+all we can rely on.
+
+93
+00:08:27,831 --> 00:08:30,583
+That and our wits.
+
+94
+00:08:30,667 --> 00:08:34,462
+There should be a current
+of ion turbulence nearby.
+
+95
+00:08:34,546 --> 00:08:37,048
+Use the data we've already
+gathered to find it.
+
+96
+00:08:37,132 --> 00:08:38,299
+[OTA, KIRYU]
+Yes, sir.
+
+97
+00:08:40,677 --> 00:08:42,387
+Hostile! Dead ahead!
+
+98
+00:08:45,348 --> 00:08:46,808
+[BARLEN]
+Here's your gift, Terons!
+
+99
+00:08:46,891 --> 00:08:48,476
+Hope you like it!
+
+100
+00:09:02,699 --> 00:09:04,117
+[KODAI]
+A dud?
+
+101
+00:09:04,200 --> 00:09:06,327
+[BARLEN]
+The present has been delivered.
+
+102
+00:09:06,411 --> 00:09:08,747
+We're on our way back--
+
+103
+00:09:08,830 --> 00:09:10,331
+You're finished!
+
+104
+00:09:16,963 --> 00:09:18,673
+[ALL yell]
+
+105
+00:09:26,765 --> 00:09:28,725
+[IWATA]
+Okay! To the windows!
+
+106
+00:09:28,808 --> 00:09:29,309
+[TACTICAL OFFICERS]
+Right!
+
+107
+00:09:29,392 --> 00:09:30,769
+Yurisha!
+
+108
+00:09:30,852 --> 00:09:31,811
+[YURISHA]
+Hoshina.
+
+109
+00:09:31,895 --> 00:09:32,937
+They could come from
+any direction...
+
+110
+00:09:33,021 --> 00:09:35,774
+It's dangerous here.
+They could attack.
+
+111
+00:09:35,857 --> 00:09:37,067
+[TACTICAL OFFICERS]
+Yes, sir!
+
+112
+00:09:38,568 --> 00:09:40,153
+Be careful.
+
+113
+00:09:40,236 --> 00:09:42,447
+What is that? A bomb?
+
+114
+00:09:42,530 --> 00:09:44,741
+[KIRYU] Sending report
+on dud to Bridge Three.
+
+115
+00:09:44,824 --> 00:09:47,619
+[NANBU] Wave Motion Gun
+Control Room, report.
+
+116
+00:10:02,425 --> 00:10:05,637
+Captain! It's moving
+towards the gun's chamber!
+
+117
+00:10:05,720 --> 00:10:07,222
+[WAVE GUN CM A]
+Chamber pressure dropping!
+
+118
+00:10:07,305 --> 00:10:09,724
+[WAVE GUN CM B]
+Close the safety valves, now!
+
+119
+00:10:11,267 --> 00:10:13,311
+[WAVE GUN CM C]
+Watch out! Hurry!
+
+120
+00:10:22,278 --> 00:10:24,239
+[BRIDGE 3 OFFICER A]
+Inertial control is down.
+
+121
+00:10:24,322 --> 00:10:26,658
+[ENOMOTO] I guess it
+wasn't a dud, after all.
+
+122
+00:10:26,741 --> 00:10:28,952
+[SANADA]
+Most likely a delay fuse.
+
+123
+00:10:29,035 --> 00:10:30,453
+[ENOMOTO]
+This is bad.
+
+124
+00:10:31,788 --> 00:10:34,040
+[SANADA]
+This is Sanada, on Bridge Three.
+
+125
+00:10:34,124 --> 00:10:35,208
+Go ahead.
+
+126
+00:10:35,291 --> 00:10:37,085
+I have a suggestion.
+
+127
+00:10:43,675 --> 00:10:45,301
+[AIHARA] All available
+crewmembers not assigned
+
+128
+00:10:45,385 --> 00:10:47,554
+to damage teams or
+active battle stations
+
+129
+00:10:47,637 --> 00:10:49,597
+are needed for
+emergency watch duty.
+
+130
+00:10:49,681 --> 00:10:51,224
+Position yourselves at
+stations with exterior...
+
+131
+00:10:51,307 --> 00:10:52,892
+[HOSHINA]
+Hey. Hold up.
+
+132
+00:10:54,019 --> 00:10:56,771
+Don't think we've met before.
+Where're you stationed?
+
+133
+00:10:56,855 --> 00:10:59,524
+[BELLGER]
+Oh, uh. Me?
+
+134
+00:10:59,607 --> 00:11:00,650
+[gasps]
+
+135
+00:11:00,734 --> 00:11:02,444
+[KIRYU]
+Gunfire on Deck Six!
+
+136
+00:11:02,527 --> 00:11:04,946
+Sound print matches
+Gamilan weapon, sir!
+
+137
+00:11:05,030 --> 00:11:06,990
+Send security to investigate.
+
+138
+00:11:07,073 --> 00:11:08,658
+Kodai, take command.
+
+139
+00:11:08,742 --> 00:11:09,826
+Yes, sir!
+
+140
+00:11:20,211 --> 00:11:21,921
+[YURISHA]
+Hoshina!
+
+141
+00:11:22,005 --> 00:11:25,091
+No!
+
+142
+00:11:29,304 --> 00:11:31,264
+They've seen our faces.
+
+143
+00:11:31,348 --> 00:11:32,974
+[MORI]
+Hey, what's going on here?
+
+144
+00:11:35,810 --> 00:11:38,396
+It's the Iscandarian.
+
+145
+00:11:38,480 --> 00:11:39,939
+[RAITSCH]
+Sorry about this.
+
+146
+00:11:43,276 --> 00:11:44,444
+[RAITSCH]
+Got her.
+
+147
+00:12:01,878 --> 00:12:03,380
+[ANALYZER]
+I am surprised that this weapon
+
+148
+00:12:03,463 --> 00:12:05,465
+could be infiltrated so easily.
+
+149
+00:12:05,548 --> 00:12:08,009
+[NIIMI] Probably because it
+wasn't built as a weapon.
+
+150
+00:12:08,093 --> 00:12:10,011
+I think they converted
+existing tech
+
+151
+00:12:10,095 --> 00:12:11,721
+that wasn't designed
+for warfare.
+
+152
+00:12:11,805 --> 00:12:13,973
+[ANALYZER]
+A logical conclusion.
+
+153
+00:12:14,057 --> 00:12:16,685
+Seems the enemy's
+starting to get desperate.
+
+154
+00:12:16,768 --> 00:12:18,395
+[chuckles]
+
+155
+00:12:18,478 --> 00:12:20,230
+But then, so are we.
+
+156
+00:12:25,026 --> 00:12:26,111
+[yells]
+
+157
+00:12:26,194 --> 00:12:28,321
+Stop it! Get off me!
+
+158
+00:12:31,741 --> 00:12:33,868
+[SAWAMURA]
+You okay, rookie?
+
+159
+00:12:33,952 --> 00:12:34,869
+Sawamura?
+
+160
+00:12:34,953 --> 00:12:36,621
+[SAWAMURA]
+Don't push yourself.
+
+161
+00:12:39,416 --> 00:12:41,376
+[SAWAMURA]
+Enemy ship, ten o'clock!
+
+162
+00:12:43,503 --> 00:12:45,088
+[KOBASHI]
+That's a carrier.
+
+163
+00:12:46,464 --> 00:12:47,590
+[SAWAMURA]
+Kobashi, wait!
+
+164
+00:12:47,674 --> 00:12:48,550
+[KOBASHI]
+I've got this!
+
+165
+00:12:48,633 --> 00:12:50,885
+[SAWAMURA]
+Kobashi! Abort!
+
+166
+00:12:50,969 --> 00:12:53,388
+I'm no coward,
+and I'm gonna prove it!
+
+167
+00:12:55,265 --> 00:12:56,683
+[BRIDGE OFFICER C]
+Enemy approaching portside!
+
+168
+00:12:56,766 --> 00:12:58,977
+Fire anti-air weapons!
+
+169
+00:13:04,816 --> 00:13:06,192
+Mother!
+
+170
+00:13:09,195 --> 00:13:10,739
+Kobashi!
+
+171
+00:13:18,163 --> 00:13:19,539
+Damn it!
+
+172
+00:13:46,316 --> 00:13:47,609
+[KATO]
+Not bad.
+
+173
+00:13:51,363 --> 00:13:54,824
+{\an8}[GETTO speaking Gamilan]
+
+174
+00:13:54,908 --> 00:13:57,410
+{\an8}[SNUKA PILOT B speaking Gamilan]
+
+175
+00:13:57,494 --> 00:13:58,828
+{\an8}[GETTO speaking Gamilan]
+
+176
+00:14:01,790 --> 00:14:03,416
+{\an8}[GETTO speaking Gamilan]
+
+177
+00:14:03,500 --> 00:14:04,959
+[KATO]
+You're mine!
+
+178
+00:14:07,379 --> 00:14:09,547
+{\an8}[GETTO speaking Gamilan]
+
+179
+00:14:23,019 --> 00:14:24,312
+I can help.
+
+180
+00:14:27,190 --> 00:14:29,025
+[KODAI]
+Gamilan soldiers?
+
+181
+00:14:29,109 --> 00:14:29,651
+[KODAI gasps]
+
+182
+00:14:29,734 --> 00:14:30,735
+Mori!
+
+183
+00:14:33,405 --> 00:14:34,572
+Get her to the ship!
+
+184
+00:14:34,656 --> 00:14:36,658
+[ORTSCHETT]
+Yes, sir!
+
+185
+00:14:36,741 --> 00:14:38,952
+[SECURITY C] Security to Bridge,
+Gamilans are onboard!
+
+186
+00:14:39,035 --> 00:14:40,286
+Captain!
+
+187
+00:14:45,000 --> 00:14:46,668
+Uh! No!
+
+188
+00:14:46,751 --> 00:14:48,795
+Captain Gelt!
+
+189
+00:14:48,878 --> 00:14:51,548
+Go, Norran. Escape!
+
+190
+00:14:51,631 --> 00:14:54,384
+Fulfill our mission,
+and make Zaltz proud!
+
+191
+00:15:01,099 --> 00:15:03,226
+Long live, Zaltz!
+
+192
+00:15:06,396 --> 00:15:07,605
+Yuki!
+
+193
+00:15:09,190 --> 00:15:11,359
+No, Yuki! Yuki!
+
+194
+00:15:14,154 --> 00:15:19,075
+[FLAKEN] Surface. Let's pick
+up our little suckerfish.
+
+195
+00:15:37,302 --> 00:15:39,888
+What do I do? What do I do?
+
+196
+00:15:43,767 --> 00:15:45,352
+[KODAI]
+Yuki!
+
+197
+00:15:47,729 --> 00:15:49,522
+[BRIDGE OFFICER A] Encrypted
+message from the <i>Hound</i> .
+
+198
+00:15:49,606 --> 00:15:51,775
+The suckerfish has our target.
+
+199
+00:15:53,401 --> 00:15:56,237
+Schderg requesting permission
+to launch the attack teams.
+
+200
+00:15:56,321 --> 00:15:57,781
+Shall we, sir?
+
+201
+00:15:57,864 --> 00:15:59,032
+[DOMEL]
+When that drill explodes,
+
+202
+00:15:59,115 --> 00:16:01,159
+the <i>Yamato</i> should
+be ripped apart.
+
+203
+00:16:01,242 --> 00:16:03,161
+But there are no
+certainties in battle.
+
+204
+00:16:03,244 --> 00:16:04,245
+We'll send out the bombers
+
+205
+00:16:04,329 --> 00:16:07,248
+in case they need
+to finish the job.
+
+206
+00:16:07,332 --> 00:16:10,335
+Attack Force Group Three.
+Launch when ready!
+
+207
+00:16:32,691 --> 00:16:37,112
+[NIIMI] Niimi to Bridge. The
+detonator has been disabled.
+
+208
+00:16:37,195 --> 00:16:40,782
+Well done. You may
+have saved the ship.
+
+209
+00:16:41,908 --> 00:16:43,368
+[ANALYZER]
+Good job.
+
+210
+00:17:12,647 --> 00:17:14,357
+Die, Gamilans!
+
+211
+00:17:19,821 --> 00:17:22,365
+[SCIENCE DIV. OFFICERS scream]
+
+212
+00:17:32,417 --> 00:17:35,754
+[KATO] Damn it.
+You'll all pay for this!
+
+213
+00:17:39,174 --> 00:17:42,677
+[KRAITZE] Attack Force Group
+Three requesting reinforcements!
+
+214
+00:17:42,761 --> 00:17:46,389
+Enemy fighters have engaged,
+they're coming down strong!
+
+215
+00:17:46,473 --> 00:17:47,891
+You're dead!
+
+216
+00:17:54,439 --> 00:17:56,066
+General?
+
+217
+00:17:56,149 --> 00:17:59,903
+Evidently the gods want me
+to finish the <i>Yamato</i> myself.
+
+218
+00:18:01,112 --> 00:18:03,656
+Then I shall do their bidding.
+
+219
+00:18:03,740 --> 00:18:05,658
+Order fleet to strike!
+
+220
+00:18:14,542 --> 00:18:16,586
+Mooring Cosmo Zero!
+
+221
+00:18:16,670 --> 00:18:18,880
+[SAIJO]
+The fighters have returned, sir.
+
+222
+00:18:18,963 --> 00:18:22,217
+Twelve were lost.
+
+223
+00:18:22,300 --> 00:18:24,219
+Get them ready for re-launch.
+
+224
+00:18:24,302 --> 00:18:27,639
+Ota, did you find
+that ion current?
+
+225
+00:18:27,722 --> 00:18:29,140
+[OTA]
+Yes, sir.
+
+226
+00:18:29,224 --> 00:18:32,977
+[IWATA] Watch Team to Bridge.
+Enemy ships to starboard!
+
+227
+00:18:36,356 --> 00:18:38,274
+[OKITA]
+So they've come.
+
+228
+00:18:46,658 --> 00:18:47,659
+[NIIMI]
+Analyzer!
+
+229
+00:18:47,742 --> 00:18:49,202
+[ANALYZER]
+Go on.
+
+230
+00:19:09,014 --> 00:19:13,018
+Turn the ship! Forty
+to port! Combat Speed!
+
+231
+00:19:13,101 --> 00:19:15,770
+But, sir! That'll take
+us to the ion current!
+
+232
+00:19:15,854 --> 00:19:18,106
+If the storm sucks us in,
+we'll be helpless!
+
+233
+00:19:18,189 --> 00:19:19,649
+That's an order, Lieutenant!
+
+234
+00:19:19,733 --> 00:19:21,067
+Uh. Right!
+
+235
+00:19:21,151 --> 00:19:23,486
+Changing course
+40 degrees to port.
+
+236
+00:19:27,073 --> 00:19:29,200
+[OKITA] Ota, send that
+drill's flight path
+
+237
+00:19:29,284 --> 00:19:30,660
+to the weapons officer.
+
+238
+00:19:30,744 --> 00:19:32,203
+[OTA]
+Aye-aye!
+
+239
+00:19:32,287 --> 00:19:33,997
+[OKITA] Nanbu, when its axis
+lines up with the enemy fleet,
+
+240
+00:19:34,080 --> 00:19:35,373
+light it up.
+
+241
+00:19:35,457 --> 00:19:36,374
+Sir!
+
+242
+00:19:36,458 --> 00:19:38,585
+It's a tough shot,
+sir. Don't miss!
+
+243
+00:19:38,668 --> 00:19:41,755
+Don't you worry.
+Guns are my specialty.
+
+244
+00:19:48,053 --> 00:19:49,387
+[BARECK]
+Evade!
+
+245
+00:20:02,108 --> 00:20:03,109
+[LAMBEA CM A]
+The <i>Schderg</i> is down!
+
+246
+00:20:03,193 --> 00:20:04,110
+Just stay calm!
+
+247
+00:20:04,194 --> 00:20:05,403
+[LAMBEA OFFICER A]
+Enemy is firing!
+
+248
+00:20:05,487 --> 00:20:07,155
+[BERGER]
+Send me out there! Now!
+
+249
+00:20:07,238 --> 00:20:08,531
+Don't be a fool!
+
+250
+00:20:08,615 --> 00:20:10,200
+I want revenge!
+
+251
+00:20:14,079 --> 00:20:16,956
+Damn it! It can't
+end this way!
+
+252
+00:20:27,008 --> 00:20:27,967
+[HEYDELN]
+Berger!
+
+253
+00:20:28,051 --> 00:20:30,011
+All cannons fire!
+
+254
+00:20:34,808 --> 00:20:36,101
+Fire!
+
+255
+00:20:44,484 --> 00:20:45,902
+[BRIDGE OFFICER A]
+Direct hit!
+
+256
+00:20:45,985 --> 00:20:47,529
+Keep calm, and fire!
+
+257
+00:20:47,612 --> 00:20:50,490
+Concentrate everything
+we've got left on that ship!
+
+258
+00:20:57,080 --> 00:21:00,667
+I told you, keep
+firing! Now what?
+
+259
+00:21:03,044 --> 00:21:04,671
+Right the ship, now!
+
+260
+00:21:04,754 --> 00:21:05,797
+[BRIDGE OFFICER A]
+We can't, sir!
+
+261
+00:21:05,880 --> 00:21:07,340
+We're caught in the ion current!
+
+262
+00:21:07,424 --> 00:21:09,050
+That was their plan?
+
+263
+00:21:14,514 --> 00:21:17,183
+The ion storm current
+has caught them, sir!
+
+264
+00:21:18,476 --> 00:21:20,020
+[DOMEL]
+Of course.
+
+265
+00:21:20,103 --> 00:21:22,522
+They lured me into this trap.
+
+266
+00:21:25,817 --> 00:21:27,485
+I let my arrogance consume me
+
+267
+00:21:27,569 --> 00:21:30,196
+and tried to destroy
+the <i>Yamato</i> myself.
+
+268
+00:21:30,280 --> 00:21:31,781
+It's my fault.
+
+269
+00:21:31,865 --> 00:21:34,409
+In the final hour,
+I made a fatal mistake.
+
+270
+00:21:34,492 --> 00:21:35,910
+[BRIDGE OFFICER B]
+Engine output dropping!
+
+271
+00:21:35,994 --> 00:21:37,162
+[HEYDELN]
+Turn to port!
+
+272
+00:21:37,245 --> 00:21:38,079
+[BRIDGE OFFICER B]
+The helm's not responding!
+
+273
+00:21:38,163 --> 00:21:40,373
+We've lost control of the ship!
+
+274
+00:21:40,457 --> 00:21:45,295
+[DOMEL]
+Elk Domel, ID-17492-Zeku.
+
+275
+00:21:45,378 --> 00:21:46,963
+[HEYDELN]
+General, don't.
+
+276
+00:21:47,047 --> 00:21:50,216
+This is now a battle
+between them and me.
+
+277
+00:21:50,300 --> 00:21:52,469
+All crew abandon ship!
+
+278
+00:21:56,556 --> 00:21:57,807
+[chuckles]
+
+279
+00:21:57,891 --> 00:21:59,225
+Looks like we're all going
+to be court-martialed
+
+280
+00:21:59,309 --> 00:22:01,728
+for disobeying orders, sir.
+
+281
+00:22:16,117 --> 00:22:18,161
+[HEYDELN]
+Prepare to fire anchors!
+
+282
+00:22:26,670 --> 00:22:29,089
+It sounds like we
+have a new problem.
+
+283
+00:22:29,172 --> 00:22:30,715
+I'm almost finished.
+
+284
+00:22:30,799 --> 00:22:32,759
+[KIRYU] An enemy vessel
+has latched onto us.
+
+285
+00:22:32,842 --> 00:22:34,135
+[beeping]
+
+286
+00:22:34,219 --> 00:22:36,805
+The enemy ship
+is hailing us, sir.
+
+287
+00:22:36,888 --> 00:22:37,931
+Video transmission.
+
+288
+00:22:38,014 --> 00:22:39,391
+On screen.
+
+289
+00:22:45,397 --> 00:22:47,732
+Let me speak to your captain.
+
+290
+00:22:47,816 --> 00:22:51,403
+You're speaking to the captain
+right now. Juzo Okita.
+
+291
+00:22:51,486 --> 00:22:52,737
+Greetings.
+
+292
+00:22:52,821 --> 00:22:54,864
+I'm Commander of the Milky
+Way Galactic Theater,
+
+293
+00:22:54,948 --> 00:22:56,408
+Elk Domel.
+
+294
+00:22:57,909 --> 00:23:00,120
+I've been looking
+forward to this moment.
+
+295
+00:23:00,203 --> 00:23:03,456
+Glad to hear it.
+Because I feel the same way.
+
+296
+00:23:03,540 --> 00:23:07,127
+Captain Okita, allow me
+to express my admiration
+
+297
+00:23:07,210 --> 00:23:09,129
+for your exemplary command.
+
+298
+00:23:09,212 --> 00:23:12,382
+Commander Domel,
+this battle is over.
+
+299
+00:23:12,465 --> 00:23:15,677
+I'd like to avoid more
+bloodshed if we can.
+
+300
+00:23:15,760 --> 00:23:19,097
+Let us pass, and we will
+not fire on your ship.
+
+301
+00:23:20,849 --> 00:23:23,018
+I can't do that.
+
+302
+00:23:23,101 --> 00:23:25,937
+As a fellow leader,
+I'd think you'd understand.
+
+303
+00:23:26,021 --> 00:23:28,189
+If I allow the
+<i>Yamato</i> safe passage,
+
+304
+00:23:28,273 --> 00:23:30,316
+then all my men who have
+given their lives today
+
+305
+00:23:30,400 --> 00:23:32,652
+will have done so in vain.
+
+306
+00:23:32,736 --> 00:23:37,657
+Captain Okita, as a soldier--
+no, more than that--as a man,
+
+307
+00:23:37,741 --> 00:23:39,743
+I'm proud to have faced
+an opponent like you
+
+308
+00:23:39,826 --> 00:23:41,077
+before my death.
+
+309
+00:23:41,161 --> 00:23:42,996
+It was a true honor.
+
+310
+00:23:44,205 --> 00:23:46,958
+Bless the Terons,
+and Gamilans alike,
+
+311
+00:23:47,042 --> 00:23:49,961
+as we die in this battle.
+
+312
+00:23:50,045 --> 00:23:52,005
+The enemy's going
+to self-destruct.
+
+313
+00:23:52,088 --> 00:23:55,008
+All crew on the lower
+decks evacuate!
+
+314
+00:24:08,229 --> 00:24:09,731
+Oh, Elk.
+
+315
+00:24:24,371 --> 00:24:26,164
+Did we really make it?
+

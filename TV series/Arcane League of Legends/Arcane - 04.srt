@@ -1,0 +1,1610 @@
+﻿1
+00:00:16,653 --> 00:00:17,868
+You wanted to see me, Professor?
+
+2
+00:00:17,892 --> 00:00:19,695
+Ah. Come in, Jayce.
+
+3
+00:00:20,337 --> 00:00:21,603
+Can you believe it?
+
+4
+00:00:21,718 --> 00:00:24,728
+Our city is about to turn 200 years old.
+
+5
+00:00:25,637 --> 00:00:26,876
+A bicentennial.
+
+6
+00:00:27,999 --> 00:00:30,872
+It's shaping up to be an amazing Progress Day.
+
+7
+00:00:34,809 --> 00:00:39,754
+"Stanwick Padidly"? Huh, I don't know much about him.
+
+8
+00:00:39,954 --> 00:00:44,091
+Everything he built either
+exploded, melted, or toppled over.
+
+9
+00:00:44,470 --> 00:00:46,639
+And yet, here he stands.
+
+10
+00:00:47,921 --> 00:00:50,904
+Stanwick set his personal ambitions aside
+
+11
+00:00:51,129 --> 00:00:53,559
+and focused on something far more important.
+
+12
+00:00:54,208 --> 00:00:55,159
+Our future.
+
+13
+00:00:55,854 --> 00:01:01,197
+He realized nothing he could accomplish could
+compare to the contributions of his students.
+
+14
+00:01:01,224 --> 00:01:02,531
+I had no idea.
+
+15
+00:01:04,492 --> 00:01:06,281
+That was his sacrifice.
+
+16
+00:01:08,187 --> 00:01:09,229
+A dear friend.
+
+17
+00:01:10,021 --> 00:01:13,642
+The Council has recommended you
+give the Progress Day speech this year.
+
+18
+00:01:14,109 --> 00:01:17,292
+What… But you always give that speech.
+
+19
+00:01:17,612 --> 00:01:19,301
+I… I could never take your place.
+
+20
+00:01:19,727 --> 00:01:21,236
+I agree with them.
+
+21
+00:01:21,559 --> 00:01:24,590
+Your Hexgates have done wonders for our city.
+
+22
+00:01:24,735 --> 00:01:29,646
+Brought scholars from distant lands.
+Reignited passions in arts and science.
+
+23
+00:01:30,658 --> 00:01:32,253
+You deserve this honor.
+
+24
+00:01:34,549 --> 00:01:37,984
+I… I will do my best to make Piltover proud, Professor.
+
+25
+00:01:38,242 --> 00:01:43,436
+It's short notice, I know, but perhaps there's
+something in the lab you might be able to share?
+
+26
+00:01:43,968 --> 00:01:45,898
+People love a grand reveal.
+
+27
+00:01:46,142 --> 00:01:49,174
+Viktor and I have just the
+thing. The next chapter of Hextech.
+
+28
+00:01:49,586 --> 00:01:51,236
+Come to the lab this afternoon, I'll show you.
+
+29
+00:01:51,373 --> 00:01:52,776
+I'll look forward to it.
+
+30
+00:01:53,250 --> 00:01:55,719
+You certainly have something to live up to, my boy.
+
+31
+00:03:53,840 --> 00:03:58,146
+Happy Progress Day. Happy Progress Day.
+
+32
+00:04:17,886 --> 00:04:21,790
+Our most famous protégé, Jayce Talis.
+
+33
+00:04:22,384 --> 00:04:24,634
+The visionary behind the Hexgates,
+
+34
+00:04:24,724 --> 00:04:28,737
+a beacon of trade and prosperity
+for our great City of Progress.
+
+35
+00:04:28,867 --> 00:04:29,590
+Excuse me.
+
+36
+00:04:30,381 --> 00:04:32,583
+Sorry, sorry. Yeah. Excuse me.
+
+37
+00:04:33,189 --> 00:04:34,739
+He's a very busy man.
+
+38
+00:04:40,353 --> 00:04:41,022
+Cait.
+
+39
+00:04:41,046 --> 00:04:42,308
+Serves you right.
+
+40
+00:04:46,874 --> 00:04:48,040
+You still avoiding her?
+
+41
+00:04:48,271 --> 00:04:49,104
+I'm working.
+
+42
+00:04:49,718 --> 00:04:50,676
+Oh, I can see that.
+
+43
+00:04:50,873 --> 00:04:54,165
+I mean, there's so much crime to
+thwart outside your family's tent.
+
+44
+00:04:54,454 --> 00:04:57,744
+I can only imagine the strings
+she pulled to have me posted here.
+
+45
+00:04:58,070 --> 00:04:59,277
+It's your fault really,
+
+46
+00:04:59,537 --> 00:05:02,531
+for not following her into a
+career "more befitting your station."
+
+47
+00:05:03,413 --> 00:05:06,077
+She'd do anything to keep me from seeing the real world.
+
+48
+00:05:06,236 --> 00:05:08,486
+Well, at least you'll have front-row seats to the speech.
+
+49
+00:05:09,633 --> 00:05:10,371
+Speech?
+
+50
+00:05:10,687 --> 00:05:13,106
+Mm-hmm. I'm giving the big address tonight.
+
+51
+00:05:13,172 --> 00:05:16,309
+Hmm. We really have descended to anarchy.
+
+52
+00:05:16,518 --> 00:05:18,511
+Have fun herding the drunkards.
+
+53
+00:05:19,708 --> 00:05:21,395
+Happy Progress Day.
+
+54
+00:06:02,197 --> 00:06:04,229
+Uh, shipping manifest?
+
+55
+00:06:05,506 --> 00:06:08,206
+From your friend. Downtown.
+
+56
+00:06:25,915 --> 00:06:26,828
+Let's go!
+
+57
+00:06:27,663 --> 00:06:29,508
+Ah, shit. The Firelights.
+
+58
+00:06:45,300 --> 00:06:47,384
+We have five minutes till they're out of there.
+
+59
+00:06:54,617 --> 00:06:56,404
+You ever seen this much Shimmer before?
+
+60
+00:06:57,452 --> 00:07:01,454
+They're expanding. Check for more below. Burn it all.
+
+61
+00:07:15,625 --> 00:07:19,645
+Oh, no, no, no, no, no. Open up.
+
+62
+00:07:21,073 --> 00:07:22,400
+Open the door.
+
+63
+00:07:29,483 --> 00:07:31,764
+Oh, no. She's here.
+
+64
+00:08:09,128 --> 00:08:09,979
+What the…
+
+65
+00:08:38,604 --> 00:08:39,249
+Hi.
+
+66
+00:09:13,989 --> 00:09:14,627
+Vi?
+
+67
+00:09:15,632 --> 00:09:16,949
+I can't lose you.
+
+68
+00:09:20,600 --> 00:09:22,581
+Why did you leave me?
+
+69
+00:09:23,040 --> 00:09:24,871
+Because you're a jinx.
+
+70
+00:09:29,352 --> 00:09:30,384
+I want to fight.
+
+71
+00:09:30,408 --> 00:09:31,442
+You're not ready.
+
+72
+00:09:36,707 --> 00:09:37,669
+No.
+
+73
+00:10:30,062 --> 00:10:32,209
+You were supposed to guard the cargo.
+
+74
+00:10:53,271 --> 00:10:54,654
+You think he will approve?
+
+75
+00:10:55,962 --> 00:10:59,479
+Heimerdinger believes science should be
+used to improve lives as much as we do.
+
+76
+00:10:59,521 --> 00:11:01,157
+We just need to show him it's safe.
+
+77
+00:11:03,103 --> 00:11:04,486
+And what about the Council?
+
+78
+00:11:05,546 --> 00:11:07,923
+We stabilized the crystal like they asked.
+
+79
+00:11:08,227 --> 00:11:10,097
+Built the Hexgates like they asked.
+
+80
+00:11:10,862 --> 00:11:13,282
+It's our turn to decide the future of Hextech.
+
+81
+00:11:15,422 --> 00:11:17,778
+Professor. I'm so glad you could make it.
+
+82
+00:11:17,935 --> 00:11:21,804
+Wouldn't miss it for the world, my
+boy. What do we have on the docket?
+
+83
+00:11:24,771 --> 00:11:26,078
+It all began with this.
+
+84
+00:11:28,144 --> 00:11:32,992
+A crystal of magical energy, too volatile
+to be handled outside our workshops.
+
+85
+00:11:33,254 --> 00:11:36,537
+Hextech was supposed to bring
+magic into the life of the common man.
+
+86
+00:11:36,562 --> 00:11:39,625
+And now, it finally can.
+
+87
+00:11:41,715 --> 00:11:43,377
+A Hextech Gemstone.
+
+88
+00:11:55,171 --> 00:11:55,968
+Wait.
+
+89
+00:12:02,021 --> 00:12:03,546
+Holy sprockets.
+
+90
+00:12:05,238 --> 00:12:07,592
+We've found a means to fortify the crystals.
+
+91
+00:12:07,732 --> 00:12:12,437
+This new version is stable and absolutely safe.
+
+92
+00:12:15,687 --> 00:12:19,516
+We present to you the next chapter of Hextech.
+
+93
+00:12:20,722 --> 00:12:23,245
+We can now design portable devices.
+
+94
+00:12:23,597 --> 00:12:24,152
+Oh…
+
+95
+00:12:28,527 --> 00:12:30,992
+The Gemstone can power virtually anything.
+
+96
+00:12:50,847 --> 00:12:52,432
+The Atlas Gauntlets.
+
+97
+00:12:53,336 --> 00:12:56,684
+The mining colonies in the fissures
+can work faster and without fatigue.
+
+98
+00:12:58,984 --> 00:13:00,112
+The Hex Claw.
+
+99
+00:13:02,032 --> 00:13:05,735
+A mechanical arm, equipped with a powerful ray of light.
+
+100
+00:13:14,021 --> 00:13:17,372
+Imagine what our artificers could do with such a device.
+
+101
+00:13:17,895 --> 00:13:21,229
+I want Hextech to be a tool for us to build a new world.
+
+102
+00:13:21,445 --> 00:13:23,454
+And now, it's finally possible.
+
+103
+00:13:28,564 --> 00:13:31,855
+Anyway, this is our presentation.
+
+104
+00:13:32,172 --> 00:13:36,463
+Quite amazing, gentlemen. You should be very proud.
+
+105
+00:13:36,735 --> 00:13:41,023
+Obviously, there are a few kinks to
+iron out and screws to be tightened,
+
+106
+00:13:41,172 --> 00:13:45,371
+but give it a decade of careful
+research, and it will be ready.
+
+107
+00:13:45,396 --> 00:13:46,037
+A decade?
+
+108
+00:13:46,506 --> 00:13:50,536
+Oh, don't worry, my boy. It zips
+past you in the blink of an eye.
+
+109
+00:13:50,565 --> 00:13:52,191
+With respect, Professor.
+
+110
+00:13:52,280 --> 00:13:55,196
+We can be improving lives with Hextech now.
+
+111
+00:13:55,494 --> 00:13:57,865
+A breakthrough like this takes time, Viktor.
+
+112
+00:13:58,162 --> 00:14:01,245
+Putting that kind of power into
+everyone's hands is dangerous.
+
+113
+00:14:01,423 --> 00:14:06,374
+Keep at it and I'm sure you will discover
+a way to safeguard Hextech against misuse.
+
+114
+00:14:18,694 --> 00:14:23,584
+There must've been four, five of
+them. I don't know how they got inside.
+
+115
+00:15:40,428 --> 00:15:41,637
+You're from the undercity.
+
+116
+00:15:44,095 --> 00:15:46,417
+I didn't do anything. She's crazy.
+
+117
+00:15:46,738 --> 00:15:47,604
+Easy.
+
+118
+00:15:49,187 --> 00:15:50,180
+She shot me.
+
+119
+00:15:50,265 --> 00:15:52,673
+Who shot you? Who were you working for?
+
+120
+00:15:53,350 --> 00:15:55,513
+I can't. He'll kill me.
+
+121
+00:15:55,631 --> 00:15:56,160
+Who?
+
+122
+00:15:57,882 --> 00:15:59,095
+I can protect you.
+
+123
+00:15:59,724 --> 00:16:02,961
+Caitlyn Kiramman, why does that not surprise me?
+
+124
+00:16:03,457 --> 00:16:05,816
+Interfering in an investigation, again.
+
+125
+00:16:06,446 --> 00:16:08,751
+You're supposed to be guarding your mother's tent.
+
+126
+00:16:09,070 --> 00:16:13,919
+I was, Sheriff, but she doesn't need
+it. And clearly, this takes priority.
+
+127
+00:16:13,944 --> 00:16:15,924
+I realize you're used to getting your way, Kiramman,
+
+128
+00:16:16,185 --> 00:16:17,939
+but we have a chain of command for a reason.
+
+129
+00:16:18,151 --> 00:16:19,446
+I understand.
+
+130
+00:16:19,672 --> 00:16:22,480
+But there's more going on here than just the smuggling.
+
+131
+00:16:22,505 --> 00:16:23,768
+If I could just question him I could...
+
+132
+00:16:23,792 --> 00:16:24,913
+I'll take it from here.
+
+133
+00:16:25,746 --> 00:16:27,129
+Since you're looking for more work,
+
+134
+00:16:27,154 --> 00:16:29,331
+you can take the graveyard shift tonight at the fair.
+
+135
+00:16:30,562 --> 00:16:31,290
+Yes, sir.
+
+136
+00:16:31,835 --> 00:16:32,361
+Good.
+
+137
+00:16:32,612 --> 00:16:34,716
+I want this one on a boat to Stillwater prison.
+
+138
+00:16:34,970 --> 00:16:35,490
+Yes, sir.
+
+139
+00:17:20,228 --> 00:17:21,514
+She fired on us.
+
+140
+00:17:22,182 --> 00:17:24,192
+There are always mishaps in battle.
+
+141
+00:17:24,609 --> 00:17:28,084
+The Firelights were her target and most are dead.
+
+142
+00:17:28,959 --> 00:17:32,556
+It wasn't a mishap, she froze up and lost her shit.
+
+143
+00:17:33,437 --> 00:17:34,980
+I could've handled those brats.
+
+144
+00:17:35,111 --> 00:17:37,370
+She's a problem and we all know it.
+
+145
+00:17:37,640 --> 00:17:38,235
+We?
+
+146
+00:17:39,687 --> 00:17:40,646
+Who's we?
+
+147
+00:17:43,495 --> 00:17:46,012
+I expect better from you than excuses.
+
+148
+00:17:46,393 --> 00:17:49,180
+It was your job to make sure things went smoothly.
+
+149
+00:17:50,445 --> 00:17:53,686
+You failed. Don't disappoint me again.
+
+150
+00:18:02,239 --> 00:18:06,995
+The world's growing smaller
+every day, thanks to the Hexgates.
+
+151
+00:18:07,515 --> 00:18:09,363
+And now, we're cut off.
+
+152
+00:18:09,624 --> 00:18:12,584
+The topsiders are leaving us further and further behind.
+
+153
+00:18:14,565 --> 00:18:15,357
+What happened?
+
+154
+00:18:16,356 --> 00:18:17,606
+She already told you.
+
+155
+00:18:19,045 --> 00:18:20,289
+I'm asking you.
+
+156
+00:18:24,046 --> 00:18:26,831
+One of those Firelight wackos was a girl.
+
+157
+00:18:27,485 --> 00:18:29,015
+With pink hair.
+
+158
+00:18:29,346 --> 00:18:30,586
+Hmm…
+
+159
+00:18:38,406 --> 00:18:39,956
+Your sister's gone.
+
+160
+00:18:40,722 --> 00:18:42,447
+You know that as well as I do.
+
+161
+00:18:42,805 --> 00:18:45,957
+I know. I know. Sisters, right?
+
+162
+00:18:46,175 --> 00:18:49,342
+You can't live with 'em, can't
+stuff 'em back in the ol' babymaker.
+
+163
+00:18:51,593 --> 00:18:54,183
+Today's screw-up will set us back weeks.
+
+164
+00:18:56,432 --> 00:18:57,143
+I'm sorry.
+
+165
+00:18:57,649 --> 00:19:00,422
+I need to know that I can rely on you.
+
+166
+00:19:00,446 --> 00:19:01,146
+Phew.
+
+167
+00:19:01,960 --> 00:19:03,815
+I'm doing this for us, Jinx.
+
+168
+00:19:04,380 --> 00:19:05,338
+All of us.
+
+169
+00:19:05,747 --> 00:19:10,492
+The sons and daughters of Zaun
+deserve more than their runoff.
+
+170
+00:19:11,979 --> 00:19:13,123
+It won't happen again.
+
+171
+00:19:14,196 --> 00:19:14,878
+I know.
+
+172
+00:19:26,856 --> 00:19:28,428
+Sevika will clean up today's mess.
+
+173
+00:19:28,453 --> 00:19:32,461
+Sevika? That ogre couldn't clean
+a dust bunny with a blowtorch.
+
+174
+00:19:32,781 --> 00:19:36,740
+She'll suffice. You should focus on your gadgetry.
+
+175
+00:19:36,979 --> 00:19:37,613
+Ugh.
+
+176
+00:19:38,848 --> 00:19:39,681
+Take some time.
+
+177
+00:19:40,351 --> 00:19:42,298
+I don't need time.
+
+178
+00:19:44,771 --> 00:19:46,057
+Take it anyhow.
+
+179
+00:20:09,079 --> 00:20:10,456
+Fundraiser's going well.
+
+180
+00:20:12,456 --> 00:20:13,669
+Your mother would be proud.
+
+181
+00:20:14,238 --> 00:20:15,697
+Hmm… Would she?
+
+182
+00:20:16,205 --> 00:20:17,253
+Tired of mingling?
+
+183
+00:20:17,903 --> 00:20:20,965
+Hmm. These people have nothing new to offer me.
+
+184
+00:20:21,743 --> 00:20:24,232
+The only one actually worth my time is him.
+
+185
+00:20:25,142 --> 00:20:26,279
+The golden boy.
+
+186
+00:20:27,826 --> 00:20:29,744
+Ah, he's won Piltover's heart.
+
+187
+00:20:31,031 --> 00:20:33,225
+Oh, speak of the devil.
+
+188
+00:20:47,982 --> 00:20:49,232
+Could I borrow you for a minute?
+
+189
+00:21:00,849 --> 00:21:02,281
+To what do I owe the pleasure?
+
+190
+00:21:04,315 --> 00:21:06,100
+It's Heimerdinger.
+
+191
+00:21:06,587 --> 00:21:07,720
+When is it not?
+
+192
+00:21:07,935 --> 00:21:09,435
+We've shown him our research.
+
+193
+00:21:09,838 --> 00:21:11,252
+He thinks we need more time.
+
+194
+00:21:11,428 --> 00:21:12,651
+It's Progress Day.
+
+195
+00:21:13,150 --> 00:21:17,641
+Representatives from all over the world have come to
+see what new wonders the City of Progress has to offer.
+
+196
+00:21:18,161 --> 00:21:21,507
+If there's a time to present a new creation, it is now.
+
+197
+00:21:23,476 --> 00:21:24,255
+Great.
+
+198
+00:21:27,013 --> 00:21:32,568
+Heimerdinger is a great scientist.
+But he's old. He only ever sees the past.
+
+199
+00:21:33,247 --> 00:21:35,622
+Piltover needs a leader who looks forward.
+
+200
+00:21:36,424 --> 00:21:37,589
+Someone like you.
+
+201
+00:21:38,149 --> 00:21:39,622
+You really believe that?
+
+202
+00:21:40,714 --> 00:21:44,225
+Hextech has the potential to change everything.
+
+203
+00:21:44,802 --> 00:21:45,778
+The world is ready.
+
+204
+00:21:46,312 --> 00:21:48,771
+And I've already spoken to several potential investors.
+
+205
+00:21:49,006 --> 00:21:49,839
+Investors?
+
+206
+00:21:49,908 --> 00:21:50,979
+Of course.
+
+207
+00:21:51,168 --> 00:21:53,266
+Everyone wants Hextech for themselves.
+
+208
+00:21:53,992 --> 00:21:55,180
+It's your speech.
+
+209
+00:21:55,854 --> 00:21:57,943
+Give the people a glimpse of the future.
+
+210
+00:22:12,941 --> 00:22:14,066
+It wasn't her.
+
+211
+00:22:19,120 --> 00:22:19,765
+It wasn't.
+
+212
+00:22:24,151 --> 00:22:28,189
+I know. Just… just some wannabe street trash.
+
+213
+00:22:28,570 --> 00:22:30,649
+I got confused, that's all.
+
+214
+00:22:30,924 --> 00:22:33,554
+Now, he thinks I'm weak.
+
+215
+00:22:35,381 --> 00:22:36,797
+"Sevika will clean it up."
+
+216
+00:22:36,891 --> 00:22:39,872
+Sevika's a regular Johnny-on-the-spot.
+
+217
+00:22:42,615 --> 00:22:44,176
+I'm not weak.
+
+218
+00:22:51,310 --> 00:22:52,604
+And I'm gonna show him.
+
+219
+00:22:53,065 --> 00:22:56,197
+Oh, I'm gonna show him. You'll see.
+
+220
+00:23:08,528 --> 00:23:09,350
+Where were you?
+
+221
+00:23:09,731 --> 00:23:11,828
+They were asking if I could do the address.
+
+222
+00:23:12,057 --> 00:23:14,307
+You should come up with me. We're partners.
+
+223
+00:23:14,403 --> 00:23:18,075
+No, no. Not in front of all of them…
+
+224
+00:23:19,945 --> 00:23:21,941
+You… have your speech prepared?
+
+225
+00:23:23,144 --> 00:23:23,724
+Uh-huh.
+
+226
+00:23:24,722 --> 00:23:29,773
+An inspiration to Piltover's
+future and that of all humanity.
+
+227
+00:23:29,995 --> 00:23:34,077
+Please join me in welcoming to the stage…
+
+228
+00:23:34,974 --> 00:23:36,136
+Jayce Talis.
+
+229
+00:23:36,160 --> 00:23:37,057
+Guess it's time.
+
+230
+00:24:17,072 --> 00:24:18,090
+Uh, good evening.
+
+231
+00:24:19,869 --> 00:24:23,137
+I know many of you probably
+didn't expect to see me here today.
+
+232
+00:24:23,404 --> 00:24:25,424
+And believe me, I'm just as shocked as you are.
+
+233
+00:24:32,928 --> 00:24:37,220
+My family and I are simple people.
+In our factory, we made hammers.
+
+234
+00:24:37,912 --> 00:24:40,822
+They were probably used to cut the
+stones you're standing on right now.
+
+235
+00:24:41,917 --> 00:24:44,849
+No one in my life expected very much of me.
+
+236
+00:24:45,383 --> 00:24:50,252
+And that is precisely what
+makes this moment so extraordinary.
+
+237
+00:24:51,267 --> 00:24:54,631
+A few years ago, the Hexgates
+opened their ports to the world
+
+238
+00:24:54,704 --> 00:24:58,974
+and made Piltover prosper beyond
+anything we could have ever imagined.
+
+239
+00:25:06,776 --> 00:25:08,800
+But… we're not done yet.
+
+240
+00:25:21,849 --> 00:25:25,349
+This year, we've created something new for you.
+
+241
+00:25:28,496 --> 00:25:30,656
+Something that… um…
+
+242
+00:25:37,849 --> 00:25:41,144
+That we will share with you…
+
+243
+00:25:44,682 --> 00:25:45,811
+…when the time is right.
+
+244
+00:25:50,896 --> 00:25:52,910
+Things that will bring an end to your hardships.
+
+245
+00:25:53,275 --> 00:25:55,277
+Whether you're the scion of our high houses,
+
+246
+00:25:55,742 --> 00:25:57,610
+or an honest laborer from the underground.
+
+247
+00:25:58,060 --> 00:26:01,642
+We vow to keep pressing forward,
+for we are the City of Progress.
+
+248
+00:26:01,709 --> 00:26:03,726
+And our future is bright.
+
+249
+00:26:32,620 --> 00:26:33,386
+That it, then?
+
+250
+00:26:33,965 --> 00:26:36,174
+I thought that Talis boy was some kind of genius.
+
+251
+00:26:36,391 --> 00:26:38,891
+Last year, didn't he launch a
+blimp halfway across the continent?
+
+252
+00:26:38,940 --> 00:26:40,126
+Airship, actually.
+
+253
+00:26:40,631 --> 00:26:44,536
+An airship has a rigid metal hull. It's not a blimp.
+
+254
+00:26:44,756 --> 00:26:46,381
+It's a balloon, ain't it?
+
+255
+00:26:46,604 --> 00:26:48,437
+Sure as hell looks that way.
+
+256
+00:26:49,349 --> 00:26:53,224
+Pardon us, if we aren't quite so refined as you, milady.
+
+257
+00:26:54,113 --> 00:26:55,950
+What are you even doing here, Kiramman?
+
+258
+00:26:56,317 --> 00:26:58,826
+Don't you have a cocktail party to attend?
+
+259
+00:27:02,644 --> 00:27:03,374
+Fire.
+
+260
+00:27:03,937 --> 00:27:04,603
+Fire!
+
+261
+00:27:11,312 --> 00:27:11,837
+What's happening?
+
+262
+00:27:11,861 --> 00:27:13,156
+Get the fire brigade.
+
+263
+00:27:18,496 --> 00:27:22,452
+Help. In here, please. Help me.
+
+264
+00:27:30,744 --> 00:27:34,896
+Help. It's so hot, please. I'm trapped.
+
+265
+00:27:38,270 --> 00:27:41,828
+I'm a helpless little girl and
+I've set the building on fire.
+
+266
+00:27:41,853 --> 00:27:45,222
+By accident. Totally by accident.
+
+267
+00:27:51,336 --> 00:27:52,749
+Get out. Now.
+
+268
+00:27:53,269 --> 00:27:57,448
+Also, I brought this dynamite. Goodbye.
+
+269
+00:28:31,271 --> 00:28:32,602
+The Gemstone is gone.
+
+270
+00:28:33,089 --> 00:28:35,263
+Along with some of our research papers.
+
+271
+00:28:37,200 --> 00:28:39,117
+The situation is still developing.
+
+272
+00:28:39,357 --> 00:28:42,219
+No one in the undercity has claimed responsibility yet.
+
+273
+00:28:43,966 --> 00:28:45,813
+How did it come to this?
+
+274
+00:28:50,556 --> 00:28:54,346
+Hmm. For too long has the underground been left unchecked.
+
+275
+00:28:54,567 --> 00:28:55,739
+We've lost touch.
+
+276
+00:28:56,059 --> 00:28:59,991
+They may not be your preferred
+constituents but they're still our people.
+
+277
+00:29:00,599 --> 00:29:04,099
+The undercity cannot be controlled. Not by us.
+
+278
+00:29:04,201 --> 00:29:05,736
+So where does that leave us?
+
+279
+00:29:07,722 --> 00:29:08,777
+Mr. Talis?
+
+280
+00:29:08,812 --> 00:29:11,547
+Could the trenchers build a
+weapon with the stolen crystal?
+
+281
+00:29:11,572 --> 00:29:13,547
+Shimmer, body replacements…
+
+282
+00:29:13,646 --> 00:29:17,175
+We've seen their ingenuity over
+the years, of course, they can.
+
+283
+00:29:21,116 --> 00:29:22,848
+If the right person got a hold of it,
+
+284
+00:29:22,873 --> 00:29:25,397
+it's possible they could utilize its energy.
+
+285
+00:29:25,573 --> 00:29:27,558
+We need to address this immediately.
+
+286
+00:29:29,777 --> 00:29:30,622
+I agree.
+
+287
+00:29:30,940 --> 00:29:34,274
+It was my responsibility to
+safeguard this technology and I failed.
+
+288
+00:29:34,904 --> 00:29:36,976
+My mistake cost people their lives.
+
+289
+00:29:37,440 --> 00:29:42,558
+I have come before you to recommend that we suspend
+all Hextech operations until the situation is resolved.
+
+290
+00:29:42,988 --> 00:29:46,622
+Including our laboratories, the refinery and the Hexgates.
+
+291
+00:29:46,814 --> 00:29:48,688
+Have you lost your mind?
+
+292
+00:29:48,713 --> 00:29:50,996
+The Hexgates must remain open.
+
+293
+00:29:51,271 --> 00:29:54,444
+Piltover's status as a global shipping lane depends on it.
+
+294
+00:29:54,650 --> 00:29:56,612
+Thousands would lose their income.
+
+295
+00:29:57,006 --> 00:30:00,544
+But shouldn't the safety of
+Piltover be our first priority?
+
+296
+00:30:00,798 --> 00:30:02,905
+You would sacrifice your life's work?
+
+297
+00:30:02,930 --> 00:30:07,349
+Without the Hexgates, my goods cannot
+reach foreign markets till winter.
+
+298
+00:30:07,646 --> 00:30:09,565
+Am I to tell the Noxians
+
+299
+00:30:09,590 --> 00:30:12,143
+their next shipment of wine will be vinegar?
+
+300
+00:30:12,220 --> 00:30:15,180
+Councilors. It appears we are at an impasse.
+
+301
+00:30:15,773 --> 00:30:18,866
+If we shut down the Hexgates, the city will suffer.
+
+302
+00:30:19,396 --> 00:30:20,652
+But if we do nothing,
+
+303
+00:30:21,142 --> 00:30:24,002
+we leave ourselves vulnerable to malefactors.
+
+304
+00:30:24,529 --> 00:30:26,445
+More lives may be lost.
+
+305
+00:30:27,263 --> 00:30:32,138
+Perhaps the time has come to
+explore a more radical solution.
+
+306
+00:30:32,356 --> 00:30:33,537
+What are you suggesting?
+
+307
+00:30:36,200 --> 00:30:39,691
+Mr. Talis has demonstrated his commitment to our safety.
+
+308
+00:30:40,263 --> 00:30:43,363
+He's willing to sacrifice his own enterprise.
+
+309
+00:30:43,589 --> 00:30:46,496
+And it seems to me only Mr. Talis
+
+310
+00:30:46,521 --> 00:30:49,394
+has the knowledge necessary to secure the Hexgates.
+
+311
+00:30:49,714 --> 00:30:53,168
+I propose that a new chair be brought forth,
+
+312
+00:30:53,342 --> 00:30:56,747
+and that House Talis be elevated to this august body.
+
+313
+00:30:56,787 --> 00:30:57,182
+What?
+
+314
+00:30:57,314 --> 00:30:58,381
+As a Councilor,
+
+315
+00:30:58,586 --> 00:31:03,286
+he will have the resources necessary
+to protect all our investments.
+
+316
+00:31:03,311 --> 00:31:06,496
+Councilor Medarda, his is highly irregular.
+
+317
+00:31:06,877 --> 00:31:10,028
+The Council has held seven seats for generations.
+
+318
+00:31:10,095 --> 00:31:12,578
+Does the boy have any experience?
+
+319
+00:31:12,672 --> 00:31:15,871
+Only that of a scientist. Like Heimerdinger.
+
+320
+00:31:22,727 --> 00:31:25,206
+I believe Councilor Medarda is right.
+
+321
+00:31:25,625 --> 00:31:28,833
+Hextech security should be administered by a scientist.
+
+322
+00:31:29,245 --> 00:31:30,713
+I second the motion.
+
+323
+00:31:31,287 --> 00:31:33,119
+Well then, shall we vote?
+
+324
+00:31:53,136 --> 00:31:53,621
+Jinx!
+
+325
+00:31:57,305 --> 00:31:59,521
+Jinx! Jinx!
+
+326
+00:32:00,762 --> 00:32:01,660
+Jinx!
+
+327
+00:32:01,854 --> 00:32:03,060
+That's me.
+
+328
+00:32:03,104 --> 00:32:06,874
+Half a dozen enforcers, dead. Enforcers. Dead.
+
+329
+00:32:07,181 --> 00:32:07,715
+Yeah…
+
+330
+00:32:07,739 --> 00:32:09,277
+A building blown to pieces.
+
+331
+00:32:09,302 --> 00:32:10,964
+Oh, yeah.
+
+332
+00:32:12,753 --> 00:32:15,560
+Do you have any idea what you've done?
+
+333
+00:32:16,212 --> 00:32:18,866
+Actually, I do.
+
+334
+00:32:27,856 --> 00:32:29,811
+Happy Progress Day!
+
+335
+00:32:57,963 --> 00:32:58,402
+Hey.
+
+336
+00:32:59,742 --> 00:33:00,529
+How are you feeling?
+
+337
+00:33:03,714 --> 00:33:05,104
+I've had a break in the case.
+
+338
+00:33:05,223 --> 00:33:06,538
+Shouldn't you be resting?
+
+339
+00:33:06,740 --> 00:33:07,895
+While the trail is hot?
+
+340
+00:33:08,263 --> 00:33:13,138
+Listen, you know how I've suspected there is
+a single mind behind the undercity's violence?
+
+341
+00:33:13,433 --> 00:33:14,808
+The great conspiracy.
+
+342
+00:33:15,425 --> 00:33:18,463
+I think whoever attacked the square is our suspect.
+
+343
+00:33:18,625 --> 00:33:22,222
+The same symbols showed up at the
+botched smuggling operation at the Hexgates.
+
+344
+00:33:22,247 --> 00:33:23,064
+The Hexgates?
+
+345
+00:33:23,088 --> 00:33:23,747
+Keep up.
+
+346
+00:33:24,021 --> 00:33:27,537
+All this time, they've kept their
+dealings localized to the undercity.
+
+347
+00:33:27,656 --> 00:33:31,162
+Low priority. The attack on the square changes things.
+
+348
+00:33:31,205 --> 00:33:32,133
+They've overstepped.
+
+349
+00:33:32,315 --> 00:33:33,868
+If I can figure who made this,
+
+350
+00:33:33,893 --> 00:33:36,236
+it could lead me directly to whoever's behind it all.
+
+351
+00:33:36,705 --> 00:33:39,273
+The answer is here, staring me in the face.
+
+352
+00:33:40,684 --> 00:33:41,439
+I can feel it.
+
+353
+00:33:44,739 --> 00:33:46,711
+How do you intend to prove any of this?
+
+354
+00:33:48,449 --> 00:33:52,698
+If I can just work this out. Marcus will have to listen.
+
+355
+00:33:54,271 --> 00:33:56,218
+If there's one thing I've learned about the Council,
+
+356
+00:33:56,552 --> 00:33:58,172
+they need more than just theories.
+
+357
+00:33:58,752 --> 00:34:01,615
+Since when did you concern
+yourself with the Council's opinion?
+
+358
+00:34:03,187 --> 00:34:04,148
+Since I…
+
+359
+00:34:05,002 --> 00:34:06,032
+became a Councilor.
+
+360
+00:34:08,954 --> 00:34:10,573
+You're serious.
+
+361
+00:34:11,272 --> 00:34:12,723
+When? Why?
+
+362
+00:34:13,522 --> 00:34:15,897
+Have they discovered how to
+govern with grease and a spanner?
+
+363
+00:34:15,997 --> 00:34:22,622
+Ha ha. I was actually hoping you
+might consider joining my staff.
+
+364
+00:34:25,369 --> 00:34:27,163
+"House Talis Security."
+
+365
+00:34:28,400 --> 00:34:31,362
+That's a ceremonial position. I'd live behind a desk.
+
+366
+00:34:31,688 --> 00:34:33,112
+You almost died, Cait.
+
+367
+00:34:33,300 --> 00:34:35,545
+I just… I just want you to be safe.
+
+368
+00:34:35,691 --> 00:34:37,889
+Thanks, but I already have a job.
+
+369
+00:34:39,085 --> 00:34:41,127
+No. You don't.
+
+370
+00:34:42,085 --> 00:34:44,385
+After the attack, your parents spoke to the Sheriff.
+
+371
+00:34:46,180 --> 00:34:47,614
+This is the best I could do.
+
+372
+00:34:48,457 --> 00:34:52,120
+I don't need charity, Councilor. Yours or my parents'.
+
+373
+00:34:52,479 --> 00:34:52,995
+Cait.
+
+374
+00:34:53,313 --> 00:34:53,973
+Get out.
+
+375
+00:35:24,278 --> 00:35:26,095
+I need to speak with one of the inmates.
+
+376
+00:35:26,574 --> 00:35:30,515
+Oh, folks in here aren't usually very talkative.
+
+377
+00:35:30,760 --> 00:35:32,588
+This one was hit by friendly fire.
+
+378
+00:35:32,852 --> 00:35:36,353
+He's got reason to talk. Must have been sent in today?
+
+379
+00:35:37,812 --> 00:35:42,356
+Oh. Inmate 2135.
+
+380
+00:35:42,758 --> 00:35:46,315
+Yeah, I'm, uh, afraid that's not possible.
+
+381
+00:35:46,435 --> 00:35:46,937
+Why not?
+
+382
+00:35:47,188 --> 00:35:50,442
+Uh, well, there's been… an incident.
+
+383
+00:35:50,466 --> 00:35:51,447
+What kind of incident?
+
+384
+00:35:51,587 --> 00:35:52,500
+The…
+
+385
+00:35:53,946 --> 00:35:55,367
+…not so pretty kind.
+
+386
+00:35:58,180 --> 00:36:00,695
+You don't understand, I have to talk to him.
+
+387
+00:36:01,071 --> 00:36:06,471
+Oh, you'll be able to. As soon
+as he can move his jaw again.
+
+388
+00:36:07,260 --> 00:36:08,343
+Who assaulted him?
+
+389
+00:36:36,136 --> 00:36:37,261
+Who the hell are you?
+

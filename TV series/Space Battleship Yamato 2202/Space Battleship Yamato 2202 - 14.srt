@@ -1,0 +1,1386 @@
+﻿1
+00:01:58,525 --> 00:02:00,944
+Main engine output
+is increasing!
+
+2
+00:02:01,027 --> 00:02:02,946
+Good. It's stabilized.
+
+3
+00:02:25,593 --> 00:02:27,929
+[ZWORDER]
+The <i>Yamato</i> has arrived.
+
+4
+00:02:28,013 --> 00:02:30,890
+It remains a mystery.
+
+5
+00:02:30,974 --> 00:02:32,642
+What could be driving them?
+
+6
+00:02:32,726 --> 00:02:35,020
+Why do they go to such lengths?
+
+7
+00:03:01,212 --> 00:03:02,881
+This is never ending!
+
+8
+00:03:02,964 --> 00:03:05,425
+Front line, take care of
+the needles on the surface!
+
+9
+00:03:05,508 --> 00:03:07,427
+Rear line, target
+enemies in the air!
+
+10
+00:03:07,510 --> 00:03:08,887
+[CAVALRY]
+Roger!
+
+11
+00:03:13,475 --> 00:03:15,852
+[TSURUMI panting]
+
+12
+00:03:23,485 --> 00:03:26,237
+[TERESA]
+We share a powerful bond.
+
+13
+00:03:27,739 --> 00:03:29,866
+[TERESA]
+Its strength connects us.
+
+14
+00:03:29,949 --> 00:03:33,620
+Ties us to that ship
+with incredible force.
+
+15
+00:03:45,632 --> 00:03:46,883
+[ZURVIVAL]
+Cursed phantoms.
+
+16
+00:03:46,966 --> 00:03:49,094
+Still haven't learned, have you?
+
+17
+00:03:49,177 --> 00:03:50,220
+[HELVESTIA]
+Confirming destruction
+
+18
+00:03:50,303 --> 00:03:52,180
+of the Terezart Defense Fleet.
+
+19
+00:03:52,263 --> 00:03:55,975
+Vital signs of two Gorland
+types have gone silent.
+
+20
+00:03:57,560 --> 00:03:59,062
+All divisions, assemble!
+
+21
+00:03:59,145 --> 00:04:02,107
+Eliminate them, along with the
+troops that landed before them!
+
+22
+00:04:02,190 --> 00:04:04,609
+I will fight beside you!
+
+23
+00:04:06,236 --> 00:04:07,904
+[ZURVIVAL]
+So, it's true,
+
+24
+00:04:07,987 --> 00:04:11,199
+this world has slipped
+from our control.
+
+25
+00:04:11,282 --> 00:04:12,951
+Still, I won't give in.
+
+26
+00:04:13,034 --> 00:04:15,453
+I'll live my life,
+and savor the hope
+
+27
+00:04:15,537 --> 00:04:18,748
+that I might survive when
+all is said and done.
+
+28
+00:04:18,832 --> 00:04:20,417
+<i>Yamato</i> !
+
+29
+00:04:26,715 --> 00:04:29,551
+Second Drop Team,
+all units launch!
+
+30
+00:04:30,427 --> 00:04:33,638
+Space Cavalry, prepare to
+employ special equipment.
+
+31
+00:04:33,722 --> 00:04:35,056
+[SAITO]
+Roger!
+
+32
+00:04:35,140 --> 00:04:36,641
+We're just breaking
+down bedrock.
+
+33
+00:04:36,725 --> 00:04:38,560
+Why can't we do that
+from the <i>Yamato</i> ?
+
+34
+00:04:38,643 --> 00:04:40,520
+The main gun's not
+powerful enough.
+
+35
+00:04:40,603 --> 00:04:42,105
+The Wave Motion Gun won't do,
+
+36
+00:04:42,188 --> 00:04:44,774
+as that would destroy
+Terezart altogether.
+
+37
+00:04:44,858 --> 00:04:46,359
+Our only choice is to rely on
+
+38
+00:04:46,443 --> 00:04:49,779
+the Wave Motion Excavator
+Warheads the XO developed.
+
+39
+00:04:51,656 --> 00:04:54,034
+Have faith in Kodai
+and the others.
+
+40
+00:05:15,388 --> 00:05:17,432
+[TSURUMI]
+Akira. You...
+
+41
+00:05:17,515 --> 00:05:19,392
+Try not to talk.
+
+42
+00:05:21,436 --> 00:05:24,814
+You're going to make it.
+You'll live, Akira.
+
+43
+00:05:24,898 --> 00:05:26,900
+[YAMAMOTO]
+Hm?
+
+44
+00:05:26,983 --> 00:05:30,820
+[TSURUMI] That woman told me
+you'll be okay.
+
+45
+00:05:30,904 --> 00:05:32,447
+What woman?
+
+46
+00:05:32,530 --> 00:05:33,865
+[rumbling]
+
+47
+00:05:33,948 --> 00:05:35,658
+[NAGAKURA]
+Enemy at your nine o'clock!
+
+48
+00:05:35,742 --> 00:05:39,162
+It's a group of Medarusa-class
+customized surface tanks!
+
+49
+00:05:47,253 --> 00:05:48,755
+[NAGAKURA]
+Ensign Yamamoto.
+
+50
+00:05:48,838 --> 00:05:50,715
+We'll hold them off
+as long as we can.
+
+51
+00:05:50,799 --> 00:05:53,551
+Take the wounded with you.
+Do your best to keep them safe.
+
+52
+00:05:53,635 --> 00:05:55,053
+Roger that.
+
+53
+00:05:55,762 --> 00:05:58,014
+[NAGAKURA] Fan out.
+Try to hit every one of 'em!
+
+54
+00:05:58,098 --> 00:05:59,182
+[CAVALRY]
+Roger!
+
+55
+00:06:03,770 --> 00:06:06,815
+[gasps] Are they unmanned?
+
+56
+00:06:07,440 --> 00:06:09,943
+[gasps] Eat this!
+
+57
+00:06:16,783 --> 00:06:17,992
+These things are unmanned!
+
+58
+00:06:18,076 --> 00:06:20,036
+Aim for the control
+systems on their bridges!
+
+59
+00:06:20,120 --> 00:06:21,621
+[SPACE CAVALRY]
+Roger!
+
+60
+00:06:21,705 --> 00:06:24,082
+[KURATA]
+Go, go, go, go, go, go!
+
+61
+00:06:24,165 --> 00:06:25,834
+Don't hold back!
+
+62
+00:06:54,487 --> 00:06:56,614
+I wonder if we all held out.
+
+63
+00:06:56,698 --> 00:06:58,033
+[KURATA]
+Deputy Commander.
+
+64
+00:06:58,116 --> 00:07:00,285
+Scores of enemy reinforcements
+ten kilometers ahead!
+
+65
+00:07:00,368 --> 00:07:01,828
+What's that?
+
+66
+00:07:04,372 --> 00:07:06,624
+[NAGAKURA]
+There's... so many...
+
+67
+00:07:09,252 --> 00:07:11,087
+[KURATA]
+What now, Deputy Commander?
+
+68
+00:07:11,171 --> 00:07:14,382
+[NAGAKURA] Isn't it obvious?
+Don't let them get any closer!
+
+69
+00:07:14,466 --> 00:07:16,051
+[KURATA]
+Roger!
+
+70
+00:07:16,134 --> 00:07:18,386
+We can't let the crew of the
+<i>Yamato</i> down, no matter what!
+
+71
+00:07:18,470 --> 00:07:20,722
+[CAVALRY 14C] We'll finally get
+the chance to repay our debts!
+
+72
+00:07:20,805 --> 00:07:21,973
+[CAVALRY 14A]
+You got that right!
+
+73
+00:07:22,057 --> 00:07:23,391
+[CAVALRY 14B]
+We put our lives in their hands,
+
+74
+00:07:23,475 --> 00:07:24,809
+and now it's their turn!
+
+75
+00:07:24,893 --> 00:07:27,812
+[SAITO] Hold on--I'm here!
+Sorry I'm late, Nagakura.
+
+76
+00:07:27,896 --> 00:07:29,356
+[NAGAKURA]
+Commander!
+
+77
+00:07:29,439 --> 00:07:33,068
+[SAITO] All troops, get out
+of there, right now! Hurry up!
+
+78
+00:07:38,823 --> 00:07:41,868
+Have a little taste of this!
+
+79
+00:07:49,125 --> 00:07:50,126
+[NAGAKURA]
+Commander!
+
+80
+00:07:50,210 --> 00:07:51,294
+[SAITO]
+The little guys are coming now.
+
+81
+00:07:51,378 --> 00:07:52,379
+Watch out for those needles.
+
+82
+00:07:52,462 --> 00:07:54,089
+[SPACE CAVALRY]
+Roger!
+
+83
+00:07:56,341 --> 00:07:57,759
+[growls]
+
+84
+00:08:20,323 --> 00:08:22,575
+[ZURVIVAL laughs]
+
+85
+00:08:22,659 --> 00:08:24,577
+They are quite good.
+
+86
+00:08:24,661 --> 00:08:26,955
+Although, when humans
+take action like this,
+
+87
+00:08:27,038 --> 00:08:29,791
+there's always
+an ulterior motive.
+
+88
+00:08:34,671 --> 00:08:37,799
+[ZURVIVAL]
+Helvestia Cannon... Fire!
+
+89
+00:08:51,730 --> 00:08:53,064
+They're onto us?
+
+90
+00:08:53,148 --> 00:08:55,608
+Dammit! Why do we
+have no precision?
+
+91
+00:08:55,692 --> 00:08:56,943
+[HELVESTIA]
+Half of the relay system
+
+92
+00:08:57,027 --> 00:08:58,862
+was lost as a result
+of the <i>Yamato</i> 's
+
+93
+00:08:58,945 --> 00:09:00,238
+Wave Motion Gun attack.
+
+94
+00:09:00,321 --> 00:09:02,323
+This is our highest
+level of accuracy.
+
+95
+00:09:02,407 --> 00:09:04,325
+I suppose it's just
+a second-rate duplicate
+
+96
+00:09:04,409 --> 00:09:07,829
+of old technology,
+in the end. Damn!
+
+97
+00:09:13,585 --> 00:09:15,003
+[KEYMAN]
+The Reflecting Satellite Cannon.
+
+98
+00:09:15,086 --> 00:09:16,379
+[SAIJO]
+But why?
+
+99
+00:09:16,463 --> 00:09:19,007
+[NANBU] Did they steal that
+technology from Gamilas?
+
+100
+00:09:19,090 --> 00:09:20,425
+Sure looks like it.
+
+101
+00:09:20,508 --> 00:09:22,927
+They've taken Gamilan
+scientists prisoner.
+
+102
+00:09:23,011 --> 00:09:25,013
+They're using them
+to develop weapons.
+
+103
+00:09:25,096 --> 00:09:26,181
+If that's true,
+
+104
+00:09:26,264 --> 00:09:28,641
+Lieutenant Keyman,
+then the control system
+
+105
+00:09:28,725 --> 00:09:32,103
+should be identical to the
+one Gamilas uses, as well.
+
+106
+00:09:36,941 --> 00:09:38,234
+[KEYMAN]
+We don't have time to destroy
+
+107
+00:09:38,318 --> 00:09:40,820
+the satellites one-by-one.
+I've got an idea.
+
+108
+00:09:40,904 --> 00:09:42,864
+We should aim for
+the central control.
+
+109
+00:09:42,947 --> 00:09:44,949
+So, if we just follow
+their control signals,
+
+110
+00:09:45,033 --> 00:09:47,494
+that'll lead us right
+to the boss's location?
+
+111
+00:09:47,577 --> 00:09:48,912
+[KEYMAN]
+Cover me out there!
+
+112
+00:09:48,995 --> 00:09:50,455
+[KATO]
+Leave it to us!
+
+113
+00:09:53,416 --> 00:09:57,170
+[SAITO] Fall back! All units
+retreat to the rendezvous point!
+
+114
+00:10:08,723 --> 00:10:11,476
+[SAIJO]
+It's too dangerous! Evacuate!
+
+115
+00:10:11,559 --> 00:10:13,728
+[SANADA]
+Just a bit more.
+
+116
+00:10:18,942 --> 00:10:20,318
+[KEYMAN]
+Is that it?
+
+117
+00:10:28,159 --> 00:10:30,829
+[KEYMAN] I was right--
+it's an exact copy.
+
+118
+00:10:30,912 --> 00:10:32,497
+[beeping]
+
+119
+00:10:32,580 --> 00:10:34,624
+[KEYMAN] Those who steal
+ideas to do harm,
+
+120
+00:10:34,708 --> 00:10:37,002
+must be punished accordingly.
+
+121
+00:10:37,085 --> 00:10:39,379
+That's called justice.
+
+122
+00:10:54,102 --> 00:10:56,062
+What just happened?
+
+123
+00:10:57,230 --> 00:11:02,193
+[SAITO grunts]
+Did we do it? Is it done?
+
+124
+00:11:02,277 --> 00:11:04,320
+[SANADA]
+Detonation, 300 seconds.
+
+125
+00:11:04,404 --> 00:11:06,364
+[KODAI]
+Okay! Withdraw!
+
+126
+00:11:07,991 --> 00:11:11,953
+[KODAI] All crew, gather at the
+rendezvous point immediately!
+
+127
+00:11:12,037 --> 00:11:15,206
+[SAITO] You heard him! Move out!
+The bedrock's gonna blow soon!
+
+128
+00:11:15,290 --> 00:11:16,416
+It'll be felt on the surface.
+
+129
+00:11:16,499 --> 00:11:17,334
+[NAGAKURA]
+Commander!
+
+130
+00:11:17,417 --> 00:11:18,626
+[SAITO]
+Huh?
+
+131
+00:11:23,548 --> 00:11:27,052
+[SAITO] So now they're bringin'
+out the big guns, huh?
+
+132
+00:11:29,554 --> 00:11:31,348
+[SAITO]
+Get down! Now!
+
+133
+00:11:54,079 --> 00:11:55,789
+[SAITO]
+Everyone all right?
+
+134
+00:11:57,165 --> 00:11:58,416
+[NAGAKURA]
+Confirming.
+
+135
+00:11:58,500 --> 00:12:00,877
+No vital readings
+for Omiya or Yahata.
+
+136
+00:12:00,960 --> 00:12:04,631
+[growls] Anyone got
+armaments left?
+
+137
+00:12:04,714 --> 00:12:07,300
+[NAGAKURA] There's interference
+from the Wave Motion Resonance.
+
+138
+00:12:07,384 --> 00:12:09,844
+That means everyone
+is down to 20% at most.
+
+139
+00:12:09,928 --> 00:12:14,057
+[SAITO sighs] Understood.
+In that case, we better retreat.
+
+140
+00:12:14,140 --> 00:12:16,601
+Get the hell outta here
+before the next wave comes.
+
+141
+00:12:16,685 --> 00:12:17,560
+[NAGAKURA]
+Roger.
+
+142
+00:12:17,644 --> 00:12:18,603
+[SAITO]
+Nagakura.
+
+143
+00:12:18,687 --> 00:12:19,938
+[NAGAKURA]
+Yes, Commander?
+
+144
+00:12:20,021 --> 00:12:23,149
+[SAITO] You lead 'em out.
+I'll catch up soon.
+
+145
+00:12:27,987 --> 00:12:28,863
+[SANADA]
+6...
+
+146
+00:12:28,947 --> 00:12:29,823
+...5...
+
+147
+00:12:29,906 --> 00:12:31,658
+...4... 3...
+
+148
+00:12:31,741 --> 00:12:32,701
+...2...
+
+149
+00:12:32,784 --> 00:12:34,035
+...1!
+
+150
+00:12:48,008 --> 00:12:48,967
+[HELVESTIA]
+Shock waves spreading
+
+151
+00:12:49,050 --> 00:12:50,468
+throughout the entire planet.
+
+152
+00:12:50,552 --> 00:12:53,805
+The sealant rock is undergoing
+a chain of total collapse.
+
+153
+00:12:53,888 --> 00:12:55,724
+[growls]
+
+154
+00:12:55,807 --> 00:12:57,350
+Huh?
+
+155
+00:12:57,434 --> 00:13:01,354
+[SAITO yelling]
+
+156
+00:13:09,612 --> 00:13:11,406
+[SAITO yells]
+
+157
+00:13:18,621 --> 00:13:19,831
+[SAITO grunts]
+
+158
+00:13:22,876 --> 00:13:25,170
+I am Zantz Zurvival.
+
+159
+00:13:25,253 --> 00:13:28,548
+That is the name I
+have proudly inherited.
+
+160
+00:13:28,631 --> 00:13:30,050
+Who are you?
+
+161
+00:13:30,133 --> 00:13:34,471
+Hajime Saito. Your people
+killed my best men.
+
+162
+00:13:34,554 --> 00:13:36,056
+I'm Space Cavalry.
+
+163
+00:13:36,139 --> 00:13:37,849
+[laughs]
+
+164
+00:13:46,441 --> 00:13:48,443
+[yells]
+
+165
+00:13:48,526 --> 00:13:49,903
+[SAITO groans]
+
+166
+00:14:07,545 --> 00:14:08,880
+[gasps]
+
+167
+00:14:27,023 --> 00:14:30,819
+Self-destruct?
+How dare you, coward?
+
+168
+00:15:05,020 --> 00:15:06,396
+[gasps]
+
+169
+00:15:14,738 --> 00:15:18,533
+What the hell is the matter
+with you? You idiot!
+
+170
+00:15:42,182 --> 00:15:44,100
+[KODAI]
+No obstacles detected ahead.
+
+171
+00:15:44,184 --> 00:15:47,354
+We'll now begin the
+descent into Terezarium.
+
+172
+00:15:47,437 --> 00:15:50,523
+Right to the source
+of Teresa's message.
+
+173
+00:15:50,607 --> 00:15:52,984
+Be careful down there, Kodai.
+
+174
+00:15:53,068 --> 00:15:54,361
+[KODAI]
+Yes, sir.
+
+175
+00:16:12,337 --> 00:16:15,423
+[KODAI] How can these grow?
+There's no sunlight.
+
+176
+00:16:15,507 --> 00:16:19,469
+[SAITO] No. That thing must give
+off some kinda similar light.
+
+177
+00:16:20,387 --> 00:16:22,013
+[KODAI]
+This is it.
+
+178
+00:16:22,097 --> 00:16:25,392
+[SANADA] Does that mean
+she's in there? Teresa?
+
+179
+00:16:25,475 --> 00:16:26,851
+I'm so curious.
+
+180
+00:16:26,935 --> 00:16:29,270
+What was Gatlantis
+trying to accomplish?
+
+181
+00:16:29,354 --> 00:16:31,231
+[SAITO]
+Look! Up there!
+
+182
+00:16:36,986 --> 00:16:38,405
+[BOTH gasp]
+
+183
+00:16:44,494 --> 00:16:47,372
+Uh! What the heck is goin' on?
+
+184
+00:16:51,543 --> 00:16:53,003
+[KODAI gasps]
+
+185
+00:17:06,850 --> 00:17:10,103
+Teresa! It must be!
+
+186
+00:17:19,571 --> 00:17:22,615
+[TERESA]
+I am Teresa.
+
+187
+00:17:22,699 --> 00:17:25,243
+Teresa of Terezart.
+
+188
+00:17:26,453 --> 00:17:30,123
+Hello. We received the
+message that you sent.
+
+189
+00:17:30,206 --> 00:17:32,959
+We came as soon as we could.
+
+190
+00:17:33,043 --> 00:17:35,295
+Why did you choose us?
+
+191
+00:17:35,378 --> 00:17:39,591
+I assume you could have sent the
+call to anyone in the universe.
+
+192
+00:17:39,674 --> 00:17:43,219
+I was not the one
+who made that choice.
+
+193
+00:17:43,303 --> 00:17:46,639
+It was already decided
+that the <i>Yamato</i> would come.
+
+194
+00:17:46,723 --> 00:17:47,891
+Already decided?
+
+195
+00:17:47,974 --> 00:17:49,392
+What does that mean?
+
+196
+00:17:49,476 --> 00:17:50,894
+Teresa.
+
+197
+00:17:50,977 --> 00:17:53,563
+You are a high-dimensional
+life form who exists
+
+198
+00:17:53,646 --> 00:17:57,317
+on a much higher plane than
+our own, is that correct?
+
+199
+00:17:57,400 --> 00:17:59,736
+High-dimensional life form?
+
+200
+00:18:00,612 --> 00:18:03,239
+In order to be able
+to hear your true voice,
+
+201
+00:18:03,323 --> 00:18:06,743
+we had to locate the source of
+your message and come to you.
+
+202
+00:18:06,826 --> 00:18:08,286
+Is that correct?
+
+203
+00:18:08,370 --> 00:18:10,497
+[TERESA]
+Indeed.
+
+204
+00:18:10,580 --> 00:18:13,333
+A being may only discover
+my true voice,
+
+205
+00:18:13,416 --> 00:18:16,628
+when they are on the same
+dimensional plane as me.
+
+206
+00:18:16,711 --> 00:18:18,546
+Terezarium is a gate.
+
+207
+00:18:18,630 --> 00:18:20,924
+One created for that purpose.
+
+208
+00:18:21,007 --> 00:18:24,052
+And your people, they
+cast their bodies aside
+
+209
+00:18:24,135 --> 00:18:26,888
+and passed into heaven
+while still alive.
+
+210
+00:18:26,971 --> 00:18:29,641
+You are the aggregate
+of all their minds,
+
+211
+00:18:29,724 --> 00:18:31,393
+and you exist on
+the boundary between
+
+212
+00:18:31,476 --> 00:18:33,353
+this world and the next.
+
+213
+00:18:33,436 --> 00:18:36,815
+Able to see the whole universe
+from beginning to end.
+
+214
+00:18:36,898 --> 00:18:37,941
+Huh?
+
+215
+00:18:38,024 --> 00:18:39,567
+Where she lives, is a realm
+
+216
+00:18:39,651 --> 00:18:41,945
+where the inhabitants
+can witness time.
+
+217
+00:18:42,028 --> 00:18:45,323
+And, right now, we're standing
+at the doorway to that world.
+
+218
+00:18:45,407 --> 00:18:46,700
+The doorway?
+
+219
+00:18:46,783 --> 00:18:48,702
+You mean, we're staring
+right, square into the mouth
+
+220
+00:18:48,785 --> 00:18:50,453
+of the River Styx?
+
+221
+00:18:51,538 --> 00:18:52,956
+I'm confused.
+
+222
+00:18:53,039 --> 00:18:55,875
+Has the <i>Yamato</i> 's course
+already been decided?
+
+223
+00:18:55,959 --> 00:18:57,460
+The White Comet.
+
+224
+00:18:57,544 --> 00:19:00,505
+Your people are aware of
+such a thing, are you not?
+
+225
+00:19:00,588 --> 00:19:01,756
+Yes.
+
+226
+00:19:01,840 --> 00:19:04,551
+We believe it to be the
+Gatlantean home world.
+
+227
+00:19:04,634 --> 00:19:07,429
+[TERESA] Actually, it's
+something the ancient Aquarians
+
+228
+00:19:07,512 --> 00:19:10,015
+left behind a very
+long time ago.
+
+229
+00:19:10,098 --> 00:19:11,850
+[ALL gasp]
+
+230
+00:19:11,933 --> 00:19:13,518
+[TERESA] On one hand,
+they sowed the seeds
+
+231
+00:19:13,601 --> 00:19:15,437
+of humanity in the universe.
+
+232
+00:19:15,520 --> 00:19:19,733
+And, on the other, they prepared
+a safety mechanism.
+
+233
+00:19:19,816 --> 00:19:24,154
+If the seeds were bad, this
+apparatus would reap them all.
+
+234
+00:19:24,237 --> 00:19:27,991
+Leaving none, as a way of
+protecting the universe.
+
+235
+00:19:28,074 --> 00:19:28,867
+[gasps]
+
+236
+00:19:28,950 --> 00:19:31,327
+Then, that means Gatlantis...
+
+237
+00:19:31,411 --> 00:19:34,873
+[TERESA] The goal of all
+life forms is the same.
+
+238
+00:19:34,956 --> 00:19:37,292
+To continue existing.
+
+239
+00:19:38,752 --> 00:19:41,171
+[TERESA]
+But Gatlantis is different.
+
+240
+00:19:41,254 --> 00:19:44,049
+They awakened the ark
+that governs destruction.
+
+241
+00:19:44,132 --> 00:19:47,844
+They have a vendetta
+against all human life.
+
+242
+00:19:47,927 --> 00:19:50,430
+Until they eradicate
+every trace of humanity
+
+243
+00:19:50,513 --> 00:19:52,349
+that exists in the universe,
+
+244
+00:19:52,432 --> 00:19:55,560
+their attacks will
+continue without end.
+
+245
+00:19:58,271 --> 00:19:59,689
+[TERESA]
+So, it's up to you.
+
+246
+00:19:59,773 --> 00:20:03,777
+Your people must rise up and
+face the White Comet Empire.
+
+247
+00:20:03,860 --> 00:20:07,572
+Not just for Earth,
+but for the sake of all life.
+
+248
+00:20:07,655 --> 00:20:09,949
+For everything in
+this dimension.
+
+249
+00:20:10,033 --> 00:20:12,160
+How does it end?
+
+250
+00:20:12,243 --> 00:20:13,870
+You can see everything, right?
+
+251
+00:20:13,953 --> 00:20:15,622
+[KODAI]
+Saito, stop.
+
+252
+00:20:15,705 --> 00:20:19,417
+If I tell you,
+the future will change.
+
+253
+00:20:19,501 --> 00:20:22,712
+And thus, I mustn't interfere.
+
+254
+00:20:23,338 --> 00:20:25,131
+[SAITO]
+Who are those guys?
+
+255
+00:20:25,215 --> 00:20:27,425
+[TERESA] Those who have
+left their physical bodies,
+
+256
+00:20:27,509 --> 00:20:29,386
+should refrain from
+involving themselves
+
+257
+00:20:29,469 --> 00:20:31,262
+in the physical world.
+
+258
+00:20:31,971 --> 00:20:37,102
+So, all that I am permitted
+to do is to pray for life.
+
+259
+00:20:37,185 --> 00:20:39,521
+[SANADA] A mechanism
+of absolute destruction
+
+260
+00:20:39,604 --> 00:20:41,815
+left behind by the
+god-like civilization
+
+261
+00:20:41,898 --> 00:20:44,567
+that created intelligent life.
+
+262
+00:20:44,651 --> 00:20:46,986
+Even if we assembled
+all Earth's armies,
+
+263
+00:20:47,070 --> 00:20:49,322
+we're not sure we
+could defeat them.
+
+264
+00:20:49,406 --> 00:20:50,907
+A hint.
+
+265
+00:20:50,990 --> 00:20:54,369
+Could you at least give us some
+clue about how to fight them?
+
+266
+00:20:58,373 --> 00:20:59,874
+--[KODAI, SANADA gasp]
+--[SAITO] Whoa!
+
+267
+00:20:59,958 --> 00:21:02,836
+[TERESA] You were able
+to find your way here.
+
+268
+00:21:02,919 --> 00:21:06,131
+There's a hint.
+Do you know what it means?
+
+269
+00:21:06,214 --> 00:21:08,174
+It's a sign we're connected.
+
+270
+00:21:08,258 --> 00:21:11,469
+That I have a powerful
+bond with your people.
+
+271
+00:21:12,887 --> 00:21:16,474
+And the <i>Yamato.</i>
+It's a great harmony.
+
+272
+00:21:16,558 --> 00:21:18,351
+[KODAI]
+A "great harmony"?
+
+273
+00:21:18,435 --> 00:21:21,813
+It's a field,
+created by our lives.
+
+274
+00:21:21,896 --> 00:21:25,275
+Those of us connected by
+these prevailing bonds.
+
+275
+00:21:25,358 --> 00:21:28,319
+Bonds are what we call the
+energies that connect beings
+
+276
+00:21:28,403 --> 00:21:30,655
+across space and time.
+
+277
+00:21:30,739 --> 00:21:33,158
+Tangible forces,
+akin to gravity.
+
+278
+00:21:33,241 --> 00:21:35,744
+They tie phenomena together,
+
+279
+00:21:35,827 --> 00:21:39,456
+and can even act across
+dimensional boundary lines.
+
+280
+00:21:39,539 --> 00:21:40,874
+[gasps]
+
+281
+00:21:41,708 --> 00:21:43,376
+The power of bonds
+
+282
+00:21:43,460 --> 00:21:47,130
+transcends all the physical
+laws of the universe.
+
+283
+00:21:47,213 --> 00:21:50,884
+No matter how violent the forces
+acting against them may be,
+
+284
+00:21:50,967 --> 00:21:54,262
+these bonds can never
+be fully eradicated.
+
+285
+00:21:56,806 --> 00:21:58,308
+[TERESA]
+The bonds that are associated
+
+286
+00:21:58,391 --> 00:22:01,394
+with that great harmony.
+The <i>Yamato.</i>
+
+287
+00:22:01,478 --> 00:22:06,107
+Have the power needed to
+stop the ark of destruction.
+
+288
+00:22:06,191 --> 00:22:07,859
+[KODAI]
+Teresa...
+
+289
+00:22:07,942 --> 00:22:10,028
+Bonds grow, as well.
+
+290
+00:22:10,111 --> 00:22:13,740
+And sometimes... this
+can be a painful process.
+
+291
+00:22:16,910 --> 00:22:20,038
+He will grow, like you.
+
+292
+00:22:20,121 --> 00:22:21,122
+[ALL gasp]
+
+293
+00:22:21,206 --> 00:22:23,750
+[footsteps]
+
+294
+00:22:50,443 --> 00:22:54,781
+[DESLER] It's been far too long,
+people of the <i>Yamato.</i>
+
+295
+00:25:15,839 --> 00:25:19,300
+[KODAI] Why don't we end this
+now, Supreme Leader Desler?
+
+296
+00:25:19,384 --> 00:25:22,095
+[DESLER] Oh, it has yet
+to even begin, boy.
+
+297
+00:25:22,178 --> 00:25:23,763
+So, how do you plan to end it?
+
+298
+00:25:23,847 --> 00:25:25,890
+Do you have the faintest clue?
+

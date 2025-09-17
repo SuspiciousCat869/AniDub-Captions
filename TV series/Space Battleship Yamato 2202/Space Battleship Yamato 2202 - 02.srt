@@ -1,0 +1,1658 @@
+﻿1
+00:01:49,224 --> 00:01:50,350
+[NIIMI]
+I can't believe it.
+
+2
+00:01:50,433 --> 00:01:52,560
+One of them actually survived.
+
+3
+00:01:52,644 --> 00:01:54,479
+[RESEARCHER 2A] Their bodies
+are frighteningly tough.
+
+4
+00:01:54,562 --> 00:01:58,274
+I mean, that Gatlantean ship
+was smashed to pieces.
+
+5
+00:01:58,358 --> 00:01:59,401
+[RESEARCHER 2B]
+We've found signs
+
+6
+00:01:59,484 --> 00:02:01,611
+of artificial manipulation
+in his DNA.
+
+7
+00:02:01,695 --> 00:02:03,571
+[RESEARCHER 2A] Are you saying
+you think they're not
+
+8
+00:02:03,655 --> 00:02:05,490
+pure humanoids, then?
+
+9
+00:02:05,573 --> 00:02:07,867
+[NIIMI] Is it possible that
+they're manufactured life forms?
+
+10
+00:02:07,951 --> 00:02:09,619
+Artificial soldiers?
+
+11
+00:02:09,703 --> 00:02:11,079
+Didn't you encounter
+some of them
+
+12
+00:02:11,162 --> 00:02:12,956
+while serving on
+the <i>Yamato,</i> Niimi?
+
+13
+00:02:13,039 --> 00:02:14,249
+We certainly did.
+
+14
+00:02:14,332 --> 00:02:16,710
+Hold on, I'll go get
+the research data.
+
+15
+00:02:28,388 --> 00:02:31,391
+We've confirmed it, Ambassador.
+There's a Gatlantean soldier
+
+16
+00:02:31,474 --> 00:02:34,853
+being held in an Earth
+Force research facility.
+
+17
+00:02:34,936 --> 00:02:37,814
+We have to warn them!
+Tell them to stop!
+
+18
+00:02:37,897 --> 00:02:39,149
+[RESEARCHER 2B]
+Capsule pressure rising!
+
+19
+00:02:39,232 --> 00:02:40,275
+Approaching critical!
+
+20
+00:02:40,358 --> 00:02:41,526
+[RESEARCHER 2A]
+What's happening?
+
+21
+00:02:41,609 --> 00:02:43,319
+[RESEARCHER 2B]
+It's boiling! Pull the valve!
+
+22
+00:02:43,403 --> 00:02:44,988
+[RESEARCHER 2A]
+We're too late!
+
+23
+00:03:07,385 --> 00:03:09,012
+[PRESIDENT]
+People of the world!
+
+24
+00:03:09,095 --> 00:03:12,057
+Today, as the first President of
+the Earth Federation Government,
+
+25
+00:03:12,140 --> 00:03:14,392
+it is with great honor
+and pride that I make this
+
+26
+00:03:14,476 --> 00:03:18,188
+historic announcement. A new era
+of space power is upon is!
+
+27
+00:03:18,271 --> 00:03:22,942
+The cutting-edge Andromeda-class
+ships are now complete!
+
+28
+00:03:23,026 --> 00:03:26,071
+Peace in space.
+That is our ultimate goal.
+
+29
+00:03:26,154 --> 00:03:28,865
+And the means to realize
+and defend that peace
+
+30
+00:03:28,948 --> 00:03:33,161
+is the strong alliance
+between Earth and Gamilas.
+
+31
+00:03:33,244 --> 00:03:35,705
+As the symbol of assuming
+such a responsibility,
+
+32
+00:03:35,789 --> 00:03:37,582
+the flagship of this
+new class, the <i>Andromeda...</i>
+
+33
+00:03:37,665 --> 00:03:39,125
+[BURRELL]
+Why didn't you tell us
+
+34
+00:03:39,209 --> 00:03:43,046
+that you'd recovered an enemy
+survivor from the operation?
+
+35
+00:03:43,129 --> 00:03:44,714
+[PRESIDENT] ...I have no doubt
+her four sister ships
+
+36
+00:03:44,798 --> 00:03:48,843
+you see here today will
+perform just as admirably...
+
+37
+00:03:48,927 --> 00:03:50,845
+Unless certain
+measures are taken,
+
+38
+00:03:50,929 --> 00:03:54,265
+a Gatlantean soldier's body will
+automatically self-destruct.
+
+39
+00:03:54,349 --> 00:03:56,393
+It's a central feature
+of their design.
+
+40
+00:03:56,476 --> 00:03:59,104
+If you'd informed us
+we could have warned you.
+
+41
+00:03:59,187 --> 00:04:00,980
+With due respect, Ambassador,
+
+42
+00:04:01,064 --> 00:04:02,982
+if you knew this
+about our common foe
+
+43
+00:04:03,066 --> 00:04:06,569
+then why didn't you share such
+a crucial fact from the start?
+
+44
+00:04:06,653 --> 00:04:09,197
+Are you suggesting that
+the fault lies with us?
+
+45
+00:04:09,280 --> 00:04:11,825
+You should at least have told
+us before the joint operation.
+
+46
+00:04:11,908 --> 00:04:14,744
+We've had some unfortunate
+misunderstandings in the past.
+
+47
+00:04:14,828 --> 00:04:15,912
+But Earth and Gamilas
+
+48
+00:04:15,995 --> 00:04:17,831
+are supposed to be
+allied worlds now.
+
+49
+00:04:17,914 --> 00:04:21,918
+I can only hope that means you
+see us as equal partners.
+
+50
+00:04:29,634 --> 00:04:31,720
+[TODO] The Earth's population
+is still less than a third
+
+51
+00:04:31,803 --> 00:04:34,097
+of what it once was.
+Even though the collapse
+
+52
+00:04:34,180 --> 00:04:37,851
+of the Desler Regime has
+left Gamilas in disarray.
+
+53
+00:04:37,934 --> 00:04:40,145
+With our skeleton fleet it
+would have been easy for you
+
+54
+00:04:40,228 --> 00:04:43,106
+to invade if you'd wanted.
+But I'm sure you'll realize
+
+55
+00:04:43,189 --> 00:04:45,734
+with these ships that's
+no longer the case.
+
+56
+00:04:45,817 --> 00:04:47,193
+"Jumping at shadows."
+
+57
+00:04:47,277 --> 00:04:51,114
+That's a saying we have in
+the Gamilan language, too.
+
+58
+00:04:51,197 --> 00:04:54,743
+{\an8}I must warn you by building this
+fleet you're playing with fire.
+
+59
+00:04:54,826 --> 00:04:55,785
+{\an8}[TODO grunts]
+
+60
+00:04:55,869 --> 00:04:57,287
+{\an8}Among other things,
+
+61
+00:04:57,370 --> 00:04:59,664
+{\an8}you've betrayed your promise
+to your saviors on Iscandar.
+
+62
+00:04:59,748 --> 00:05:01,958
+{\an8}Perhaps. But that was
+a verbal assurance
+
+63
+00:05:02,042 --> 00:05:05,337
+{\an8}made by the captain of a single
+battleship entirely on his own.
+
+64
+00:05:05,420 --> 00:05:06,963
+{\an8}It was not a real treaty
+
+65
+00:05:07,047 --> 00:05:09,341
+{\an8}and it wasn't the will
+of the people of Earth.
+
+66
+00:05:09,424 --> 00:05:12,052
+[bell ringing]
+
+67
+00:05:50,590 --> 00:05:51,800
+What's this?
+
+68
+00:05:51,883 --> 00:05:54,219
+[BURRELL]
+The former crew of the <i>Yamato.</i>
+
+69
+00:05:56,262 --> 00:05:58,264
+We haven't been able
+to confirm it yet.
+
+70
+00:05:58,348 --> 00:06:01,267
+But we think it's possible
+they've heard Teresa's voice.
+
+71
+00:06:01,351 --> 00:06:02,519
+Really?
+
+72
+00:06:02,602 --> 00:06:04,646
+The Earth's government
+has figured it out, too.
+
+73
+00:06:04,729 --> 00:06:07,774
+I'm going to try and meet
+with them directly and talk
+
+74
+00:06:07,857 --> 00:06:10,694
+before information leaks
+from the Gamilas home world.
+
+75
+00:06:10,777 --> 00:06:12,445
+[KEYMAN] This is the Earthling
+who tried to stop
+
+76
+00:06:12,529 --> 00:06:16,574
+a giant Gatlantean battleship
+with one small vessel.
+
+77
+00:06:16,658 --> 00:06:18,993
+[BURRELL]
+If Terezart really is involved,
+
+78
+00:06:19,077 --> 00:06:21,079
+needless to say this is serious.
+
+79
+00:06:21,162 --> 00:06:23,039
+Think of what he
+might be able to do.
+
+80
+00:06:23,123 --> 00:06:24,916
+Understood, sir.
+
+81
+00:06:32,007 --> 00:06:34,467
+Thank you for your
+service, Captain.
+
+82
+00:06:41,057 --> 00:06:42,225
+[MORI]
+You get chewed out?
+
+83
+00:06:42,308 --> 00:06:43,309
+Oh yeah.
+
+84
+00:06:43,393 --> 00:06:45,145
+"Do you remotely
+understand what you did
+
+85
+00:06:45,228 --> 00:06:47,605
+by going off on your own
+like that, soldier?"
+
+86
+00:06:47,689 --> 00:06:50,442
+"Yes I do. I saved the Earth.
+Is that a problem?"
+
+87
+00:06:50,525 --> 00:06:52,027
+As if I could say that.
+
+88
+00:06:52,110 --> 00:06:55,405
+Well you can now. There's
+nobody's listening out here.
+
+89
+00:06:55,488 --> 00:06:56,906
+Huh?
+
+90
+00:06:56,990 --> 00:07:00,535
+Susumu Kodai just saved the
+Earth from being destroyed!
+
+91
+00:07:01,244 --> 00:07:03,997
+[MORI] That's twice now!
+A thank you would be nice!
+
+92
+00:07:04,080 --> 00:07:04,998
+[KODAI]
+Hey!
+
+93
+00:07:05,081 --> 00:07:08,418
+Yuki Mori was so worried!
+
+94
+00:07:15,050 --> 00:07:17,010
+Susumu Kodai is sorry for that
+
+95
+00:07:17,093 --> 00:07:19,346
+and will try to
+make it up to her!
+
+96
+00:07:24,934 --> 00:07:26,186
+[laughs]
+
+97
+00:07:26,269 --> 00:07:28,646
+[BOTH laughing]
+
+98
+00:07:43,995 --> 00:07:45,205
+[MORI]
+Incredible, isn't it?
+
+99
+00:07:45,288 --> 00:07:46,373
+Sitting here like this,
+
+100
+00:07:46,456 --> 00:07:48,958
+it's like the Earth
+back before the war.
+
+101
+00:07:49,042 --> 00:07:49,918
+[KODAI]
+You remember?
+
+102
+00:07:50,001 --> 00:07:51,628
+Uh?
+
+103
+00:07:53,046 --> 00:07:55,757
+Oh. I mean. Sorry.
+
+104
+00:07:57,008 --> 00:07:58,802
+[MORI]
+Are you okay with this?
+
+105
+00:07:58,885 --> 00:08:00,512
+Honestly?
+
+106
+00:08:01,680 --> 00:08:03,390
+You're gonna have a
+wife who only remembers
+
+107
+00:08:03,473 --> 00:08:05,016
+the last four years, Kodai.
+
+108
+00:08:05,100 --> 00:08:07,602
+Doesn't that weird you out?
+
+109
+00:08:07,686 --> 00:08:09,020
+The way I see it
+
+110
+00:08:09,104 --> 00:08:11,231
+those are the only
+years that matter.
+
+111
+00:08:11,314 --> 00:08:13,942
+Our trip across the
+stars to Iscandar,
+
+112
+00:08:14,025 --> 00:08:16,027
+and these years that followed.
+
+113
+00:08:16,111 --> 00:08:18,238
+Maybe they haven't been so easy.
+
+114
+00:08:18,321 --> 00:08:20,323
+They're not exactly easy now.
+
+115
+00:08:20,407 --> 00:08:23,284
+But... At least we're alive.
+
+116
+00:08:25,412 --> 00:08:26,496
+[MORI]
+Kodai?
+
+117
+00:08:26,579 --> 00:08:28,456
+Let's just look to the future.
+
+118
+00:08:28,540 --> 00:08:30,542
+And find a way we can be happy.
+
+119
+00:08:30,625 --> 00:08:33,253
+That's our responsibility
+as survivors, right?
+
+120
+00:08:33,336 --> 00:08:34,045
+But Kodai.
+
+121
+00:08:34,129 --> 00:08:35,380
+Uh?
+
+122
+00:08:39,426 --> 00:08:42,887
+Fact is, I've been happy
+for a long time.
+
+123
+00:08:53,481 --> 00:08:55,108
+[DR. SADO]
+Just look at it, Captain.
+
+124
+00:08:55,191 --> 00:08:58,820
+A shining, state-of-the-art
+city on a beautiful Earth.
+
+125
+00:08:58,903 --> 00:09:00,530
+[gulping]
+
+126
+00:09:00,613 --> 00:09:02,365
+[sighs]
+
+127
+00:09:02,449 --> 00:09:04,868
+Those days fighting Gamilas
+for our survival--
+
+128
+00:09:04,951 --> 00:09:07,746
+they almost feel
+more like a dream now.
+
+129
+00:09:07,829 --> 00:09:10,040
+Well anyway, Captain, drink up.
+
+130
+00:09:10,123 --> 00:09:13,251
+Today's the third
+anniversary of your death.
+
+131
+00:09:15,045 --> 00:09:17,005
+[DR. SADO]
+Earth's already changed a lot.
+
+132
+00:09:17,088 --> 00:09:19,341
+They've built massive
+new cities on the surface
+
+133
+00:09:19,424 --> 00:09:24,220
+and some ridiculously big
+ships with Wave Motion Guns.
+
+134
+00:09:24,304 --> 00:09:25,680
+Rebuilding is great.
+
+135
+00:09:25,764 --> 00:09:30,101
+Question is, are we moving
+in the right direction.
+
+136
+00:09:30,185 --> 00:09:32,479
+[cat meows]
+
+137
+00:09:39,069 --> 00:09:41,363
+The <i>Yamato</i> still has
+the Cosmo Reverse System
+
+138
+00:09:41,446 --> 00:09:42,781
+that saved mankind.
+
+139
+00:09:42,864 --> 00:09:45,992
+But it already feels
+like an afterthought.
+
+140
+00:09:46,076 --> 00:09:47,911
+Okita...
+
+141
+00:09:47,994 --> 00:09:50,538
+Maybe we're the only ones
+who still remember.
+
+142
+00:09:50,622 --> 00:09:54,417
+Everything we battled through
+and everything we lost.
+
+143
+00:09:54,501 --> 00:09:55,752
+[SANADA]
+Dr. Sado.
+
+144
+00:09:55,835 --> 00:09:57,087
+--[footsteps]
+--Huh?
+
+145
+00:10:00,840 --> 00:10:03,760
+Oh! So everybody made it, huh!
+
+146
+00:10:07,389 --> 00:10:08,932
+[KODAI]
+Hey!
+
+147
+00:10:09,015 --> 00:10:11,476
+[DR. SADO] What took ya
+so long, ya stragglers?
+
+148
+00:10:11,559 --> 00:10:13,144
+I'm sorry, Doctor!
+
+149
+00:10:13,228 --> 00:10:14,145
+Kodai!
+
+150
+00:10:14,229 --> 00:10:15,730
+[KODAI]
+Shima! It's been a while!
+
+151
+00:10:15,814 --> 00:10:18,066
+I hear you just put on
+another big show, buddy.
+
+152
+00:10:18,149 --> 00:10:20,902
+Everyone's talking about it,
+even in the Transport Fleet.
+
+153
+00:10:20,985 --> 00:10:22,070
+Uh?
+
+154
+00:10:22,946 --> 00:10:24,406
+[DR. SADO]
+All crew, at attention!
+
+155
+00:10:24,489 --> 00:10:26,825
+Fall in line!
+
+156
+00:10:26,908 --> 00:10:30,537
+Captain, every crewmember now on
+Earth has gathered here today.
+
+157
+00:10:30,620 --> 00:10:32,706
+They're doing their best
+to rebuild in each
+
+158
+00:10:32,789 --> 00:10:35,000
+of their departments
+and fields of expertise.
+
+159
+00:10:35,083 --> 00:10:37,335
+I hope that gives you peace.
+
+160
+00:10:37,419 --> 00:10:40,964
+Pay your respects to Juzo Okita,
+captain of the <i>Yamato</i> !
+
+161
+00:10:41,047 --> 00:10:42,882
+Attention!
+
+162
+00:10:59,149 --> 00:11:04,154
+[YAMATO CREW chatting, laughing]
+
+163
+00:11:06,906 --> 00:11:10,326
+[SANADA]
+Kodai. I'm sorry.
+
+164
+00:11:10,410 --> 00:11:13,580
+I shouldn't have made you bear
+that whole burden on your own.
+
+165
+00:11:13,663 --> 00:11:15,248
+It's fine.
+
+166
+00:11:18,126 --> 00:11:21,713
+There's something
+nagging at me though.
+
+167
+00:11:21,796 --> 00:11:24,507
+Right after that incident, there
+was communication interference
+
+168
+00:11:24,591 --> 00:11:26,384
+all throughout the solar system.
+
+169
+00:11:26,468 --> 00:11:27,594
+[KODAI]
+Yeah.
+
+170
+00:11:27,677 --> 00:11:29,929
+But no one has been
+able to explain it yet.
+
+171
+00:11:30,013 --> 00:11:31,681
+Uh?
+
+172
+00:11:31,765 --> 00:11:33,266
+[SANADA]
+Kodai...
+
+173
+00:11:33,350 --> 00:11:36,061
+When it happened,
+who did you see?
+
+174
+00:11:36,144 --> 00:11:39,397
+[OKITA]
+Kodai, board the <i>Yamato.</i>
+
+175
+00:11:41,566 --> 00:11:43,068
+[SHIMA]
+I saw my dead father.
+
+176
+00:11:43,151 --> 00:11:44,235
+[gasps]
+
+177
+00:11:44,319 --> 00:11:46,112
+It'd been ten years
+since I'd seen him.
+
+178
+00:11:46,196 --> 00:11:50,158
+But he was still as tight-lipped
+as he ever was.
+
+179
+00:11:50,241 --> 00:11:51,910
+[TOKUGAWA]
+I saw mine, too.
+
+180
+00:11:51,993 --> 00:11:53,495
+[AIHARA]
+That's crazy--so did I!
+
+181
+00:11:53,578 --> 00:11:55,789
+He was calling out to me,
+clear as day.
+
+182
+00:11:55,872 --> 00:11:57,248
+He said, "Board the <i>Yamato</i> !"
+
+183
+00:11:57,332 --> 00:12:00,293
+[YAMATO CREW murmuring]
+
+184
+00:12:00,377 --> 00:12:02,671
+[OTA]
+That's so many of us!
+
+185
+00:12:02,754 --> 00:12:04,255
+Do you think the <i>Yamato</i> 's
+former crew
+
+186
+00:12:04,339 --> 00:12:06,007
+was targeted somehow?
+
+187
+00:12:06,091 --> 00:12:08,968
+Such similar hallucinations seen
+by so many at the same time
+
+188
+00:12:09,052 --> 00:12:11,721
+obviously poses
+compelling questions.
+
+189
+00:12:11,805 --> 00:12:14,349
+Military command seems to be
+investigating it too.
+
+190
+00:12:14,432 --> 00:12:16,267
+Command.
+
+191
+00:12:16,351 --> 00:12:18,561
+These new ships with
+Wave Motion Guns,
+
+192
+00:12:18,645 --> 00:12:20,772
+and the aggressive
+plans for expansion.
+
+193
+00:12:20,855 --> 00:12:22,399
+What we brought
+back from Iscandar
+
+194
+00:12:22,482 --> 00:12:23,608
+was supposed to save us,
+
+195
+00:12:23,692 --> 00:12:26,945
+not make us into some
+galactic superpower.
+
+196
+00:12:28,655 --> 00:12:30,949
+[OTA] It's like the <i>Yamato</i>
+called out to us.
+
+197
+00:12:31,032 --> 00:12:34,077
+Like it's unhappy with
+the direction we're headed.
+
+198
+00:12:36,746 --> 00:12:39,249
+The <i>Yamato</i> , huh.
+
+199
+00:12:39,332 --> 00:12:43,795
+[MORI] Kodai, who did you
+see in your vision?
+
+200
+00:12:43,878 --> 00:12:47,090
+As for me,
+I didn't see anybody.
+
+201
+00:12:52,721 --> 00:12:53,972
+The <i>Andromeda</i> !
+
+202
+00:12:54,055 --> 00:12:56,975
+That's the flagship
+of the new class.
+
+203
+00:13:16,786 --> 00:13:19,330
+[NANBU]
+You idiots!
+
+204
+00:13:28,048 --> 00:13:31,009
+[SANADA] There's something
+I want the two of you to see.
+
+205
+00:13:31,092 --> 00:13:32,802
+What is that?
+It looks like a comet.
+
+206
+00:13:32,886 --> 00:13:34,429
+It's an unknown quasar.
+
+207
+00:13:34,512 --> 00:13:36,389
+We found it during
+spatial corrections.
+
+208
+00:13:36,473 --> 00:13:39,100
+It's actually traveling
+toward our solar system,
+
+209
+00:13:39,184 --> 00:13:42,228
+moving incredibly close
+to the speed of light.
+
+210
+00:13:42,312 --> 00:13:44,022
+Of course it's something
+we'll want to monitor,
+
+211
+00:13:44,105 --> 00:13:46,024
+but it won't reach the
+Earth's sphere of influence
+
+212
+00:13:46,107 --> 00:13:48,151
+for tens of thousands of years.
+
+213
+00:13:48,234 --> 00:13:49,778
+The far more pressing issue?
+
+214
+00:13:49,861 --> 00:13:52,697
+The energy waves we think
+caused the hallucinations--
+
+215
+00:13:52,781 --> 00:13:55,116
+we're fairly sure that they
+came from the same place.
+
+216
+00:13:55,200 --> 00:13:57,911
+Exactly the same direction
+as that quasar.
+
+217
+00:13:57,994 --> 00:13:59,621
+The waves were
+super-directional,
+
+218
+00:13:59,704 --> 00:14:01,414
+and clearly pointed at Earth.
+
+219
+00:14:01,498 --> 00:14:03,291
+So these waves were
+aimed at us.
+
+220
+00:14:03,375 --> 00:14:05,335
+And somehow affected our minds?
+
+221
+00:14:05,418 --> 00:14:07,671
+And showed us visions
+of people from our past?
+
+222
+00:14:07,754 --> 00:14:09,089
+[SANADA]
+Exactly.
+
+223
+00:14:09,172 --> 00:14:10,882
+And the truth is, the
+energy waves were logged
+
+224
+00:14:10,965 --> 00:14:13,134
+in the <i>Yamato</i> 's
+recorder as well.
+
+225
+00:14:13,218 --> 00:14:16,680
+I managed to take it out before
+the military collected it.
+
+226
+00:14:16,763 --> 00:14:18,723
+I'll display the data now.
+
+227
+00:14:22,644 --> 00:14:24,479
+[SHIMA, KODAI gasping]
+
+228
+00:14:24,562 --> 00:14:25,772
+[SANADA]
+That's strange.
+
+229
+00:14:25,855 --> 00:14:28,191
+The data is out of control.
+
+230
+00:14:30,151 --> 00:14:33,530
+[TERESA]
+Warriors of a distant star,
+
+231
+00:14:33,613 --> 00:14:37,659
+my hope now rests with you.
+
+232
+00:14:47,502 --> 00:14:50,505
+You saw that, too, Shima?
+
+233
+00:14:50,588 --> 00:14:51,381
+[SHIMA]
+Uh?
+
+234
+00:14:51,464 --> 00:14:53,341
+Someone was kneeling.
+
+235
+00:14:53,425 --> 00:14:57,679
+Like in prayer.
+Calling for help.
+
+236
+00:14:57,762 --> 00:15:00,807
+Uh! Sanada, you saw it, right?
+
+237
+00:15:00,890 --> 00:15:04,185
+They must be asking for us
+to go to its origin point.
+
+238
+00:15:04,269 --> 00:15:05,562
+Here.
+
+239
+00:15:05,645 --> 00:15:07,022
+[SHIMA]
+Look out!
+
+240
+00:15:07,105 --> 00:15:09,107
+Kodai, calm down.
+
+241
+00:15:09,190 --> 00:15:12,652
+I have to say I agree with
+your assessment, Kodai.
+
+242
+00:15:12,736 --> 00:15:14,529
+It's hardly scientific.
+
+243
+00:15:14,612 --> 00:15:18,199
+Still, somehow we've all
+been sent these visions.
+
+244
+00:15:18,283 --> 00:15:20,243
+And our hearts have been shaken.
+
+245
+00:15:22,871 --> 00:15:28,335
+In my view, we're
+being called upon.
+
+246
+00:15:28,418 --> 00:15:30,754
+To the far reaches of space,
+
+247
+00:15:30,837 --> 00:15:33,590
+by someone whose very
+existence is in peril.
+
+248
+00:15:33,673 --> 00:15:37,260
+Our hearts can understand
+that all too well.
+
+249
+00:15:42,932 --> 00:15:45,143
+[KODAI]
+We should go!
+
+250
+00:15:45,226 --> 00:15:48,438
+No matter who it is,
+or how far away they are!
+
+251
+00:15:48,521 --> 00:15:50,648
+That's what Captain
+Okita was telling me.
+
+252
+00:15:50,732 --> 00:15:51,983
+I'm sure of it now.
+
+253
+00:15:52,067 --> 00:15:53,943
+If someone's out there
+in space asking for help,
+
+254
+00:15:54,027 --> 00:15:55,737
+then we should answer the call!
+
+255
+00:15:55,820 --> 00:15:56,738
+We have to!
+
+256
+00:15:56,821 --> 00:15:58,031
+Kodai.
+
+257
+00:16:12,295 --> 00:16:14,631
+[KODAI]
+Shima, surely you understand.
+
+258
+00:16:14,714 --> 00:16:18,134
+A sailor must never abandon
+those who are in need of help.
+
+259
+00:16:18,218 --> 00:16:21,262
+You know your father would
+tell you the same thing.
+
+260
+00:16:21,346 --> 00:16:22,681
+[SHIMA] You're jumping
+to conclusions.
+
+261
+00:16:22,764 --> 00:16:24,516
+We don't have
+enough information.
+
+262
+00:16:24,599 --> 00:16:28,269
+[KODAI] Well, I know this: no
+one can fly the <i>Yamato</i> like you!
+
+263
+00:16:31,898 --> 00:16:34,025
+[KODAI] The original
+crew of the <i>Yamato</i> --
+
+264
+00:16:34,109 --> 00:16:37,862
+hundreds of them--all
+receiving the same message!
+
+265
+00:16:37,946 --> 00:16:40,407
+The military can't ignore that.
+
+266
+00:16:40,490 --> 00:16:41,908
+If we call on them to act--
+
+267
+00:16:41,991 --> 00:16:43,993
+[SHIMA] If talking to the
+military would make them act,
+
+268
+00:16:44,077 --> 00:16:47,205
+then I never would have quit.
+
+269
+00:16:47,288 --> 00:16:50,792
+And don't forget, you're not
+on your own anymore.
+
+270
+00:16:50,875 --> 00:16:53,712
+You should be thinking
+about Mori, too.
+
+271
+00:17:19,696 --> 00:17:21,239
+[thud]
+
+272
+00:17:32,917 --> 00:17:34,377
+[footstep]
+
+273
+00:17:52,979 --> 00:17:55,231
+[KEYMAN]
+You're under surveillance.
+
+274
+00:17:55,315 --> 00:17:58,443
+Every person who served on
+the <i>Yamato</i> is being watched.
+
+275
+00:17:58,526 --> 00:17:59,527
+[KODAI]
+But why?
+
+276
+00:17:59,611 --> 00:18:02,072
+I'm fairly certain
+you can guess why.
+
+277
+00:18:03,073 --> 00:18:05,367
+Okay, who are you?
+
+278
+00:18:09,079 --> 00:18:10,622
+A Gamilan?
+
+279
+00:18:12,916 --> 00:18:16,252
+[KEYMAN sighs]
+This humidity's awful.
+
+280
+00:18:16,336 --> 00:18:20,090
+I don't know how you
+Earthlings can tolerate it.
+
+281
+00:18:20,173 --> 00:18:22,467
+I'm not asking you to
+let go of the past.
+
+282
+00:18:22,550 --> 00:18:27,764
+I know I haven't. My people
+lost a lot in that war, too.
+
+283
+00:18:27,847 --> 00:18:30,767
+But we Gamilans do owe
+the <i>Yamato</i> a debt.
+
+284
+00:18:30,850 --> 00:18:32,686
+I plan to pay.
+
+285
+00:18:32,769 --> 00:18:34,354
+[KODAI]
+Uh.
+
+286
+00:18:36,606 --> 00:18:39,025
+I would like you to go
+to the moon with me.
+
+287
+00:18:39,109 --> 00:18:40,360
+[KODAI]
+The moon?
+
+288
+00:18:40,443 --> 00:18:43,571
+[KEYMAN] More specifically
+to the Gamilan Embassy.
+
+289
+00:18:48,660 --> 00:18:50,620
+[YAMAMOTO]
+Come on, you guys!
+
+290
+00:18:52,455 --> 00:18:54,416
+[YAMAMOTO]
+It's been more than 15 seconds.
+
+291
+00:18:54,499 --> 00:18:56,251
+You haven't even grazed me.
+
+292
+00:18:56,334 --> 00:18:59,212
+You're making those fancy
+new models look pathetic.
+
+293
+00:18:59,295 --> 00:19:03,717
+You have 5... 4... 3... 2...
+
+294
+00:19:05,552 --> 00:19:06,678
+[YAMAMOTO]
+Time's up.
+
+295
+00:19:06,761 --> 00:19:08,930
+Tsurumi, you died again today.
+
+296
+00:19:09,014 --> 00:19:10,515
+[TSURUMI]
+Damn it!
+
+297
+00:19:14,394 --> 00:19:15,729
+[YAMAMOTO]
+Instructor Kato
+
+298
+00:19:15,812 --> 00:19:20,650
+is never going to accept
+results like this.
+
+299
+00:19:20,734 --> 00:19:23,153
+[TSURUMI] Instructor Yamamoto
+was one harsh woman.
+
+300
+00:19:23,236 --> 00:19:25,030
+[PILOT 2A]
+What's up with Instructor Kato?
+
+301
+00:19:25,113 --> 00:19:27,157
+It's his third time
+off this month.
+
+302
+00:19:27,240 --> 00:19:29,367
+[PILOT 2B]
+Is his son really that sick?
+
+303
+00:19:29,451 --> 00:19:31,995
+[TSURUMI] I hear it's space
+radiation sickness.
+
+304
+00:19:32,078 --> 00:19:32,996
+[PILOT 2B]
+Inherited?
+
+305
+00:19:33,079 --> 00:19:34,247
+[TSURUMI]
+Yeah.
+
+306
+00:19:34,330 --> 00:19:36,332
+Makoto blames herself for it.
+
+307
+00:19:36,416 --> 00:19:38,209
+She said they can slow
+its progression some
+
+308
+00:19:38,293 --> 00:19:40,420
+if he's treated at
+the lunar sanatorium.
+
+309
+00:19:40,503 --> 00:19:43,214
+It sounds like they're
+grasping at straws, though.
+
+310
+00:19:53,224 --> 00:19:53,850
+[chiming]
+
+311
+00:19:53,933 --> 00:19:55,352
+[YAMAMOTO]
+Uh?
+
+312
+00:19:58,688 --> 00:20:00,065
+[YAMAMOTO]
+Kodai?
+
+313
+00:20:01,608 --> 00:20:03,902
+[KEYMAN] When the transport
+ship reaches lunar orbit,
+
+314
+00:20:03,985 --> 00:20:06,196
+fake an accidental
+fire in the bay,
+
+315
+00:20:06,279 --> 00:20:09,407
+then drop to the moon's surface
+with the purged cargo.
+
+316
+00:20:15,288 --> 00:20:16,289
+[KEYMAN]
+But there's a squadron
+
+317
+00:20:16,373 --> 00:20:17,999
+of unmanned
+counter-terrorist drones
+
+318
+00:20:18,083 --> 00:20:20,877
+around the embassy,
+so stay on your toes.
+
+319
+00:20:23,880 --> 00:20:25,382
+[KEYMAN]
+Meet with Ambassador Burrell,
+
+320
+00:20:25,465 --> 00:20:28,009
+and you'll learn the truth
+behind those visions.
+
+321
+00:20:28,093 --> 00:20:29,761
+This mission is vital.
+
+322
+00:20:29,844 --> 00:20:32,389
+It could change the fates
+of Earth and Gamilas.
+
+323
+00:20:32,472 --> 00:20:33,723
+This is just the first step,
+
+324
+00:20:33,807 --> 00:20:36,226
+so try not to make
+any careless mistakes.
+
+325
+00:20:36,309 --> 00:20:40,063
+This Klaus Keyman.
+He's no embassy liaison.
+
+326
+00:20:41,231 --> 00:20:44,150
+But for right now I just
+need to keep moving.
+
+327
+00:20:44,234 --> 00:20:47,904
+[beeping]
+
+328
+00:21:08,925 --> 00:21:10,844
+[YAMAMOTO]
+Yamamoto of Cosmo Tiger Team
+
+329
+00:21:10,927 --> 00:21:12,387
+to Lunar Surface Base.
+
+330
+00:21:12,470 --> 00:21:14,973
+Reporting incursion into
+Gamilan embassy airspace
+
+331
+00:21:15,056 --> 00:21:16,099
+during training.
+
+332
+00:21:16,182 --> 00:21:18,309
+Notify Gamilans
+this was accidental,
+
+333
+00:21:18,393 --> 00:21:20,103
+and tell them I'm sorry.
+
+334
+00:21:25,942 --> 00:21:27,527
+[YAMAMOTO]
+Stay safe.
+
+335
+00:22:06,691 --> 00:22:08,151
+[SABERA]
+Emperor Zworder,
+
+336
+00:22:08,234 --> 00:22:12,197
+we may have determined where
+Teresa's cosmo wave was sent.
+
+337
+00:22:12,280 --> 00:22:13,490
+[ZWORDER]
+Hmm?
+
+338
+00:22:14,199 --> 00:22:18,119
+[SABERA]
+It is a pitifully remote planet.
+
+339
+00:22:18,203 --> 00:22:20,747
+However, one ship
+from our advance fleet
+
+340
+00:22:20,830 --> 00:22:23,249
+has vanished while
+within its perimeter.
+
+341
+00:22:23,333 --> 00:22:25,794
+We believe it may be
+the home world of the race
+
+342
+00:22:25,877 --> 00:22:29,381
+who has formed an
+alliance with Gamilas.
+
+343
+00:22:29,464 --> 00:22:31,716
+We've found Earth?
+
+344
+00:22:35,470 --> 00:22:38,181
+[SABERA] His Imperial
+Majesty has decided
+
+345
+00:22:38,264 --> 00:22:39,933
+the Gatlantis Empire!
+
+346
+00:22:40,016 --> 00:22:41,768
+Forward!
+
+347
+00:24:57,862 --> 00:24:59,739
+[BURRELL]
+Those called by Teresa.
+
+348
+00:24:59,823 --> 00:25:02,033
+Surely you found
+it suspicious--
+
+349
+00:25:02,117 --> 00:25:04,077
+how fast they churned
+out the <i>Andromeda</i> .
+
+350
+00:25:04,160 --> 00:25:05,453
+[SANADA]
+I'll refit the <i>Yamato.</i>
+
+351
+00:25:05,537 --> 00:25:06,913
+[KODAI]
+That's what you call this?!
+
+352
+00:25:06,996 --> 00:25:08,331
+[NANBU]
+This is not okay!
+
+353
+00:25:08,415 --> 00:25:11,001
+[KODAI]
+Come on! I can't do this alone!
+

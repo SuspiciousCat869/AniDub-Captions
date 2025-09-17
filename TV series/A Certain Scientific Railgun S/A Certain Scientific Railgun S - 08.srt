@@ -1,0 +1,1528 @@
+﻿1
+00:00:06,841 --> 00:00:07,523
+Confirm.
+
+2
+00:00:08,258 --> 00:00:10,399
+It's three minutes past the rendezvous time.
+
+3
+00:00:11,037 --> 00:00:11,941
+This is Point A.
+
+4
+00:00:12,604 --> 00:00:14,532
+Confirmed, there's no one in sight yet.
+
+5
+00:00:14,885 --> 00:00:16,875
+All right... So they're no-shows.
+
+6
+00:00:17,379 --> 00:00:20,007
+Guess they realized they were
+messing with the wrong people.
+
+7
+00:00:20,085 --> 00:00:21,921
+Now you're just being ridiculous.
+
+8
+00:00:23,226 --> 00:00:24,304
+Hey! Who was that?
+
+9
+00:00:25,041 --> 00:00:26,735
+I'm here, as we agreed...
+
+10
+00:00:27,340 --> 00:00:29,265
+Closer than you know, in fact.
+
+11
+00:00:36,715 --> 00:00:38,532
+The deal is off... It's off.
+
+12
+00:00:38,726 --> 00:00:40,059
+Get out of there right now!
+
+13
+00:00:45,942 --> 00:00:46,763
+Who are you?
+
+14
+00:00:47,133 --> 00:00:47,638
+Heh.
+
+15
+00:00:49,108 --> 00:00:49,920
+Ahh!
+
+16
+00:01:00,610 --> 00:01:01,896
+You! Stay back!
+
+17
+00:01:14,138 --> 00:01:15,475
+What's that? Again?
+
+18
+00:01:16,228 --> 00:01:17,526
+Yeah... Yeah, all right...
+
+19
+00:01:18,216 --> 00:01:19,536
+Fine. So who is it?
+
+20
+00:01:20,567 --> 00:01:22,140
+Pharmaceuticals? Really?
+
+21
+00:01:22,425 --> 00:01:23,175
+Isn't that a little...
+
+22
+00:01:23,200 --> 00:01:25,654
+Sure, that's true. It's not like
+I don't see what you're saying...
+
+23
+00:01:25,855 --> 00:01:26,728
+but, all told...
+
+24
+00:01:27,216 --> 00:01:30,493
+the whole point of a swimsuit is to
+show off your body to other people...
+
+25
+00:01:30,838 --> 00:01:35,045
+so going to a private pool defeats the
+purpose of wearing one, if you see what I mean.
+
+26
+00:01:35,355 --> 00:01:36,039
+Okay.
+
+27
+00:01:36,260 --> 00:01:39,336
+But all of the public pools and
+beaches are always ultra crowded...
+
+28
+00:01:39,591 --> 00:01:42,196
+There's no room, so it's next to impossible to swim.
+
+29
+00:01:42,587 --> 00:01:44,233
+Yeah... I guess you're right.
+
+30
+00:01:44,258 --> 00:01:45,351
+I hadn't thought about that.
+
+31
+00:01:47,152 --> 00:01:48,494
+What do you think, Takitsubo?
+
+32
+00:01:48,901 --> 00:01:49,782
+Hmm...
+
+33
+00:01:51,772 --> 00:01:55,474
+As long there's space to just float
+like a corpse, it doesn't matter to me.
+
+34
+00:01:56,317 --> 00:01:57,593
+Oh... Okay...
+
+35
+00:02:00,050 --> 00:02:02,448
+Ladies, let's cut the chit chat while we're working.
+
+36
+00:02:02,837 --> 00:02:04,130
+Kinuhata, that's enough...
+
+37
+00:02:04,416 --> 00:02:06,425
+We've got a new request, so we're heading back.
+
+38
+00:02:07,162 --> 00:02:07,960
+What time?
+
+39
+00:02:08,095 --> 00:02:10,542
+Good question. The request is somewhat vague.
+
+40
+00:02:10,867 --> 00:02:11,256
+Huh?
+
+41
+00:02:11,535 --> 00:02:12,298
+That said...
+
+42
+00:02:12,513 --> 00:02:14,807
+our task sounds like it'll be simple enough.
+
+43
+00:02:14,901 --> 00:02:18,360
+Hey... I don't know how much I like
+taking on a job that's so vague...
+
+44
+00:02:19,175 --> 00:02:21,704
+But, all told, Mugino, you're the boss, so whatever.
+
+45
+00:02:21,987 --> 00:02:23,300
+So, what is the job?
+
+46
+00:02:23,585 --> 00:02:26,496
+Protecting a facility from a mysterious invader...
+
+47
+00:02:27,127 --> 00:02:28,793
+The pay isn't too bad, either...
+
+48
+00:02:28,869 --> 00:02:30,109
+I think this is perfect.
+
+49
+00:02:30,934 --> 00:02:33,971
+Just the kind of job we here at ITEM like to take on.
+
+50
+00:04:06,821 --> 00:04:09,643
+An esper with the power to control electricity, huh?
+
+51
+00:04:09,990 --> 00:04:11,327
+The attacks have been conducted
+
+52
+00:04:11,352 --> 00:04:12,941
+via communications lines,
+
+53
+00:04:12,966 --> 00:04:15,716
+and no intruder has been caught by electronic security,
+
+54
+00:04:15,741 --> 00:04:16,913
+so that's their guess.
+
+55
+00:04:17,482 --> 00:04:21,711
+Actually... the client seems to have
+this rather narrowly profiled already.
+
+56
+00:04:22,133 --> 00:04:23,920
+So they've got a suspect in mind?
+
+57
+00:04:24,074 --> 00:04:26,739
+In that case, why don't they
+set up their own counterattack?
+
+58
+00:04:27,630 --> 00:04:30,212
+I think that it would be ultra easy to stage an ambush.
+
+59
+00:04:30,697 --> 00:04:33,732
+You are only to act once the
+target is within the facility...
+
+60
+00:04:33,831 --> 00:04:36,092
+and you are not to pry into the particulars...
+
+61
+00:04:36,184 --> 00:04:37,640
+those are the client's orders.
+
+62
+00:04:37,756 --> 00:04:39,553
+Uh? What's with these guys?
+
+63
+00:04:39,578 --> 00:04:41,914
+I don't like how this job is going so far.
+
+64
+00:04:42,191 --> 00:04:43,256
+What do you want?
+
+65
+00:04:43,341 --> 00:04:44,433
+A job's a job.
+
+66
+00:04:44,565 --> 00:04:46,252
+We don't take them because they're fun...
+
+67
+00:04:46,427 --> 00:04:48,800
+Anyway... they sought you out for this gig...
+
+68
+00:04:48,883 --> 00:04:50,550
+I'm sure they had their reasons...
+
+69
+00:04:50,649 --> 00:04:52,323
+Now quit your whining and get to work!
+
+70
+00:04:52,348 --> 00:04:53,301
+Okay.
+
+71
+00:04:54,210 --> 00:04:55,293
+So that's the job...
+
+72
+00:04:55,380 --> 00:04:57,621
+just lie in wait then take out the opponent?
+
+73
+00:04:58,242 --> 00:04:59,013
+Basically.
+
+74
+00:04:59,624 --> 00:05:00,841
+With one catch, though...
+
+75
+00:05:00,925 --> 00:05:04,525
+There are two facilities that our
+mystery attacker could potentially target.
+
+76
+00:05:04,550 --> 00:05:07,841
+Ooh! I can cover one of them by myself!
+
+77
+00:05:07,866 --> 00:05:08,330
+Huh?
+
+78
+00:05:08,675 --> 00:05:09,618
+What's with you?
+
+79
+00:05:10,098 --> 00:05:11,889
+I thought you didn't like this job.
+
+80
+00:05:11,925 --> 00:05:14,066
+Liking the job has nothing to do with it...
+
+81
+00:05:14,091 --> 00:05:17,548
+I mean if I'm the one to take 'em out,
+then I earn the kill shot bonus, don't I?
+
+82
+00:05:19,252 --> 00:05:20,186
+All right, Frenda...
+
+83
+00:05:20,311 --> 00:05:22,162
+Just make sure you stay in contact.
+
+84
+00:05:23,482 --> 00:05:25,348
+Don't get in over your head, okay?
+
+85
+00:05:32,932 --> 00:05:34,641
+Only two places left.
+
+86
+00:05:34,779 --> 00:05:35,949
+Including this one.
+
+87
+00:05:37,760 --> 00:05:40,976
+At this point, I don't know how
+far they've gone with the experiment.
+
+88
+00:05:41,703 --> 00:05:43,305
+And I don't think I want to know.
+
+89
+00:05:49,763 --> 00:05:50,758
+But either way.
+
+90
+00:05:51,206 --> 00:05:52,624
+It ends tonight.
+
+91
+00:06:01,203 --> 00:06:04,343
+I volunteered for this 'cause the pay was so enticing...
+
+92
+00:06:04,539 --> 00:06:08,668
+but waiting around for somebody who may
+not even show up certainly is boring...
+
+93
+00:06:09,266 --> 00:06:11,241
+All told, this really sucks.
+
+94
+00:06:11,522 --> 00:06:15,869
+And if they go to the other facility
+while I'm stuck here waiting at this one...
+
+95
+00:06:16,154 --> 00:06:19,905
+then all these tedious minutes of
+utter boredom will have been for nothing!
+
+96
+00:06:21,063 --> 00:06:21,735
+No way!
+
+97
+00:06:21,948 --> 00:06:23,292
+The target's actually here!
+
+98
+00:06:23,885 --> 00:06:24,920
+Well, I'm ready...
+
+99
+00:06:25,175 --> 00:06:27,423
+Time to earn that kill shot bonus.
+
+100
+00:06:35,288 --> 00:06:35,949
+All right.
+
+101
+00:06:36,587 --> 00:06:39,449
+The research facility I'm after is on the top floor.
+
+102
+00:06:42,806 --> 00:06:43,887
+If I get lucky...
+
+103
+00:06:44,343 --> 00:06:46,509
+maybe I can pull this off without a hitch.
+
+104
+00:06:59,178 --> 00:07:00,340
+Of course not.
+
+105
+00:07:00,859 --> 00:07:03,176
+Like it would ever actually be that easy.
+
+106
+00:07:03,675 --> 00:07:05,234
+Not a single one hit her?
+
+107
+00:07:05,789 --> 00:07:08,538
+Did she use magnetism to divert the stone's path?
+
+108
+00:07:08,955 --> 00:07:12,304
+It looks like the Intel about
+an electrical esper was right.
+
+109
+00:07:14,351 --> 00:07:15,260
+There we go...
+
+110
+00:07:15,617 --> 00:07:19,662
+Ordinarily, this is a tool used
+to burn through walls and doors,
+
+111
+00:07:19,841 --> 00:07:20,860
+but tonight...
+
+112
+00:07:28,748 --> 00:07:29,600
+A bomb?
+
+113
+00:07:31,061 --> 00:07:32,811
+What kind of scientists are these?
+
+114
+00:07:34,136 --> 00:07:36,322
+Putting bombs inside of stuffed animals?
+
+115
+00:07:44,668 --> 00:07:48,091
+They're igniting the bombs using fuses
+they set up in the room ahead of time...
+
+116
+00:07:48,327 --> 00:07:49,137
+I don't get it.
+
+117
+00:07:49,580 --> 00:07:51,877
+Why would they want to make this such a big production?
+
+118
+00:07:53,119 --> 00:07:54,935
+Wha...? A bomb in the rubble?
+
+119
+00:07:58,929 --> 00:08:00,377
+They're predicting my moves.
+
+120
+00:08:00,609 --> 00:08:03,541
+Does that mean they know they're
+being attacked by an Electromaster?
+
+121
+00:08:14,670 --> 00:08:17,191
+I was hoping not to use my maximum magnetism...
+
+122
+00:08:17,377 --> 00:08:18,683
+It does a lot of damage.
+
+123
+00:08:21,684 --> 00:08:23,538
+Never mind that... Where are they?
+
+124
+00:08:24,896 --> 00:08:26,073
+More of those fuses?
+
+125
+00:08:27,928 --> 00:08:29,877
+Maybe if I follow where they lead...
+
+126
+00:08:48,545 --> 00:08:49,805
+She's the one, huh?
+
+127
+00:08:51,341 --> 00:08:52,194
+Are you sure?
+
+128
+00:08:52,859 --> 00:08:56,192
+Yes... I heard it was pathological analysis.
+
+129
+00:08:56,229 --> 00:08:57,979
+Word is they're the ones who got hit.
+
+130
+00:08:58,133 --> 00:08:59,139
+What a relief.
+
+131
+00:08:59,758 --> 00:09:01,228
+That should buy us some time...
+
+132
+00:09:01,763 --> 00:09:03,842
+Still, we need to hurry up with our move.
+
+133
+00:09:04,170 --> 00:09:05,096
+Excuse me...
+
+134
+00:09:05,841 --> 00:09:06,432
+What is it?
+
+135
+00:09:07,216 --> 00:09:08,014
+Well, uh...
+
+136
+00:09:08,702 --> 00:09:09,617
+There's a visitor.
+
+137
+00:09:13,314 --> 00:09:13,964
+Hello.
+
+138
+00:09:14,550 --> 00:09:16,102
+I'm sorry if I've kept you waiting...
+
+139
+00:09:16,841 --> 00:09:17,919
+It's nice to meet you...
+
+140
+00:09:18,340 --> 00:09:20,423
+Uh... please forgive me, but you are?
+
+141
+00:09:21,744 --> 00:09:24,865
+I'm the one who was in charge of
+your company's Testament oversight.
+
+142
+00:09:24,991 --> 00:09:26,328
+My name's Nunotaba.
+
+143
+00:09:29,990 --> 00:09:30,736
+Almost!
+
+144
+00:09:31,841 --> 00:09:33,556
+That stupid girder is in my way.
+
+145
+00:09:34,790 --> 00:09:36,847
+I don't want any more interference later on.
+
+146
+00:09:37,050 --> 00:09:38,221
+I'll deal with her now.
+
+147
+00:09:39,362 --> 00:09:41,439
+She's put up quite a fight so far...
+
+148
+00:09:41,883 --> 00:09:45,499
+Chances are if I'd used my
+remote-control bombs, she'd be dead by now.
+
+149
+00:09:45,751 --> 00:09:50,508
+But with an Electromaster of her level, it's
+possible she could've taken control of them, instead.
+
+150
+00:09:50,615 --> 00:09:52,672
+All told... it was the right decision.
+
+151
+00:09:53,958 --> 00:09:55,571
+And... boom!
+
+152
+00:10:01,841 --> 00:10:02,827
+No way!
+
+153
+00:10:03,050 --> 00:10:05,098
+She can deflect ceramic bombs?
+
+154
+00:10:05,383 --> 00:10:09,587
+She's on an entirely different level
+than any other esper I've gone up against.
+
+155
+00:10:13,466 --> 00:10:14,601
+You won't get away...
+
+156
+00:10:14,851 --> 00:10:17,571
+I don't know if you're directly
+involved or just a hired goon.
+
+157
+00:10:19,602 --> 00:10:21,711
+But anyone who supports this experiment...
+
+158
+00:10:21,872 --> 00:10:22,488
+...will pay!
+
+159
+00:10:25,327 --> 00:10:27,077
+Oh, dear! I'm terrified!
+
+160
+00:10:27,188 --> 00:10:28,328
+Just look at her!
+
+161
+00:10:28,353 --> 00:10:31,705
+If she catches me, she'll tear me into tiny little pieces!
+
+162
+00:10:32,258 --> 00:10:35,272
+Heh. Yeah, as if!
+
+163
+00:10:48,854 --> 00:10:52,451
+I lured her up as high as I could,
+so that was quite a fall she took.
+
+164
+00:10:52,714 --> 00:10:55,597
+It doesn't matter how high-level an esper you are after...
+
+165
+00:10:56,496 --> 00:10:57,028
+...that?
+
+166
+00:11:00,893 --> 00:11:02,659
+No. That's impossible.
+
+167
+00:11:04,953 --> 00:11:08,348
+If you were wanting to see me fall, you
+should've fought me in a different building.
+
+168
+00:11:08,823 --> 00:11:11,548
+One that wasn't built using any steel, for example.
+
+169
+00:11:11,923 --> 00:11:13,630
+You should be gone! No fair!
+
+170
+00:11:13,979 --> 00:11:14,860
+Aww!
+
+171
+00:11:35,058 --> 00:11:36,411
+Looks like you've hit a dead end.
+
+172
+00:11:36,436 --> 00:11:37,498
+It does, huh?
+
+173
+00:11:38,133 --> 00:11:41,002
+I never expected to be backed into a corner like this.
+
+174
+00:11:42,018 --> 00:11:42,812
+It happens.
+
+175
+00:11:42,837 --> 00:11:44,703
+It is a pretty easy mistake to make...
+
+176
+00:11:45,878 --> 00:11:48,986
+Perhaps you were panicking and
+took a wrong turn somewhere...
+
+177
+00:11:49,716 --> 00:11:50,645
+Or maybe...
+
+178
+00:11:51,258 --> 00:11:51,600
+Heh.
+
+179
+00:11:53,170 --> 00:11:54,213
+What do you think?
+
+180
+00:11:57,466 --> 00:11:59,293
+Oh, I'm sorry if it wasn't clear...
+
+181
+00:11:59,650 --> 00:12:02,263
+There isn't really anything specific we need from you.
+
+182
+00:12:02,383 --> 00:12:05,966
+It's just, this is the first time
+we've done a large-scale move like this...
+
+183
+00:12:06,283 --> 00:12:08,880
+so I thought, you know, if anything were to happen...
+
+184
+00:12:09,205 --> 00:12:10,731
+it would be good to have you around...
+
+185
+00:12:11,014 --> 00:12:13,107
+given your previous involvement with the project.
+
+186
+00:12:13,885 --> 00:12:15,434
+Of course. I understand.
+
+187
+00:12:15,589 --> 00:12:17,175
+Thank you, I thought that you might...
+
+188
+00:12:17,425 --> 00:12:19,613
+Well, then, if you'll excuse me for a moment.
+
+189
+00:12:28,183 --> 00:12:30,697
+There's something I want to ask you, while I still can.
+
+190
+00:12:31,133 --> 00:12:33,423
+It's a simple question... Who hired you?
+
+191
+00:12:33,503 --> 00:12:34,138
+Huh?
+
+192
+00:12:34,594 --> 00:12:37,219
+Now isn't the time to be concerned about loyalty...
+
+193
+00:12:37,632 --> 00:12:39,752
+This facility is part of a cruel experiment...
+
+194
+00:12:39,777 --> 00:12:42,115
+Yeah, yeah, never mind about all that.
+
+195
+00:12:44,496 --> 00:12:50,425
+My employer's background, their objectives, the
+morality of the person I've been hired to eliminate...
+
+196
+00:12:50,450 --> 00:12:53,141
+the possibility that they're fighting for a noble cause...
+
+197
+00:12:53,498 --> 00:12:55,437
+All told, those sorts of things...
+
+198
+00:13:00,566 --> 00:13:02,294
+Just don't really matter to me.
+
+199
+00:13:03,659 --> 00:13:05,550
+Do you understand your situation now?
+
+200
+00:13:05,971 --> 00:13:07,383
+Let me explain something to you,
+
+201
+00:13:07,466 --> 00:13:09,175
+you've heard those stories before, right?
+
+202
+00:13:09,258 --> 00:13:11,342
+The ones about the hunter becoming the hunted.
+
+203
+00:13:12,652 --> 00:13:14,370
+Take a look at where you're standing.
+
+204
+00:13:23,358 --> 00:13:24,943
+Your retreat is cut off.
+
+205
+00:13:25,258 --> 00:13:27,342
+There's nothing to shield your self with...
+
+206
+00:13:27,550 --> 00:13:28,800
+Now what will you do?
+
+207
+00:13:28,883 --> 00:13:31,841
+Go ahead. I'd love to see you get out of this one!
+
+208
+00:13:32,068 --> 00:13:32,520
+Heh.
+
+209
+00:13:33,722 --> 00:13:34,967
+Well, so much for that...
+
+210
+00:13:35,061 --> 00:13:38,337
+You try to end things in a
+civilized way, and look what happens.
+
+211
+00:13:41,055 --> 00:13:42,198
+My work's not over.
+
+212
+00:13:42,466 --> 00:13:44,677
+I need to save as much of my strength as I can.
+
+213
+00:13:45,050 --> 00:13:47,393
+She actually lifted up the floor!
+
+214
+00:13:47,633 --> 00:13:49,419
+Oh no... Does that mean...
+
+215
+00:13:49,550 --> 00:13:51,588
+Am I fighting a Level 5 esper?
+
+216
+00:13:52,184 --> 00:13:53,392
+I'm done with you!
+
+217
+00:13:54,577 --> 00:13:58,788
+Then again, people with too much
+power do have a tendency to be careless.
+
+218
+00:14:00,333 --> 00:14:01,625
+Uh-oh!
+
+219
+00:14:03,817 --> 00:14:06,841
+That's what you get for making your next move so obvious.
+
+220
+00:14:08,508 --> 00:14:09,663
+A stun grenade!
+
+221
+00:14:09,764 --> 00:14:12,094
+Serves me right... I got sloppy.
+
+222
+00:14:14,091 --> 00:14:17,926
+I love seeing a cocky, powerful esper
+like that trapped by my own hands...
+
+223
+00:14:18,091 --> 00:14:20,826
+It makes me feel all warm and fuzzy inside!
+
+224
+00:14:30,735 --> 00:14:34,118
+All told, messing with me can be hazardous to your health!
+
+225
+00:14:35,337 --> 00:14:37,860
+All right! That's half the paycheck!
+
+226
+00:14:37,885 --> 00:14:40,275
+Half the money for this gig goes to me!
+
+227
+00:14:40,473 --> 00:14:43,555
+Money for me! Money for me!
+
+228
+00:14:43,580 --> 00:14:47,008
+I'm so excited! I wonder what I should buy...
+
+229
+00:14:49,462 --> 00:14:50,349
+She's gone?
+
+230
+00:14:51,048 --> 00:14:53,199
+That wasn't enough firepower to incinerate her.
+
+231
+00:14:53,964 --> 00:14:55,512
+So... I guess...
+
+232
+00:14:55,635 --> 00:14:57,754
+if she's not there, she must be...
+
+233
+00:14:57,960 --> 00:14:59,587
+I'll give you this much, at least.
+
+234
+00:15:00,112 --> 00:15:02,347
+You've done your homework on Electromasters.
+
+235
+00:15:02,386 --> 00:15:04,157
+But I'm at a slightly higher level...
+
+236
+00:15:04,723 --> 00:15:07,867
+EM waves provide me with a
+picture of the surrounding space.
+
+237
+00:15:07,914 --> 00:15:08,751
+Whoa, there!
+
+238
+00:15:09,050 --> 00:15:11,166
+Best not to make any sudden moves.
+
+239
+00:15:12,200 --> 00:15:14,541
+I'm starting to get my sight and my hearing back...
+
+240
+00:15:14,883 --> 00:15:17,957
+And at such a close range, nothing
+can outrun my electric shocks.
+
+241
+00:15:17,982 --> 00:15:20,290
+Uh... Mijihi!
+
+242
+00:15:20,315 --> 00:15:20,699
+Huh?
+
+243
+00:15:21,493 --> 00:15:24,123
+Miji... cavi... Capri...
+
+244
+00:15:24,395 --> 00:15:26,498
+Huh? What is she saying?
+
+245
+00:15:26,647 --> 00:15:28,480
+I've never heard a language like that...
+
+246
+00:15:28,571 --> 00:15:30,525
+Hold on... one of those words could have been...
+
+247
+00:15:30,550 --> 00:15:32,508
+It's gibberish... Gotcha!
+
+248
+00:15:32,591 --> 00:15:33,228
+Hah!
+
+249
+00:15:37,591 --> 00:15:38,581
+Another bomb?
+
+250
+00:15:38,760 --> 00:15:39,846
+When will she give up?
+
+251
+00:15:42,524 --> 00:15:43,344
+What is that?
+
+252
+00:15:44,264 --> 00:15:47,473
+Academy City's specially-made gaseous explosive.
+
+253
+00:15:47,802 --> 00:15:49,103
+They call it Ignus.
+
+254
+00:15:49,397 --> 00:15:51,216
+It won't do you any harm to breathe it in...
+
+255
+00:15:51,581 --> 00:15:53,694
+but then, it's an explosive, not a poison.
+
+256
+00:15:54,204 --> 00:15:55,769
+The way it's filling the air now...
+
+257
+00:15:56,258 --> 00:15:58,835
+It's turning this room into one big bomb.
+
+258
+00:15:58,970 --> 00:15:59,819
+So...
+
+259
+00:16:00,103 --> 00:16:02,482
+do you know what would happen if you used electricity?
+
+260
+00:16:04,879 --> 00:16:07,701
+Well... I think I'll kill you now nice... and slow!
+
+261
+00:16:10,484 --> 00:16:11,291
+Not good.
+
+262
+00:16:11,526 --> 00:16:15,821
+Electricity is out of the question, and using
+magnetism runs the risk of creating friction.
+
+263
+00:16:23,323 --> 00:16:24,204
+Ah!
+
+264
+00:16:27,564 --> 00:16:29,080
+Is this girl a psycho?
+
+265
+00:16:29,335 --> 00:16:32,783
+It's not impossible that all the stomping
+around she's doing could kick up a spark.
+
+266
+00:16:35,087 --> 00:16:37,448
+I can tell you're wondering if I have a death wish.
+
+267
+00:16:37,473 --> 00:16:39,733
+In case you haven't noticed, I work for the underworld.
+
+268
+00:16:39,758 --> 00:16:42,191
+You think I can do that and still be afraid of dying?
+
+269
+00:16:47,434 --> 00:16:48,370
+Yeah, right!
+
+270
+00:16:48,483 --> 00:16:50,119
+I couldn't be more full of it!
+
+271
+00:16:50,412 --> 00:16:52,851
+There's no way I'm dying in here with you.
+
+272
+00:16:53,710 --> 00:16:56,457
+The canister I tossed first
+was the real thing, all right...
+
+273
+00:16:56,642 --> 00:16:59,936
+but what I dispersed afterward was just ordinary nitrogen.
+
+274
+00:17:00,478 --> 00:17:03,432
+I didn't think she would fall
+for it so completely, though.
+
+275
+00:17:05,502 --> 00:17:08,633
+So, what's the deal with the underworld
+cleaner they've got standing by?
+
+276
+00:17:08,716 --> 00:17:09,751
+Oh, nothing much...
+
+277
+00:17:10,216 --> 00:17:13,070
+I don't know what she can do,
+really. She's only a little girl.
+
+278
+00:17:13,224 --> 00:17:14,153
+Never mind her.
+
+279
+00:17:14,178 --> 00:17:16,155
+I wonder what's happening at the other facility.
+
+280
+00:17:16,393 --> 00:17:17,385
+Who knows?
+
+281
+00:17:17,813 --> 00:17:20,786
+Any means of external communication have been disabled.
+
+282
+00:17:21,368 --> 00:17:23,756
+I just want to hurry and get this move over with.
+
+283
+00:17:24,463 --> 00:17:26,187
+But if something were to go wrong.
+
+284
+00:17:27,096 --> 00:17:29,175
+Well, that's why we called in a patsy, right?
+
+285
+00:17:29,200 --> 00:17:31,387
+So somebody else can take the responsibility.
+
+286
+00:17:31,888 --> 00:17:32,951
+Yeah, there is that.
+
+287
+00:17:34,015 --> 00:17:35,939
+Sorry to keep you waiting, Nunotaba...
+
+288
+00:17:37,430 --> 00:17:38,179
+Where is she?
+
+289
+00:17:39,270 --> 00:17:40,288
+Restroom, maybe?
+
+290
+00:17:48,302 --> 00:17:51,923
+Moving the Sisters that are being
+adjusted would normally come last.
+
+291
+00:17:54,514 --> 00:17:57,801
+With the abrupt transfer of control
+and the watch out for attackers,
+
+292
+00:17:57,873 --> 00:17:59,599
+they've ignored internal security.
+
+293
+00:18:02,165 --> 00:18:03,802
+If I'm really going to do this...
+
+294
+00:18:04,128 --> 00:18:05,320
+it's now or never.
+
+295
+00:18:21,273 --> 00:18:22,947
+You're hanging in there pretty well.
+
+296
+00:18:23,484 --> 00:18:27,224
+But if I don't finish you off pretty
+soon, Mugino and the others will show up,
+
+297
+00:18:27,663 --> 00:18:29,417
+and I don't like to share with others.
+
+298
+00:18:29,815 --> 00:18:33,063
+I told you before that I don't
+care much about my targets' lives...
+
+299
+00:18:33,341 --> 00:18:37,600
+I do care about their deaths, however,
+and I'm especially interested in yours.
+
+300
+00:18:38,221 --> 00:18:39,387
+When I take a life...
+
+301
+00:18:39,649 --> 00:18:41,175
+it's an exquisite feeling.
+
+302
+00:18:41,518 --> 00:18:45,076
+Because in that moment, I am in complete
+control of someone else's destiny...
+
+303
+00:18:45,758 --> 00:18:47,681
+It feels great... that power...
+
+304
+00:18:47,797 --> 00:18:51,925
+As if the only reason that person was
+born... was to have their life ended by me.
+
+305
+00:18:53,744 --> 00:18:54,834
+Now, enough talk.
+
+306
+00:18:55,075 --> 00:18:58,622
+All told, I just want to hear
+one good, final scream from you.
+
+307
+00:19:04,484 --> 00:19:07,592
+To be born for the sole reason of being murdered...
+
+308
+00:19:08,258 --> 00:19:09,331
+To accept that...
+
+309
+00:19:09,675 --> 00:19:10,976
+to take life for granted...
+
+310
+00:19:11,341 --> 00:19:12,692
+never trying to escape...
+
+311
+00:19:12,925 --> 00:19:14,258
+or attempting to fight it...
+
+312
+00:19:14,550 --> 00:19:16,213
+never seeking to be saved...
+
+313
+00:19:16,494 --> 00:19:18,612
+from such a godforsaken destiny...
+
+314
+00:19:19,439 --> 00:19:21,049
+I say to hell with that!
+
+315
+00:19:28,688 --> 00:19:29,432
+Oh no.
+
+316
+00:19:29,894 --> 00:19:30,868
+A choke hold...
+
+317
+00:19:31,365 --> 00:19:33,444
+Shocks aren't her only line of defense.
+
+318
+00:19:34,300 --> 00:19:35,565
+Can't breathe!
+
+319
+00:19:42,965 --> 00:19:45,768
+Not a bad idea. You almost had me, but...
+
+320
+00:19:46,425 --> 00:19:46,999
+Huh?
+
+321
+00:19:54,550 --> 00:19:56,258
+That was a really close call...
+
+322
+00:19:56,341 --> 00:20:00,377
+I can't believe I almost blew half
+my body off with my own explosives!
+
+323
+00:20:00,591 --> 00:20:01,591
+Just imagine...
+
+324
+00:20:01,619 --> 00:20:03,428
+My beautiful legs would have been...
+
+325
+00:20:03,800 --> 00:20:04,793
+Okay, I see...
+
+326
+00:20:05,305 --> 00:20:06,470
+so that's how it is...
+
+327
+00:20:07,139 --> 00:20:07,989
+It was a trick...
+
+328
+00:20:08,014 --> 00:20:10,316
+You didn't fill the room with explosive gas, did you?
+
+329
+00:20:10,341 --> 00:20:12,519
+All told, I fell for a simple bluff.
+
+330
+00:20:12,795 --> 00:20:13,971
+Well... uh... I...
+
+331
+00:20:15,362 --> 00:20:16,846
+Man... "I said "All told,"
+
+332
+00:20:16,945 --> 00:20:18,292
+You're rubbing off on me...
+
+333
+00:20:24,841 --> 00:20:25,348
+Tee-hee!
+
+334
+00:20:31,970 --> 00:20:34,349
+You seem like a pretty terrible person to me...
+
+335
+00:20:34,634 --> 00:20:37,256
+I'm not gonna lose any sleep if I shock you to death...
+
+336
+00:20:37,550 --> 00:20:38,672
+Just thought you should know.
+
+337
+00:20:39,331 --> 00:20:41,412
+I want all the info you have on the project...
+
+338
+00:20:41,753 --> 00:20:43,303
+I mean every last detail.
+
+339
+00:20:44,133 --> 00:20:45,251
+Who's the one in charge?
+
+340
+00:20:46,175 --> 00:20:47,658
+Who hired you to do this?
+
+341
+00:20:48,142 --> 00:20:51,650
+Yeah, Too bad I don't know that,
+since we go through an intermediary.
+
+342
+00:20:51,733 --> 00:20:52,710
+Oh, I forgot...
+
+343
+00:20:52,855 --> 00:20:55,204
+You said somebody else was on the way here, didn't you?
+
+344
+00:20:55,641 --> 00:20:56,008
+Who?
+
+345
+00:20:56,837 --> 00:20:58,621
+There's no way I'm telling you that.
+
+346
+00:21:04,302 --> 00:21:08,227
+You've got three seconds to answer me...
+unless you want to be burned to a cinder.
+
+347
+00:21:09,437 --> 00:21:09,915
+Three...
+
+348
+00:21:11,050 --> 00:21:12,771
+No! No! I'll talk! I'll talk!
+
+349
+00:21:12,796 --> 00:21:13,391
+Two...
+
+350
+00:21:13,416 --> 00:21:15,485
+My tongue! That last shock must have...
+
+351
+00:21:15,510 --> 00:21:18,802
+Wait! Hold on! My tongue is too numb to talk! Honestly!
+
+352
+00:21:18,894 --> 00:21:19,961
+Please don't kill me!
+
+353
+00:21:20,050 --> 00:21:20,479
+One...
+
+354
+00:21:25,624 --> 00:21:26,327
+Zero.
+
+355
+00:21:29,842 --> 00:21:30,400
+Huh?
+
+356
+00:21:30,425 --> 00:21:31,085
+I see.
+
+357
+00:21:31,562 --> 00:21:33,532
+So you're not going to sell out your friends, huh?
+
+358
+00:21:33,557 --> 00:21:35,758
+No... I would, I just can't talk.
+
+359
+00:21:35,920 --> 00:21:37,974
+All right... I can't hold that against you.
+
+360
+00:21:46,507 --> 00:21:48,437
+It got quiet in here all of a sudden.
+
+361
+00:21:50,588 --> 00:21:53,298
+I was sure the Electromaster had finished you off.
+
+362
+00:21:55,295 --> 00:21:57,620
+Looks like I got here just in time.
+
+363
+00:21:58,429 --> 00:21:59,398
+Hello, Frenda.
+
+364
+00:23:30,960 --> 00:23:32,007
+Mikoto Misaka...
+
+365
+00:23:32,050 --> 00:23:33,297
+I'm putting an end to this.
+
+366
+00:23:33,322 --> 00:23:35,649
+I can't let her take them on without any help at all.
+
+367
+00:23:35,674 --> 00:23:37,025
+I'll save the rest of them!
+
+368
+00:23:37,050 --> 00:23:38,758
+Yes... I'll do what I can...
+
+369
+00:23:38,783 --> 00:23:39,571
+I'll help her.
+

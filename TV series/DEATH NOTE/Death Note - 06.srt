@@ -1,0 +1,1652 @@
+﻿1
+00:01:33,093 --> 00:01:34,237
+Uh.
+
+2
+00:01:35,880 --> 00:01:36,849
+Huh?
+
+3
+00:01:37,987 --> 00:01:39,104
+Huh?
+
+4
+00:01:40,841 --> 00:01:41,874
+I am L.
+
+5
+00:01:42,349 --> 00:01:43,803
+This is him?
+
+6
+00:01:43,962 --> 00:01:44,747
+Hm.
+
+7
+00:01:44,819 --> 00:01:46,391
+He's nothing like I thought he'd be.
+
+8
+00:01:48,062 --> 00:01:48,975
+Hm.
+
+9
+00:01:50,086 --> 00:01:52,432
+I'm Yagami of the NPA.
+
+10
+00:01:52,686 --> 00:01:53,928
+Uh, Matsuda.
+
+11
+00:01:53,953 --> 00:01:55,058
+I'm Aizawa.
+
+12
+00:01:55,139 --> 00:01:55,861
+Mogi.
+
+13
+00:01:55,924 --> 00:01:56,774
+Ukita.
+
+14
+00:01:58,346 --> 00:01:59,846
+I'm very sorry we're late.
+
+15
+00:01:59,909 --> 00:02:01,664
+Currently the five of us are...
+
+16
+00:02:01,998 --> 00:02:02,566
+Bang.
+
+17
+00:02:02,591 --> 00:02:03,195
+Uh!
+
+18
+00:02:03,324 --> 00:02:03,896
+Wha?
+
+19
+00:02:04,023 --> 00:02:05,505
+What the hell was that?
+
+20
+00:02:05,530 --> 00:02:06,366
+Hm.
+
+21
+00:02:06,680 --> 00:02:11,263
+If I were Kira, you'd be dead,
+Mr. Soichiro Yagami, chief of the NPA.
+
+22
+00:02:11,288 --> 00:02:12,305
+Wha?
+
+23
+00:02:12,447 --> 00:02:15,780
+Kira needs a face and a name in order to commit murder.
+
+24
+00:02:15,936 --> 00:02:18,780
+But I'm sure you've already
+figured that much out, haven't you?
+
+25
+00:02:19,352 --> 00:02:22,361
+Please do not give out your names so carelessly.
+
+26
+00:02:22,628 --> 00:02:26,246
+Instead, let's value our lives.
+
+27
+00:02:26,271 --> 00:02:28,280
+I knew that he needed a face to kill someone,
+
+28
+00:02:28,305 --> 00:02:31,447
+but I don't remember any evidence
+that showed that he needed a name, too.
+
+29
+00:02:31,472 --> 00:02:33,626
+There's no way to verify if this is related,
+
+30
+00:02:33,651 --> 00:02:36,303
+but criminals whose names were never released publicly
+
+31
+00:02:36,328 --> 00:02:40,131
+or whose names were spelled incorrectly
+in the media have not been targeted.
+
+32
+00:02:40,312 --> 00:02:43,014
+We briefly went over it at one of our meetings.
+
+33
+00:02:43,523 --> 00:02:46,171
+That's enough small talk for now. Come this way.
+
+34
+00:02:46,313 --> 00:02:47,680
+Oh, uh, right.
+
+35
+00:02:47,989 --> 00:02:52,091
+Please turn off all your cellphones,
+handhelds, and any other communication devices
+
+36
+00:02:52,116 --> 00:02:54,010
+and leave them on the table right there.
+
+37
+00:02:55,313 --> 00:02:59,391
+What, do you think we're going to be using our
+cellphones during this meeting to leak information?
+
+38
+00:02:59,427 --> 00:03:01,476
+It's all right. Just do as he says.
+
+39
+00:03:02,897 --> 00:03:05,202
+I realize he's been cautious from the very beginning,
+
+40
+00:03:05,227 --> 00:03:07,434
+but I still can't tell if he trusts us or not.
+
+41
+00:03:07,686 --> 00:03:09,385
+No, I just find them distracting.
+
+42
+00:03:09,410 --> 00:03:12,961
+I can't stand it when people's cell
+phones are ringing while I'm trying to talk.
+
+43
+00:03:14,384 --> 00:03:18,535
+Let me start by saying nobody takes notes
+on anything that's said in these meetings.
+
+44
+00:03:18,619 --> 00:03:22,600
+That means when we leave headquarters, any
+information we need is committed to memory.
+
+45
+00:03:23,708 --> 00:03:25,530
+Please, make yourselves comfortable.
+
+46
+00:03:25,966 --> 00:03:27,934
+Uh, right.
+
+47
+00:03:44,010 --> 00:03:45,019
+Mm.
+
+48
+00:03:49,438 --> 00:03:50,579
+Excuse me, L?
+
+49
+00:03:50,604 --> 00:03:53,495
+Mm. And from now on, I'll have
+to ask that you stop calling me L.
+
+50
+00:03:53,520 --> 00:03:55,728
+It's Ryuzaki now, just to be safe.
+
+51
+00:03:56,290 --> 00:03:58,496
+Uh, OK, Ryuzaki.
+
+52
+00:03:58,738 --> 00:04:01,549
+If we know that he needs a name and a face to kill,
+
+53
+00:04:01,574 --> 00:04:05,460
+couldn't we cut down on the number of victims
+by keeping criminals' names from the news?
+
+54
+00:04:05,703 --> 00:04:08,929
+If we do that, we'll only be
+putting the general public at risk.
+
+55
+00:04:09,085 --> 00:04:10,380
+The general public?
+
+56
+00:04:10,405 --> 00:04:11,153
+Why?
+
+57
+00:04:13,342 --> 00:04:16,109
+Kira is childish and he hates losing.
+
+58
+00:04:16,151 --> 00:04:17,251
+But how do you...
+
+59
+00:04:17,276 --> 00:04:18,730
+Just what do you mean?
+
+60
+00:04:19,194 --> 00:04:22,761
+Well, I'm also childish and I hate to lose.
+
+61
+00:04:23,080 --> 00:04:24,324
+That's how I know.
+
+62
+00:04:25,380 --> 00:04:30,119
+Ryuzaki, would you mind being
+a little more specific for us?
+
+63
+00:04:30,299 --> 00:04:34,573
+Early on in the investigation, I tried
+to provoke Kira with that broadcast.
+
+64
+00:04:35,089 --> 00:04:38,695
+Up until then we thought that
+Kira would only go after criminals,
+
+65
+00:04:38,720 --> 00:04:40,358
+but as we all witnessed,
+
+66
+00:04:40,383 --> 00:04:43,109
+he didn't hesitate to kill my standin.
+
+67
+00:04:43,276 --> 00:04:46,331
+Also, as soon as I said we
+knew he was in the Kanto region,
+
+68
+00:04:46,356 --> 00:04:50,118
+in defiance he made sure his
+next victims came from within Japan,
+
+69
+00:04:50,181 --> 00:04:51,486
+as if to say,
+
+70
+00:04:51,511 --> 00:04:53,047
+and what are you going to do about it?
+
+71
+00:04:55,493 --> 00:05:00,351
+He's met each of my challenges headon and he's
+never missed an opportunity to return the favor.
+
+72
+00:05:00,627 --> 00:05:02,225
+Now what do you think would happen
+
+73
+00:05:02,250 --> 00:05:06,702
+if we tried to use media restrictions
+to hide criminals from someone like that?
+
+74
+00:05:07,108 --> 00:05:08,371
+I guess
+
+75
+00:05:08,413 --> 00:05:11,622
+"If you choose to withhold the
+names of your worst criminals,
+
+76
+00:05:11,647 --> 00:05:14,095
+I'll kill petty criminals or the innocent.
+
+77
+00:05:14,120 --> 00:05:17,238
+I'm holding the whole world hostage, so who's it gonna be?
+
+78
+00:05:18,190 --> 00:05:21,841
+I'm not the evil one here, but all
+those who oppose me by hiding criminals?
+
+79
+00:05:21,866 --> 00:05:23,898
+You are truly evil."
+
+80
+00:05:26,593 --> 00:05:28,583
+That's exactly how Kira thinks.
+
+81
+00:05:28,608 --> 00:05:32,093
+In any case, let's look at another
+way we can use the media to draw him out.
+
+82
+00:05:32,708 --> 00:05:33,633
+But how?
+
+83
+00:05:34,108 --> 00:05:36,033
+How about something like this?
+
+84
+00:05:36,937 --> 00:05:39,812
+"Death of FBI agents infuriates the US.
+
+85
+00:05:39,837 --> 00:05:42,753
+Latest killings anger the
+international policing community.
+
+86
+00:05:42,813 --> 00:05:46,138
+Nations agree to send 1,500 investigators to Japan."
+
+87
+00:05:46,447 --> 00:05:50,083
+For Kira, this will be way
+beyond what he faced with the FBI.
+
+88
+00:05:50,570 --> 00:05:52,618
+He'll see everyone as a potential threat.
+
+89
+00:05:52,690 --> 00:05:55,216
+Psychologically he'll start to feel cornered,
+
+90
+00:05:55,241 --> 00:05:58,207
+and that will cause him to
+take some kind of drastic action.
+
+91
+00:05:59,074 --> 00:06:00,296
+That that's interesting.
+
+92
+00:06:00,437 --> 00:06:04,473
+So he'll think there are 1,500 when
+there are really only seven of us.
+
+93
+00:06:04,642 --> 00:06:08,505
+And since none of these investigators
+exists, Kira won't be able to kill them.
+
+94
+00:06:08,587 --> 00:06:09,927
+It just might work.
+
+95
+00:06:10,435 --> 00:06:15,033
+Well, before we celebrate, I'll tell you
+the rest of my thoughts on the Kira case.
+
+96
+00:06:17,168 --> 00:06:18,862
+Kira works alone.
+
+97
+00:06:18,967 --> 00:06:22,172
+He had access to all our classified information.
+
+98
+00:06:22,952 --> 00:06:25,419
+What evidence do you have that he's working alone?
+
+99
+00:06:25,461 --> 00:06:26,542
+Hold on, Aizawa.
+
+100
+00:06:26,567 --> 00:06:29,477
+Let's listen to his entire theory before asking questions.
+
+101
+00:06:30,304 --> 00:06:33,137
+We know he needs a name and a face to kill,
+
+102
+00:06:33,351 --> 00:06:38,063
+and to some extent, he can control a victim's
+time of death and their actions before dying.
+
+103
+00:06:38,794 --> 00:06:40,328
+We already know that much.
+
+104
+00:06:40,390 --> 00:06:42,166
+Please keep that in mind...
+
+105
+00:06:42,852 --> 00:06:45,466
+and listen carefully to what I have to say next.
+
+106
+00:06:46,417 --> 00:06:50,753
+On December 14, 12 FBI investigators enter Japan.
+
+107
+00:06:53,628 --> 00:06:55,867
+Here we are on December 19.
+
+108
+00:06:56,209 --> 00:06:59,242
+Using prison inmates, Kira conducts experiments,
+
+109
+00:06:59,267 --> 00:07:01,869
+manipulating his victims' actions before they die.
+
+110
+00:07:01,995 --> 00:07:05,134
+In other words, during this window of only five days,
+
+111
+00:07:05,159 --> 00:07:09,769
+Kira became aware of the FBI's
+presence and obviously felt threatened.
+
+112
+00:07:10,499 --> 00:07:14,283
+Because he didn't know any of their
+names or faces, he was at a disadvantage.
+
+113
+00:07:14,718 --> 00:07:17,694
+He needed to know how much control he had over his victims
+
+114
+00:07:17,719 --> 00:07:20,256
+before he could use it against the 12 agents.
+
+115
+00:07:20,290 --> 00:07:23,103
+And as we all know, on December 27.
+
+116
+00:07:24,138 --> 00:07:25,482
+I got a hold of a file
+
+117
+00:07:25,507 --> 00:07:30,037
+which contained all the names and
+faces of the FBI investigators in Japan
+
+118
+00:07:30,127 --> 00:07:33,188
+and I succeeded in killing each one of them.
+
+119
+00:07:33,523 --> 00:07:37,442
+It's practically impossible to guess
+which agent gave the file to Kira,
+
+120
+00:07:37,528 --> 00:07:41,008
+but I have to make sure that no one ever finds out
+
+121
+00:07:41,033 --> 00:07:43,711
+that I came into contact with Raye Pember.
+
+122
+00:07:47,323 --> 00:07:48,102
+Huh?
+
+123
+00:07:48,151 --> 00:07:50,265
+How come you're not using the Death Note today?
+
+124
+00:07:50,290 --> 00:07:52,538
+You studying for those entrance exams?
+
+125
+00:07:52,563 --> 00:07:54,107
+Those are the least of my worries.
+
+126
+00:07:54,132 --> 00:07:56,029
+Plus, it's a little late to start now.
+
+127
+00:07:56,303 --> 00:07:58,114
+Oh? What you doing?
+
+128
+00:07:58,139 --> 00:08:00,874
+December 19 to December 27.
+
+129
+00:08:01,180 --> 00:08:04,049
+I've been most active during this period.
+
+130
+00:08:04,074 --> 00:08:09,803
+During this period, to the best of our knowledge,
+at least 23 individuals died of heart attacks.
+
+131
+00:08:10,456 --> 00:08:13,870
+But these victims were different
+from Kira's previous targets.
+
+132
+00:08:13,895 --> 00:08:18,434
+They were all alleged criminals, exconvicts,
+or suspects in ongoing investigations.
+
+133
+00:08:18,459 --> 00:08:20,369
+So legally speaking, they were innocent.
+
+134
+00:08:20,494 --> 00:08:21,775
+That's true.
+
+135
+00:08:21,866 --> 00:08:23,777
+What this indicates is that
+
+136
+00:08:23,802 --> 00:08:28,330
+Kira had to manipulate these lesser
+criminals in order to kill those FBI agents.
+
+137
+00:08:28,761 --> 00:08:30,164
+He killed that many people
+
+138
+00:08:30,189 --> 00:08:33,853
+so we'd be unable to tell the decoys
+from those who were actually used.
+
+139
+00:08:34,242 --> 00:08:36,681
+In truth, he probably only needed a few.
+
+140
+00:08:37,551 --> 00:08:41,304
+He waited eight days so the FBI
+could investigate other suspects,
+
+141
+00:08:41,329 --> 00:08:44,065
+which meant there'd be no time
+line linking him to their deaths.
+
+142
+00:08:44,313 --> 00:08:47,803
+I suspect Kira had to be one
+of the people being investigated
+
+143
+00:08:47,828 --> 00:08:51,839
+by the FBI between the 14th and the 19th of December.
+
+144
+00:08:52,232 --> 00:08:53,684
+In fact, I have no doubt.
+
+145
+00:08:55,989 --> 00:08:58,438
+These are files provided by the FBI,
+
+146
+00:08:58,463 --> 00:09:01,569
+and they contain additional
+information you might find useful.
+
+147
+00:09:01,594 --> 00:09:05,130
+For obvious reasons, you're not permitted
+to take these out of this room, but...
+
+148
+00:09:05,155 --> 00:09:06,145
+Amazing!
+
+149
+00:09:06,236 --> 00:09:08,966
+There might only be five of us, but with this information
+
+150
+00:09:08,991 --> 00:09:10,751
+we should be able to cover a lot of ground.
+
+151
+00:09:10,776 --> 00:09:12,184
+We'll split into two teams.
+
+152
+00:09:12,209 --> 00:09:14,109
+One team traces the FBI agents.
+
+153
+00:09:14,134 --> 00:09:15,934
+The other looks at the heart attack victims.
+
+154
+00:09:16,012 --> 00:09:19,219
+There weren't that many people who had
+access to information from headquarters,
+
+155
+00:09:19,244 --> 00:09:23,488
+and of those, the FBI only investigated
+a small group in the first five days.
+
+156
+00:09:23,513 --> 00:09:24,959
+Yeah. Yeah.
+
+157
+00:09:25,260 --> 00:09:27,868
+So does anyone have any questions?
+
+158
+00:09:27,893 --> 00:09:28,775
+Uh?
+
+159
+00:09:28,800 --> 00:09:32,178
+Actually, Ryuzaki, I do have one question for you,
+
+160
+00:09:32,737 --> 00:09:36,115
+and it pertains to what you said to
+us earlier about how you hate to lose.
+
+161
+00:09:36,140 --> 00:09:38,690
+Is the fact that you've shown us
+your face mean that you've lost?
+
+162
+00:09:38,715 --> 00:09:41,548
+By just being here, are you admitting defeat to Kira?
+
+163
+00:09:41,907 --> 00:09:42,795
+That's right.
+
+164
+00:09:43,126 --> 00:09:47,548
+By showing my face to you now and by
+sacrificing the lives of 12 FBI agents,
+
+165
+00:09:47,573 --> 00:09:48,950
+I have lost the battle.
+
+166
+00:09:49,693 --> 00:09:51,592
+But I'm not going to lose the war.
+
+167
+00:09:51,941 --> 00:09:54,736
+This is the first time I've ever put my life on the line.
+
+168
+00:09:54,900 --> 00:09:59,711
+I want to show Kira that we're all willing
+to risk our lives if that's what it takes,
+
+169
+00:10:00,605 --> 00:10:03,086
+and that justice will prevail no matter what.
+
+170
+00:10:04,117 --> 00:10:05,665
+Hey, yeah, that's right.
+
+171
+00:10:05,690 --> 00:10:06,998
+I like the sound of that.
+
+172
+00:10:07,023 --> 00:10:08,257
+We can do this.
+
+173
+00:10:08,282 --> 00:10:10,415
+All right, then. Let's do this, Ryuzaki.
+
+174
+00:10:10,440 --> 00:10:14,598
+Well, I had my doubts about
+whether it was really him at first,
+
+175
+00:10:14,623 --> 00:10:18,358
+but there's no mistaking it. This man is L.
+
+176
+00:10:18,903 --> 00:10:22,855
+Before we go any further, I have to be
+absolutely sure that none of you are Kira,
+
+177
+00:10:22,880 --> 00:10:26,102
+so I'll need to speak with each of
+you individually before you leave today.
+
+178
+00:10:26,816 --> 00:10:27,490
+Huh.
+
+179
+00:10:28,284 --> 00:10:30,462
+What's the deal? He still doesn't trust us?
+
+180
+00:10:30,487 --> 00:10:32,547
+No, I think it's a fair request.
+
+181
+00:10:32,572 --> 00:10:34,543
+Try to see it from his perspective.
+
+182
+00:10:34,568 --> 00:10:38,033
+Kira's been getting information from
+our headquarters from the very beginning,
+
+183
+00:10:38,058 --> 00:10:40,304
+so there's a good chance that he's one of us.
+
+184
+00:10:40,329 --> 00:10:41,056
+Chief's right.
+
+185
+00:10:41,081 --> 00:10:43,681
+Working this case has given us
+a chance to see him in person.
+
+186
+00:10:44,194 --> 00:10:46,457
+He's risking his life to be here.
+
+187
+00:10:48,441 --> 00:10:50,008
+Things are going well.
+
+188
+00:10:50,050 --> 00:10:54,364
+Just one clue, a single decisive factor's all I need.
+
+189
+00:10:54,713 --> 00:10:56,863
+Just one oversight.
+
+190
+00:10:57,381 --> 00:11:00,278
+A single piece of evidence is all it would take.
+
+191
+00:11:01,226 --> 00:11:03,177
+It could cost me my life.
+
+192
+00:11:03,394 --> 00:11:05,516
+Just one thing.
+
+193
+00:11:28,215 --> 00:11:29,984
+You already finished studying?
+
+194
+00:11:30,474 --> 00:11:31,558
+I guess.
+
+195
+00:11:32,576 --> 00:11:33,755
+I'll be fine.
+
+196
+00:11:33,901 --> 00:11:35,432
+I haven't missed anything.
+
+197
+00:11:35,457 --> 00:11:39,026
+The biggest risk I've taken so
+far was that busjacking incident.
+
+198
+00:11:39,409 --> 00:11:41,654
+But they'll never be able to connect it with Kira.
+
+199
+00:11:41,890 --> 00:11:45,612
+Fortunately for me, both the police and L don't know that
+
+200
+00:11:45,637 --> 00:11:48,784
+Kira can kill people by means other than a heart attack.
+
+201
+00:11:48,959 --> 00:11:52,330
+However, if anyone were to discover that fact,
+
+202
+00:11:52,369 --> 00:11:53,902
+I'd be in a lot of trouble.
+
+203
+00:11:53,927 --> 00:11:54,942
+What?
+
+204
+00:11:55,090 --> 00:11:56,590
+Does it have to be now?
+
+205
+00:11:56,649 --> 00:11:59,391
+Your father's been pulling
+overnighters with no change of clothes,
+
+206
+00:11:59,416 --> 00:12:00,938
+so you're going to bring these to him.
+
+207
+00:12:00,963 --> 00:12:04,421
+But Mom, I totally promised my
+friends that I'd go out with them today.
+
+208
+00:12:04,446 --> 00:12:05,563
+Why don't I go?
+
+209
+00:12:05,692 --> 00:12:06,839
+I could use a break.
+
+210
+00:12:06,876 --> 00:12:10,271
+Thanks, Light. I owe you one next time.
+
+211
+00:12:10,370 --> 00:12:13,799
+So I guess this will give you
+a chance to spy on the police.
+
+212
+00:12:13,824 --> 00:12:16,031
+I won't go further than the reception desk.
+
+213
+00:12:20,770 --> 00:12:22,762
+Oh, you're bringing a page.
+
+214
+00:12:22,787 --> 00:12:24,142
+Planning to kill someone?
+
+215
+00:12:24,608 --> 00:12:28,837
+No, but lately I've been bringing a page
+with me every time I go out, just in case.
+
+216
+00:12:34,771 --> 00:12:35,830
+That day...
+
+217
+00:12:36,495 --> 00:12:39,052
+Raye said he was planning to go to Shinjuku.
+
+218
+00:12:42,028 --> 00:12:45,758
+That same day four people died of
+heart attacks in the Shinjuku area,
+
+219
+00:12:46,086 --> 00:12:48,605
+and there was the busjacking.
+
+220
+00:12:50,537 --> 00:12:52,409
+There's no way it was a coincidence.
+
+221
+00:12:59,971 --> 00:13:00,882
+That's it!
+
+222
+00:13:01,099 --> 00:13:03,022
+Kira can kill in other ways.
+
+223
+00:13:03,185 --> 00:13:05,079
+It doesn't have to be a heart attack.
+
+224
+00:13:06,462 --> 00:13:08,406
+The mobile customer you are trying
+to reach is currently unavailable.
+
+225
+00:13:08,431 --> 00:13:09,917
+That's unusual for Dad.
+
+226
+00:13:12,751 --> 00:13:14,857
+I wonder if he's in a meeting right now.
+
+227
+00:13:17,805 --> 00:13:22,446
+Please, I need to speak directly with someone
+from the special investigation task force.
+
+228
+00:13:22,471 --> 00:13:23,379
+It's urgent.
+
+229
+00:13:23,404 --> 00:13:25,319
+I'm sorry, ma'am, but I can't help you.
+
+230
+00:13:25,344 --> 00:13:29,008
+As I've told you already, there is no
+one at task force headquarters right now.
+
+231
+00:13:29,451 --> 00:13:31,262
+There's no one at headquarters?
+
+232
+00:13:31,580 --> 00:13:33,251
+Dad's cell is turned off.
+
+233
+00:13:33,631 --> 00:13:34,814
+What's going on?
+
+234
+00:13:35,197 --> 00:13:37,364
+Can't you contact them somehow?
+
+235
+00:13:37,404 --> 00:13:40,454
+I have information relating to the Kira investigation.
+
+236
+00:13:40,576 --> 00:13:42,521
+The Kira investigation?
+
+237
+00:13:44,543 --> 00:13:47,418
+Look, I'll call headquarters one more time for you.
+
+238
+00:13:47,443 --> 00:13:48,608
+One moment.
+
+239
+00:13:48,681 --> 00:13:52,161
+Hi, I'm Detective Soichiro Yagami's son, Light Yagami.
+
+240
+00:13:52,186 --> 00:13:55,345
+I brought my father a change of
+clothes, but it doesn't look like he's in.
+
+241
+00:13:55,370 --> 00:13:56,432
+Can I leave them here?
+
+242
+00:13:56,457 --> 00:13:58,811
+Sure. Hey, I haven't seen you in a while, Light.
+
+243
+00:13:58,836 --> 00:14:01,169
+Oh, I'm sorry, uh...
+
+244
+00:14:01,194 --> 00:14:02,494
+What, you don't remember?
+
+245
+00:14:02,519 --> 00:14:04,836
+You helped solve the insurance fraud murder investigation
+
+246
+00:14:04,861 --> 00:14:05,990
+sometime last year.
+
+247
+00:14:06,190 --> 00:14:08,638
+But hey, no one remembers the receptionist, do they?
+
+248
+00:14:08,663 --> 00:14:11,407
+Oh, I'm sorry. I'm terrible with faces.
+
+249
+00:14:11,432 --> 00:14:13,732
+I just need to sign my name on this form, right?
+
+250
+00:14:13,757 --> 00:14:17,776
+So, Light, does this mean you're going to be
+helping us with the Kira investigation, too?
+
+251
+00:14:17,809 --> 00:14:21,120
+Sure. If all goes well, maybe
+I'll find Kira before L does.
+
+252
+00:14:21,145 --> 00:14:22,829
+Find him before L does?
+
+253
+00:14:23,500 --> 00:14:25,888
+As I thought, there's no one at headquarters.
+
+254
+00:14:25,913 --> 00:14:27,471
+You're going to have to trust me on this, ma'am.
+
+255
+00:14:27,496 --> 00:14:30,466
+I'll be sure to give them your
+message as soon as I see them. I promise.
+
+256
+00:14:30,667 --> 00:14:33,164
+That's not good enough. I have to tell them in person.
+
+257
+00:14:33,189 --> 00:14:34,279
+Excuse me.
+
+258
+00:14:34,471 --> 00:14:37,957
+My father is actually in charge of the Kira investigation.
+
+259
+00:14:37,982 --> 00:14:40,282
+If you'd like, I could pass your message on to him.
+
+260
+00:14:40,307 --> 00:14:43,784
+His cell phone is off at the moment,
+but I should be able to contact him soon.
+
+261
+00:14:44,604 --> 00:14:47,136
+A number of FBI agents were just killed,
+
+262
+00:14:47,161 --> 00:14:50,561
+and a lot of detectives have quit
+the case because they're afraid of Kira.
+
+263
+00:14:50,814 --> 00:14:52,597
+So he's pretty busy right now.
+
+264
+00:14:52,622 --> 00:14:56,041
+Uh, Light, it's probably better
+if you don't discuss this with...
+
+265
+00:14:56,095 --> 00:14:59,235
+True, but it's practically common knowledge at this point.
+
+266
+00:14:59,307 --> 00:15:01,473
+Besides, I feel like I can trust her.
+
+267
+00:15:01,498 --> 00:15:03,723
+You can almost see it in her eyes.
+
+268
+00:15:03,748 --> 00:15:05,791
+She's a wise and careful person.
+
+269
+00:15:06,366 --> 00:15:08,092
+You heard about what happened
+
+270
+00:15:08,227 --> 00:15:11,155
+and you must have figured out that
+the police had a leak of some kind,
+
+271
+00:15:11,752 --> 00:15:14,119
+and that's why you wanted to tell them in person.
+
+272
+00:15:14,347 --> 00:15:17,776
+You've thought this through. Well, am I right?
+
+273
+00:15:20,980 --> 00:15:24,412
+I'm sure my father will be calling
+me back once he checks his messages.
+
+274
+00:15:24,446 --> 00:15:26,975
+When he does, I'll give you
+the phone and let you talk to him.
+
+275
+00:15:28,504 --> 00:15:29,913
+You're sure that's all right?
+
+276
+00:15:30,071 --> 00:15:31,121
+Oh, yeah.
+
+277
+00:15:31,146 --> 00:15:34,122
+You understand why I can't just
+give you my father's cell phone number.
+
+278
+00:15:34,147 --> 00:15:37,237
+But I have no problem letting
+you use my phone to talk to him.
+
+279
+00:15:37,262 --> 00:15:41,587
+You'll have to trust my father and I,
+which I hope won't be too difficult for you.
+
+280
+00:15:43,533 --> 00:15:45,431
+Why is he so happy?
+
+281
+00:15:47,105 --> 00:15:48,467
+Thank you so much.
+
+282
+00:15:50,042 --> 00:15:52,684
+She walked right into that one, didn't she?
+
+283
+00:15:55,004 --> 00:15:56,393
+I've got to say,
+
+284
+00:15:56,579 --> 00:16:00,503
+you must be pretty brave to be getting
+involved in the Kira case like this.
+
+285
+00:16:00,838 --> 00:16:02,038
+Hmph, not really.
+
+286
+00:16:02,063 --> 00:16:04,326
+So according to you, is Kira some...
+
+287
+00:16:06,371 --> 00:16:10,280
+Um, we've been talking and I just
+realized I don't even know your name.
+
+288
+00:16:10,305 --> 00:16:12,005
+My name is Light Yagami.
+
+289
+00:16:12,195 --> 00:16:16,589
+Light's written with the character for moon,
+and Yagami with the characters for night and god.
+
+290
+00:16:16,614 --> 00:16:17,948
+Kind of weird, huh?
+
+291
+00:16:18,337 --> 00:16:19,960
+My name's Shoko Maki.
+
+292
+00:16:19,985 --> 00:16:21,782
+It's written with the characters for shining,
+
+293
+00:16:21,807 --> 00:16:23,907
+"ko" as in "child," "space," and "ki" as in "tree."
+
+294
+00:16:23,932 --> 00:16:25,722
+Miss Maki, right?
+
+295
+00:16:28,247 --> 00:16:31,764
+Miss Maki, I've been thinking about Kira's powers,
+
+296
+00:16:32,128 --> 00:16:36,279
+and I believe they enable him to somehow
+control his victims before they die.
+
+297
+00:16:36,420 --> 00:16:37,720
+So do I!
+
+298
+00:16:37,981 --> 00:16:41,181
+It's odd that you say that, because
+that's exactly what I've been thinking.
+
+299
+00:16:41,302 --> 00:16:44,253
+Kira's able to control their actions before he kills them,
+
+300
+00:16:44,278 --> 00:16:45,485
+but there's more to it.
+
+301
+00:16:45,603 --> 00:16:47,815
+If my analysis so far is correct,
+
+302
+00:16:47,891 --> 00:16:51,452
+Kira can kill in a number of
+ways, not just with a heart attack.
+
+303
+00:16:52,514 --> 00:16:53,742
+She knows?
+
+304
+00:16:53,990 --> 00:16:55,230
+Who is this woman?
+
+305
+00:16:56,071 --> 00:16:58,618
+I don't think anyone else knows this yet,
+
+306
+00:16:59,109 --> 00:17:01,278
+but if the police are willing to consider it
+
+307
+00:17:01,303 --> 00:17:03,247
+I bet it would help them catch Kira.
+
+308
+00:17:03,272 --> 00:17:06,367
+You know, that possibility never even crossed my mind.
+
+309
+00:17:06,685 --> 00:17:10,521
+So what you're saying is any time Kira
+wants one of his murders to go undetected,
+
+310
+00:17:10,546 --> 00:17:12,434
+he wouldn't use a heart attack.
+
+311
+00:17:12,538 --> 00:17:13,269
+Right.
+
+312
+00:17:13,605 --> 00:17:16,607
+I'm almost positive that someone I know may have met Kira.
+
+313
+00:17:17,123 --> 00:17:18,623
+Met Kira?
+
+314
+00:17:20,218 --> 00:17:23,312
+I'm sorry, but if a person came in saying they'd met Kira,
+
+315
+00:17:23,337 --> 00:17:26,572
+the police would be more than a
+little skeptical, to say the least.
+
+316
+00:17:26,705 --> 00:17:27,768
+I know.
+
+317
+00:17:27,793 --> 00:17:31,618
+That's why I need to explain it in person
+to someone from task force headquarters.
+
+318
+00:17:31,643 --> 00:17:33,565
+Otherwise I'm afraid they'll just write me off.
+
+319
+00:17:33,590 --> 00:17:36,692
+But wouldn't it be better if
+your friend spoke to them instead?
+
+320
+00:17:38,014 --> 00:17:40,329
+It probably would, but he's no longer alive.
+
+321
+00:17:40,929 --> 00:17:44,729
+He was one of the 12 FBI agents
+who came to Japan to investigate Kira.
+
+322
+00:17:46,242 --> 00:17:49,652
+An FBI agent who met Kira?
+
+323
+00:17:50,161 --> 00:17:51,523
+Could it be?
+
+324
+00:17:52,285 --> 00:17:54,484
+You see, he was also my fiance.
+
+325
+00:17:54,509 --> 00:17:57,030
+While he was working he got caught up in a busjacking,
+
+326
+00:17:57,055 --> 00:18:00,209
+and I have reason to believe that he met Kira on that bus.
+
+327
+00:18:01,939 --> 00:18:03,753
+Raye Penber.
+
+328
+00:18:09,428 --> 00:18:10,961
+Is something wrong?
+
+329
+00:18:11,157 --> 00:18:14,263
+Nothing. I'm sorry to hear that he passed away.
+
+330
+00:18:16,376 --> 00:18:19,621
+So what makes you think he met Kira on that bus?
+
+331
+00:18:21,193 --> 00:18:23,691
+Because eight days after that bus was hijacked,
+
+332
+00:18:24,718 --> 00:18:27,770
+he died along with the other FBI investigators.
+
+333
+00:18:28,305 --> 00:18:32,333
+The same man had attempted to rob a
+bank two days before he hijacked that bus,
+
+334
+00:18:32,546 --> 00:18:35,221
+then he dies in an accident, just like that?
+
+335
+00:18:35,549 --> 00:18:37,803
+I mean, really, what are the odds?
+
+336
+00:18:39,886 --> 00:18:42,719
+I've come to believe that Kira set up that busjacking.
+
+337
+00:18:42,799 --> 00:18:45,733
+It was planned to bring him into contact with my fiance
+
+338
+00:18:45,805 --> 00:18:49,246
+in order to obtain information regarding
+the identities of the other FBI agents
+
+339
+00:18:49,271 --> 00:18:50,873
+so he could get rid of them all.
+
+340
+00:18:51,361 --> 00:18:55,152
+Anyway, what stands out to me is
+that the hijacker died in an accident.
+
+341
+00:18:55,234 --> 00:18:56,202
+In other words,
+
+342
+00:18:56,527 --> 00:19:00,147
+it suggests that heart attacks aren't
+the only way Kira can kill people.
+
+343
+00:19:11,942 --> 00:19:14,652
+OK, so the busjacker didn't die of a heart attack.
+
+344
+00:19:15,181 --> 00:19:18,879
+And based on that, you're saying
+Kira has other ways of killing people?
+
+345
+00:19:19,309 --> 00:19:20,052
+Yes.
+
+346
+00:19:20,647 --> 00:19:24,256
+Don't take this the wrong way, but I
+think that's a bit of a leap of faith.
+
+347
+00:19:24,971 --> 00:19:26,696
+There's no other way of looking at it.
+
+348
+00:19:26,824 --> 00:19:30,456
+If Kira was controlling the
+hijacker, chances are he killed him too.
+
+349
+00:19:30,976 --> 00:19:32,283
+I still don't see it.
+
+350
+00:19:32,343 --> 00:19:36,419
+I've been wondering about that busjacking
+ever since my fiance first told me about it.
+
+351
+00:19:36,834 --> 00:19:39,398
+After he calmed down, I asked him for details.
+
+352
+00:19:40,594 --> 00:19:42,941
+He didn't mention any names or anything like that,
+
+353
+00:19:42,966 --> 00:19:44,433
+but he told me one thing.
+
+354
+00:19:44,571 --> 00:19:45,787
+What did he say?
+
+355
+00:19:45,933 --> 00:19:49,912
+That he'd been put in a situation where
+he had to show his FBI ID to someone.
+
+356
+00:19:53,471 --> 00:19:54,369
+Hm.
+
+357
+00:19:54,762 --> 00:19:58,431
+The operation was undertaken
+secretly without the NPA's knowledge.
+
+358
+00:19:58,456 --> 00:20:00,616
+He wasn't allowed to show his ID.
+
+359
+00:20:01,018 --> 00:20:06,442
+I think whoever saw his ID that day is
+responsible for the deaths of all the agents.
+
+360
+00:20:07,189 --> 00:20:08,780
+Unbelievable.
+
+361
+00:20:08,852 --> 00:20:10,352
+She figured it out.
+
+362
+00:20:10,390 --> 00:20:13,061
+This must be the oversight Light was worried about.
+
+363
+00:20:13,419 --> 00:20:14,485
+I understand.
+
+364
+00:20:14,510 --> 00:20:16,434
+You're the only one who knows any of this
+
+365
+00:20:16,459 --> 00:20:20,563
+and you want nothing more than to avenge
+your fiance by bringing Kira to justice, right?
+
+366
+00:20:20,676 --> 00:20:24,201
+And now you're convinced that Kira
+can kill without using a heart attack.
+
+367
+00:20:24,328 --> 00:20:25,024
+Yes.
+
+368
+00:20:25,895 --> 00:20:28,920
+There's no doubt in my mind your
+deductive skills are excellent,
+
+369
+00:20:28,945 --> 00:20:31,834
+but you can't deny that you have
+a personal interest in the case.
+
+370
+00:20:31,859 --> 00:20:36,459
+Still, your theory is worth looking into, that's for sure.
+
+371
+00:20:36,621 --> 00:20:39,297
+Your testimony could be central to the case.
+
+372
+00:20:39,322 --> 00:20:40,575
+It could.
+
+373
+00:20:41,143 --> 00:20:42,811
+If what you're telling me is true,
+
+374
+00:20:42,836 --> 00:20:46,309
+then it'll only be a matter of time
+before the police catch up with Kira.
+
+375
+00:20:46,526 --> 00:20:50,826
+The person your fiance showed
+his ID to on the bus that day...
+
+376
+00:20:51,382 --> 00:20:53,104
+it had to be Kira.
+
+377
+00:20:53,504 --> 00:20:54,571
+That's right.
+
+378
+00:21:01,356 --> 00:21:02,822
+That was close.
+
+379
+00:21:03,778 --> 00:21:04,872
+This woman,
+
+380
+00:21:05,431 --> 00:21:08,545
+if she'd spoken to the police before I met her
+
+381
+00:21:08,908 --> 00:21:12,805
+but it seems there's a god on my side after all,
+
+382
+00:21:13,332 --> 00:21:15,719
+and not just a god of death.
+
+383
+00:22:38,312 --> 00:22:39,745
+I have to admit
+
+384
+00:22:39,907 --> 00:22:42,383
+I'd really love to see how she dies,
+
+385
+00:22:42,408 --> 00:22:45,159
+but I can't be caught following her around.
+
+386
+00:22:45,371 --> 00:22:46,444
+Go on.
+
+387
+00:22:46,739 --> 00:22:48,500
+Hurry to your death.
+

@@ -1,0 +1,1901 @@
+﻿1
+00:00:11,850 --> 00:00:14,730
+[IZUKU] In the aftermath
+of the destruction,
+
+2
+00:00:14,810 --> 00:00:17,730
+I read the Safety Commission's
+post-mortem report.
+
+3
+00:00:20,650 --> 00:00:22,400
+[IZUKU] Only then
+did I get a full picture
+
+4
+00:00:22,480 --> 00:00:25,150
+of everything that
+went down that day.
+
+5
+00:00:26,860 --> 00:00:30,240
+[IZUKU] Just before the huge
+villain arrest operation began,
+
+6
+00:00:30,320 --> 00:00:31,990
+the Chairwoman invited
+a key figure
+
+7
+00:00:32,070 --> 00:00:34,570
+involved in the Deika incident
+to their headquarters
+
+8
+00:00:34,660 --> 00:00:36,830
+for an exploratory
+business meeting.
+
+9
+00:00:38,710 --> 00:00:41,210
+[SECRETARY 127A]
+Congratulations, President.
+
+10
+00:00:41,290 --> 00:00:42,790
+What a boon, sir!
+
+11
+00:00:42,880 --> 00:00:44,670
+Who'd've guessed the commission
+would propose a joint venture
+
+12
+00:00:44,750 --> 00:00:46,960
+to develop support items!
+
+13
+00:00:47,050 --> 00:00:50,600
+They're not our biggest fans.
+
+14
+00:00:50,680 --> 00:00:52,770
+They've had an eye on us
+for some time,
+
+15
+00:00:52,840 --> 00:00:54,130
+claiming we've played a big role
+
+16
+00:00:54,220 --> 00:00:57,020
+in fueling public anxiety
+across the country.
+
+17
+00:00:57,100 --> 00:00:58,690
+The timing suggests
+they called because
+
+18
+00:00:58,770 --> 00:01:01,900
+they can't ignore our wonderful
+products any longer,
+
+19
+00:01:01,980 --> 00:01:04,570
+and if we succeed today and
+form a strong bond with them,
+
+20
+00:01:04,650 --> 00:01:07,200
+there's no end to
+the data we can mine.
+
+21
+00:01:07,280 --> 00:01:10,490
+A few spies, some backdoors
+in our software;
+
+22
+00:01:10,570 --> 00:01:13,030
+we'll uncover their
+every secret.
+
+23
+00:01:13,110 --> 00:01:14,530
+Including...
+
+24
+00:01:15,620 --> 00:01:17,620
+...the identity of
+the clandestine agent
+
+25
+00:01:17,700 --> 00:01:21,500
+the commission has had under
+their wing since childhood.
+
+26
+00:01:21,580 --> 00:01:23,580
+With an upgraded
+Tomura Shigaraki leading
+
+27
+00:01:23,670 --> 00:01:26,050
+our fight, the Paranormal
+Liberation Front
+
+28
+00:01:26,130 --> 00:01:30,090
+will make even greater
+strides toward progress.
+
+29
+00:01:30,170 --> 00:01:32,590
+People will truly be free.
+
+30
+00:01:32,680 --> 00:01:35,100
+[YOTSUBASHI] The society
+my father, the great Destro,
+
+31
+00:01:35,180 --> 00:01:39,230
+wished for is so close.
+Can you feel it?
+
+32
+00:01:39,310 --> 00:01:43,360
+[chuckles] The other me
+is so happy.
+
+33
+00:03:23,330 --> 00:03:25,540
+[CHAIRWOMAN]
+I apologize for making you wait.
+
+34
+00:03:25,620 --> 00:03:27,790
+[YOTSUBASHI]
+Please, think nothing of it.
+
+35
+00:03:27,870 --> 00:03:28,950
+[SECRETARY 127A]
+We appreciate you pitching
+
+36
+00:03:29,040 --> 00:03:31,000
+such a lucrative proposal
+to our company.
+
+37
+00:03:31,090 --> 00:03:32,840
+It was an honor
+to hear from you.
+
+38
+00:03:32,920 --> 00:03:34,710
+[CHAIRWOMAN]
+We're the ones who're grateful.
+
+39
+00:03:34,800 --> 00:03:37,180
+I speak for everyone when
+I say the Safety Commission
+
+40
+00:03:37,260 --> 00:03:39,720
+would be thrilled to
+work with Detnerat,
+
+41
+00:03:39,800 --> 00:03:43,720
+you've developed so many
+ground-breaking products.
+
+42
+00:03:43,810 --> 00:03:47,310
+However, as for the proposal...
+
+43
+00:03:47,390 --> 00:03:48,970
+[YOTSUBASHI gasps]
+
+44
+00:03:49,060 --> 00:03:51,770
+There are some line items
+I'd like to discuss.
+
+45
+00:03:56,900 --> 00:04:00,530
+[glass shatters]
+
+46
+00:04:02,740 --> 00:04:05,240
+[YOTSUBASHI] You suppressors
+played on our business acumen
+
+47
+00:04:05,330 --> 00:04:08,210
+to catch us in an ambush.
+
+48
+00:04:08,290 --> 00:04:09,670
+I knew we were being watched
+
+49
+00:04:09,750 --> 00:04:12,290
+by the Safety Commission,
+of course.
+
+50
+00:04:12,380 --> 00:04:14,340
+But I thought you'd come
+around and couldn't live
+
+51
+00:04:14,420 --> 00:04:18,340
+without our
+cutting-edge designs.
+
+52
+00:04:18,430 --> 00:04:22,140
+It seems my celebration
+was premature.
+
+53
+00:04:22,220 --> 00:04:24,760
+A double--it's
+Bubaigawara's power.
+
+54
+00:04:24,850 --> 00:04:26,940
+Wait, so he's a fake?
+
+55
+00:04:27,020 --> 00:04:28,350
+[YOTSUBASHI]
+I didn't expect you'd rely
+
+56
+00:04:28,440 --> 00:04:30,610
+on such aggressive tactics.
+
+57
+00:04:32,110 --> 00:04:36,200
+[YOTSUBASHI] Aren't you supposed
+to champion diplomacy and order?
+
+58
+00:04:36,280 --> 00:04:39,200
+Ah, well,
+this was inevitable.
+
+59
+00:04:39,280 --> 00:04:40,990
+Necessary, even.
+
+60
+00:04:41,070 --> 00:04:46,280
+But we strive for society
+without order, pure freedom!
+
+61
+00:04:46,370 --> 00:04:48,870
+The seeds have already
+been sown;
+
+62
+00:04:48,960 --> 00:04:51,210
+you will be liberated soon!
+
+63
+00:04:52,790 --> 00:04:54,250
+[IZUKU] With the death
+of the chairwoman,
+
+64
+00:04:54,340 --> 00:04:55,840
+the Heroes Public
+Safety Commission
+
+65
+00:04:55,920 --> 00:04:57,840
+was thrown into disarray.
+
+66
+00:04:57,920 --> 00:04:59,260
+While chaos unfolded,
+
+67
+00:04:59,340 --> 00:05:02,970
+the raid operation went
+ahead as planned.
+
+68
+00:05:03,050 --> 00:05:05,010
+Endeavor lead a team
+of heroes that stormed
+
+69
+00:05:05,100 --> 00:05:08,600
+Jaku Hospital. Their target was
+All For One's right-hand man,
+
+70
+00:05:08,680 --> 00:05:11,310
+the doctor who created
+the bioengineered Nomu,
+
+71
+00:05:11,390 --> 00:05:12,890
+Kyudai Garaki.
+
+72
+00:05:14,360 --> 00:05:15,860
+[AIZAWA]
+Those you've toyed with,
+
+73
+00:05:15,940 --> 00:05:21,700
+and those who cared for them.
+Do you know what they all say?
+
+74
+00:05:21,780 --> 00:05:25,030
+It's our turn to take
+something away from you.
+
+75
+00:05:26,620 --> 00:05:29,580
+[IZUKU] However, the man they
+captured was, in actuality,
+
+76
+00:05:29,660 --> 00:05:32,040
+a double created
+by Jin Bubaigawara,
+
+77
+00:05:32,120 --> 00:05:35,960
+the duplicating villain
+known as Twice.
+
+78
+00:05:36,040 --> 00:05:37,960
+When a surprise horde
+of Nomu appeared,
+
+79
+00:05:38,050 --> 00:05:41,390
+the hospital suddenly
+became a battlefield.
+
+80
+00:05:41,470 --> 00:05:43,760
+Thinking back on it now,
+they must've already
+
+81
+00:05:43,840 --> 00:05:45,630
+been fighting while those
+of us in the rear guard
+
+82
+00:05:45,720 --> 00:05:48,520
+evacuated citizens,
+though we had no idea
+
+83
+00:05:48,600 --> 00:05:51,730
+what was going on at the time.
+
+84
+00:05:51,810 --> 00:05:53,440
+Three minutes after
+the raid began,
+
+85
+00:05:53,520 --> 00:05:56,270
+Mirko cornered the real
+Garaki in a hidden lab,
+
+86
+00:05:56,360 --> 00:05:58,650
+where he managed to
+activate five powerful Nomu
+
+87
+00:05:58,730 --> 00:06:01,110
+called High Ends.
+
+88
+00:06:01,190 --> 00:06:03,530
+[yells]
+
+89
+00:06:08,370 --> 00:06:12,920
+[MIRKO] If I'm gonna die, it'll
+be after I achieve my goal.
+
+90
+00:06:13,000 --> 00:06:14,290
+[IZUKU]
+Despite being wounded,
+
+91
+00:06:14,370 --> 00:06:17,920
+Mirko found Tomura Shigaraki
+in suspended animation.
+
+92
+00:06:20,550 --> 00:06:22,300
+[MIRKO]
+Luna Arc!
+
+93
+00:06:22,380 --> 00:06:24,970
+[IZUKU] She wasn't able
+to fully destroy the lab,
+
+94
+00:06:25,050 --> 00:06:27,090
+and as more heroes
+rushed to the scene,
+
+95
+00:06:27,180 --> 00:06:29,850
+the situation devolved
+into a free-for-all.
+
+96
+00:06:35,730 --> 00:06:38,270
+[IZUKU] In the end,
+our worst fears came true.
+
+97
+00:06:38,360 --> 00:06:40,900
+Shigaraki awakened.
+
+98
+00:06:40,980 --> 00:06:44,280
+Wielding enhanced Quirks,
+he decimated Jaku City.
+
+99
+00:06:44,360 --> 00:06:49,280
+In a flash, the hospital became
+ground zero for his Decay wave.
+
+100
+00:06:49,370 --> 00:06:52,580
+I wasn't there,
+but I felt Shigaraki.
+
+101
+00:06:52,660 --> 00:06:56,250
+I knew he was close by.
+
+102
+00:06:56,330 --> 00:06:58,710
+While Endeavor's team fought,
+another army of heroes
+
+103
+00:06:58,790 --> 00:07:01,040
+amassed 80 kilometers away
+from Jaku Hospital
+
+104
+00:07:01,130 --> 00:07:03,880
+at the Paranormal Liberation
+Front's secret base,
+
+105
+00:07:03,970 --> 00:07:05,350
+the Gunga Villa.
+
+106
+00:07:05,430 --> 00:07:06,850
+They were the second prong
+
+107
+00:07:06,930 --> 00:07:10,100
+of the sweeping raid operation,
+an army lead by Edge Shot.
+
+108
+00:07:11,180 --> 00:07:15,520
+Aw, yeah, That's one scary
+leader rendered powerless.
+
+109
+00:07:15,600 --> 00:07:19,480
+[KAMUI WOODS] Pre-emptive
+Binding, Lacquered Chain Prison!
+
+110
+00:07:20,690 --> 00:07:22,730
+[IZUKU] Their surprise
+attack was a success,
+
+111
+00:07:22,820 --> 00:07:24,070
+and it looked as
+though the heroes
+
+112
+00:07:24,150 --> 00:07:26,440
+would have an easy victory.
+
+113
+00:07:26,530 --> 00:07:29,700
+According to the report,
+Hawks, who was in the middle
+
+114
+00:07:29,780 --> 00:07:32,200
+of an undercover
+investigation at the villa,
+
+115
+00:07:32,290 --> 00:07:34,080
+had the primary goal
+of keeping the villains
+
+116
+00:07:34,160 --> 00:07:36,450
+from using Twice's Quirk,
+which could change
+
+117
+00:07:36,540 --> 00:07:37,920
+the tide of the battle.
+
+118
+00:07:39,290 --> 00:07:42,380
+[HAWKS] In the end I guess
+it comes down to bad luck
+
+119
+00:07:42,460 --> 00:07:44,380
+Atone for your crimes
+and start over.
+
+120
+00:07:44,460 --> 00:07:47,250
+[TWICE]
+No! I stopped giving a damn
+
+121
+00:07:47,340 --> 00:07:49,720
+about myself a long time ago.
+
+122
+00:07:55,680 --> 00:07:57,560
+[IZUKU] Hawks was able
+to carry out his mission,
+
+123
+00:07:57,640 --> 00:08:00,690
+but was badly injured. He was
+rescued by my classmate,
+
+124
+00:08:00,770 --> 00:08:02,810
+Tsukuyomi, who barely
+managed to flee
+
+125
+00:08:02,900 --> 00:08:04,490
+with the Number-Two hero.
+
+126
+00:08:06,030 --> 00:08:07,450
+[TOKOYAMI]
+I believe in you!
+
+127
+00:08:07,530 --> 00:08:11,160
+We all do, Whatever you
+did was justified!
+
+128
+00:08:11,240 --> 00:08:12,950
+So don't you die!
+
+129
+00:08:15,790 --> 00:08:17,250
+[IZUKU]
+With the appearance of Geten,
+
+130
+00:08:17,330 --> 00:08:19,710
+a Paranormal Liberation
+Front lieutenant,
+
+131
+00:08:19,790 --> 00:08:23,960
+and Gigantomachia, All For One's
+enormous bodyguard,
+
+132
+00:08:24,050 --> 00:08:25,550
+the fight quickly
+became a brawl
+
+133
+00:08:25,630 --> 00:08:29,430
+the heroes weren't able
+to keep contained.
+
+134
+00:08:29,510 --> 00:08:31,850
+Ordered to find his way
+to Shigaraki's side,
+
+135
+00:08:31,930 --> 00:08:34,680
+Gigantomachia started
+running towards Jaku City,
+
+136
+00:08:34,760 --> 00:08:38,140
+taking members of the League and
+the Liberation Front with him.
+
+137
+00:08:38,230 --> 00:08:43,440
+No heroes were capable
+of overcoming his raw power.
+
+138
+00:08:43,520 --> 00:08:48,650
+[MIDNIGHT] No one in our ranks
+can stop that thing with force.
+
+139
+00:08:48,740 --> 00:08:50,780
+We need you.
+
+140
+00:08:50,860 --> 00:08:53,400
+[YAOYOROZU]
+Together. As one.
+
+141
+00:08:53,490 --> 00:08:56,410
+We'll take down this villain.
+
+142
+00:08:56,490 --> 00:08:59,330
+[IZUKU] The only hope of slowing
+Gigantomachia's advance
+
+143
+00:08:59,410 --> 00:09:01,700
+lay in the hands of the
+courageous work study students
+
+144
+00:09:01,790 --> 00:09:05,340
+who fought to dose him
+with sedatives.
+
+145
+00:09:05,420 --> 00:09:10,510
+[KIRISHIMA] I am Red Riot!
+You won't hurt them!
+
+146
+00:09:10,590 --> 00:09:12,430
+This ends here!
+
+147
+00:09:15,810 --> 00:09:17,900
+Heroes, take him down!
+
+148
+00:09:17,970 --> 00:09:22,600
+We can't rely on the work study
+students to do all the work!
+
+149
+00:09:22,690 --> 00:09:25,690
+[IZUKU] Meanwhile, at the
+ruins of Jaku Hospital,
+
+150
+00:09:25,770 --> 00:09:28,060
+Team Endeavor and Shigaraki
+continued to fight
+
+151
+00:09:28,150 --> 00:09:31,150
+in what was fast becoming
+a battle to the death.
+
+152
+00:09:31,240 --> 00:09:34,410
+This is Endeavor!
+Does anybody copy?
+
+153
+00:09:34,490 --> 00:09:37,160
+I'm fighting Shigaraki
+where the hospital stood.
+
+154
+00:09:37,240 --> 00:09:38,450
+If there's anyone who can move
+
+155
+00:09:38,540 --> 00:09:41,670
+without touching the ground,
+form a perimeter.
+
+156
+00:09:41,750 --> 00:09:43,540
+[IZUKU] Shigaraki's
+modifications gave him
+
+157
+00:09:43,630 --> 00:09:44,880
+super-charged
+physical strength
+
+158
+00:09:44,960 --> 00:09:46,670
+and regeneration abilities,
+
+159
+00:09:46,750 --> 00:09:48,750
+which forced the heroes
+to the brink.
+
+160
+00:09:56,760 --> 00:10:04,270
+[ENDEAVOR]
+Plus Ultra, Prominence Burn!
+
+161
+00:10:14,200 --> 00:10:18,620
+[IZUKU] Finally, Gigantomachia
+reached his master in Jaku.
+
+162
+00:10:20,120 --> 00:10:21,960
+[DABI]
+Yes. The so-called villain
+
+163
+00:10:22,040 --> 00:10:25,340
+sitting in front of you
+is Endeavor's oldest son.
+
+164
+00:10:27,540 --> 00:10:28,920
+[IZUKU]
+That's when Dabi, a member
+
+165
+00:10:29,000 --> 00:10:30,920
+of the League of Villains,
+revealed that he was,
+
+166
+00:10:31,010 --> 00:10:32,470
+in fact, Endeavor's son
+
+167
+00:10:32,550 --> 00:10:35,720
+in a message broadcast
+across the country.
+
+168
+00:10:35,800 --> 00:10:37,590
+His recording included
+video of Hawks
+
+169
+00:10:37,680 --> 00:10:40,980
+killing Bubaigawara.
+In just a few minutes,
+
+170
+00:10:41,060 --> 00:10:44,190
+he caused people nationwide
+to doubt heroes.
+
+171
+00:10:45,560 --> 00:10:46,690
+[IZUKU]
+My allies and I
+
+172
+00:10:46,770 --> 00:10:50,400
+were at an overwhelming
+disadvantage, but...
+
+173
+00:10:50,480 --> 00:10:52,070
+[BEST JEANIST]
+Sorry I'm late!
+
+174
+00:10:56,320 --> 00:11:01,780
+[BEST JEANIST] As of this
+moment, Best Jeanist is back.
+
+175
+00:11:01,870 --> 00:11:04,870
+Power!
+
+176
+00:11:06,120 --> 00:11:08,410
+[IZUKU] As Best Jeanist and
+Lemillion joined the fray,
+
+177
+00:11:08,500 --> 00:11:10,630
+the sedatives the work study
+students used to drug
+
+178
+00:11:10,710 --> 00:11:13,050
+Gigantomachia began
+to take effect,
+
+179
+00:11:13,130 --> 00:11:15,170
+allowing us to restrain him.
+
+180
+00:11:18,600 --> 00:11:21,690
+[IZUKU] But it wasn't over,
+Shigaraki attempted to flee
+
+181
+00:11:21,770 --> 00:11:25,820
+with the Nomu that had surfaced
+from inside the hospital ruins.
+
+182
+00:11:25,890 --> 00:11:27,480
+The heroes worked diligently,
+
+183
+00:11:27,560 --> 00:11:29,730
+rescuing and
+evacuating citizens,
+
+184
+00:11:29,810 --> 00:11:31,310
+fighting on the front
+lines until they were
+
+185
+00:11:31,400 --> 00:11:34,650
+no longer able
+to stand, and yet,
+
+186
+00:11:34,740 --> 00:11:36,950
+Shigaraki still slipped
+through our fingers,
+
+187
+00:11:37,030 --> 00:11:38,990
+escaping with seven Nomu.
+
+188
+00:11:43,410 --> 00:11:45,160
+[IZUKU] The final pages
+of the report include
+
+189
+00:11:45,250 --> 00:11:48,380
+a few interesting details.
+
+190
+00:11:48,460 --> 00:11:50,920
+They note that every hero
+at the scene explicitly said
+
+191
+00:11:51,000 --> 00:11:52,960
+that no work study
+students participated
+
+192
+00:11:53,050 --> 00:11:55,260
+in the fight against Shigaraki,
+
+193
+00:11:55,340 --> 00:11:58,050
+Our part was erased
+from the record.
+
+194
+00:11:58,130 --> 00:12:00,970
+That denial is the only
+reference to me, Kacchan,
+
+195
+00:12:01,050 --> 00:12:03,550
+and Todoroki in the
+entire document.
+
+196
+00:12:05,430 --> 00:12:07,680
+[IZUKU] But I know
+what happened that day.
+
+197
+00:12:10,060 --> 00:12:14,230
+[IZUKU]
+Shigaraki--no, All For One--
+
+198
+00:12:14,320 --> 00:12:18,320
+was desperately trying to
+steal One For All from me.
+
+199
+00:12:18,410 --> 00:12:21,540
+[FIRST WIELDER] You won't
+be taking this Quirk, Brother,
+
+200
+00:12:21,620 --> 00:12:25,250
+because we've all chosen
+to remain inside of this boy.
+
+201
+00:12:26,540 --> 00:12:31,250
+[IZUKU] I clearly remember
+the first wielder's defiance.
+
+202
+00:12:32,920 --> 00:12:37,550
+[IZUKU]
+And Shigaraki's face.
+
+203
+00:12:37,630 --> 00:12:40,170
+He looked like he
+wanted to be rescued.
+
+204
+00:12:52,650 --> 00:12:54,400
+[IZUKU] The report was sparse
+regarding what happened
+
+205
+00:12:54,480 --> 00:12:59,900
+after Shigaraki escaped. Only
+the barest facts were recorded.
+
+206
+00:12:59,990 --> 00:13:02,370
+Jaku General Hospital's
+Chairman of the Board,
+
+207
+00:13:02,450 --> 00:13:06,540
+Garaki Kyudai, was arrested for
+aiding and abetting murder,
+
+208
+00:13:06,620 --> 00:13:09,920
+mutilating corpses,
+illegal Quirk use,
+
+209
+00:13:10,000 --> 00:13:14,500
+embezzling hospital funds,
+and various other crimes.
+
+210
+00:13:14,590 --> 00:13:17,180
+Gigantomachia, captured.
+
+211
+00:13:17,260 --> 00:13:20,760
+Two transport helicopters
+escorted him from the field.
+
+212
+00:13:20,840 --> 00:13:23,760
+Atsuhiro Sako, member
+of the League of Villains,
+
+213
+00:13:23,850 --> 00:13:27,150
+villain name:
+Mr. Compress, captured.
+
+214
+00:13:27,220 --> 00:13:28,970
+He was gravely injured
+and unconscious
+
+215
+00:13:29,060 --> 00:13:31,810
+when rushed to the hospital.
+
+216
+00:13:31,900 --> 00:13:35,110
+Any incapacitated Nomu
+were restrained in Maidens,
+
+217
+00:13:35,190 --> 00:13:38,320
+to be autopsied later.
+
+218
+00:13:38,400 --> 00:13:40,900
+The equipment from
+the hidden lab was taken.
+
+219
+00:13:40,990 --> 00:13:43,950
+With any luck, analysis
+will give us a better idea
+
+220
+00:13:44,030 --> 00:13:46,370
+of exactly how Garaki used it.
+
+221
+00:13:49,790 --> 00:13:53,920
+You have not stopped
+our liberation. Hear me?
+
+222
+00:13:54,000 --> 00:13:56,750
+No, we have only
+just begun to ri--
+
+223
+00:13:57,750 --> 00:14:00,340
+[EDGE SHOT]
+Ninpo, Thousand Sheet Pierce!
+
+224
+00:14:09,180 --> 00:14:10,390
+[CEMENTOS grunts]
+
+225
+00:14:10,480 --> 00:14:13,270
+I can't lose now!
+For my sake and Re-Destro's!
+
+226
+00:14:13,350 --> 00:14:16,600
+It is our responsibility
+to stop your nefarious plot!
+
+227
+00:14:16,690 --> 00:14:17,860
+Oh, shut up.
+
+228
+00:14:17,940 --> 00:14:20,360
+You're a dog wagging his
+tail for the government.
+
+229
+00:14:20,440 --> 00:14:22,690
+If I have to be a dog
+for this world to have peace,
+
+230
+00:14:22,780 --> 00:14:24,450
+then so be it!
+
+231
+00:14:24,530 --> 00:14:25,610
+[GETEN gasps]
+
+232
+00:14:25,700 --> 00:14:27,660
+[screams]
+
+233
+00:14:30,700 --> 00:14:35,450
+I'm... sorry, Re-Destro.
+I... failed the cause.
+
+234
+00:14:38,500 --> 00:14:41,090
+[IZUKU] Re-Destro,
+AKA Rikiya Yotsubashi,
+
+235
+00:14:41,170 --> 00:14:44,220
+Paranormal Liberation Front
+lieutenant, captured.
+
+236
+00:14:45,800 --> 00:14:47,090
+[IZUKU]
+Geten,
+
+237
+00:14:47,180 --> 00:14:50,270
+Paranormal Liberation Front
+lieutenant, captured.
+
+238
+00:14:50,350 --> 00:14:51,600
+Koku Hanabata,
+
+239
+00:14:51,680 --> 00:14:53,220
+Paranormal Liberation
+Front lieutenant
+
+240
+00:14:53,310 --> 00:14:56,610
+and leader of the Hearts
+and Mind Party, captured.
+
+241
+00:14:58,400 --> 00:15:02,570
+[IZUKU] In addition,
+16,929 members of the PLF
+
+242
+00:15:02,650 --> 00:15:04,610
+who had gathered at the
+Gunga Villa for a meeting
+
+243
+00:15:04,700 --> 00:15:06,540
+were also apprehended.
+
+244
+00:15:07,910 --> 00:15:09,950
+[IZUKU] One hundred thirty-two
+members of the PLF,
+
+245
+00:15:10,040 --> 00:15:13,460
+including several lieutenants,
+left the villa on Gigantomachia
+
+246
+00:15:13,540 --> 00:15:17,750
+or fled in his wake
+and remain on the run.
+
+247
+00:15:17,830 --> 00:15:20,370
+While the raid focused
+on two main locations,
+
+248
+00:15:20,460 --> 00:15:22,300
+there were smaller searches
+across the country
+
+249
+00:15:22,380 --> 00:15:23,920
+which resulted in
+even more villains
+
+250
+00:15:24,010 --> 00:15:26,180
+being taken into custody.
+
+251
+00:15:26,260 --> 00:15:28,890
+None of those targets
+evaded arrest.
+
+252
+00:15:28,970 --> 00:15:31,680
+We don't yet know what
+we can learn from them.
+
+253
+00:15:31,770 --> 00:15:33,310
+The heroes even
+ended up arresting
+
+254
+00:15:33,390 --> 00:15:35,390
+some of their own as well.
+
+255
+00:15:35,480 --> 00:15:37,940
+Those who sympathized
+with the villains.
+
+256
+00:15:39,650 --> 00:15:42,740
+[IZUKU] And that's all the
+data in the official record.
+
+257
+00:15:44,240 --> 00:15:46,410
+[IZUKU] Since the report covered
+the villain raid operation
+
+258
+00:15:46,490 --> 00:15:48,700
+specifically, there's
+probably no reason
+
+259
+00:15:48,780 --> 00:15:50,740
+to add any further details.
+
+260
+00:15:52,830 --> 00:15:59,090
+[IZUKU] However, the aftermath
+of the mission was devastating.
+
+261
+00:16:03,050 --> 00:16:05,390
+[HERO 127C] Warning from
+Ryukyu's work study students.
+
+262
+00:16:05,470 --> 00:16:07,010
+Himiko Toga is on the run.
+
+263
+00:16:07,090 --> 00:16:09,380
+She's likely somewhere nearby!
+
+264
+00:16:09,470 --> 00:16:10,890
+Damn psycho!
+
+265
+00:16:10,970 --> 00:16:13,100
+That's the last thing we need.
+We're already overwhelmed!
+
+266
+00:16:13,180 --> 00:16:14,930
+[CITIZEN 127A screams]
+
+267
+00:16:15,020 --> 00:16:17,060
+Please, Mommy! Where are you?
+
+268
+00:16:17,140 --> 00:16:18,180
+It hurts so bad!
+
+269
+00:16:18,270 --> 00:16:19,690
+Someone! Help us!
+
+270
+00:16:19,770 --> 00:16:21,440
+People are dying
+over here, hurry!
+
+271
+00:16:21,520 --> 00:16:22,440
+This is it.
+
+272
+00:16:22,520 --> 00:16:24,060
+The whole building's
+coming down!
+
+273
+00:16:24,150 --> 00:16:25,490
+[CITIZEN 127BB]
+Oh, god!
+
+274
+00:16:25,570 --> 00:16:26,990
+[CITIZEN 127CC]
+Is anyone there?
+
+275
+00:16:27,070 --> 00:16:28,570
+I can't move my leg!
+
+276
+00:16:28,660 --> 00:16:30,750
+Our job is to save these people!
+
+277
+00:16:30,820 --> 00:16:34,240
+I need ambulances--no, an
+evacuation triage shelter!
+
+278
+00:16:34,330 --> 00:16:36,620
+And call in every
+doctor you can find!
+
+279
+00:16:36,710 --> 00:16:38,800
+God! Even that won't be enough.
+
+280
+00:16:38,870 --> 00:16:42,460
+[MIKA] Come on, Big Brother,
+you have to get out!
+
+281
+00:16:42,540 --> 00:16:44,790
+Try harder! You can do it!
+
+282
+00:16:44,880 --> 00:16:48,010
+[MIKA'S BROTHER] Mika, stop!
+You're making it hurt worse.
+
+283
+00:16:48,090 --> 00:16:51,430
+You hafta get outta here!
+The whole city's falling down!
+
+284
+00:16:51,510 --> 00:16:54,510
+Do what I tell you.
+It's too dangerous!
+
+285
+00:16:54,600 --> 00:16:57,650
+How 'bout, if you leave,
+I'll give you my Endeavor bag?
+
+286
+00:16:57,730 --> 00:17:00,070
+I know you want it,
+so please, save yourself.
+
+287
+00:17:00,150 --> 00:17:03,450
+[MIKA]
+No, no, no!
+
+288
+00:17:03,520 --> 00:17:06,270
+I don't care about
+a stupid bag,
+
+289
+00:17:06,360 --> 00:17:09,070
+I just want you to be okay!
+
+290
+00:17:15,410 --> 00:17:18,080
+That was crazy close!
+
+291
+00:17:18,160 --> 00:17:19,620
+[sobs]
+
+292
+00:17:19,710 --> 00:17:22,380
+[TSUYU] The boy's hurt.
+His leg might be broken.
+
+293
+00:17:22,460 --> 00:17:24,130
+We need a doctor to
+check him out right away!
+
+294
+00:17:24,210 --> 00:17:27,010
+[CITIZEN 127DD] Quick, over
+here! Someone's trapped!
+
+295
+00:17:27,090 --> 00:17:28,930
+I got this. Go!
+
+296
+00:17:31,590 --> 00:17:33,720
+[CITIZEN 127C]
+Hey! Hero!
+
+297
+00:17:33,800 --> 00:17:38,890
+Please. My wife is inside.
+
+298
+00:17:38,980 --> 00:17:40,480
+[OCHACO]
+Right. Which apartment?
+
+299
+00:17:40,560 --> 00:17:43,650
+[CITIZEN 127C]
+403.
+
+300
+00:17:43,730 --> 00:17:45,570
+[OCHACO]
+I'll rescue her.
+
+301
+00:17:45,650 --> 00:17:48,110
+And everyone else I can.
+
+302
+00:17:48,190 --> 00:17:49,690
+I have to!
+
+303
+00:17:53,490 --> 00:17:55,620
+I hate to ask, but since
+you can both walk,
+
+304
+00:17:55,700 --> 00:17:57,540
+will you head to the
+shelter on your own?
+
+305
+00:17:57,620 --> 00:17:59,540
+[CITIZEN 127D]
+Miss! Over here!
+
+306
+00:18:00,870 --> 00:18:03,460
+[OCHACO] There are still
+lives to be saved.
+
+307
+00:18:03,540 --> 00:18:06,210
+People struggling all around me.
+
+308
+00:18:07,460 --> 00:18:09,590
+[OCHACO]
+I have to go beyond!
+
+309
+00:18:14,840 --> 00:18:18,140
+[KODA] There's an elderly couple
+huddled together on the rooftop!
+
+310
+00:18:18,220 --> 00:18:19,640
+[HERO 127D]
+On it.
+
+311
+00:18:19,720 --> 00:18:21,810
+[KODA] And someone's
+stuck on the fifth floor.
+
+312
+00:18:21,890 --> 00:18:23,060
+I can get 'em.
+
+313
+00:18:23,140 --> 00:18:25,350
+[DOCTOR 127A] I need
+O negative blood, stat!
+
+314
+00:18:25,440 --> 00:18:27,650
+[NURSE 127A] Oh, no,
+there are only four bags left!
+
+315
+00:18:27,730 --> 00:18:29,650
+[DOCTOR 127A]
+That's not nearly enough!
+
+316
+00:18:29,730 --> 00:18:31,570
+Doctor, this one's
+not responding!
+
+317
+00:18:31,650 --> 00:18:33,240
+[DOCTOR 127A] Lay him on
+the ground for now!
+
+318
+00:18:33,320 --> 00:18:34,320
+[PARAMEDIC 127A]
+But--
+
+319
+00:18:34,410 --> 00:18:35,830
+[DOCTOR 127A]
+I can't save everyone.
+
+320
+00:18:35,910 --> 00:18:38,120
+Prioritize treatable patients.
+
+321
+00:18:39,830 --> 00:18:41,330
+[KAPPA BOY 127A]
+Water.
+
+322
+00:18:41,410 --> 00:18:43,750
+It's okay. We're here for you.
+We'll get you water in a second.
+
+323
+00:18:43,830 --> 00:18:45,870
+Please hurry, or I'll dry out.
+
+324
+00:18:48,590 --> 00:18:52,140
+[HERO 127F]
+I give up.
+
+325
+00:18:52,220 --> 00:18:54,600
+[HERO 127G] Quick,
+I need a hand over here!
+
+326
+00:18:54,680 --> 00:18:56,100
+[KENTA]
+Make it stop!
+
+327
+00:18:56,180 --> 00:18:57,890
+--[CITIZEN 127E] It's no use.
+--[KENTA'S MOTHER] Kenta!
+
+328
+00:18:57,970 --> 00:19:01,180
+I can't do this.
+It's just too much.
+
+329
+00:19:01,270 --> 00:19:03,060
+[CITIZEN 127EE]
+Where are the heroes?
+
+330
+00:19:03,140 --> 00:19:04,430
+[CITIZEN 127F]
+He's not talking anymore!
+
+331
+00:19:04,520 --> 00:19:06,810
+[CITIZEN 127G] If you're
+gonna save us, do it faster!
+
+332
+00:19:06,900 --> 00:19:08,190
+[CITIZEN 127H]
+Don't you get paid to help us?
+
+333
+00:19:08,270 --> 00:19:11,820
+[HERO 127H] Where the
+hell are the ambulances?
+
+334
+00:19:11,900 --> 00:19:13,400
+[HERO 127F]
+I quit.
+
+335
+00:19:13,490 --> 00:19:15,910
+I don't want to be
+a hero anymore.
+
+336
+00:19:17,530 --> 00:19:19,950
+[ASHIDO]
+Please, say something.
+
+337
+00:19:20,040 --> 00:19:21,750
+[KIRISHIMA]
+This is...
+
+338
+00:19:21,830 --> 00:19:25,000
+How? Why?
+
+339
+00:19:25,080 --> 00:19:27,000
+But she was just on the radio.
+
+340
+00:19:27,080 --> 00:19:30,000
+She was fine. You guys
+heard her. We all did.
+
+341
+00:19:30,090 --> 00:19:33,970
+[KIRISHIMA] No! Wake up!
+Ms. Midnight, please!
+
+342
+00:19:34,050 --> 00:19:36,260
+She can't be gone!
+
+343
+00:19:36,340 --> 00:19:38,010
+Someone say this
+isn't happening.
+
+344
+00:19:38,090 --> 00:19:40,470
+[KIRISHIMA]
+Stop joking and open your eyes!
+
+345
+00:19:40,560 --> 00:19:41,730
+This isn't funny.
+
+346
+00:19:41,810 --> 00:19:45,310
+Get up and tell us what to do.
+Can you hear me?
+
+347
+00:19:45,390 --> 00:19:47,270
+We need you!
+
+348
+00:19:47,350 --> 00:19:49,850
+Wake up! Please, wake up!
+
+349
+00:19:49,940 --> 00:19:52,490
+[TOKAGE]
+Yaoyorozu?
+
+350
+00:19:52,570 --> 00:19:54,410
+It's Majestic.
+
+351
+00:19:56,530 --> 00:19:58,700
+Is this for real?
+
+352
+00:19:58,780 --> 00:20:02,700
+Because it feels
+like a nightmare.
+
+353
+00:20:02,790 --> 00:20:06,170
+This can't possibly
+be happening, right?
+
+354
+00:20:06,250 --> 00:20:08,340
+Guys?
+
+355
+00:20:08,420 --> 00:20:10,300
+[IZUKU] According to the
+deposition Garaki gave
+
+356
+00:20:10,380 --> 00:20:13,340
+after his arrest,
+Shigaraki died
+
+357
+00:20:13,420 --> 00:20:17,420
+when he was broken out
+of his chamber.
+
+358
+00:20:17,510 --> 00:20:18,840
+Given the state
+of the equipment,
+
+359
+00:20:18,930 --> 00:20:22,390
+there should have been
+no way to resuscitate him.
+
+360
+00:20:22,470 --> 00:20:24,850
+The electric shock,
+which was so weak
+
+361
+00:20:24,930 --> 00:20:28,270
+that the hero X-Less
+likely didn't even feel it,
+
+362
+00:20:28,350 --> 00:20:31,690
+isn't what brought him back.
+
+363
+00:20:31,770 --> 00:20:36,570
+Shigaraki was revived
+by his dreams and hatred.
+
+364
+00:20:37,950 --> 00:20:40,620
+[IZUKU] Now we try
+to pick up the pieces.
+
+365
+00:20:40,700 --> 00:20:43,120
+We try to come to terms
+with the many lives lost
+
+366
+00:20:43,200 --> 00:20:47,790
+because of Shigaraki's
+resolve, and what's to come.
+
+367
+00:20:47,870 --> 00:20:50,540
+Oh, man, this country
+is falling apart.
+
+368
+00:20:50,630 --> 00:20:53,300
+Dabi's so annoying,
+but he wrecked Endy.
+
+369
+00:20:53,380 --> 00:20:54,720
+Guy's done for.
+
+370
+00:20:54,800 --> 00:20:56,970
+Can you believe what all
+the headlines are saying?
+
+371
+00:20:57,050 --> 00:20:59,340
+If they're true,
+what happens next?
+
+372
+00:20:59,430 --> 00:21:01,020
+[CITIZEN 127HH]
+I never trusted that guy,
+
+373
+00:21:01,090 --> 00:21:02,760
+even when he was
+still number two.
+
+374
+00:21:02,850 --> 00:21:05,810
+[CITIZEN 127J] His one job is to
+protect us, did he forget that?
+
+375
+00:21:05,890 --> 00:21:07,890
+[CITIZEN 127K] He better
+explain himself, and fast!
+
+376
+00:21:07,980 --> 00:21:11,480
+[CITIZEN 127L] It might be safer
+abroad, maybe we should move.
+
+377
+00:21:11,560 --> 00:21:13,270
+[KID LEADER]
+Do you think we'll be all right?
+
+378
+00:21:13,360 --> 00:21:14,610
+[BOY 79A]
+Don't be a wimp.
+
+379
+00:21:14,690 --> 00:21:16,480
+We've got Five Wienies
+on our side.
+
+380
+00:21:16,570 --> 00:21:18,610
+He'll make sure everyone's okay!
+
+381
+00:21:24,700 --> 00:21:27,240
+[ALL FOR ONE]
+I feel it.
+
+382
+00:21:27,330 --> 00:21:33,880
+Events didn't play out exactly
+to plan, but we have momentum.
+
+383
+00:21:33,960 --> 00:21:35,130
+[SHIGARAKI, ALL FOR ONE]
+Poor fools,
+
+384
+00:21:35,210 --> 00:21:38,800
+they like to think tomorrow will
+bring them hope.
+
+385
+00:21:38,880 --> 00:21:42,180
+But I'm not giving the
+world time to recover.
+
+386
+00:21:42,260 --> 00:21:47,350
+It's my turn now,
+my turn forever.
+
+387
+00:21:47,430 --> 00:21:50,270
+Listen well, my tireless Nomu.
+
+388
+00:21:50,350 --> 00:21:54,730
+It's time to give you
+an important task.
+
+389
+00:21:54,810 --> 00:21:56,940
+Free my real body.
+
+390
+00:23:27,990 --> 00:23:29,660
+[IZUKU]
+Here's the preview.
+
+391
+00:23:29,740 --> 00:23:32,120
+While we try to catch our
+breath after the battle,
+
+392
+00:23:32,200 --> 00:23:33,660
+the Paranormal Liberation Front
+
+393
+00:23:33,750 --> 00:23:37,300
+sets a horrendous
+plan into motion.
+
+394
+00:23:37,380 --> 00:23:38,380
+Their target?
+
+395
+00:23:38,460 --> 00:23:40,500
+The prison called "Tartarus."
+
+396
+00:23:40,590 --> 00:23:45,930
+Their goal: to free All For One
+from the shackles that bind him.
+
+397
+00:23:46,010 --> 00:23:48,100
+Next time, "Tartarus."
+
+398
+00:23:48,180 --> 00:23:49,890
+This counterattack
+hits us off guard
+
+399
+00:23:49,970 --> 00:23:53,640
+and makes the future
+look even darker.
+
+400
+00:23:53,730 --> 00:23:55,690
+Go beyond! Plus Ultra!
+

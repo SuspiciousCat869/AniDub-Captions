@@ -1,0 +1,1628 @@
+﻿1
+00:01:51,643 --> 00:01:53,687
+[NANBU]
+So Balun's on the other side?
+
+2
+00:01:53,770 --> 00:01:56,731
+That's what you were calling a
+"lighthouse in space," right?
+
+3
+00:01:56,815 --> 00:01:57,649
+[OTA]
+That's right.
+
+4
+00:01:57,732 --> 00:01:59,359
+[SHIMA]
+We're surprised, too.
+
+5
+00:01:59,442 --> 00:02:00,652
+We had no idea it was the hub
+
+6
+00:02:00,735 --> 00:02:03,363
+of a whole subspace
+gate network.
+
+7
+00:02:03,446 --> 00:02:04,823
+But that's great--
+we can jump to
+
+8
+00:02:04,906 --> 00:02:07,075
+the Large Magellanic
+without issue!
+
+9
+00:02:07,158 --> 00:02:08,535
+Sure, if we're lucky.
+
+10
+00:02:08,618 --> 00:02:10,954
+The enemy controls
+this network, remember?
+
+11
+00:02:11,037 --> 00:02:12,580
+Yeah, I know.
+
+12
+00:02:12,664 --> 00:02:15,166
+Well, I'd say Misaki
+was the bigger surprise.
+
+13
+00:02:15,250 --> 00:02:18,211
+Who knew Iscandarians
+could possess people?
+
+14
+00:02:19,212 --> 00:02:22,465
+It's crazy. Do you think
+she'll ever go back to normal?
+
+15
+00:02:24,801 --> 00:02:26,177
+[SANADA]
+The gate's back online.
+
+16
+00:02:26,261 --> 00:02:28,096
+And with her help,
+we've learned how to use
+
+17
+00:02:28,179 --> 00:02:29,931
+the control system
+from our ship.
+
+18
+00:02:30,015 --> 00:02:31,808
+Mm.
+
+19
+00:02:31,891 --> 00:02:34,227
+We appreciate you assisting us.
+
+20
+00:02:35,687 --> 00:02:37,564
+[MISAKI]
+Show gratitude with action.
+
+21
+00:02:37,647 --> 00:02:39,858
+Not with your words.
+
+22
+00:02:41,317 --> 00:02:42,736
+[SANADA] We're loading
+a simplified version of
+
+23
+00:02:42,819 --> 00:02:44,738
+the control program
+onto a Gamilan fighter
+
+24
+00:02:44,821 --> 00:02:47,365
+we recovered from the satellite.
+
+25
+00:02:47,449 --> 00:02:50,201
+Scouting Balun will be
+a dangerous assignment.
+
+26
+00:02:50,285 --> 00:02:52,537
+Who are you planning
+to send as the pilot?
+
+27
+00:02:52,620 --> 00:02:55,665
+Well, the Fighter Squad
+Captain will choose.
+
+28
+00:02:55,749 --> 00:02:58,209
+I'll notify you as soon
+as it's been decided.
+
+29
+00:02:58,293 --> 00:03:00,587
+[OKITA]
+Mmm.
+
+30
+00:03:00,670 --> 00:03:02,005
+[KOBASHI]
+I wish he'd picked me.
+
+31
+00:03:02,088 --> 00:03:03,798
+[FIGHTER SQUAD 15B] Yeah, yeah,
+you just want the glory.
+
+32
+00:03:03,882 --> 00:03:05,633
+[FIGHTER SQUAD 18A]
+Come back in one piece, buddy.
+
+33
+00:03:05,717 --> 00:03:07,135
+All right, that's enough!
+
+34
+00:03:07,218 --> 00:03:09,804
+I've made my decision.
+Now clear out!
+
+35
+00:03:09,888 --> 00:03:11,681
+--Guess I'll see ya.
+--[DAIKUHARA] Good luck.
+
+36
+00:03:11,765 --> 00:03:12,932
+Don't screw up.
+
+37
+00:03:13,016 --> 00:03:15,060
+Back to your stations,
+you gossipy imbeciles!
+
+38
+00:03:15,143 --> 00:03:17,187
+--[SAWAMURA] All right! Jeez.
+--[KOBASHI] We're going.
+
+39
+00:03:17,270 --> 00:03:19,564
+--Shinohara.
+--Yes, sir.
+
+40
+00:03:19,647 --> 00:03:22,233
+Try to relax, would ya?
+
+41
+00:03:24,694 --> 00:03:26,363
+[chuckles]
+
+42
+00:03:37,624 --> 00:03:39,167
+[YAMAMOTO]
+I'm surprised.
+
+43
+00:03:39,250 --> 00:03:43,338
+Volunteering for work
+doesn't seem like your style.
+
+44
+00:03:43,421 --> 00:03:46,257
+Why now? Why <i>this</i> mission?
+
+45
+00:03:48,468 --> 00:03:50,804
+[SHINOHARA] A long time ago,
+back when I was still
+
+46
+00:03:50,887 --> 00:03:54,516
+in flight school, I saw one
+of our planes passing over,
+
+47
+00:03:54,599 --> 00:03:56,893
+and it was a spectacular sight.
+
+48
+00:03:57,977 --> 00:04:00,146
+Hard to put into words, really.
+
+49
+00:04:00,230 --> 00:04:03,233
+Just something about the way
+it cut across the sky.
+
+50
+00:04:03,316 --> 00:04:06,695
+Noble and strong.
+And when I saw it I thought,
+
+51
+00:04:06,778 --> 00:04:10,824
+"There. That's the most
+beautiful thing in the world."
+
+52
+00:04:12,867 --> 00:04:16,913
+Later someone I.D.'d it for me.
+It was a recon plane.
+
+53
+00:04:16,996 --> 00:04:20,166
+You know, I actually wanted
+to be in recon myself.
+
+54
+00:04:20,250 --> 00:04:22,085
+Uh.
+
+55
+00:04:33,722 --> 00:04:35,557
+Listen to me, Shinohara.
+
+56
+00:04:35,640 --> 00:04:38,852
+The first rule of reacon
+is that you have to return.
+
+57
+00:04:38,935 --> 00:04:42,313
+So make sure you
+come back to us. Got it?
+
+58
+00:04:47,527 --> 00:04:49,112
+[COMM OFFICER 18A]
+Goergametsch launching now.
+
+59
+00:04:49,195 --> 00:04:50,363
+[BRIDGE OFFICER 10E]
+Inspector-General Zoellik
+
+60
+00:04:50,447 --> 00:04:51,948
+will be arriving shortly.
+
+61
+00:04:52,032 --> 00:04:54,784
+Escort fleet,
+proceed to your positions.
+
+62
+00:04:54,868 --> 00:04:56,703
+Repeat:
+Inspector-General Zoellik
+
+63
+00:04:56,786 --> 00:04:58,455
+will be arriving shortly.
+
+64
+00:04:58,538 --> 00:05:01,041
+[COMM OFFICER 18B] Five seconds
+until Geschtam Jump.
+
+65
+00:05:01,124 --> 00:05:04,294
+Three, two, one.
+
+66
+00:05:11,092 --> 00:05:13,345
+[MONK] We've arrived
+at Balun on schedule.
+
+67
+00:05:13,428 --> 00:05:14,637
+[BRIDGE OFFICER 10E]
+The Goergametsch is requesting
+
+68
+00:05:14,721 --> 00:05:16,389
+permission to dock, sir.
+
+69
+00:05:17,557 --> 00:05:18,767
+That must be Goer.
+
+70
+00:05:18,850 --> 00:05:20,810
+Yes, right on cue.
+
+71
+00:05:23,438 --> 00:05:25,523
+Inspector-General,
+thank you for gracing us
+
+72
+00:05:25,607 --> 00:05:27,567
+with your presence
+all the way out here.
+
+73
+00:05:27,650 --> 00:05:30,528
+I mean the sheer honor of
+this-this huge naval review
+
+74
+00:05:30,612 --> 00:05:33,907
+at Balun is indescribable
+for all of us stationed here.
+
+75
+00:05:33,990 --> 00:05:36,034
+And of course as acting
+commander I can't help
+
+76
+00:05:36,117 --> 00:05:37,744
+but feel especially proud.
+
+77
+00:05:37,827 --> 00:05:40,038
+The sight of so many ships
+here fulfills a dream
+
+78
+00:05:40,121 --> 00:05:41,998
+I've long held
+for this vital theater--
+
+79
+00:05:42,082 --> 00:05:44,793
+The Empire is in greater
+peril now than ever before.
+
+80
+00:05:44,876 --> 00:05:47,420
+Treasonous forces
+are trying to divide us.
+
+81
+00:05:47,504 --> 00:05:50,548
+And so it falls on me
+to bring us back together!
+
+82
+00:05:50,632 --> 00:05:53,760
+I will save the glory
+of our people!
+
+83
+00:05:54,886 --> 00:05:56,388
+[grunts]
+
+84
+00:05:56,471 --> 00:05:57,764
+Three hours?
+
+85
+00:05:57,847 --> 00:05:59,224
+That's right.
+
+86
+00:05:59,307 --> 00:06:01,351
+[YAMAMOTO] He's supposed
+to recon the area and locate
+
+87
+00:06:01,434 --> 00:06:04,270
+the Magellanic gate
+all in three hours?
+
+88
+00:06:09,275 --> 00:06:11,569
+[KATO]
+He's agreed to the stakes.
+
+89
+00:06:11,653 --> 00:06:13,697
+[YAMAMOTO]
+And what does that mean?
+
+90
+00:06:16,032 --> 00:06:17,617
+[KATO]
+It's an enemy network.
+
+91
+00:06:17,701 --> 00:06:19,411
+We could be leading them
+straight to us.
+
+92
+00:06:19,494 --> 00:06:22,414
+If we can't use the gate,
+we need to get out fast.
+
+93
+00:06:22,497 --> 00:06:24,332
+So what, when that
+stupid clock runs out
+
+94
+00:06:24,416 --> 00:06:26,710
+we're just gonna leave
+whether he's back or not?
+
+95
+00:06:26,793 --> 00:06:28,962
+[SHINOHARA]
+Sword Three to control.
+
+96
+00:06:29,045 --> 00:06:30,755
+I'm ready to launch.
+
+97
+00:06:30,839 --> 00:06:33,174
+--You're clear to go.
+--[SHINOHARA] Roger that.
+
+98
+00:06:34,509 --> 00:06:36,970
+See you soon.
+Leave the light on for me.
+
+99
+00:06:40,432 --> 00:06:42,142
+I'm launching now.
+
+100
+00:06:54,320 --> 00:06:56,322
+[FEMALE S.I.D. VOICE 6A]
+Beginning phase one.
+
+101
+00:07:01,828 --> 00:07:04,289
+[MORI] Sword Three's
+physical signal lost.
+
+102
+00:07:04,372 --> 00:07:06,833
+It's no longer
+in normal space, sir.
+
+103
+00:07:06,916 --> 00:07:10,128
+Navigation. Let's ready a plan
+if we can use the gate.
+
+104
+00:07:10,211 --> 00:07:11,588
+Yes, sir.
+
+105
+00:07:11,671 --> 00:07:14,299
+[OKITA] When time's up,
+we evacuate immediately.
+
+106
+00:07:14,382 --> 00:07:17,093
+If Sword Three isn't back
+by then, we leave him behind.
+
+107
+00:07:17,177 --> 00:07:19,929
+I need you all to
+come to terms with that.
+
+108
+00:07:32,859 --> 00:07:35,737
+[SHINOHARA] This subspace
+business is pretty crazy.
+
+109
+00:07:38,698 --> 00:07:41,576
+[SHINOHARA]
+Gamilans?
+
+110
+00:07:41,659 --> 00:07:43,078
+That's weird.
+
+111
+00:07:43,161 --> 00:07:44,329
+[clicking]
+
+112
+00:07:44,412 --> 00:07:47,415
+[SHINOHARA] Guess the radar's
+not gonna help.
+
+113
+00:07:47,499 --> 00:07:52,087
+That limits my options.
+I can only rely on this.
+
+114
+00:07:55,215 --> 00:07:56,716
+[YAMAMOTO]
+And that call sign?
+
+115
+00:07:56,800 --> 00:07:59,886
+He picked it out himself.
+
+116
+00:07:59,969 --> 00:08:02,889
+I guess it's his way
+of paying tribute.
+
+117
+00:08:02,972 --> 00:08:07,477
+"Sword Three" is an old
+call sign we used in the 343rd.
+
+118
+00:08:07,560 --> 00:08:09,729
+I never thought
+I'd hear it out here.
+
+119
+00:08:11,314 --> 00:08:13,108
+[YAMAMOTO] You always said
+the first rule of reacon
+
+120
+00:08:13,191 --> 00:08:14,859
+is you have to return.
+
+121
+00:08:14,943 --> 00:08:17,195
+But that didn't save my brother.
+
+122
+00:08:19,614 --> 00:08:21,491
+Did it?
+
+123
+00:08:22,701 --> 00:08:26,454
+[KATO]
+Shinohara's gonna be fine.
+
+124
+00:08:26,538 --> 00:08:28,832
+He <i>will</i> come back.
+
+125
+00:08:30,458 --> 00:08:32,961
+[KATO]
+There's no doubt in my mind.
+
+126
+00:08:37,465 --> 00:08:38,591
+[FEMALE S.I.D. VOICE 6A]
+Approaching gate.
+
+127
+00:08:38,675 --> 00:08:41,136
+Entering phase two.
+
+128
+00:08:41,219 --> 00:08:42,929
+Brace for extreme turbulence.
+
+129
+00:08:43,013 --> 00:08:46,016
+[SHINOHARA] Huh?
+What do you mean, "extreme"?
+
+130
+00:08:47,892 --> 00:08:50,353
+[SHINOHARA groaning]
+
+131
+00:08:50,437 --> 00:08:51,855
+[COMM OFFICER 18A]
+Forty-third Milky Way Theater
+
+132
+00:08:51,938 --> 00:08:55,316
+Carrier Strike Group,
+proceed to designated area.
+
+133
+00:08:55,400 --> 00:08:56,568
+[BRIDGE OFFICER 10E]
+One hundred twenty-fourth
+
+134
+00:08:56,651 --> 00:08:58,862
+Torpedo Squadron arriving now.
+
+135
+00:08:58,945 --> 00:09:00,572
+[COMM OFFICER 18A]
+Upon arrival, all ships proceed
+
+136
+00:09:00,655 --> 00:09:02,657
+to designated positions. Repeat:
+
+137
+00:09:02,741 --> 00:09:05,994
+upon arrival, all ships
+to designated positions.
+
+138
+00:09:12,334 --> 00:09:16,254
+[SHINOHARA panting]
+
+139
+00:09:16,338 --> 00:09:18,882
+That was close. Uh!
+
+140
+00:09:24,637 --> 00:09:27,682
+[SHINOHARA]
+Am I really seeing this?
+
+141
+00:09:27,766 --> 00:09:30,143
+Are these all Gamilans?
+
+142
+00:09:30,226 --> 00:09:31,227
+[CELESTRA]
+How would you describe
+
+143
+00:09:31,311 --> 00:09:34,147
+the Inspector-General's
+state of mind?
+
+144
+00:09:34,230 --> 00:09:37,609
+[GIMLEH] He's so ecstatic, I can
+read it in his coded message.
+
+145
+00:09:37,692 --> 00:09:40,403
+The man's feeling like a king.
+
+146
+00:09:40,487 --> 00:09:44,115
+[CELESTRA] So, this is no
+mere review of the fleet.
+
+147
+00:09:44,199 --> 00:09:46,201
+Contact me if there are issues.
+
+148
+00:09:46,284 --> 00:09:50,663
+But of course. I live
+only to serve the empire.
+
+149
+00:09:52,457 --> 00:09:54,501
+[GOER] Another wave of forces
+from the Delheid theater
+
+150
+00:09:54,584 --> 00:09:56,252
+are arriving now,
+Inspector-General.
+
+151
+00:09:56,336 --> 00:09:58,963
+It's the 66th Astrocorps
+from Zelloom.
+
+152
+00:09:59,047 --> 00:10:00,632
+[ZOELLIK] Soak it in,
+Goer, you'll never see
+
+153
+00:10:00,715 --> 00:10:02,926
+anything greater
+in all your life.
+
+154
+00:10:03,009 --> 00:10:05,303
+This dignity. This power.
+
+155
+00:10:05,387 --> 00:10:07,597
+This is Gamilas!
+
+156
+00:10:08,973 --> 00:10:10,809
+[SHINOHARA]
+Talk about a head trip.
+
+157
+00:10:10,892 --> 00:10:14,062
+What are all these
+ships doing here?
+
+158
+00:10:14,145 --> 00:10:16,981
+There must be 10,000, at least!
+
+159
+00:10:17,065 --> 00:10:20,527
+[SHINOHARA] Uh! Is that
+the Magellanic gate?
+
+160
+00:10:25,365 --> 00:10:29,536
+Whoa. An artificial structure?
+In the planet's core?
+
+161
+00:10:30,995 --> 00:10:32,038
+{\an8}Okay.
+
+162
+00:10:32,122 --> 00:10:35,041
+{\an8}[GAMILAN COMM 18A,
+speaking Gamilan]
+
+163
+00:10:36,960 --> 00:10:39,045
+{\an8}[GAMILAN COMM 18A,
+speaking Gamilan]
+
+164
+00:10:39,129 --> 00:10:40,880
+{\an8}[SHINOHARA]
+Sounds like I ticked him off.
+
+165
+00:10:40,964 --> 00:10:43,425
+Sorry, Gamis,
+I hate to upset you,
+
+166
+00:10:43,508 --> 00:10:45,677
+but I've got somewhere to be.
+
+167
+00:10:51,891 --> 00:10:53,727
+Fire secondary engines.
+
+168
+00:10:53,810 --> 00:10:55,353
+But, sir!
+
+169
+00:10:56,479 --> 00:10:57,522
+[SANADA]
+It's not a discussion.
+
+170
+00:10:57,605 --> 00:10:59,190
+Prepare to leave the area.
+
+171
+00:10:59,274 --> 00:11:01,151
+[SHINOHARA yells]
+
+172
+00:11:01,234 --> 00:11:06,614
+{\an8}[GAMILAN PATROL 18A,
+speaking Gamilan]
+
+173
+00:11:06,698 --> 00:11:08,158
+{\an8}[SHINOHARA]
+Get outta my way!
+
+174
+00:11:11,119 --> 00:11:13,705
+[SHINOHARA]
+Just do it like they did.
+
+175
+00:11:13,788 --> 00:11:17,500
+Fly strong. Fly noble.
+Fly beautiful!
+
+176
+00:11:21,129 --> 00:11:23,757
+[SHINOHARA]
+Just fly.
+
+177
+00:11:26,176 --> 00:11:28,470
+[FEMALE S.I.D. VOICE 6A]
+Moving to phase three.
+
+178
+00:11:38,897 --> 00:11:41,191
+[NEMOTO]
+It's totally shredded.
+
+179
+00:11:42,692 --> 00:11:44,527
+[KODAI]
+So how's he doing?
+
+180
+00:11:44,611 --> 00:11:46,488
+[HARADA] Luckily, there wasn't
+any permanent damage,
+
+181
+00:11:46,571 --> 00:11:48,198
+and his wounds
+are surprisingly minor
+
+182
+00:11:48,281 --> 00:11:50,283
+considering the shape
+of that ship.
+
+183
+00:11:50,367 --> 00:11:52,035
+We'll give him a physical
+when he wakes up,
+
+184
+00:11:52,118 --> 00:11:53,995
+but the doctor's prognosis:
+
+185
+00:11:54,079 --> 00:11:56,664
+[immitates Dr. Sado] "Relax,
+the guy's got a strong ticker!"
+
+186
+00:11:56,748 --> 00:11:58,416
+He'll be just fine.
+
+187
+00:12:00,543 --> 00:12:03,797
+We've analyzed the data
+from his onboard computer.
+
+188
+00:12:12,931 --> 00:12:15,016
+[SHIMA]
+Whoa, that's no natural core.
+
+189
+00:12:15,100 --> 00:12:17,268
+Indeed. Balun is
+an artificial planet
+
+190
+00:12:17,352 --> 00:12:19,562
+with a massive energy
+generator at its core
+
+191
+00:12:19,646 --> 00:12:22,399
+that powers the subspace gates.
+
+192
+00:12:22,482 --> 00:12:23,817
+The good news is
+we've confirmed
+
+193
+00:12:23,900 --> 00:12:26,403
+the Magellanic gate
+is functional.
+
+194
+00:12:26,486 --> 00:12:28,571
+Which brings us to the bad news.
+
+195
+00:12:28,655 --> 00:12:30,323
+We don't know why,
+but the Gamilans
+
+196
+00:12:30,407 --> 00:12:32,283
+have assembled
+an enormous armada of over
+
+197
+00:12:32,367 --> 00:12:34,869
+10,000 military vessels
+around the planet.
+
+198
+00:12:34,953 --> 00:12:36,788
+[gasps]
+
+199
+00:12:39,040 --> 00:12:40,792
+Ten thousand ships?
+
+200
+00:12:40,875 --> 00:12:42,711
+Impossible.
+
+201
+00:12:42,794 --> 00:12:45,505
+[SANADA] We've already plotted
+our contingency warp course.
+
+202
+00:12:45,588 --> 00:12:48,675
+Captain. We should switch to
+plan B and set out immediately.
+
+203
+00:12:48,758 --> 00:12:52,512
+[OKITA] No. We go through
+the gate as planned.
+
+204
+00:12:52,595 --> 00:12:55,598
+The best chance we've got is
+to charge right through them.
+
+205
+00:12:58,893 --> 00:13:02,063
+Proud soldiers of Gamilas
+and my courageous comrades.
+
+206
+00:13:02,147 --> 00:13:04,983
+Your ongoing bravery and
+sacrifice are the foundation
+
+207
+00:13:05,066 --> 00:13:07,444
+on which this towering
+empire stands.
+
+208
+00:13:07,527 --> 00:13:09,946
+You deserve to
+be uplifted by glory,
+
+209
+00:13:10,030 --> 00:13:11,948
+not burdened by despair.
+
+210
+00:13:12,032 --> 00:13:15,618
+And so, it is with great pain
+that I deliver this news.
+
+211
+00:13:15,702 --> 00:13:17,120
+[GOER]
+Uh?
+
+212
+00:13:17,203 --> 00:13:19,664
+[ZOELLIK] My friends in arms,
+our empire's mighty ruler,
+
+213
+00:13:19,748 --> 00:13:22,292
+the supreme leader
+Lord Abelt Desler.
+
+214
+00:13:22,375 --> 00:13:25,253
+He has been taken away
+by the cruel hand of death
+
+215
+00:13:25,337 --> 00:13:27,047
+and is with us no more.
+
+216
+00:13:27,130 --> 00:13:28,715
+--[GOER gasps]
+--[GAMILAN OFFICERS gasp]
+
+217
+00:13:28,798 --> 00:13:33,303
+[GAMILAN OFFICERS
+gasp, murmur]
+
+218
+00:13:33,386 --> 00:13:35,555
+With this peril
+comes a question.
+
+219
+00:13:35,638 --> 00:13:37,515
+Who can lead us next?
+
+220
+00:13:37,599 --> 00:13:39,934
+I must confess that my soul
+trembles under the weight
+
+221
+00:13:40,018 --> 00:13:44,230
+of such a task. For what mortal
+man can replace a star?
+
+222
+00:13:44,314 --> 00:13:45,940
+But as I share in this
+sorrow with you,
+
+223
+00:13:46,024 --> 00:13:49,486
+knowing my heart
+will never heal,
+
+224
+00:13:49,569 --> 00:13:51,654
+it's my duty to be strong!
+
+225
+00:13:51,738 --> 00:13:53,698
+Here and now I swear to you all
+
+226
+00:13:53,782 --> 00:13:56,284
+that I shall carry out
+our great leader's will,
+
+227
+00:13:56,368 --> 00:13:59,579
+and bring swift justice
+to the criminals responsible!
+
+228
+00:13:59,662 --> 00:14:02,999
+We must purge the traitors
+in Imperial Command!
+
+229
+00:14:03,083 --> 00:14:06,878
+If you love Gamilas as I do,
+then rise with me and fight!
+
+230
+00:14:06,961 --> 00:14:09,547
+We will wipe out the evil
+scourge infesting our government
+
+231
+00:14:09,631 --> 00:14:11,424
+in Baleras,
+and save our empire!
+
+232
+00:14:11,508 --> 00:14:12,967
+There's a disturbance
+in one of the gates, sir.
+
+233
+00:14:13,051 --> 00:14:15,136
+We must take these traitors
+by the throat and crush them.
+
+234
+00:14:15,220 --> 00:14:16,388
+We'll show no mercy!
+
+235
+00:14:16,471 --> 00:14:17,847
+--[VANDEVEL] What?
+--[GOER gasps]
+
+236
+00:14:17,931 --> 00:14:19,432
+What's going on?
+
+237
+00:14:19,516 --> 00:14:22,268
+Sir. We're picking up activity
+from the galactic theater gate.
+
+238
+00:14:22,352 --> 00:14:25,146
+A foreign vessel appears
+to be coming through.
+
+239
+00:14:25,230 --> 00:14:26,231
+[ZOELLIK]
+Huh?
+
+240
+00:14:26,314 --> 00:14:28,441
+[VANDEVEL]
+The gate is opening now.
+
+241
+00:14:33,613 --> 00:14:35,657
+To combat speed one!
+
+242
+00:14:43,081 --> 00:14:44,874
+Open fire when ready!
+
+243
+00:14:44,958 --> 00:14:47,335
+Sir! Opening fire now!
+
+244
+00:15:06,730 --> 00:15:07,939
+[GAMILAN BRIDGE OFFICER 18A]
+The Teron ship is smashing
+
+245
+00:15:08,023 --> 00:15:09,733
+through the sixth
+on a course for Balun!
+
+246
+00:15:09,816 --> 00:15:12,402
+What an auspicious
+stroke of fortune.
+
+247
+00:15:12,485 --> 00:15:13,987
+It's a message from the gods
+
+248
+00:15:14,070 --> 00:15:17,157
+that I am destined
+to destroy the <i>Yamato</i> .
+
+249
+00:15:17,240 --> 00:15:19,117
+Open fire!
+
+250
+00:15:20,869 --> 00:15:23,371
+[ZOELLIK] As a tribute to
+our fallen leader, I will sink
+
+251
+00:15:23,455 --> 00:15:28,835
+the vile Teron ship before
+we march home. Garle Gamilas!
+
+252
+00:15:31,629 --> 00:15:34,966
+[OKITA] Maintain course.
+Increase our speed.
+
+253
+00:15:35,050 --> 00:15:37,010
+Sir! Black 20!
+
+254
+00:15:37,093 --> 00:15:38,595
+This is classic Okita.
+
+255
+00:15:38,678 --> 00:15:40,096
+[GAMILAN BRIDGE OFFICER 18B]
+We're blocked by ally ships.
+
+256
+00:15:40,180 --> 00:15:41,389
+We can't engage!
+
+257
+00:15:41,473 --> 00:15:42,724
+[GAMILAN FLEET CAPTAIN 18A]
+Agreed. Everyone,
+
+258
+00:15:42,807 --> 00:15:44,309
+hold your fire!
+
+259
+00:15:46,269 --> 00:15:47,812
+[GAMILAN BRIDGE OFFICER 18A]
+We're losing more ships, sir!
+
+260
+00:15:47,896 --> 00:15:49,230
+What are you waiting for?
+
+261
+00:15:49,314 --> 00:15:51,524
+We're grouped too close
+together! Scatter the fleet!
+
+262
+00:15:51,608 --> 00:15:54,778
+[ZOELLIK] No! We will swarm
+the <i>Yamato</i> and destroy it.
+
+263
+00:15:54,861 --> 00:15:57,280
+But sir, then our ships
+won't be able to maneuver!
+
+264
+00:15:57,364 --> 00:15:58,740
+--[ZOELLIK] I don't care.
+--[GOER] Uh!
+
+265
+00:15:58,823 --> 00:16:00,241
+Let them fall.
+
+266
+00:16:00,325 --> 00:16:02,869
+True glory can only
+be achieved through sacrifice.
+
+267
+00:16:02,952 --> 00:16:04,204
+But the fleet.
+
+268
+00:16:04,287 --> 00:16:05,497
+[ZOELLIK]
+All ships, change course!
+
+269
+00:16:05,580 --> 00:16:08,792
+Do not be afraid!
+Our numbers make us strong!
+
+270
+00:16:11,336 --> 00:16:13,922
+Move all cannons
+to forward position.
+
+271
+00:16:17,092 --> 00:16:18,927
+[OKITA]
+Now punch through!
+
+272
+00:16:25,266 --> 00:16:28,269
+[MORI] Enemy ships closing in,
+sir--too many to count!
+
+273
+00:16:43,493 --> 00:16:45,829
+[OTA] Port side shield
+has been breached!
+
+274
+00:16:45,912 --> 00:16:47,831
+Lower bulkheads.
+
+275
+00:16:50,000 --> 00:16:52,460
+--[NANBU] Gun turrets, report!
+--[SANADA] Damage control!
+
+276
+00:16:52,544 --> 00:16:54,838
+[OTA]
+We're caught in Balun's gravity!
+
+277
+00:17:05,724 --> 00:17:07,183
+[GAMILAN BRIDGE OFFICER 18A]
+Teron ship has been sunk.
+
+278
+00:17:07,267 --> 00:17:10,645
+It's crashing on Balun.
+Calculating crash point.
+
+279
+00:17:10,729 --> 00:17:12,564
+[ZOELLIK laughing]
+
+280
+00:17:12,647 --> 00:17:14,774
+The <i>Yamato</i> has been
+crushed at Balun.
+
+281
+00:17:14,858 --> 00:17:16,484
+It must have been
+so devastating for you
+
+282
+00:17:16,568 --> 00:17:18,778
+when you couldn't
+do it yourself, Domel.
+
+283
+00:17:18,862 --> 00:17:22,282
+You'll be remembered not only as
+a traitor but as a failure, too.
+
+284
+00:17:22,365 --> 00:17:24,159
+My, how tragic.
+
+285
+00:17:24,242 --> 00:17:28,371
+[laughing]
+
+286
+00:17:31,875 --> 00:17:33,877
+[DESLER]
+You're in high spirits, Zoellik.
+
+287
+00:17:33,960 --> 00:17:36,338
+What? Uh! B-But how?!
+
+288
+00:17:41,384 --> 00:17:44,429
+I was so very moved by
+your speech to the troops.
+
+289
+00:17:44,512 --> 00:17:45,847
+You're quite the poet.
+
+290
+00:17:45,930 --> 00:17:47,432
+Lord Desler lives!
+
+291
+00:17:47,515 --> 00:17:50,060
+[ZOELLIK]
+No, that's impossible!
+
+292
+00:17:50,143 --> 00:17:53,772
+No one could have
+survived that explosion!
+
+293
+00:17:53,855 --> 00:17:56,524
+I know you can't be
+that stupid, Zoellik.
+
+294
+00:17:56,608 --> 00:17:59,319
+Then it-it was just
+a double who died?
+
+295
+00:17:59,402 --> 00:18:00,820
+You were too clumsy, Zoellik.
+
+296
+00:18:00,904 --> 00:18:04,282
+Celestra was well aware
+of your plot to kill me.
+
+297
+00:18:04,366 --> 00:18:05,950
+But on the bright side
+you did save me
+
+298
+00:18:06,034 --> 00:18:08,411
+from an insufferably
+boring trip.
+
+299
+00:18:09,788 --> 00:18:12,123
+Now, then.
+Your guilt is too obvious
+
+300
+00:18:12,207 --> 00:18:14,000
+to even feign a trial.
+
+301
+00:18:14,084 --> 00:18:17,087
+Do you have any last words,
+comrade? Or...?
+
+302
+00:18:17,170 --> 00:18:19,464
+[gunshots]
+
+303
+00:18:21,132 --> 00:18:24,761
+No. I-It's not true.
+It's not true!
+
+304
+00:18:26,721 --> 00:18:29,683
+My fellow brothers in arms,
+it's not what you think.
+
+305
+00:18:29,766 --> 00:18:31,393
+I only took on
+the mantle of traitor
+
+306
+00:18:31,476 --> 00:18:33,019
+out of love for my country!
+
+307
+00:18:33,103 --> 00:18:34,979
+There are plans in motion
+you don't know about
+
+308
+00:18:35,063 --> 00:18:36,189
+that threaten the empire!
+
+309
+00:18:36,272 --> 00:18:38,650
+--[gunshot]
+--[groans]
+
+310
+00:18:46,282 --> 00:18:50,120
+[GOER panting]
+
+311
+00:18:50,203 --> 00:18:53,081
+[ZOELLIK]
+Goer, you fool.
+
+312
+00:18:57,794 --> 00:18:59,713
+No, Zoellik!
+
+313
+00:19:02,298 --> 00:19:03,758
+Traitorous scum.
+
+314
+00:19:03,842 --> 00:19:04,968
+[beeping]
+
+315
+00:19:05,051 --> 00:19:05,802
+[GAMILAN BRIDGE OFFICER 18C]
+General Goer!
+
+316
+00:19:05,885 --> 00:19:07,262
+What is it?
+
+317
+00:19:07,345 --> 00:19:09,347
+There's something rising up
+near Balun's equator, sir!
+
+318
+00:19:10,348 --> 00:19:15,353
+♪
+
+319
+00:19:27,615 --> 00:19:28,700
+[GAMILAN BRIDGE OFFICER 18A]
+It's the <i>Yamato</i> !
+
+320
+00:19:28,783 --> 00:19:30,160
+And it's moving fast!
+
+321
+00:19:30,243 --> 00:19:32,746
+You morons!
+
+322
+00:19:32,829 --> 00:19:35,290
+[GAMILAN BRIDGE OFFICER 18C]
+All crew to battle stations!
+
+323
+00:19:35,373 --> 00:19:37,917
+Wave Motion Gun
+is now online, sir.
+
+324
+00:19:38,001 --> 00:19:41,171
+[TOKUGAWA] Increase engine
+power. Seal emergency vents.
+
+325
+00:19:42,964 --> 00:19:47,886
+Adjust course 180 degrees.
+And open the firing vent.
+
+326
+00:19:55,727 --> 00:19:57,354
+[TOKUGAWA]
+Activating force injector.
+
+327
+00:19:57,437 --> 00:19:59,981
+Activation confirmed.
+Releasing safety.
+
+328
+00:20:00,065 --> 00:20:02,275
+[NANBU]
+Pressure, rising in chamber.
+
+329
+00:20:02,359 --> 00:20:04,110
+[KODAI]
+Adjusting ship heading.
+
+330
+00:20:05,695 --> 00:20:06,863
+[KODAI]
+Target locked.
+
+331
+00:20:06,946 --> 00:20:09,282
+Anchor. Ready to disable.
+
+332
+00:20:12,535 --> 00:20:16,164
+Wave Motion Gun, fire!
+
+333
+00:20:22,796 --> 00:20:24,547
+[GOER]
+That cursed gun of theirs.
+
+334
+00:20:24,631 --> 00:20:27,967
+They're missing all our ships!
+What are they aiming at?
+
+335
+00:20:35,266 --> 00:20:37,060
+[GAMILAN BRIDGE OFFICER 18C]
+Emergency! That beam's causing
+
+336
+00:20:37,143 --> 00:20:39,521
+a chain reaction
+in Balun's energy core.
+
+337
+00:20:39,604 --> 00:20:42,816
+It's spiraling out of control.
+It's gonna explode!
+
+338
+00:20:42,899 --> 00:20:45,318
+What? Explode?!
+
+339
+00:20:45,402 --> 00:20:49,239
+Retreat! Get us out
+of this system now!
+
+340
+00:20:52,617 --> 00:20:54,577
+Disable the gravity anchor.
+
+341
+00:20:54,661 --> 00:20:57,455
+All crew, brace yourselves
+for impact!
+
+342
+00:21:04,129 --> 00:21:06,756
+[KODAI grunting]
+
+343
+00:21:41,708 --> 00:21:52,469
+[beeping]
+
+344
+00:22:07,108 --> 00:22:08,860
+[KODAI]
+The Large Magellanic Cloud.
+
+345
+00:22:08,943 --> 00:22:12,614
+[SHIMA]
+Yeah. We actually made it.
+
+346
+00:22:12,697 --> 00:22:16,910
+After all that,
+we're finally here.
+
+347
+00:22:35,136 --> 00:22:39,683
+I've returned
+to my own sea of stars.
+

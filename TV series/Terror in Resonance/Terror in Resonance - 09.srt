@@ -1,0 +1,902 @@
+﻿1
+00:00:01,360 --> 00:00:02,610
+I was just thinking, maybe we should
+
+2
+00:00:02,906 --> 00:00:05,192
+stop this whole thing altogether.
+
+3
+00:00:05,712 --> 00:00:09,276
+To be clear, if we don't figure
+this out a lot of people are gonna die.
+
+4
+00:00:09,301 --> 00:00:11,250
+I don't care what happens to me...
+
+5
+00:00:11,275 --> 00:00:14,210
+Surprise sweetie, I don't care
+what happens to you, either.
+
+6
+00:00:14,235 --> 00:00:15,309
+Back to the point.
+
+7
+00:00:15,334 --> 00:00:18,436
+You don't honestly think those boys have a future, do you?
+
+8
+00:00:19,362 --> 00:00:20,142
+Lisa!
+
+9
+00:00:20,235 --> 00:00:23,122
+We can't afford to take chances.
+We're running out of time!
+
+10
+00:00:23,147 --> 00:00:24,141
+I know that, too!
+
+11
+00:00:24,540 --> 00:00:26,782
+I'm going because I'm out of time.
+
+12
+00:02:49,024 --> 00:02:52,077
+I'll make the old man spill everything he knows.
+
+13
+00:03:02,688 --> 00:03:05,209
+I'm Detective Shibazaki, Metro P.D.
+
+14
+00:03:07,713 --> 00:03:10,263
+Might we have a few minutes of your time, please?
+
+15
+00:03:13,171 --> 00:03:15,825
+Oh. Yeah, um.
+
+16
+00:03:16,660 --> 00:03:17,838
+Right this way.
+
+17
+00:03:55,894 --> 00:03:58,093
+Haven't used this tea set in a while.
+
+18
+00:03:58,166 --> 00:04:01,340
+When you get to be my age,
+visitors are few and far between.
+
+19
+00:04:01,421 --> 00:04:05,081
+Especially now, ever since my dear wife passed away.
+
+20
+00:04:07,842 --> 00:04:12,463
+I'm not surprised. Always knew someone
+like you would come for answers one day.
+
+21
+00:04:12,822 --> 00:04:14,757
+Well, get on with it.
+
+22
+00:04:15,513 --> 00:04:17,263
+I'll get straight to the point, then.
+
+23
+00:04:17,565 --> 00:04:19,868
+Tell me what you know about the Athena Plan.
+
+24
+00:04:25,819 --> 00:04:30,822
+Your organization gave an intelligence test to
+all orphans in the country under the age of five.
+
+25
+00:04:30,937 --> 00:04:34,855
+You gathered the top performers, and
+erased all traces of them from the record.
+
+26
+00:04:35,800 --> 00:04:37,237
+Or am I mistaken?
+
+27
+00:04:41,673 --> 00:04:44,854
+Have you ever heard the name Shigeru Yamamoto before?
+
+28
+00:04:44,963 --> 00:04:47,593
+The former under-secretary for Health and Welfare?
+
+29
+00:04:47,787 --> 00:04:49,991
+Yeah, he passed away about three years ago.
+
+30
+00:04:50,504 --> 00:04:51,526
+That's correct.
+
+31
+00:04:51,730 --> 00:04:56,624
+He died unexpectedly right before he could report
+the truth about what happened to the authorities.
+
+32
+00:04:58,379 --> 00:05:04,126
+If you'd still like to be able to walk the streets
+safely at night, it would be prudent to go home now.
+
+33
+00:05:06,629 --> 00:05:09,074
+Hamura, you should do as he says.
+
+34
+00:05:09,101 --> 00:05:10,313
+What, are you crazy?
+
+35
+00:05:10,338 --> 00:05:13,168
+After all this, there's no way I'm wussin' out now!
+
+36
+00:05:28,588 --> 00:05:31,722
+Are you familiar with savant syndrome, detectives?
+
+37
+00:05:31,939 --> 00:05:32,909
+I think so.
+
+38
+00:05:33,024 --> 00:05:35,563
+Isn't that where someone has
+extremely high brain function,
+
+39
+00:05:35,588 --> 00:05:38,238
+but only in specific areas due to injury or autism.
+
+40
+00:05:38,878 --> 00:05:41,828
+Savants are known to excel in mental arithmetic,
+
+41
+00:05:41,853 --> 00:05:46,830
+memorization, music, as well as
+art and spatial skills, to name a few.
+
+42
+00:05:47,088 --> 00:05:51,703
+Although these abilities far exceed an
+average person's in very specific areas,
+
+43
+00:05:51,809 --> 00:05:57,582
+many are unable to reliably complete mundane
+tasks, or even communicate with the outside world.
+
+44
+00:05:57,796 --> 00:06:02,291
+To artificially reproduce the exceptional
+abilities found in these savants,
+
+45
+00:06:02,490 --> 00:06:05,901
+but without the deficits commonly
+associated with the syndrome.
+
+46
+00:06:06,713 --> 00:06:10,393
+That was the goal that lead to
+the creation of the Athena Plan.
+
+47
+00:06:11,004 --> 00:06:14,504
+Under government directive, 26
+children total were collected.
+
+48
+00:06:14,852 --> 00:06:17,593
+They were processed and became test subjects.
+
+49
+00:06:17,618 --> 00:06:18,918
+Test subjects?
+
+50
+00:06:19,379 --> 00:06:21,279
+How is that kinda thing even possible?
+
+51
+00:06:22,546 --> 00:06:26,957
+The theory behind the whole experiment was
+based on a new drug accidentally developed
+
+52
+00:06:26,982 --> 00:06:30,104
+in the mid-90s by a Japanese pharmaceutical company.
+
+53
+00:06:30,499 --> 00:06:33,482
+They stumbled across it while researching brain function.
+
+54
+00:06:34,296 --> 00:06:38,007
+The Rising Peace Academy saw
+the results of the drug research.
+
+55
+00:06:38,273 --> 00:06:41,694
+Then, they pulled the strings
+to set the Athena Plan in motion.
+
+56
+00:06:42,796 --> 00:06:43,843
+That's right.
+
+57
+00:06:47,041 --> 00:06:51,739
+Funds were allocated to create a remote
+facility, where the test subjects were kept.
+
+58
+00:06:52,022 --> 00:06:54,551
+It was known as "The Settlement".
+
+59
+00:06:55,588 --> 00:06:58,843
+Ridiculous sums of money were poured into that place.
+
+60
+00:06:59,193 --> 00:07:02,957
+Along with dozens of the most
+talented researchers in the country.
+
+61
+00:07:07,748 --> 00:07:08,698
+The caveat,
+
+62
+00:07:09,133 --> 00:07:12,304
+this new "wonder drug" that had fallen into our laps?
+
+63
+00:07:12,771 --> 00:07:18,185
+It was only effective on the still-developing
+brains of children under the age of five.
+
+64
+00:07:21,424 --> 00:07:28,633
+Unfortunately, the serum proved to be highly volatile to
+the biological systems of the majority of test subjects.
+
+65
+00:07:29,688 --> 00:07:33,982
+The bodies and minds of these children
+were severely ravaged by the drug.
+
+66
+00:07:34,340 --> 00:07:37,172
+Most of them died shortly after infusion.
+
+67
+00:07:41,338 --> 00:07:42,588
+I've heard enough!
+
+68
+00:07:42,729 --> 00:07:45,003
+How can you talk about this like it was nothing?
+
+69
+00:07:47,644 --> 00:07:51,450
+In the end. Athena was labeled a complete failure.
+
+70
+00:07:51,605 --> 00:07:55,389
+The U.S. government had become
+aware of the program and intervened.
+
+71
+00:07:55,455 --> 00:07:58,193
+They shut the whole thing down seven years ago.
+
+72
+00:07:58,772 --> 00:07:59,395
+Oh.
+
+73
+00:08:02,296 --> 00:08:04,437
+Seems the tea's gotten cold.
+
+74
+00:08:07,424 --> 00:08:08,561
+So why?
+
+75
+00:08:09,393 --> 00:08:11,755
+Why did you wait until now to come clean?
+
+76
+00:08:12,312 --> 00:08:14,370
+Honestly, if you hadn't come along.
+
+77
+00:08:14,416 --> 00:08:17,940
+I'd have taken everything I knew
+about the Athena Plan to the grave.
+
+78
+00:08:21,879 --> 00:08:23,842
+Although, in all likelihood,
+
+79
+00:08:23,867 --> 00:08:27,628
+I imagine those children would
+probably not allow it to end that way.
+
+80
+00:08:29,129 --> 00:08:31,618
+The moment I told you 'bout that damn project,
+
+81
+00:08:31,643 --> 00:08:35,037
+I painted a target across my back. However,
+
+82
+00:08:35,713 --> 00:08:39,367
+I'm getting old and tired. My body gets weaker every day.
+
+83
+00:08:40,489 --> 00:08:42,995
+I can feel it. Not much time left.
+
+84
+00:08:43,296 --> 00:08:45,812
+And the children at the Settlement. Where're they?
+
+85
+00:08:46,046 --> 00:08:50,864
+When it was shut down, only one girl had
+managed to survive the various experiments.
+
+86
+00:08:50,926 --> 00:08:55,915
+One girl, taken into custody by an
+American agency, and the files sealed.
+
+87
+00:08:56,392 --> 00:08:57,448
+Interesting.
+
+88
+00:08:58,002 --> 00:08:59,106
+Although...
+
+89
+00:08:59,619 --> 00:09:00,679
+"Although" what?
+
+90
+00:09:00,704 --> 00:09:05,819
+Apparently, there was a report saying two of
+the children managed to escape the facility.
+
+91
+00:09:06,463 --> 00:09:08,321
+Do you know their names, by chance?
+
+92
+00:09:08,754 --> 00:09:11,046
+The subjects were never assigned names.
+
+93
+00:09:11,413 --> 00:09:14,930
+Too empowering. Instead, they were called by a number.
+
+94
+00:09:15,838 --> 00:09:18,031
+One of the boys was number Nine.
+
+95
+00:09:18,562 --> 00:09:20,580
+The other was number Twelve.
+
+96
+00:09:21,546 --> 00:09:23,419
+They managed to start a fire,
+
+97
+00:09:23,838 --> 00:09:27,064
+then took the security systems down to make their escape.
+
+98
+00:09:27,631 --> 00:09:29,079
+Clever little buggers.
+
+99
+00:09:29,228 --> 00:09:30,771
+When did all this go down?
+
+100
+00:09:30,834 --> 00:09:32,670
+Must've been eight years ago.
+
+101
+00:09:33,403 --> 00:09:35,421
+If those boys are still alive,
+
+102
+00:09:35,446 --> 00:09:37,595
+I guess they'd be about 17.
+
+103
+00:09:37,925 --> 00:09:39,190
+It's gotta be them.
+
+104
+00:09:42,069 --> 00:09:44,278
+I'd like to think they're still alive.
+
+105
+00:09:44,414 --> 00:09:49,247
+Going to school in a nice, quiet
+town, playing sports and chasing girls.
+
+106
+00:09:49,338 --> 00:09:53,213
+Enjoying their lives before
+the drug's side effects take over.
+
+107
+00:09:57,399 --> 00:09:59,483
+You don't have the right to say that!
+
+108
+00:09:59,546 --> 00:10:03,220
+Using children as your guinea pigs? You bastard.
+
+109
+00:10:03,553 --> 00:10:05,413
+You can't even be called human!
+
+110
+00:10:05,777 --> 00:10:09,196
+Yes. I stopped being human a long time ago.
+
+111
+00:10:09,389 --> 00:10:12,453
+I was a pawn, a cog in the great machine.
+
+112
+00:10:12,706 --> 00:10:16,265
+The orders came down from above. I just followed them.
+
+113
+00:10:16,796 --> 00:10:20,504
+Yeah, the guards conducting inmate
+selection at Auschwitz said the same thing.
+
+114
+00:10:20,641 --> 00:10:23,067
+So you can save that tired old bullshit.
+
+115
+00:10:26,279 --> 00:10:28,350
+Tell me who was in charge.
+
+116
+00:10:33,715 --> 00:10:35,517
+It was Doctor Mamiya.
+
+117
+00:10:38,279 --> 00:10:39,261
+Wasn't he...?
+
+118
+00:10:42,774 --> 00:10:44,121
+Shibazaki.
+
+119
+00:10:46,138 --> 00:10:47,207
+It can't be.
+
+120
+00:10:59,104 --> 00:11:00,898
+Shunzo Mamiya, right?
+
+121
+00:11:01,102 --> 00:11:04,756
+Isn't that the crotchety old bastard
+who got you demoted in the first place?
+
+122
+00:11:05,312 --> 00:11:07,965
+They call him the monster of Japanese politics.
+
+123
+00:11:08,661 --> 00:11:09,929
+What are you gonna do?
+
+124
+00:11:31,780 --> 00:11:33,124
+This is Alpha One.
+
+125
+00:11:33,338 --> 00:11:35,252
+We have visual confirmation.
+
+126
+00:11:35,463 --> 00:11:38,029
+Five, should we move in to apprehend?
+
+127
+00:11:38,383 --> 00:11:39,642
+Of course not!
+
+128
+00:11:39,856 --> 00:11:42,304
+I mean, what's the point if can't have some fun?
+
+129
+00:11:57,163 --> 00:11:57,841
+Lisa.
+
+130
+00:12:01,865 --> 00:12:02,842
+Lisa!
+
+131
+00:12:04,171 --> 00:12:08,040
+Oh, Twelve! I, This...
+
+132
+00:12:09,247 --> 00:12:12,051
+The-They-They're all bombs.
+
+133
+00:12:12,404 --> 00:12:13,073
+I don't...
+
+134
+00:12:15,038 --> 00:12:17,013
+W-What do I do?
+
+135
+00:12:17,198 --> 00:12:19,060
+Just be calm, 'kay?
+
+136
+00:12:28,607 --> 00:12:29,714
+I'm scared.
+
+137
+00:12:30,637 --> 00:12:31,711
+Damn her.
+
+138
+00:12:34,412 --> 00:12:37,296
+I bet she thinks this is hilarious.
+
+139
+00:12:41,129 --> 00:12:43,629
+It looks like he's enjoying himself to me.
+
+140
+00:12:43,713 --> 00:12:46,873
+What're you doin', Five? We're supposed to capture 'im.
+
+141
+00:12:47,004 --> 00:12:50,019
+He can't very well tell us the
+location of the item if he's dead.
+
+142
+00:12:50,189 --> 00:12:54,715
+Don't be such a downer, Clarence. No one
+likes the loser who shuts down a party early.
+
+143
+00:12:59,372 --> 00:13:01,589
+So do you have a plan?
+
+144
+00:13:02,080 --> 00:13:03,157
+Hold still.
+
+145
+00:13:11,213 --> 00:13:12,065
+Twelve?
+
+146
+00:13:14,347 --> 00:13:17,221
+It's gonna be fine. Don't you worry.
+
+147
+00:13:41,810 --> 00:13:42,787
+Tch.
+
+148
+00:14:05,171 --> 00:14:06,504
+All right.
+
+149
+00:14:14,379 --> 00:14:15,885
+That's one down.
+
+150
+00:14:25,297 --> 00:14:27,732
+What exactly are you hopin' to accomplish here?
+
+151
+00:14:28,292 --> 00:14:32,931
+I know professional EOD guys who couldn't disarm
+that many devices in the time you've given him.
+
+152
+00:14:33,421 --> 00:14:36,624
+If the kid buys it, it'll be
+harder to secure what we need.
+
+153
+00:14:36,870 --> 00:14:38,951
+It appears you've lost sight of our goal.
+
+154
+00:14:39,012 --> 00:14:39,917
+Shut up!
+
+155
+00:15:04,810 --> 00:15:06,437
+I'm sorry.
+
+156
+00:15:09,354 --> 00:15:13,818
+If I hadn't left, those people wouldn't have grabbed me.
+
+157
+00:15:14,498 --> 00:15:18,229
+I was just trying to stay out of the way for once,
+
+158
+00:15:18,261 --> 00:15:20,147
+but I ended up making everything worse!
+
+159
+00:15:22,282 --> 00:15:23,569
+I'm so sorry.
+
+160
+00:15:25,698 --> 00:15:26,292
+Huh?
+
+161
+00:15:28,147 --> 00:15:30,831
+No. You don't have to apologize.
+
+162
+00:15:31,398 --> 00:15:32,091
+What?
+
+163
+00:15:32,713 --> 00:15:35,813
+It's okay. This isn't your fault.
+
+164
+00:15:48,036 --> 00:15:51,159
+I'm the reason you're here. Let me apologize.
+
+165
+00:15:54,046 --> 00:15:55,275
+Nine was right.
+
+166
+00:15:56,923 --> 00:16:01,389
+If I hadn't gotten you involved at the
+airport, none of this would've happened.
+
+167
+00:16:03,962 --> 00:16:05,129
+In fact,
+
+168
+00:16:05,313 --> 00:16:07,893
+I never should've given you a ride that night.
+
+169
+00:16:09,867 --> 00:16:11,950
+No, before that.
+
+170
+00:16:12,095 --> 00:16:15,080
+I shouldn't have talked to you from the very beginning.
+
+171
+00:16:17,819 --> 00:16:21,345
+I knew it would be dangerous. Getting to know somebody.
+
+172
+00:16:28,671 --> 00:16:29,329
+But...
+
+173
+00:16:32,245 --> 00:16:33,411
+I had to.
+
+174
+00:17:14,518 --> 00:17:15,647
+Thank you.
+
+175
+00:17:18,379 --> 00:17:22,314
+But it's all right. I'm okay. Leave me.
+
+176
+00:17:23,667 --> 00:17:24,687
+Lisa...
+
+177
+00:17:25,490 --> 00:17:27,924
+You should go now, while there's still time.
+
+178
+00:17:28,477 --> 00:17:29,879
+I'm not going anywhere!
+
+179
+00:17:30,214 --> 00:17:31,701
+Nine's waiting for you.
+
+180
+00:17:35,821 --> 00:17:37,496
+Please don't worry about me.
+
+181
+00:17:39,078 --> 00:17:41,206
+You know he still needs your help.
+
+182
+00:17:42,963 --> 00:17:48,151
+You two still have something important you
+need to finish. The reason you came to Tokyo.
+
+183
+00:17:48,924 --> 00:17:51,899
+Go, now. Make people see the truth.
+
+184
+00:18:22,879 --> 00:18:23,560
+Tch.
+
+185
+00:18:24,296 --> 00:18:26,593
+Hey! You having fun yet?
+
+186
+00:18:26,921 --> 00:18:27,760
+Five!
+
+187
+00:18:28,463 --> 00:18:31,989
+I propose a trade. Your girlfriend for the A-bomb.
+
+188
+00:18:32,794 --> 00:18:36,739
+The cops seem to think you boys
+stole a little plutonium from Aomori,
+
+189
+00:18:36,957 --> 00:18:41,831
+but we know what you really took was Japan's
+first in-house developed prototype atom bomb.
+
+190
+00:18:42,151 --> 00:18:46,087
+Tell me where you stashed that sucker,
+and I'll disarm your damsel in distress.
+
+191
+00:18:46,776 --> 00:18:49,655
+C'mon! It's not a bad trade, really.
+
+192
+00:18:49,763 --> 00:18:54,180
+Say no, and you two die. Say yes and you betray Nine.
+
+193
+00:18:54,412 --> 00:18:58,144
+But you've already demonstrated that's
+something you're willing to do, so give it up!
+
+194
+00:18:58,477 --> 00:18:59,804
+Stop it, Five.
+
+195
+00:19:00,729 --> 00:19:03,629
+You've already chosen that doe-eyed girl over Nine.
+
+196
+00:19:03,812 --> 00:19:07,171
+After all you've been through,
+how could you let Lisa down, now?
+
+197
+00:19:07,288 --> 00:19:09,185
+Who cares about all that other stuff?
+
+198
+00:19:11,256 --> 00:19:13,359
+Of course, Nine won't understand.
+
+199
+00:19:13,384 --> 00:19:16,641
+But you should know that. He'll never forgive you.
+
+200
+00:19:17,223 --> 00:19:20,117
+Why would he? You're an untrustworthy, cowardly traitor!
+
+201
+00:19:23,841 --> 00:19:26,693
+If you don't talk, she will die.
+
+202
+00:19:27,464 --> 00:19:30,088
+But at least she can die a lover's death with you.
+
+203
+00:19:30,254 --> 00:19:34,418
+Eyes! Look your last! Arms, take your last embrace!
+
+204
+00:19:39,979 --> 00:19:41,598
+Goodnight, Romeo.
+
+205
+00:19:42,884 --> 00:19:45,259
+Parting is such sweet sorrow.
+
+206
+00:19:49,826 --> 00:19:53,401
+The school! The bomb's in locker D-12!
+
+207
+00:19:59,387 --> 00:20:02,095
+Congratulations, you saved your Juliet.
+
+208
+00:20:16,646 --> 00:20:18,173
+Damn it, Twelve.
+
+209
+00:20:48,030 --> 00:20:49,366
+We've lost visual.
+
+210
+00:20:49,537 --> 00:20:51,697
+Roger that. Fan out and search.
+
+211
+00:20:57,171 --> 00:20:58,283
+I've regained visual!
+
+212
+00:20:58,338 --> 00:20:59,816
+Wait, take him alive!
+
+213
+00:21:03,838 --> 00:21:05,110
+No! Stop!
+
+214
+00:21:08,318 --> 00:21:09,449
+Five, what...?
+

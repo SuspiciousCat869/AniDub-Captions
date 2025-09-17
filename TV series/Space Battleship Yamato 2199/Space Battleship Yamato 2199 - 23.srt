@@ -1,0 +1,1450 @@
+﻿1
+00:02:02,862 --> 00:02:05,365
+[CLONE GUARD A] Attack from
+Second Baleras complete.
+
+2
+00:02:05,448 --> 00:02:07,200
+[MORI]
+What have you done?
+
+3
+00:02:07,283 --> 00:02:09,661
+[DESLER]
+Oh, just a little idea of mine.
+
+4
+00:02:09,744 --> 00:02:12,747
+I've tried using Wave
+Motion Energy as a weapon.
+
+5
+00:02:12,831 --> 00:02:14,207
+A Wave Motion Gun?
+
+6
+00:02:14,290 --> 00:02:16,292
+[CLONE GUARD A] The <i>Yamato</i>
+appears to be destroyed.
+
+7
+00:02:16,376 --> 00:02:17,794
+After a long journey,
+
+8
+00:02:17,877 --> 00:02:20,338
+they were killed just
+before reaching their goal.
+
+9
+00:02:20,422 --> 00:02:23,717
+There's beauty in its perfectly
+tragic end, don't you think?
+
+10
+00:02:25,885 --> 00:02:30,015
+I wonder what the Teron
+captain was like.
+
+11
+00:02:30,098 --> 00:02:31,599
+I'd love to have met the man,
+
+12
+00:02:31,683 --> 00:02:35,770
+to thank him for giving me
+such a rousing challenge.
+
+13
+00:02:35,854 --> 00:02:39,274
+Our dear Princess Yurisha
+seems to be feeling unwell.
+
+14
+00:02:39,357 --> 00:02:41,401
+Perhaps she needs fresh air.
+
+15
+00:02:41,484 --> 00:02:43,445
+Let's go.
+
+16
+00:02:45,697 --> 00:02:47,490
+[CLONE GUARD B] Something on
+radar near point of impact.
+
+17
+00:02:47,574 --> 00:02:49,451
+It's the <i>Yamato</i> !
+
+18
+00:02:49,534 --> 00:02:51,244
+[NANBU]
+AA guns badly damaged!
+
+19
+00:02:51,327 --> 00:02:52,662
+[OTA]
+Sensors malfunctioning!
+
+20
+00:02:52,746 --> 00:02:54,706
+[MISAKI]
+The planet's collapsing!
+
+21
+00:02:54,789 --> 00:02:56,374
+Epidra is lost.
+
+22
+00:02:56,458 --> 00:02:59,336
+A weapon that can destroy
+planets with one shot?
+
+23
+00:02:59,419 --> 00:03:02,005
+A Wave Motion Gun.
+
+24
+00:03:02,088 --> 00:03:04,758
+Picking up fluctuations in
+the gravitational gradient.
+
+25
+00:03:04,841 --> 00:03:09,179
+This waveform is consistent
+with a wave motion attack.
+
+26
+00:03:09,262 --> 00:03:10,764
+We are not retreating.
+
+27
+00:03:10,847 --> 00:03:14,142
+We'll continue
+to the inner system.
+
+28
+00:03:14,225 --> 00:03:16,227
+Any wave motion weapon
+should have difficulty
+
+29
+00:03:16,311 --> 00:03:18,730
+targeting a ship moving
+at sub-light-speed.
+
+30
+00:03:18,813 --> 00:03:20,523
+And without moving
+deep into their range,
+
+31
+00:03:20,607 --> 00:03:22,650
+we have no way to win.
+
+32
+00:03:22,734 --> 00:03:26,029
+Full speed ahead.
+New target, Gamilas!
+
+33
+00:03:29,783 --> 00:03:32,660
+[CLONE GUARD B] <i>Yamato</i> heading
+toward us at sub-light-speed!
+
+34
+00:03:32,744 --> 00:03:34,204
+[DESLER]
+Interesting.
+
+35
+00:03:34,287 --> 00:03:36,956
+[CLONE GUARD C] Minister Talan
+hailing from Second Baleras.
+
+36
+00:03:40,877 --> 00:03:44,047
+My lord, as anticipated, firing
+at maximum available power
+
+37
+00:03:44,130 --> 00:03:45,924
+has damaged the system.
+
+38
+00:03:46,007 --> 00:03:48,051
+Complete the repairs
+as soon as you can.
+
+39
+00:03:48,134 --> 00:03:49,594
+They're at sub-light-speed.
+
+40
+00:03:49,678 --> 00:03:52,263
+Targeting with the Desler Cannon
+will be close to impossible!
+
+41
+00:03:52,347 --> 00:03:53,515
+It won't work!
+
+42
+00:03:53,598 --> 00:03:56,101
+Patience, Talan, they'll
+be slowing down soon.
+
+43
+00:03:56,184 --> 00:03:57,644
+[CLONE GUARD C]
+My lord.
+
+44
+00:03:57,727 --> 00:04:01,064
+Her Royal Highness Queen
+Starsha is on the hotline.
+
+45
+00:04:01,147 --> 00:04:03,650
+She wants to speak
+to you directly.
+
+46
+00:04:03,733 --> 00:04:07,237
+[STARSHA] Lord Desler, how
+could you even consider this?
+
+47
+00:04:07,320 --> 00:04:09,781
+Weaponizing Wave Motion
+Energy is madness.
+
+48
+00:04:09,864 --> 00:04:12,534
+And in our own system no less!
+
+49
+00:04:12,617 --> 00:04:15,662
+--Are you here to complain?
+--I am.
+
+50
+00:04:15,745 --> 00:04:17,706
+You're always complaining.
+
+51
+00:04:17,789 --> 00:04:19,374
+Have you noticed
+that's the only reason
+
+52
+00:04:19,457 --> 00:04:22,043
+you ever grace me with
+your presence anymore?
+
+53
+00:04:22,127 --> 00:04:23,586
+Well if you're so incensed,
+
+54
+00:04:23,670 --> 00:04:26,548
+then why don't you go
+complain to the Terons?
+
+55
+00:04:26,631 --> 00:04:28,174
+And what does that mean?
+
+56
+00:04:28,258 --> 00:04:29,759
+[DESLER]
+That ship you brought here
+
+57
+00:04:29,843 --> 00:04:31,636
+also weaponizes
+Wave Motion Energy.
+
+58
+00:04:31,720 --> 00:04:33,972
+They've used it for some time.
+
+59
+00:04:34,055 --> 00:04:35,724
+That can't be.
+
+60
+00:04:35,807 --> 00:04:38,226
+While you're here,
+I assume you noticed
+
+61
+00:04:38,309 --> 00:04:41,813
+your little sister is with us.
+She's doing quite well.
+
+62
+00:04:41,896 --> 00:04:43,356
+[STARSHA gasps]
+
+63
+00:04:43,440 --> 00:04:45,942
+I've ordered that she be
+kept here, safe and secure.
+
+64
+00:04:46,026 --> 00:04:49,404
+How far are you going to
+take this? To what end?
+
+65
+00:04:49,487 --> 00:04:51,698
+[DESLER]
+But I'm doing it all for you.
+
+66
+00:04:51,781 --> 00:04:53,241
+Stop it.
+
+67
+00:04:53,324 --> 00:04:54,784
+[DESLER]
+Starsha.
+
+68
+00:04:54,868 --> 00:04:56,870
+Please, don't!
+
+69
+00:05:01,124 --> 00:05:04,085
+I see. That's too bad.
+
+70
+00:05:06,755 --> 00:05:10,216
+[STARSHA]
+Please, Abelt. Don't do this.
+
+71
+00:05:14,929 --> 00:05:17,140
+[MISAKI] Three ships at
+ten o'clock. Carriers!
+
+72
+00:05:17,223 --> 00:05:18,933
+[SANADA]
+Deploy Wave Motion Shields.
+
+73
+00:05:19,017 --> 00:05:20,602
+[OKITA]
+No.
+
+74
+00:05:20,685 --> 00:05:22,228
+Not yet.
+
+75
+00:05:22,312 --> 00:05:23,563
+Yes, sir.
+
+76
+00:05:23,646 --> 00:05:26,691
+Slow down to half speed.
+Then send out the Falcons!
+
+77
+00:05:43,917 --> 00:05:46,586
+[KILLMENHEIM CM A] Front carrier
+fleet will soon encounter enemy.
+
+78
+00:05:46,670 --> 00:05:48,213
+Have them attack.
+
+79
+00:05:48,296 --> 00:05:50,423
+Launch the Melancas now.
+
+80
+00:05:55,136 --> 00:05:58,181
+[KATO] Don't let 'em near the
+<i>Yamato</i> . Shoot 'em down!
+
+81
+00:06:03,478 --> 00:06:05,021
+Turn us hard to starboard.
+
+82
+00:06:05,105 --> 00:06:07,857
+I want the bow pointing
+straight at Gamilas!
+
+83
+00:06:52,736 --> 00:06:54,738
+[CLONE GUARD D] Major damage
+to forward carrier fleet.
+
+84
+00:06:54,821 --> 00:06:56,531
+[CLONE GUARD B]
+The <i>Yamato</i> is descending.
+
+85
+00:06:56,614 --> 00:06:59,743
+Ultimately, our goal is
+protecting the new capital.
+
+86
+00:06:59,826 --> 00:07:02,620
+But I still want to give
+our leader a good show.
+
+87
+00:07:18,219 --> 00:07:20,555
+[MELDA] That's Baleras ahead,
+the Imperial capital.
+
+88
+00:07:20,638 --> 00:07:23,433
+Cross this ravine and you'll
+have a clear path to the palace.
+
+89
+00:07:23,516 --> 00:07:25,810
+Mm. That sounds good to me.
+
+90
+00:07:25,894 --> 00:07:29,147
+Head for the palace. We'll
+strike right at their heart.
+
+91
+00:07:37,822 --> 00:07:40,408
+[HYSS] We've allowed the
+enemy in to our home world?
+
+92
+00:07:40,492 --> 00:07:42,369
+What is the Imperial
+Guard doing?
+
+93
+00:07:42,452 --> 00:07:45,163
+Gimleh. I told you
+he was useless.
+
+94
+00:07:46,164 --> 00:07:51,169
+♪
+
+95
+00:08:27,372 --> 00:08:29,708
+Deploy Wave Motion Shields.
+
+96
+00:08:46,307 --> 00:08:48,309
+[OKITA]
+We're going to ram the palace.
+
+97
+00:08:55,692 --> 00:08:58,236
+All crew, brace for impact!
+
+98
+00:09:01,281 --> 00:09:02,699
+[MORI gasps]
+
+99
+00:09:17,839 --> 00:09:19,007
+[OKITA groans]
+
+100
+00:09:19,090 --> 00:09:20,592
+Captain. Are you okay?
+
+101
+00:09:20,675 --> 00:09:22,677
+I want all crew
+armed with weapons.
+
+102
+00:09:22,761 --> 00:09:26,264
+Kodai, assemble a strike
+team with you in command.
+
+103
+00:09:29,517 --> 00:09:31,603
+We'd better get out of here.
+
+104
+00:09:34,773 --> 00:09:36,524
+Uh!
+
+105
+00:09:36,608 --> 00:09:39,527
+That's exactly what
+I thought you'd say.
+
+106
+00:09:39,611 --> 00:09:40,779
+[OPERATOR D]
+Damage report, now!
+
+107
+00:09:40,862 --> 00:09:42,280
+[OPERATOR C] The palace
+wall has been breached!
+
+108
+00:09:42,364 --> 00:09:43,656
+[HYSS]
+Impossible.
+
+109
+00:09:43,740 --> 00:09:44,991
+[CELESTRA]
+Is our leader safe?
+
+110
+00:09:45,075 --> 00:09:46,826
+Send in soldiers
+to find him, now!
+
+111
+00:09:46,910 --> 00:09:48,370
+Let's not panic.
+
+112
+00:09:48,453 --> 00:09:50,705
+[PA VOICE A] Initiating
+<i>Deusura</i> decoupling sequence.
+
+113
+00:09:50,789 --> 00:09:52,457
+{\an8}The <i>Deusura</i> ?
+
+114
+00:09:52,540 --> 00:09:53,875
+{\an8}[CELESTRA]
+Out of the way!
+
+115
+00:09:53,958 --> 00:10:02,133
+{\an8}[PA VOICE A speaking Gamilan]
+
+116
+00:10:12,352 --> 00:10:15,021
+What? We're accelerating.
+
+117
+00:10:17,315 --> 00:10:19,526
+[MISAKI] Something's
+launched from the palace!
+
+118
+00:10:21,528 --> 00:10:23,863
+I can tell.
+
+119
+00:10:23,947 --> 00:10:26,324
+Yuki is onboard.
+
+120
+00:10:29,953 --> 00:10:33,665
+My lord, you left me behind?
+
+121
+00:10:33,748 --> 00:10:37,919
+But why? Why would you leave
+me?!
+
+122
+00:10:39,337 --> 00:10:41,423
+My lord. We should
+acquire full control
+
+123
+00:10:41,506 --> 00:10:43,842
+of Second Baleras momentarily.
+
+124
+00:10:43,925 --> 00:10:45,885
+Everything is going as planned.
+
+125
+00:10:45,969 --> 00:10:47,345
+Yes, sir.
+
+126
+00:10:47,429 --> 00:10:49,681
+Then it is time to
+begin the operation!
+
+127
+00:10:49,764 --> 00:10:51,349
+Zar Belk.
+
+128
+00:10:54,310 --> 00:10:55,812
+[BALERAS II OFFICER A]
+Minister Talan,
+
+129
+00:10:55,895 --> 00:10:59,149
+our central control system is
+being taken over from outside!
+
+130
+00:10:59,232 --> 00:11:00,817
+[VELTE]
+Find the origin.
+
+131
+00:11:00,900 --> 00:11:04,112
+What the--? It's coming
+from the <i>Deusura</i> !
+
+132
+00:11:04,195 --> 00:11:06,239
+--Lord Desler?
+--Ah! Minister, sir!
+
+133
+00:11:06,322 --> 00:11:09,159
+Industrial Sector 633
+is decoupling!
+
+134
+00:11:09,242 --> 00:11:11,244
+Uh. That can't be.
+
+135
+00:11:32,682 --> 00:11:35,268
+[YURISHA]
+Forget this palace.
+
+136
+00:11:35,352 --> 00:11:38,438
+Go after that vessel
+and rescue Yuki!
+
+137
+00:11:40,440 --> 00:11:41,941
+Strike team is ready to go!
+
+138
+00:11:42,025 --> 00:11:43,360
+Kodai!
+
+139
+00:11:43,443 --> 00:11:44,986
+[MISAKI]
+I've found something on radar!
+
+140
+00:11:45,070 --> 00:11:46,988
+Magnify it!
+
+141
+00:11:47,072 --> 00:11:49,449
+[MISAKI] It's a massive
+object falling from orbit!
+
+142
+00:11:49,532 --> 00:11:51,951
+[ANALYZER] Estimated mass:
+60 million tons.
+
+143
+00:11:52,035 --> 00:11:54,454
+Descending from
+Lagrange point L-One.
+
+144
+00:11:54,537 --> 00:11:56,956
+Estimated impact
+point is the palace.
+
+145
+00:11:57,040 --> 00:11:58,958
+In other words: Here.
+
+146
+00:12:00,627 --> 00:12:02,253
+[OPERATOR C]
+It's continuing to drop.
+
+147
+00:12:02,337 --> 00:12:03,380
+[OPERATOR D]
+The decoupling command
+
+148
+00:12:03,463 --> 00:12:05,048
+came from Lord Desler himself.
+
+149
+00:12:05,131 --> 00:12:06,424
+From Lord Desler?
+
+150
+00:12:06,508 --> 00:12:08,968
+[OPERATOR B] Impact at
+approximately 2,400 gek.
+
+151
+00:12:09,052 --> 00:12:11,304
+But this doesn't make any sense.
+
+152
+00:12:12,555 --> 00:12:16,810
+Everyone, evacuate! Declare
+an emergency in the capital!
+
+153
+00:12:16,893 --> 00:12:18,228
+[PA VOICE A]
+This is not a drill.
+
+154
+00:12:18,311 --> 00:12:21,189
+All personnel must evacuate
+palace immediately.
+
+155
+00:12:21,272 --> 00:12:25,485
+Repeat: all personnel must
+evacuate palace immediately.
+
+156
+00:12:25,568 --> 00:12:28,071
+We can't stay here, sir!
+
+157
+00:12:28,154 --> 00:12:31,783
+How could he? How could
+our leader do this?
+
+158
+00:12:31,866 --> 00:12:34,160
+Desler!
+
+159
+00:12:37,205 --> 00:12:39,082
+[OPERATOR E]
+Guidance beacon, locked.
+
+160
+00:13:01,271 --> 00:13:02,397
+[OPERATOR F]
+Docking complete.
+
+161
+00:13:02,480 --> 00:13:04,649
+Connected to Desler
+Cannon circuit.
+
+162
+00:13:04,733 --> 00:13:06,943
+[LECTER]
+Minister Talan is here.
+
+163
+00:13:07,027 --> 00:13:09,904
+My lord, tell me why
+you're doing this, please.
+
+164
+00:13:09,988 --> 00:13:14,034
+Why are you dropping Sector
+633 on Baleras? Why?
+
+165
+00:13:14,117 --> 00:13:15,910
+[DESLER]
+It's a rite of passage, Talan.
+
+166
+00:13:15,994 --> 00:13:17,537
+A rite of passage?
+
+167
+00:13:17,620 --> 00:13:20,331
+[DESLER] Baleras and the <i>Yamato</i>
+will be annihilated together.
+
+168
+00:13:20,415 --> 00:13:23,376
+And from the smoldering ashes
+of this noble sacrifice.
+
+169
+00:13:23,460 --> 00:13:26,212
+A more perfect
+Gamilas will be born.
+
+170
+00:13:27,756 --> 00:13:29,466
+When this operation is done,
+
+171
+00:13:29,549 --> 00:13:32,886
+Second Baleras will
+descend to Iscandar.
+
+172
+00:13:32,969 --> 00:13:35,221
+As of this moment
+by imperial decree,
+
+173
+00:13:35,305 --> 00:13:37,015
+this mobile
+city fortress,
+
+174
+00:13:37,098 --> 00:13:39,517
+this grand achievement we
+have built in the heavens,
+
+175
+00:13:39,601 --> 00:13:41,644
+will be the new
+capital of Gamilas.
+
+176
+00:13:41,728 --> 00:13:45,690
+A new center! A new Baleras!
+
+177
+00:13:45,774 --> 00:13:47,233
+Splendid, my lord.
+
+178
+00:13:47,317 --> 00:13:49,319
+[DESLER] This Second Baleras
+shall be the ultimate bridge,
+
+179
+00:13:49,402 --> 00:13:53,406
+uniting Gamilas and Iscandar
+for our glorious future!
+
+180
+00:13:53,490 --> 00:13:56,576
+[ANALYZER] Estimated impact
+on palace: 20 minutes.
+
+181
+00:13:56,659 --> 00:13:59,829
+Prepare to fire the
+Wave Motion Gun.
+
+182
+00:13:59,913 --> 00:14:00,997
+Okita.
+
+183
+00:14:01,081 --> 00:14:02,165
+It's the only hope we have
+
+184
+00:14:02,248 --> 00:14:04,209
+for destroying a
+structure that massive.
+
+185
+00:14:04,292 --> 00:14:07,128
+With the gun,
+we can save this city.
+
+186
+00:14:07,212 --> 00:14:12,967
+Proving it with actions,
+not with your words. Mm.
+
+187
+00:14:14,678 --> 00:14:17,722
+This is a moment when
+we all must do our best.
+
+188
+00:14:17,806 --> 00:14:19,724
+As our hearts compel us.
+
+189
+00:14:19,808 --> 00:14:22,102
+What we alone can achieve.
+
+190
+00:14:22,185 --> 00:14:25,438
+--I'm going after Yuki!
+--[KODAI] No.
+
+191
+00:14:25,522 --> 00:14:28,942
+Sorry. But it should be me.
+
+192
+00:14:30,318 --> 00:14:31,861
+Captain, please, sir.
+
+193
+00:14:31,945 --> 00:14:34,239
+Requesting use of a Zero.
+
+194
+00:14:34,322 --> 00:14:37,075
+Kodai. I hereby
+relieve you of your duties
+
+195
+00:14:37,158 --> 00:14:40,036
+as <i>Yamato</i> 's Chief of Tactical.
+
+196
+00:14:40,120 --> 00:14:43,039
+As of now, I'm giving
+you another mission.
+
+197
+00:14:43,123 --> 00:14:46,084
+Rescue Lieutenant Mori,
+whatever it takes.
+
+198
+00:14:46,167 --> 00:14:47,794
+Yes, sir!
+
+199
+00:14:51,131 --> 00:14:54,342
+[OKITA] You may take one
+more person to assist.
+
+200
+00:14:54,426 --> 00:14:55,969
+Thanks, Captain.
+
+201
+00:14:57,303 --> 00:14:58,471
+[KODAI gasps]
+
+202
+00:14:58,555 --> 00:15:01,766
+Yes, Captain. I promise
+I won't let you down.
+
+203
+00:15:04,936 --> 00:15:10,400
+I've got this, sir. Just
+please. Bring her back.
+
+204
+00:15:34,007 --> 00:15:35,091
+Melda.
+
+205
+00:15:35,175 --> 00:15:37,385
+[MELDA] Just protecting
+Princess Yurisha.
+
+206
+00:15:53,485 --> 00:15:55,362
+You leave them to me, Kodai.
+
+207
+00:15:55,445 --> 00:15:57,530
+[MELDA]
+She means to us.
+
+208
+00:15:57,614 --> 00:15:59,074
+Everyone.
+
+209
+00:15:59,157 --> 00:16:01,993
+We're doing our best,
+what we alone can achieve.
+
+210
+00:16:02,077 --> 00:16:03,286
+Ready?
+
+211
+00:16:03,370 --> 00:16:05,789
+Yeah. Yeah!
+
+212
+00:16:05,872 --> 00:16:07,791
+Take care of Her Grace.
+
+213
+00:16:12,879 --> 00:16:15,465
+Go, Kodai. Good luck.
+
+214
+00:16:16,549 --> 00:16:17,842
+[PA VOICE B]
+After linking with core ship,
+
+215
+00:16:17,926 --> 00:16:19,803
+Company Six is to
+load <i>Deusura II</i>
+
+216
+00:16:19,886 --> 00:16:21,680
+and make primed for launch.
+
+217
+00:16:21,763 --> 00:16:23,765
+[GAMILAN TECH A]
+Get that resupply ready!
+
+218
+00:16:26,184 --> 00:16:28,561
+[MORI]
+Looks like the control room.
+
+219
+00:16:28,645 --> 00:16:31,272
+[ORTSCHETT]
+Aren't we trying to escape?
+
+220
+00:16:31,356 --> 00:16:32,941
+[MORI] This craft has
+a Wave Motion Gun,
+
+221
+00:16:33,024 --> 00:16:36,277
+and if they use it, the <i>Yamato</i>
+will never reach Iscandar.
+
+222
+00:16:36,361 --> 00:16:39,447
+What are you trying to do?
+
+223
+00:16:39,531 --> 00:16:41,700
+I'm gonna try to destroy it.
+
+224
+00:16:43,743 --> 00:16:45,286
+Sealing emergency vents.
+
+225
+00:16:45,370 --> 00:16:46,913
+[NANBU]
+Releasing safety lock.
+
+226
+00:16:46,996 --> 00:16:48,790
+[KITANO]
+Target in range.
+
+227
+00:16:48,873 --> 00:16:51,960
+[SHIMA] Adjusting angle
+of incline. Raising bow.
+
+228
+00:16:53,962 --> 00:16:56,006
+Stabilize the hull.
+
+229
+00:16:59,175 --> 00:17:01,177
+[PA VOICE A]
+All citizens must evacuate.
+
+230
+00:17:01,261 --> 00:17:05,015
+Impact is imminent.
+Proceed to nearest transport.
+
+231
+00:17:05,098 --> 00:17:07,600
+[TOKUGAWA] Tachyon particle
+pressure rising in chamber.
+
+232
+00:17:07,684 --> 00:17:10,103
+Energy charge 120%.
+
+233
+00:17:10,186 --> 00:17:13,606
+Anti-shock and
+anti-flare defenses.
+
+234
+00:17:13,690 --> 00:17:18,194
+[NANBU]
+Four. Three. Two. One.
+
+235
+00:17:18,278 --> 00:17:19,738
+Fire!
+
+236
+00:17:40,759 --> 00:17:43,970
+The <i>Yamato</i> . They saved us all.
+
+237
+00:17:49,934 --> 00:17:51,478
+<i>Yamato</i> ?
+
+238
+00:17:52,729 --> 00:17:54,773
+[OKITA groaning]
+
+239
+00:17:54,856 --> 00:17:56,316
+[thud]
+
+240
+00:17:56,399 --> 00:17:58,026
+[SANADA]
+Captain!
+
+241
+00:17:58,651 --> 00:18:00,362
+[OPERATOR D] Six-Three-Three
+engaged in route.
+
+242
+00:18:00,445 --> 00:18:01,905
+[LECTER]
+Very well.
+
+243
+00:18:01,988 --> 00:18:05,116
+My lord, Desler Cannon is
+back online and ready to fire.
+
+244
+00:18:05,200 --> 00:18:06,451
+[VELTE gasps]
+
+245
+00:18:06,534 --> 00:18:08,370
+[DESLER]
+Hm.
+
+246
+00:18:08,453 --> 00:18:10,080
+[ORTSCHETT]
+It's preparing to fire!
+
+247
+00:18:10,163 --> 00:18:11,539
+[MORI]
+Don't worry.
+
+248
+00:18:11,623 --> 00:18:12,874
+[PA VOICE A]
+Firing sequence...
+
+249
+00:18:12,957 --> 00:18:14,834
+[MORI]
+It's done.
+
+250
+00:18:14,918 --> 00:18:16,670
+[PA VOICE A] ...prepare
+for Wave Motion sequence.
+
+251
+00:18:16,753 --> 00:18:19,673
+This will destabilize
+the Wave Motion Core.
+
+252
+00:18:21,966 --> 00:18:23,677
+Yuki.
+
+253
+00:18:23,760 --> 00:18:26,262
+Thanks for all your
+help. Now go.
+
+254
+00:18:26,346 --> 00:18:28,640
+You don't need to stick
+around for the rest.
+
+255
+00:18:28,723 --> 00:18:29,849
+There's still time--
+
+256
+00:18:29,933 --> 00:18:33,019
+Why are you willing to
+make this sacrifice?
+
+257
+00:18:33,103 --> 00:18:34,979
+Because it's finally clear.
+
+258
+00:18:35,063 --> 00:18:36,439
+I understand it now.
+
+259
+00:18:36,523 --> 00:18:39,275
+I'm doing what my
+heart tells me to do.
+
+260
+00:18:39,359 --> 00:18:40,944
+What I want most of all.
+
+261
+00:18:41,027 --> 00:18:43,113
+--We do this...
+--I do this...
+
+262
+00:18:43,196 --> 00:18:45,115
+To keep you safe!
+
+263
+00:18:46,866 --> 00:18:48,368
+Let's go, Zero!
+
+264
+00:18:48,451 --> 00:18:51,746
+[YURISHA]
+Ever faster! Ever higher!
+
+265
+00:18:52,288 --> 00:18:53,498
+[PA VOICE A]
+Begin routing all...
+
+266
+00:18:53,581 --> 00:18:55,583
+No.
+
+267
+00:18:55,667 --> 00:18:57,585
+Why, Norran?
+
+268
+00:18:57,669 --> 00:18:59,879
+I thought that would be obvious.
+
+269
+00:19:00,964 --> 00:19:04,259
+This is my chance to show
+what I'm made of, too.
+
+270
+00:19:04,342 --> 00:19:08,054
+If my lord learns I saved this
+secret weapon from sabotage,
+
+271
+00:19:08,138 --> 00:19:10,724
+he might even make me
+a first-class Gamilan.
+
+272
+00:19:10,807 --> 00:19:12,767
+You're not thinking! Ugh!
+
+273
+00:19:12,851 --> 00:19:14,686
+[ORTSCHETT]
+Oh, trust me, I am!
+
+274
+00:19:14,769 --> 00:19:17,063
+I've never been more certain.
+
+275
+00:19:17,147 --> 00:19:20,525
+And that's why this
+is our goodbye.
+
+276
+00:19:20,608 --> 00:19:22,819
+[MORI yells]
+
+277
+00:19:22,902 --> 00:19:25,363
+No, wait! Norran!
+
+278
+00:19:25,447 --> 00:19:27,615
+You take care.
+
+279
+00:19:27,699 --> 00:19:29,909
+[MORI]
+Norran!
+
+280
+00:19:32,287 --> 00:19:34,122
+[ORTSCHETT]
+Farewell.
+
+281
+00:19:48,470 --> 00:19:50,180
+[LECTER]
+Firing hammer system activated.
+
+282
+00:19:50,263 --> 00:19:51,639
+[DESLER]
+Focus on the <i>Yamato</i> .
+
+283
+00:19:51,723 --> 00:19:54,642
+Channel all the energy we have.
+
+284
+00:19:54,726 --> 00:19:56,936
+My lord, you can't do this!
+
+285
+00:19:57,020 --> 00:19:59,064
+You're about to fire
+on your own people!
+
+286
+00:19:59,147 --> 00:20:01,316
+Think of how many will die!
+
+287
+00:20:01,399 --> 00:20:04,903
+[PA VOICE A] Desler Cannon final
+firing sequence set to begin.
+
+288
+00:20:04,986 --> 00:20:09,908
+[DESLER] That's why it must be
+my hand that pulls the trigger.
+
+289
+00:20:09,991 --> 00:20:11,951
+I must be the one
+who commits the sin
+
+290
+00:20:12,035 --> 00:20:15,914
+of sacrificing so many noble
+lives for the future of Gamilas.
+
+291
+00:20:15,997 --> 00:20:18,625
+It will haunt me. But for
+the sake of the empire,
+
+292
+00:20:18,708 --> 00:20:21,878
+I will bear this
+burden on my soul.
+
+293
+00:20:26,341 --> 00:20:27,217
+What the--?
+
+294
+00:20:27,300 --> 00:20:28,885
+[PA VOICE A]
+Warning. Warning.
+
+295
+00:20:28,968 --> 00:20:31,805
+Wave Motion Core failing.
+Safety limits exceeded.
+
+296
+00:20:31,888 --> 00:20:34,432
+Explosive compression immin...
+
+297
+00:20:34,557 --> 00:20:38,478
+[ORTSCHETT] It's funny.
+I was willing to go this far.
+
+298
+00:20:38,561 --> 00:20:41,439
+But never learned her real name.
+
+299
+00:20:41,523 --> 00:20:42,649
+[OPERATOR 23D]
+The core's about to blow!
+
+300
+00:20:42,732 --> 00:20:44,526
+--Jump now!
+--Yes, sir!
+
+301
+00:20:55,870 --> 00:20:58,873
+No. Goodbye, Norran.
+
+302
+00:20:58,957 --> 00:21:01,126
+You're a terrible liar.
+
+303
+00:21:03,378 --> 00:21:04,546
+[KILLMENHEIM CM A]
+The other ships are gone!
+
+304
+00:21:04,629 --> 00:21:06,172
+Explosion incoming!
+
+305
+00:21:06,256 --> 00:21:08,008
+[GAMILAN OFFICER A]
+Evasive action! Get away!
+
+306
+00:21:08,091 --> 00:21:09,217
+[KILLMENHEIM CM A]
+There's no time!
+
+307
+00:21:09,300 --> 00:21:12,137
+My, what a shame.
+So this is how it ends.
+
+308
+00:21:17,434 --> 00:21:21,438
+[MISAKI] Enemy station appears
+to be collapsing, sir.
+
+309
+00:21:21,521 --> 00:21:23,773
+What in the world
+happened out there?
+
+310
+00:21:31,114 --> 00:21:33,700
+In the end, I lost her.
+
+311
+00:21:41,207 --> 00:21:43,168
+[gasps]
+
+312
+00:21:45,128 --> 00:21:50,133
+♪
+
+313
+00:22:10,779 --> 00:22:12,947
+[MORI]
+I'm not dreaming, am I?
+
+314
+00:22:13,031 --> 00:22:15,992
+No. This is real.
+

@@ -1,0 +1,1166 @@
+﻿1
+00:01:33,554 --> 00:01:34,696
+Zero-Four, reaction.
+
+2
+00:01:34,721 --> 00:01:36,132
+Zero-Two, confirming 2-5-2.
+
+3
+00:01:36,157 --> 00:01:37,688
+It's dangerous. Please step back.
+
+4
+00:01:37,713 --> 00:01:42,624
+We are currently using our Robo-Qs and other search
+equipment in an all-out effort to locate survivors.
+
+5
+00:01:42,649 --> 00:01:44,425
+We've already confirmed one survivor.
+
+6
+00:01:45,356 --> 00:01:47,644
+How long until they can be rescued?
+
+7
+00:01:47,669 --> 00:01:53,727
+He's buried under multiple sections of reinforced concrete
+over 20 cm thick, but it should be any moment now.
+
+8
+00:01:53,752 --> 00:01:55,642
+We have Team 1 assisting with the rescue.
+
+9
+00:01:56,099 --> 00:02:00,610
+SUMMER SUNSET
+
+10
+00:02:00,880 --> 00:02:04,108
+Okay, we'll do our best and all get home, okay?
+
+11
+00:02:05,731 --> 00:02:07,852
+Mari, are you okay now?
+
+12
+00:02:08,132 --> 00:02:11,324
+Uh-huh! I'm all better now, thanks to you two.
+
+13
+00:02:11,832 --> 00:02:13,112
+See for yourselves!
+
+14
+00:02:13,176 --> 00:02:15,135
+Ow! Ow! Ow!
+
+15
+00:02:16,462 --> 00:02:17,622
+What I tell you?
+
+16
+00:02:19,346 --> 00:02:20,309
+Jeez...
+
+17
+00:02:20,893 --> 00:02:24,637
+Now we'll cut through Roppongi and come out in Shibuya.
+
+18
+00:02:24,692 --> 00:02:25,446
+Right.
+
+19
+00:02:31,843 --> 00:02:35,204
+I used to pass by here coming
+home from school all the time
+
+20
+00:02:35,787 --> 00:02:37,754
+but it's like a different city now.
+
+21
+00:02:42,271 --> 00:02:43,809
+Huh? What's that?
+
+22
+00:02:45,354 --> 00:02:47,952
+Go in once that rebar on top's been pulled off!
+
+23
+00:02:47,977 --> 00:02:48,857
+Robots..
+
+24
+00:02:49,858 --> 00:02:52,584
+Okay! Don't skimp on the safety checks!
+
+25
+00:02:52,647 --> 00:02:55,014
+Okay! Go in from number 2!
+
+26
+00:02:55,276 --> 00:02:58,969
+Two-five-two, survivor in need
+of aid, sighted! He's conscious!
+
+27
+00:02:59,651 --> 00:03:00,533
+You okay?
+
+28
+00:03:00,558 --> 00:03:02,218
+Speak to us! You okay?
+
+29
+00:03:02,381 --> 00:03:05,157
+You all right? Can you tell us your name?
+
+30
+00:03:20,521 --> 00:03:22,105
+You're drawing robots!
+
+31
+00:03:22,773 --> 00:03:24,430
+You draw them really good!
+
+32
+00:03:26,928 --> 00:03:28,397
+You like robots?
+
+33
+00:03:28,612 --> 00:03:31,829
+Yeah! And I draw them all the time!
+
+34
+00:03:32,010 --> 00:03:33,893
+Do you like drawing pictures, too?
+
+35
+00:03:33,919 --> 00:03:36,652
+Well, not pictures, so much.
+
+36
+00:03:36,837 --> 00:03:38,287
+I like robots.
+
+37
+00:03:38,483 --> 00:03:41,265
+I'm taking down lots of notes so I can look them up later.
+
+38
+00:03:50,099 --> 00:03:51,477
+Hey, you know about those?
+
+39
+00:03:52,433 --> 00:03:54,659
+It's the first time they're being used in the field.
+
+40
+00:03:56,012 --> 00:03:57,997
+I saw those at the exhibit!
+
+41
+00:03:58,332 --> 00:03:59,370
+You, too?
+
+42
+00:04:02,277 --> 00:04:04,264
+Well, do you know what that one is?
+
+43
+00:04:04,784 --> 00:04:05,481
+Uh-uh.
+
+44
+00:04:08,427 --> 00:04:09,522
+Yuuki?
+
+45
+00:04:10,138 --> 00:04:11,214
+Over there, see?
+
+46
+00:04:12,177 --> 00:04:14,679
+They trace the arm movements from the control unit.
+
+47
+00:04:14,818 --> 00:04:16,401
+Each arm can lift one ton.
+
+48
+00:04:18,300 --> 00:04:20,178
+You know a lot about them, huh?
+
+49
+00:04:20,203 --> 00:04:20,916
+Yeah.
+
+50
+00:04:21,439 --> 00:04:25,250
+Someday, I want to build robots
+just like the ones over there.
+
+51
+00:04:34,246 --> 00:04:37,302
+What's it doing? Showing off? Since the job is done.
+
+52
+00:04:39,495 --> 00:04:41,546
+You don't know anything, do you?
+
+53
+00:04:42,252 --> 00:04:46,178
+It's double-checking to see if there
+are any other people who need help here.
+
+54
+00:04:52,641 --> 00:04:53,983
+It fell over!
+
+55
+00:04:54,224 --> 00:04:58,223
+Well, it's light weight robot, so
+the balance is bad when it walks!
+
+56
+00:04:59,688 --> 00:05:02,397
+That robot's called a semi-autonomous type.
+
+57
+00:05:02,422 --> 00:05:05,325
+After you enter the coordinates, it moves on its own.
+
+58
+00:05:13,274 --> 00:05:15,058
+Well, I've gotta get going now.
+
+59
+00:05:18,910 --> 00:05:21,113
+Thanks a lot, big brother.
+
+60
+00:05:21,861 --> 00:05:24,789
+My name's Kento. Kento Nonomiya.
+
+61
+00:05:25,401 --> 00:05:28,613
+My name's Yuuki Onozawa. I'm in the third grade!
+
+62
+00:05:28,638 --> 00:05:30,408
+Oh? I'm in the seventh grade.
+
+63
+00:05:30,794 --> 00:05:33,653
+Seventh grade? Just like my big sister!
+
+64
+00:05:35,446 --> 00:05:37,335
+I hope I'll see you again.
+
+65
+00:05:37,383 --> 00:05:38,779
+Sure. See you!
+
+66
+00:05:43,547 --> 00:05:45,821
+That's the type they call an otaku.
+
+67
+00:05:46,351 --> 00:05:48,176
+A robotaku.
+
+68
+00:05:49,985 --> 00:05:55,466
+This earthquake is being called the greatest urban
+near-field earthquake ever observed in this nation.
+
+69
+00:05:55,690 --> 00:06:01,344
+According to the government crisis management
+center, the death toll is estimated at 180,000
+
+70
+00:06:01,926 --> 00:06:07,922
+even higher than the 140,000 killed
+in the Great Kanto earthquake of 1923.
+
+71
+00:06:08,121 --> 00:06:13,850
+While the fires around the quake's epicenter are being
+extinguished, according to Tokyo Fire Department reports,
+
+72
+00:06:14,009 --> 00:06:20,196
+150,000 victims may still be threatened,
+with 200,000 injured, although that number is...
+
+73
+00:06:20,221 --> 00:06:22,079
+No word on Sancha, huh?
+
+74
+00:06:23,515 --> 00:06:24,431
+Mari...
+
+75
+00:06:25,362 --> 00:06:27,920
+Mm. I'm okay. Thank you.
+
+76
+00:06:41,514 --> 00:06:43,014
+What? What's wrong?
+
+77
+00:06:43,102 --> 00:06:43,895
+A rat!
+
+78
+00:06:45,153 --> 00:06:46,067
+A rat?
+
+79
+00:06:50,590 --> 00:06:51,858
+Oh. The store...
+
+80
+00:06:51,898 --> 00:06:55,567
+Yeah. There are lots of rats in this city, so...
+
+81
+00:06:57,237 --> 00:06:57,744
+What?
+
+82
+00:06:57,769 --> 00:06:58,531
+Yuuki?!
+
+83
+00:06:58,769 --> 00:06:59,634
+What's wrong?
+
+84
+00:07:01,362 --> 00:07:02,467
+I'm OK.
+
+85
+00:07:03,002 --> 00:07:05,912
+My head was just hurting a little, that's all.
+
+86
+00:07:06,954 --> 00:07:09,529
+Ow! Your head is burning up!
+
+87
+00:07:09,941 --> 00:07:11,799
+Maybe it's heatstroke.
+
+88
+00:07:16,351 --> 00:07:19,855
+Wait in the shade. I'll go see
+if there's any medicine I can get.
+
+89
+00:07:20,676 --> 00:07:21,442
+OK.
+
+90
+00:07:27,151 --> 00:07:29,883
+Look, tell us if you feel sick, okay?
+
+91
+00:07:29,985 --> 00:07:32,639
+It'll be a lot of trouble if you start fainting on us.
+
+92
+00:07:34,084 --> 00:07:34,925
+Sorry.
+
+93
+00:07:35,101 --> 00:07:36,102
+Jeez...
+
+94
+00:07:48,837 --> 00:07:50,527
+Oh! It's Kento!
+
+95
+00:07:50,552 --> 00:07:52,281
+What? Hey! Keep still!
+
+96
+00:07:52,416 --> 00:07:55,886
+I'm afraid This is all the
+municipal services people gave me.
+
+97
+00:07:55,911 --> 00:07:57,379
+Thanks, it's a real help.
+
+98
+00:07:57,520 --> 00:07:59,110
+Yuuki!
+
+99
+00:07:59,422 --> 00:08:02,489
+Mirai? Wait! What are you doing? Where are you going?
+
+100
+00:08:02,514 --> 00:08:04,682
+Sorry! I'll be right back!
+
+101
+00:08:05,694 --> 00:08:06,650
+Oh...!
+
+102
+00:08:13,512 --> 00:08:15,113
+Kento!
+
+103
+00:08:15,404 --> 00:08:16,279
+Yuuki.
+
+104
+00:08:18,935 --> 00:08:22,844
+Yuuki! We three promised to stick together, right?
+
+105
+00:08:24,438 --> 00:08:25,479
+Robotaku.
+
+106
+00:08:27,874 --> 00:08:31,304
+Sis, we saw those frogbots at the Miraikan, remember?
+
+107
+00:08:33,546 --> 00:08:36,657
+Frogbots? Yeah, they do look like frogs, don't they?
+
+108
+00:08:37,183 --> 00:08:39,996
+They're waterproof to 20 atmospheres.
+
+109
+00:08:40,138 --> 00:08:41,940
+Waterproof to 20 atmospheres?
+
+110
+00:08:41,965 --> 00:08:45,812
+Right. They can withstand the pressure
+up to 200 meters below the surface.
+
+111
+00:08:45,890 --> 00:08:47,830
+The question is whether that's necessary or not.
+
+112
+00:08:47,855 --> 00:08:48,624
+Wow...
+
+113
+00:08:49,084 --> 00:08:50,898
+Definitely otaku.
+
+114
+00:08:50,929 --> 00:08:51,794
+Otaku?
+
+115
+00:08:52,703 --> 00:08:55,756
+I mean... You know all this stuff about robots.
+
+116
+00:08:57,947 --> 00:08:59,565
+Um. Cause I like them.
+
+117
+00:09:00,597 --> 00:09:03,603
+If it weren't for robots, my family might have died.
+
+118
+00:09:06,220 --> 00:09:08,438
+That was back when I was in elementary school.
+
+119
+00:09:12,399 --> 00:09:13,763
+I can see the survivors.
+
+120
+00:09:13,788 --> 00:09:16,406
+Okay, don't use the scope. Proceed carefully.
+
+121
+00:09:16,515 --> 00:09:20,848
+1 and 2, I need a power cutter and a
+spreader right now to get the door open!
+
+122
+00:09:20,873 --> 00:09:21,506
+Roger!
+
+123
+00:09:50,842 --> 00:09:52,718
+If that robot hadn't been there,
+
+124
+00:09:52,882 --> 00:09:55,250
+I don't think they could have saved my whole family.
+
+125
+00:09:56,468 --> 00:09:59,944
+That's why I want to design
+rescue robots like that, some day.
+
+126
+00:09:59,969 --> 00:10:01,452
+To help someone else.
+
+127
+00:10:03,832 --> 00:10:07,255
+I'm sorry I called you an otaku before.
+
+128
+00:10:08,295 --> 00:10:11,687
+That's okay. After all, I do like robots a lot.
+
+129
+00:10:12,422 --> 00:10:14,395
+Until that robot saved them,
+
+130
+00:10:14,531 --> 00:10:17,558
+I always thought my parents
+and my big sister were annoying.
+
+131
+00:10:18,731 --> 00:10:22,129
+But, that night, I was really
+praying that I wouldn't lose them.
+
+132
+00:10:25,568 --> 00:10:26,984
+Do you two live around here?
+
+133
+00:10:27,929 --> 00:10:30,630
+Uh-uh. We live near Kinuta Park.
+
+134
+00:10:30,836 --> 00:10:33,992
+I see. Well, I hope you get home, soon.
+
+135
+00:10:34,176 --> 00:10:34,928
+Uh.
+
+136
+00:10:35,174 --> 00:10:36,103
+Oh, yeah.
+
+137
+00:10:39,290 --> 00:10:40,465
+For you, Yuuki.
+
+138
+00:10:40,914 --> 00:10:41,941
+I can have it?!
+
+139
+00:10:41,966 --> 00:10:44,015
+Sure. I've already memorized it.
+
+140
+00:10:45,069 --> 00:10:46,351
+Thank you!
+
+141
+00:10:50,953 --> 00:10:53,522
+How are we going to explain this to Mari?
+
+142
+00:10:55,707 --> 00:10:58,531
+God! I was really worried about you!
+
+143
+00:10:58,602 --> 00:10:59,849
+I'm sorry.
+
+144
+00:11:00,764 --> 00:11:01,868
+How do you feel?
+
+145
+00:11:01,893 --> 00:11:05,205
+He's fine. You saw how he was running before.
+
+146
+00:11:06,431 --> 00:11:07,554
+I'm fine.
+
+147
+00:11:21,227 --> 00:11:24,063
+Yuuki? Are you okay?
+
+148
+00:11:25,305 --> 00:11:26,970
+Why don't we rest for a while?
+
+149
+00:11:29,857 --> 00:11:31,636
+A frog baseball team...
+
+150
+00:11:32,577 --> 00:11:34,670
+What are you talking about, Yuuki?
+
+151
+00:11:40,376 --> 00:11:41,806
+It really is!
+
+152
+00:11:47,592 --> 00:11:48,569
+It's raining.
+
+153
+00:11:48,924 --> 00:11:49,758
+Yeah.
+
+154
+00:12:15,885 --> 00:12:17,235
+I really appreciate it.
+
+155
+00:12:17,260 --> 00:12:19,629
+No trouble at all. See you in a bit.
+
+156
+00:12:21,790 --> 00:12:24,391
+He said he'd be back in 20 or 30 minutes.
+
+157
+00:12:25,092 --> 00:12:27,713
+Let's rest a little till then. Why don't we?
+
+158
+00:12:35,565 --> 00:12:36,747
+Found another one?
+
+159
+00:12:38,208 --> 00:12:38,955
+Yeah.
+
+160
+00:12:42,270 --> 00:12:44,825
+This place is full of frogs, huh?
+
+161
+00:12:45,119 --> 00:12:45,865
+Uh.
+
+162
+00:12:45,890 --> 00:12:48,957
+Maybe the owner really likes frogs, like you do.
+
+163
+00:12:50,326 --> 00:12:51,363
+Sis...
+
+164
+00:12:51,458 --> 00:12:52,395
+You're finished?
+
+165
+00:12:52,578 --> 00:12:53,834
+Don't want it.
+
+166
+00:12:56,313 --> 00:12:57,794
+Are you sure you're okay?
+
+167
+00:12:58,362 --> 00:12:59,548
+I'm fine.
+
+168
+00:12:59,573 --> 00:13:02,321
+Maybe he caught a cold from sleeping outside.
+
+169
+00:13:04,142 --> 00:13:05,476
+Oh, no sis!
+
+170
+00:13:06,367 --> 00:13:07,214
+Yuuki!
+
+171
+00:13:10,791 --> 00:13:11,922
+Are you okay?!
+
+172
+00:13:16,094 --> 00:13:17,131
+I'm... I'm fine...
+
+173
+00:13:18,022 --> 00:13:19,555
+I just ate too much.
+
+174
+00:13:24,373 --> 00:13:26,142
+Get some sleep, okay?
+
+175
+00:13:47,821 --> 00:13:50,120
+It's okay. It's okay.
+
+176
+00:13:56,007 --> 00:13:56,889
+Earthquake?
+
+177
+00:13:56,914 --> 00:13:59,096
+We're okay. It was just a little one.
+
+178
+00:13:59,813 --> 00:14:02,143
+Looks like Mari, even slept right through it.
+
+179
+00:14:05,786 --> 00:14:09,130
+I was dreaming about the robot exhibit.
+
+180
+00:14:09,671 --> 00:14:12,107
+You really like robots, don't you?
+
+181
+00:14:12,428 --> 00:14:15,262
+But I think Kento's even more amazing.
+
+182
+00:14:15,484 --> 00:14:17,352
+'Cuz he's a robotaku?
+
+183
+00:14:18,128 --> 00:14:20,019
+He is a robot expert.
+
+184
+00:14:22,116 --> 00:14:24,526
+Kento's the same age as me,
+
+185
+00:14:25,488 --> 00:14:28,522
+but it's so great that he knows just what he wants to do.
+
+186
+00:14:32,717 --> 00:14:33,473
+Know what?
+
+187
+00:14:33,666 --> 00:14:37,372
+Up till now, all I've done is complain about Dad and Mom.
+
+188
+00:14:37,397 --> 00:14:37,983
+You know,
+
+189
+00:14:38,448 --> 00:14:42,400
+But they've actually done all
+sorts of things for us, haven't they?
+
+190
+00:14:42,992 --> 00:14:46,265
+All I ever thought about... were the bad things...
+
+191
+00:14:46,925 --> 00:14:47,773
+And now...
+
+192
+00:14:48,977 --> 00:14:52,840
+I realize how much I don't want them to die.
+
+193
+00:14:54,464 --> 00:14:58,754
+When we get home... Let's be a little nicer to them, okay?
+
+194
+00:14:59,916 --> 00:15:03,696
+Yeah... I hope we can all be nice to each other.
+
+195
+00:15:04,296 --> 00:15:05,101
+Yeah.
+
+196
+00:15:06,433 --> 00:15:08,700
+Let's throw Mom another birthday party.
+
+197
+00:15:09,312 --> 00:15:13,380
+It'll be a surprise party. And we'll buy her a round cake.
+
+198
+00:15:13,658 --> 00:15:14,920
+Yeah.
+
+199
+00:15:17,314 --> 00:15:19,100
+Hey, Sis?
+
+200
+00:15:19,962 --> 00:15:22,580
+The reason I wanted to go to Odaiba...
+
+201
+00:15:23,020 --> 00:15:26,122
+was 'cuz I wanted us to see the bridge together.
+
+202
+00:15:26,460 --> 00:15:28,882
+Yeah. You told me that back in Shiba Park.
+
+203
+00:15:29,070 --> 00:15:30,390
+I did?
+
+204
+00:15:31,684 --> 00:15:34,473
+Well, we were arguing, so...
+
+205
+00:15:38,111 --> 00:15:41,634
+Next time, let's all of us go back to Odaiba.
+
+206
+00:15:41,659 --> 00:15:44,821
+Sure thing. Except the bridge is gone, now.
+
+207
+00:15:45,332 --> 00:15:47,100
+They'll build a new one.
+
+208
+00:15:52,087 --> 00:15:52,787
+Yuuki?
+
+209
+00:15:55,402 --> 00:15:57,437
+That's my Frogbot 1!
+
+210
+00:15:58,444 --> 00:16:00,240
+Hey! Wait! Where are you going?
+
+211
+00:16:00,265 --> 00:16:01,796
+Just to watch the robots!
+
+212
+00:16:02,491 --> 00:16:03,137
+Uh?
+
+213
+00:16:26,038 --> 00:16:27,633
+I touched it!
+
+214
+00:16:30,772 --> 00:16:33,375
+Hey, kid! Don't bother it, okay?
+
+215
+00:16:36,758 --> 00:16:39,153
+Yuuki, let's go back to Mari.
+
+216
+00:16:40,676 --> 00:16:41,344
+Right.
+
+217
+00:16:43,760 --> 00:16:44,341
+What?
+
+218
+00:16:53,977 --> 00:16:56,966
+Yuuki, did you really see Kento there?
+
+219
+00:16:57,353 --> 00:16:58,254
+Uh.
+
+220
+00:17:01,470 --> 00:17:04,998
+See? There's nobody here. We can't go in, anyway.
+
+221
+00:17:06,083 --> 00:17:07,552
+Let's go back, Yuuki.
+
+222
+00:17:07,730 --> 00:17:08,405
+Emm.
+
+223
+00:17:10,706 --> 00:17:12,711
+Sis! Up there! Look!
+
+224
+00:17:19,737 --> 00:17:21,602
+What is he doing up here?!
+
+225
+00:17:25,077 --> 00:17:26,569
+Kento!
+
+226
+00:17:26,836 --> 00:17:29,970
+What are you doing?! That's dangerous!
+
+227
+00:17:29,995 --> 00:17:33,798
+The robot's leg is caught in
+some debris! Keep away from here!
+
+228
+00:17:34,393 --> 00:17:35,260
+Huh?!
+
+229
+00:17:35,285 --> 00:17:37,921
+You're the one who needs to get away from there!
+
+230
+00:17:38,053 --> 00:17:40,472
+Agh! What's he doing now?!
+
+231
+00:17:51,123 --> 00:17:53,246
+Yuuki! Go get Mari!
+
+232
+00:17:53,401 --> 00:17:54,000
+Uh!
+
+233
+00:17:55,618 --> 00:17:56,349
+Oh...!
+
+234
+00:18:03,099 --> 00:18:04,007
+Kento!
+
+235
+00:18:06,826 --> 00:18:09,054
+Stay back! Get an adult!
+
+236
+00:18:09,123 --> 00:18:11,522
+I already called for one, you dope!
+
+237
+00:18:14,489 --> 00:18:16,654
+Kento, reach out your hand!
+
+238
+00:18:17,689 --> 00:18:18,662
+Take this!
+
+239
+00:18:18,687 --> 00:18:19,895
+Let it go!
+
+240
+00:18:21,038 --> 00:18:22,907
+Just leave it already!
+
+241
+00:18:37,843 --> 00:18:40,743
+Thanks! You're pretty strong, aren't you?
+
+242
+00:18:43,065 --> 00:18:45,345
+Okay, I'll get up top and pull you up.
+
+243
+00:18:51,991 --> 00:18:52,623
+Here!
+
+244
+00:19:02,999 --> 00:19:03,927
+Close one, huh?
+
+245
+00:19:04,173 --> 00:19:07,605
+That was a little more than
+close! Whose fault was this any...
+
+246
+00:19:11,810 --> 00:19:12,602
+You're hurt?!
+
+247
+00:19:12,634 --> 00:19:15,717
+Are you in danger? Don't move! We'll be right up there!
+
+248
+00:19:16,043 --> 00:19:19,402
+Concentrate the search on the area
+where the scanner signal was strongest!
+
+249
+00:19:19,427 --> 00:19:22,174
+We use these robots to avoid secondary disasters.
+
+250
+00:19:22,199 --> 00:19:25,121
+Which is rendered pointless if
+you go and get yourselves hurt!
+
+251
+00:19:25,395 --> 00:19:26,878
+You're both old enough to know better!
+
+252
+00:19:27,107 --> 00:19:29,377
+Now don't pull a damn fool stunt like this again!
+
+253
+00:19:29,496 --> 00:19:30,103
+Yes, sir.
+
+254
+00:19:30,128 --> 00:19:30,793
+Yes, sir.
+
+255
+00:19:31,963 --> 00:19:33,734
+Personnel or equipment, any problems?
+
+256
+00:19:33,759 --> 00:19:34,742
+No, sir!
+
+257
+00:19:34,965 --> 00:19:36,226
+Okay, next one!
+
+258
+00:19:36,251 --> 00:19:36,720
+Captain..
+
+259
+00:19:36,745 --> 00:19:37,609
+Mirai...
+
+260
+00:19:38,658 --> 00:19:40,963
+I'm sorry for putting you in danger like that.
+
+261
+00:19:42,007 --> 00:19:45,531
+And... For saving me... Thank you.
+
+262
+00:19:46,550 --> 00:19:48,614
+That's okay. It was nothing...
+
+263
+00:19:48,997 --> 00:19:50,878
+'Cuz Sis is brave, huh?
+
+264
+00:19:51,180 --> 00:19:54,129
+There was nothing brave about this, for heaven's sake!
+
+265
+00:19:54,154 --> 00:19:56,449
+What did you plan to do if things went wrong?!
+
+266
+00:19:57,224 --> 00:19:57,949
+I'm sorry.
+
+267
+00:19:58,689 --> 00:20:02,178
+Kento, please tell me more about robots next time.
+
+268
+00:20:02,338 --> 00:20:02,908
+Uh.
+
+269
+00:20:03,523 --> 00:20:06,222
+I'll see you again, I promise.
+
+270
+00:20:11,788 --> 00:20:13,476
+Okay, shall we go?
+
+271
+00:20:13,501 --> 00:20:14,056
+Uh!
+
+272
+00:20:15,175 --> 00:20:15,881
+What?
+
+273
+00:20:16,280 --> 00:20:18,711
+I was thinking how cool you were, Sis!
+
+274
+00:20:19,318 --> 00:20:23,375
+Next time there's a robot exhibition
+in Tokyo, let's all go together!
+
+275
+00:20:23,795 --> 00:20:25,398
+Dad and Mom and you.
+
+276
+00:20:25,591 --> 00:20:26,900
+And Kento, too!
+
+277
+00:20:28,346 --> 00:20:28,706
+Uh.
+
+278
+00:20:28,902 --> 00:20:31,476
+Mirai! Hey, Yuuki!
+
+279
+00:20:32,734 --> 00:20:33,576
+Shall we go?
+
+280
+00:20:33,977 --> 00:20:34,647
+Uh!
+
+281
+00:20:48,520 --> 00:20:49,244
+Yuuki!
+
+282
+00:20:50,260 --> 00:20:52,494
+Yuuki! Yuuki!
+
+283
+00:20:53,081 --> 00:20:56,147
+What's wrong?! Answer me! Yuuki!
+
+284
+00:20:57,201 --> 00:20:58,047
+Yuuki!
+
+285
+00:22:21,542 --> 00:22:25,880
+Number of injured now exceeds the
+Great Kanto Earthquake, still climbing.
+

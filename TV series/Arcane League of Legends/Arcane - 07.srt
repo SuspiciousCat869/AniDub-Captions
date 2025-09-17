@@ -1,0 +1,1403 @@
+﻿1
+00:00:54,475 --> 00:00:56,275
+I knew it was a mistake trusting you.
+
+2
+00:00:56,492 --> 00:00:58,108
+You've been a real picnic yourself.
+
+3
+00:00:58,530 --> 00:01:02,794
+I'm not the one who walked us into,
+not one, but two of Silco's traps.
+
+4
+00:01:02,819 --> 00:01:05,194
+This isn't Silco, it's someone else.
+
+5
+00:01:05,283 --> 00:01:06,152
+How do you know?
+
+6
+00:01:06,725 --> 00:01:08,041
+'Cause we'd already be dead.
+
+7
+00:01:08,141 --> 00:01:09,308
+Oh, very nice.
+
+8
+00:01:09,449 --> 00:01:12,272
+When were you planning to tell me
+that your lunatic sister works for him?
+
+9
+00:01:12,297 --> 00:01:14,986
+Just as soon as you came clean about
+what the hell you're really doing down here.
+
+10
+00:01:15,022 --> 00:01:16,149
+I told you the truth.
+
+11
+00:01:16,173 --> 00:01:16,681
+Bullshit.
+
+12
+00:01:16,706 --> 00:01:18,069
+What was that glowing stone?
+
+13
+00:01:20,163 --> 00:01:21,149
+That's what I thought.
+
+14
+00:01:25,382 --> 00:01:26,022
+What's going on?
+
+15
+00:01:26,047 --> 00:01:28,068
+Hey, stop! Get your hands off of me!
+
+16
+00:01:28,092 --> 00:01:28,950
+Leave her alone!
+
+17
+00:01:28,994 --> 00:01:29,821
+Let me go!
+
+18
+00:01:29,845 --> 00:01:30,360
+Vi?
+
+19
+00:01:31,322 --> 00:01:31,912
+Vi!
+
+20
+00:01:33,316 --> 00:01:33,969
+Vi!
+
+21
+00:02:00,531 --> 00:02:02,210
+You shy? Or just ugly?
+
+22
+00:02:23,324 --> 00:02:24,759
+You look good for a dead girl.
+
+23
+00:03:34,771 --> 00:03:35,351
+Ekko?
+
+24
+00:03:39,296 --> 00:03:40,446
+What do you know about this?
+
+25
+00:03:42,935 --> 00:03:45,314
+Nothing. What the hell is this all about?
+
+26
+00:03:46,427 --> 00:03:47,851
+What were you doing with Jinx?
+
+27
+00:03:48,012 --> 00:03:49,331
+Her name is Powder.
+
+28
+00:03:49,520 --> 00:03:52,002
+And I just found her when you and your goons showed up.
+
+29
+00:03:53,392 --> 00:03:54,899
+It's me. Vi.
+
+30
+00:03:55,085 --> 00:03:59,117
+Same person who used to take you down to the junk
+heap and hose you down when you got covered in grease.
+
+31
+00:04:01,161 --> 00:04:02,396
+That was a long time ago.
+
+32
+00:04:03,641 --> 00:04:04,640
+People change.
+
+33
+00:04:04,892 --> 00:04:06,655
+Yeah. I'm getting that.
+
+34
+00:04:08,141 --> 00:04:09,634
+Are you working for Silco?
+
+35
+00:04:11,112 --> 00:04:12,214
+Fuck. You.
+
+36
+00:04:12,699 --> 00:04:13,997
+I thought you were dead.
+
+37
+00:04:14,266 --> 00:04:16,781
+Now you show up with a Piltie
+and give her a tour of the Lanes?
+
+38
+00:04:16,966 --> 00:04:19,542
+You were following us? Why didn't you say something?
+
+39
+00:04:19,975 --> 00:04:21,391
+I didn't know if I could trust you.
+
+40
+00:04:21,422 --> 00:04:24,065
+So… so you just come out swinging?
+
+41
+00:04:24,940 --> 00:04:26,731
+Gee, I wonder who I learned that from?
+
+42
+00:04:27,033 --> 00:04:30,114
+Ah, well, you shoulda learned more.
+You still punch like a little boy.
+
+43
+00:04:30,139 --> 00:04:31,811
+And you still block with your face.
+
+44
+00:04:34,939 --> 00:04:36,830
+I remember when you wouldn't stand up to me.
+
+45
+00:04:40,796 --> 00:04:41,904
+I missed you, little man.
+
+46
+00:04:44,625 --> 00:04:45,970
+How long have you had those off?
+
+47
+00:04:47,069 --> 00:04:48,354
+How long have you been whining?
+
+48
+00:04:55,436 --> 00:04:57,067
+Hmm. Fascinating.
+
+49
+00:05:00,606 --> 00:05:02,973
+I would very much like to see the device.
+
+50
+00:05:04,350 --> 00:05:06,246
+This, uh, Hexcore.
+
+51
+00:05:06,936 --> 00:05:09,791
+That may be difficult to arrange.
+
+52
+00:05:12,175 --> 00:05:16,507
+I've tried every combination of
+runes, but… it's always the same.
+
+53
+00:05:17,288 --> 00:05:20,713
+The subject, wither and rot.
+
+54
+00:05:21,205 --> 00:05:25,099
+Uh, perhaps the error resides
+not with your calculations but…
+
+55
+00:05:25,831 --> 00:05:26,848
+with your subjects.
+
+56
+00:05:27,506 --> 00:05:30,028
+Nature has made us intolerant to change,
+
+57
+00:05:30,053 --> 00:05:34,658
+but fortunately, we have the
+capacity to change our nature.
+
+58
+00:05:35,445 --> 00:05:37,397
+And this is… Shimmer?
+
+59
+00:05:37,655 --> 00:05:38,441
+A variant.
+
+60
+00:05:39,109 --> 00:05:42,831
+It should provide everything one
+needs to survive a violent transition.
+
+61
+00:05:43,346 --> 00:05:44,758
+Will it work on plants?
+
+62
+00:05:45,442 --> 00:05:47,861
+You aren't here about the plants, are you?
+
+63
+00:05:49,243 --> 00:05:51,358
+I know the look of a doomed man.
+
+64
+00:05:52,854 --> 00:05:54,145
+I must warn you.
+
+65
+00:05:55,192 --> 00:05:58,151
+If you take this path, they will despise you.
+
+66
+00:05:59,207 --> 00:06:03,270
+Love and legacy are the sacrifices we make for progress.
+
+67
+00:06:04,812 --> 00:06:07,126
+It's why I parted ways with Heimerdinger.
+
+68
+00:06:12,324 --> 00:06:13,638
+Jayce will understand.
+
+69
+00:06:14,136 --> 00:06:14,875
+Perhaps.
+
+70
+00:06:49,781 --> 00:06:52,114
+Hammer work is such a delicate art.
+
+71
+00:06:52,340 --> 00:06:53,141
+How'd you find me?
+
+72
+00:06:53,400 --> 00:06:56,698
+You're the de facto head of the
+Council. People notice where you go.
+
+73
+00:06:57,792 --> 00:06:58,640
+Huh. Don't remind me.
+
+74
+00:06:59,127 --> 00:07:01,248
+This border shutdown has people agitated.
+
+75
+00:07:01,787 --> 00:07:02,535
+They should be.
+
+76
+00:07:05,058 --> 00:07:07,720
+Marcus brought this to me. It's an explosive.
+
+77
+00:07:08,553 --> 00:07:10,369
+I tried taking it apart and it nearly killed me.
+
+78
+00:07:10,687 --> 00:07:12,573
+Whoever built it knows exactly what they're doing.
+
+79
+00:07:13,350 --> 00:07:16,703
+This and Shimmer. It's hard to
+believe what they're capable of.
+
+80
+00:07:21,824 --> 00:07:23,311
+Is that what's really bothering you?
+
+81
+00:07:25,962 --> 00:07:29,222
+He was my mentor, Mel. And I betrayed him.
+
+82
+00:07:32,026 --> 00:07:34,270
+Everything you said about him was true.
+
+83
+00:07:35,132 --> 00:07:38,588
+My family cast me out and yet,
+part of me still loves them.
+
+84
+00:07:39,846 --> 00:07:42,129
+Heimerdinger will understand eventually.
+
+85
+00:07:42,985 --> 00:07:46,348
+It's your time now, Jayce. No more red tape.
+
+86
+00:07:46,415 --> 00:07:50,198
+You can bring Hextech to the masses,
+just like you've always dreamed.
+
+87
+00:07:52,998 --> 00:07:55,475
+Hmm. First, I have to save Viktor.
+
+88
+00:07:55,748 --> 00:07:56,507
+Where is he?
+
+89
+00:07:57,348 --> 00:07:57,898
+I don't know.
+
+90
+00:07:59,149 --> 00:08:01,599
+He disappeared. He does that sometimes.
+
+91
+00:08:02,229 --> 00:08:03,423
+No sign of Caitlyn either.
+
+92
+00:08:03,681 --> 00:08:04,562
+The Kiramman girl?
+
+93
+00:08:04,808 --> 00:08:05,509
+It's just…
+
+94
+00:08:07,369 --> 00:08:08,303
+Uh, never mind.
+
+95
+00:08:08,327 --> 00:08:10,621
+Hey. We'll get through this.
+
+96
+00:08:11,809 --> 00:08:14,031
+I'll stall the Council but they'll soon need their leader.
+
+97
+00:08:14,857 --> 00:08:15,962
+In the meantime…
+
+98
+00:08:18,308 --> 00:08:20,009
+Try not to lose your nuts.
+
+99
+00:08:32,339 --> 00:08:36,711
+All our business is down. Enforcers are
+searching anyone who crosses the bridge.
+
+100
+00:08:37,331 --> 00:08:41,241
+Marcus is following my orders.
+Preventing Vi and Caitlyn from returning.
+
+101
+00:08:41,677 --> 00:08:42,987
+Or he's finally flipped.
+
+102
+00:08:44,213 --> 00:08:45,102
+Hmm.
+
+103
+00:08:49,288 --> 00:08:51,121
+The chembarons scheduled an assembly.
+
+104
+00:08:52,350 --> 00:08:53,453
+Oh.
+
+105
+00:08:54,556 --> 00:08:55,865
+I've had enough headaches.
+
+106
+00:08:56,103 --> 00:08:58,036
+It didn't sound like a request.
+
+107
+00:09:03,731 --> 00:09:04,694
+Where are you going?
+
+108
+00:09:04,929 --> 00:09:06,156
+I need to find Jinx.
+
+109
+00:09:06,228 --> 00:09:06,738
+Sir.
+
+110
+00:09:06,996 --> 00:09:07,644
+What?
+
+111
+00:09:08,304 --> 00:09:10,821
+I got more in common with cave lice than Jinx.
+
+112
+00:09:12,266 --> 00:09:17,251
+But let's just say I didn't always
+see eye-to-eye with my old man.
+
+113
+00:09:18,942 --> 00:09:19,628
+And?
+
+114
+00:09:21,391 --> 00:09:24,072
+She'll come to you when she's ready.
+
+115
+00:09:28,396 --> 00:09:29,402
+Hmm.
+
+116
+00:09:44,017 --> 00:09:46,311
+You lost her.
+
+117
+00:09:46,683 --> 00:09:49,458
+I didn't lose her! They took her.
+
+118
+00:09:49,921 --> 00:09:52,475
+She cares about that enforcer, you saw it.
+
+119
+00:09:54,526 --> 00:09:57,824
+She was there for me! Not the enforcer.
+
+120
+00:09:58,073 --> 00:09:59,584
+Remember her name?
+
+121
+00:09:59,748 --> 00:10:01,735
+Why would I remember her name?
+
+122
+00:10:04,324 --> 00:10:06,398
+Well, she's just some stupid topsider!
+
+123
+00:10:20,475 --> 00:10:21,102
+Caitlyn.
+
+124
+00:10:43,158 --> 00:10:44,007
+Pow.
+
+125
+00:10:50,364 --> 00:10:52,281
+Come on. Go!
+
+126
+00:10:54,475 --> 00:10:55,548
+I got it.
+
+127
+00:10:55,618 --> 00:10:57,248
+Whoo-hoo!
+
+128
+00:10:57,948 --> 00:10:59,024
+Is that real tree?
+
+129
+00:10:59,683 --> 00:11:00,589
+Pretty cool, huh?
+
+130
+00:11:01,016 --> 00:11:03,319
+When I first saw it, I knew this was the place.
+
+131
+00:11:03,936 --> 00:11:06,638
+If a single seed could make it down here, so could we.
+
+132
+00:11:07,791 --> 00:11:08,844
+You built all this?
+
+133
+00:11:09,683 --> 00:11:10,302
+Not alone.
+
+134
+00:11:11,274 --> 00:11:12,239
+After Vander…
+
+135
+00:11:14,551 --> 00:11:15,076
+…died,
+
+136
+00:11:15,609 --> 00:11:17,501
+Silco flooded the lanes with Shimmer.
+
+137
+00:11:18,560 --> 00:11:20,199
+He didn't care what it did to people.
+
+138
+00:11:21,143 --> 00:11:23,069
+Everyone here was an addict or a victim.
+
+139
+00:11:24,241 --> 00:11:24,752
+Hi.
+
+140
+00:11:25,250 --> 00:11:27,172
+They needed somewhere safe to start again.
+
+141
+00:11:30,058 --> 00:11:33,650
+I should have been there. For you. For everyone.
+
+142
+00:11:33,947 --> 00:11:35,903
+That's a good way to drive yourself crazy.
+
+143
+00:11:37,475 --> 00:11:41,037
+If I just went with you that day,
+maybe none of this would have happened.
+
+144
+00:11:41,839 --> 00:11:45,800
+Or maybe you'd be dead. Or… changed.
+
+145
+00:11:46,312 --> 00:11:47,515
+Powder's gone, Vi.
+
+146
+00:11:47,691 --> 00:11:49,594
+All that's left is Jinx and she belongs to Silco.
+
+147
+00:11:49,619 --> 00:11:53,266
+You're wrong. She's still in there. I can reach her.
+
+148
+00:11:53,291 --> 00:11:54,046
+You can't.
+
+149
+00:11:57,306 --> 00:11:58,681
+I know my sister.
+
+150
+00:12:02,106 --> 00:12:03,510
+I got one more thing to show you.
+
+151
+00:12:15,852 --> 00:12:18,385
+This is everyone we've lost.
+
+152
+00:12:21,016 --> 00:12:22,160
+The price of our freedom.
+
+153
+00:12:23,201 --> 00:12:24,637
+Some of it was Enforcers.
+
+154
+00:12:25,597 --> 00:12:26,654
+Most was Silco.
+
+155
+00:12:28,803 --> 00:12:33,034
+Your sister works for him not because
+she has to, but because she wants to.
+
+156
+00:12:33,686 --> 00:12:35,521
+I'm sorry, but that's who she is now.
+
+157
+00:12:50,529 --> 00:12:51,834
+Get down!
+
+158
+00:12:51,933 --> 00:12:52,821
+Let us through!
+
+159
+00:12:52,845 --> 00:12:53,473
+Come on!
+
+160
+00:13:02,159 --> 00:13:03,493
+We understand.
+
+161
+00:13:03,683 --> 00:13:04,996
+Just stand down!
+
+162
+00:13:06,141 --> 00:13:07,324
+Thank you for alerting me, Sheriff.
+
+163
+00:13:07,887 --> 00:13:09,315
+Not a problem, Councilor.
+
+164
+00:13:10,656 --> 00:13:12,541
+Jayce, what is this?
+
+165
+00:13:14,505 --> 00:13:16,202
+Do you have any idea how this looks?
+
+166
+00:13:16,513 --> 00:13:18,948
+I order a blockade and my own partner violates it?
+
+167
+00:13:20,516 --> 00:13:23,147
+You ordered this? Why?
+
+168
+00:13:23,467 --> 00:13:26,594
+There are people down there who
+seem hell-bent on destroying us.
+
+169
+00:13:26,839 --> 00:13:27,747
+What were you doing?
+
+170
+00:13:28,417 --> 00:13:31,044
+I was consulting a friend about our quandary.
+
+171
+00:13:31,308 --> 00:13:32,892
+I told you, I knew someone.
+
+172
+00:13:32,953 --> 00:13:34,812
+Well, you didn't say they were from the undercity.
+
+173
+00:13:35,266 --> 00:13:36,723
+What difference does that make?
+
+174
+00:13:36,949 --> 00:13:39,158
+What diff… They're dangerous.
+
+175
+00:13:40,265 --> 00:13:41,894
+I'm from the undercity.
+
+176
+00:13:42,319 --> 00:13:43,101
+You're right.
+
+177
+00:13:44,916 --> 00:13:45,973
+I'm sorry.
+
+178
+00:13:46,371 --> 00:13:47,580
+I've had a lot on my plate.
+
+179
+00:13:48,583 --> 00:13:49,839
+Was your friend able to help?
+
+180
+00:13:51,516 --> 00:13:52,016
+No.
+
+181
+00:13:52,683 --> 00:13:56,337
+No, he said, "Nature was
+resistant to this sort of tampering."
+
+182
+00:13:57,308 --> 00:13:58,927
+All right, we'll keep at it.
+
+183
+00:14:20,287 --> 00:14:23,653
+First, this wild attack in the heart of Piltover.
+
+184
+00:14:24,016 --> 00:14:25,750
+Now, the border's closing.
+
+185
+00:14:26,641 --> 00:14:28,969
+We're bleeding money and for what?
+
+186
+00:14:29,516 --> 00:14:33,274
+His dreams of rebellion? He's losing control.
+
+187
+00:14:34,054 --> 00:14:35,514
+If we stand together…
+
+188
+00:14:36,197 --> 00:14:38,339
+We aren't due for an assembly.
+
+189
+00:14:42,922 --> 00:14:43,909
+We should be.
+
+190
+00:14:44,613 --> 00:14:47,968
+Ever since your stunt topside,
+profits have been plummeting.
+
+191
+00:14:48,601 --> 00:14:51,274
+He's right. Merchandise is frozen at the border.
+
+192
+00:14:51,636 --> 00:14:53,671
+Topsiders are too afraid to cross.
+
+193
+00:14:53,997 --> 00:14:57,329
+We're all wondering, what's your plan to fix this?
+
+194
+00:14:59,868 --> 00:15:01,811
+You're all wondering, are you?
+
+195
+00:15:04,798 --> 00:15:08,382
+Way I see it, we should cut a
+deal and give back the Gemstone.
+
+196
+00:15:09,114 --> 00:15:11,463
+Better to have some trade than none at all.
+
+197
+00:15:13,856 --> 00:15:17,073
+The border issue is temporary. Jinx will deal with it.
+
+198
+00:15:17,253 --> 00:15:18,713
+Huh.
+
+199
+00:15:19,475 --> 00:15:22,074
+Rumor is, your dog's off her leash.
+
+200
+00:15:22,705 --> 00:15:27,612
+How you meant to bring Piltover to heel
+if you can't handle your own people, huh?
+
+201
+00:15:40,576 --> 00:15:41,394
+What's that?
+
+202
+00:15:44,713 --> 00:15:47,339
+Oh, you don't recognize it?
+
+203
+00:15:49,850 --> 00:15:51,714
+Have you forgotten where we came from?
+
+204
+00:15:52,951 --> 00:15:54,471
+The mines they had us in?
+
+205
+00:15:56,799 --> 00:15:59,229
+Air so thick it clogged your throat.
+
+206
+00:16:01,131 --> 00:16:02,788
+Stuck in your eyes.
+
+207
+00:16:04,666 --> 00:16:07,186
+But I pulled you all up from the depths.
+
+208
+00:16:07,699 --> 00:16:10,326
+Offered you a taste of topside.
+
+209
+00:16:12,547 --> 00:16:13,838
+And fresh air.
+
+210
+00:16:16,873 --> 00:16:18,441
+I gave you life.
+
+211
+00:16:19,146 --> 00:16:20,174
+Purpose.
+
+212
+00:16:23,935 --> 00:16:26,741
+But you've grown fat and complacent.
+
+213
+00:16:28,758 --> 00:16:30,378
+Too much time in the sun.
+
+214
+00:16:41,814 --> 00:16:46,859
+We came from a world where there
+was never enough to go around, Finn.
+
+215
+00:16:50,258 --> 00:16:51,639
+That is why we fight.
+
+216
+00:16:52,561 --> 00:16:53,522
+Do you remember?
+
+217
+00:16:57,018 --> 00:16:59,645
+Sorry. Please.
+
+218
+00:17:02,049 --> 00:17:02,815
+Please.
+
+219
+00:17:10,505 --> 00:17:11,690
+Don't forget again.
+
+220
+00:17:25,187 --> 00:17:26,064
+Good meeting.
+
+221
+00:17:49,433 --> 00:17:51,707
+I've had word from our friends overseas.
+
+222
+00:17:52,312 --> 00:17:54,804
+This threat from the undercity is drawing attention.
+
+223
+00:17:57,517 --> 00:17:59,038
+Piltover looks vulnerable.
+
+224
+00:18:01,902 --> 00:18:04,361
+It's too soon. Jayce isn't ready.
+
+225
+00:18:09,594 --> 00:18:11,381
+There's one other thing.
+
+226
+00:18:13,047 --> 00:18:14,403
+This arrived for you.
+
+227
+00:18:40,058 --> 00:18:40,532
+Hmm?
+
+228
+00:18:53,225 --> 00:18:54,519
+What have you done with Vi?
+
+229
+00:18:58,301 --> 00:19:02,582
+Listen, let her go. I brought her here. It's me you want.
+
+230
+00:19:04,481 --> 00:19:05,323
+My hero.
+
+231
+00:19:05,600 --> 00:19:06,021
+You're…
+
+232
+00:19:06,607 --> 00:19:09,244
+But I thought you… I thought they were hurting you!
+
+233
+00:19:10,893 --> 00:19:12,541
+Vi tells me I can trust you.
+
+234
+00:19:13,625 --> 00:19:15,686
+You get a pass back topside, that's it.
+
+235
+00:19:16,183 --> 00:19:16,819
+Let's go.
+
+236
+00:19:29,100 --> 00:19:30,531
+Let me help you with that.
+
+237
+00:19:32,444 --> 00:19:33,912
+Where've you been, Jinx?
+
+238
+00:19:34,625 --> 00:19:40,413
+Oh, you know. Here, there, chasing down dead ends.
+
+239
+00:19:40,732 --> 00:19:44,766
+And guess what? They're not all dead.
+
+240
+00:19:44,981 --> 00:19:46,008
+I can explain.
+
+241
+00:19:47,094 --> 00:19:50,514
+Don't move, silly. I might hurt you.
+
+242
+00:19:51,818 --> 00:19:55,352
+I didn't know. Marcus never told me she was in Stillwater.
+
+243
+00:19:56,865 --> 00:19:58,692
+But you found out she came back.
+
+244
+00:19:59,350 --> 00:20:00,736
+You lied.
+
+245
+00:20:03,086 --> 00:20:04,420
+I wanted to protect you.
+
+246
+00:20:04,503 --> 00:20:05,544
+From what?
+
+247
+00:20:05,945 --> 00:20:10,975
+She and the enforcer are back
+for the crystal. Not for you.
+
+248
+00:20:12,741 --> 00:20:14,636
+Have you forgotten how she left you?
+
+249
+00:20:15,365 --> 00:20:19,219
+Who found you? Who cared for you? Gave you a home?
+
+250
+00:20:20,292 --> 00:20:24,619
+I am your family. Everyone else betrays us.
+
+251
+00:20:27,698 --> 00:20:28,605
+I need you.
+
+252
+00:20:30,058 --> 00:20:31,432
+Now more than ever.
+
+253
+00:20:35,203 --> 00:20:37,089
+You have to complete the weapon.
+
+254
+00:20:59,980 --> 00:21:00,933
+It's beautiful.
+
+255
+00:21:02,046 --> 00:21:04,425
+If your people had your way, it'd be rubble and ash.
+
+256
+00:21:05,688 --> 00:21:06,945
+It's a misunderstanding.
+
+257
+00:21:07,975 --> 00:21:09,358
+They think you work for Silco.
+
+258
+00:21:09,738 --> 00:21:14,421
+Your people hunt us like
+animals. Silco pays them to do it.
+
+259
+00:21:15,486 --> 00:21:17,620
+That's not possible. You're wrong.
+
+260
+00:21:18,387 --> 00:21:20,177
+Say that one more time.
+
+261
+00:21:20,202 --> 00:21:23,849
+Ekko, she believes what she's
+saying, okay? She's not your enemy.
+
+262
+00:21:24,008 --> 00:21:25,755
+Oh, yeah? Then what's this?
+
+263
+00:21:28,147 --> 00:21:30,822
+You got it. You have to let me take that back.
+
+264
+00:21:33,413 --> 00:21:34,208
+What is it?
+
+265
+00:21:34,780 --> 00:21:35,781
+It's a Gemstone.
+
+266
+00:21:36,502 --> 00:21:39,292
+It was stolen during the attack. By your sister.
+
+267
+00:21:40,138 --> 00:21:41,846
+You just forgot to mention that?
+
+268
+00:21:42,516 --> 00:21:45,350
+With this, someone with the right knowledge could build…
+
+269
+00:21:45,783 --> 00:21:47,258
+any Hextech device.
+
+270
+00:21:48,906 --> 00:21:53,098
+If enforcers are becoming more… aggressive, that's why.
+
+271
+00:21:54,915 --> 00:21:56,488
+We could beat Silco with this.
+
+272
+00:21:57,308 --> 00:21:58,665
+That won't solve things.
+
+273
+00:21:59,030 --> 00:22:02,159
+Easy for you to say. Your
+people aren't dying all around you.
+
+274
+00:22:04,109 --> 00:22:06,949
+Ekko, it's wrong what's been done to you.
+
+275
+00:22:08,072 --> 00:22:09,700
+You'd be well within your rights to keep it.
+
+276
+00:22:10,865 --> 00:22:11,832
+I couldn't blame you.
+
+277
+00:22:14,196 --> 00:22:15,953
+But… if you do,
+
+278
+00:22:16,526 --> 00:22:18,317
+this cycle of violence will never stop.
+
+279
+00:22:20,183 --> 00:22:22,780
+This is our best shot at setting the record straight.
+
+280
+00:22:23,683 --> 00:22:25,048
+This city needs healing.
+
+281
+00:22:26,029 --> 00:22:27,452
+More than I ever realized.
+
+282
+00:22:28,495 --> 00:22:30,522
+Please, let me help you.
+
+283
+00:22:33,839 --> 00:22:34,626
+You got a plan?
+
+284
+00:22:35,808 --> 00:22:37,229
+I have a friend on the council.
+
+285
+00:22:38,033 --> 00:22:39,647
+Let me take the Gemstone to him.
+
+286
+00:22:41,793 --> 00:22:44,729
+He'll listen to me. Your people
+wouldn't have to hide anymore.
+
+287
+00:22:47,268 --> 00:22:49,892
+One condition. I'm the one who gives it to them.
+
+288
+00:22:54,318 --> 00:22:56,877
+Um, the form is crude, but…
+
+289
+00:22:57,823 --> 00:23:00,347
+uh, the engineering is… inspired.
+
+290
+00:23:00,790 --> 00:23:02,211
+You think they could crack Hextech?
+
+291
+00:23:03,306 --> 00:23:05,567
+Mm. It's a leap.
+
+292
+00:23:05,745 --> 00:23:10,124
+It's been suggested that they may
+have found a way to utilize the Gemstone.
+
+293
+00:23:10,868 --> 00:23:14,645
+If we are to assume the worst, that
+would mean they've turned it into a weapon.
+
+294
+00:23:14,792 --> 00:23:15,972
+Well, do we know this for certain?
+
+295
+00:23:16,969 --> 00:23:18,665
+We can't afford to wait to find out.
+
+296
+00:23:19,824 --> 00:23:21,796
+Wait. What are you suggesting?
+
+297
+00:23:24,317 --> 00:23:26,349
+We should prepare our own countermeasures.
+
+298
+00:23:27,350 --> 00:23:28,934
+You want us to build weapons?
+
+299
+00:23:28,964 --> 00:23:33,090
+Absolutely not. That is not why we invented Hextech.
+
+300
+00:23:33,506 --> 00:23:35,399
+We would shatter any attempt at peace.
+
+301
+00:23:35,680 --> 00:23:36,802
+Heimerdinger would never go for this.
+
+302
+00:23:36,827 --> 00:23:40,583
+Heimerdingers' inaction is what
+brought us here. You said so yourself.
+
+303
+00:23:41,683 --> 00:23:44,574
+The peace is already broken, Jayce.
+
+304
+00:23:44,886 --> 00:23:47,435
+I'm only asking you to prepare to defend your people.
+
+305
+00:23:48,016 --> 00:23:50,266
+If we're lucky, we'll never need to use it.
+
+306
+00:23:54,951 --> 00:23:56,076
+The decision is yours.
+
+307
+00:24:05,427 --> 00:24:08,897
+Ridiculous. You cannot be considering this.
+
+308
+00:24:09,678 --> 00:24:12,865
+What if she's right? Are we just
+gonna stand by while they attack us?
+
+309
+00:24:12,924 --> 00:24:15,360
+We're scientists, not soldiers.
+
+310
+00:24:16,060 --> 00:24:18,037
+We have the knowledge to defend ourselves.
+
+311
+00:24:18,062 --> 00:24:20,581
+We agreed Hextech was to improve lives…
+
+312
+00:24:20,606 --> 00:24:22,062
+…not to take them.
+
+313
+00:24:22,087 --> 00:24:23,504
+We may not have a choice.
+
+314
+00:24:40,266 --> 00:24:42,850
+There is always a choice.
+
+315
+00:24:45,748 --> 00:24:46,677
+I need to think.
+
+316
+00:25:43,127 --> 00:25:44,119
+What are they?
+
+317
+00:25:44,759 --> 00:25:48,152
+We call them firelights. Never seen so many though.
+
+318
+00:26:19,470 --> 00:26:22,262
+I'm worried I have to do
+something I never thought I would.
+
+319
+00:27:49,363 --> 00:27:49,803
+Vi?
+
+320
+00:27:54,083 --> 00:27:55,382
+I can't leave her again.
+
+321
+00:27:56,975 --> 00:27:58,019
+You can't change her.
+
+322
+00:27:58,756 --> 00:27:59,797
+I have to try.
+
+323
+00:28:03,327 --> 00:28:04,525
+Don't get yourself killed.
+
+324
+00:28:06,793 --> 00:28:07,812
+No promises.
+
+325
+00:28:15,718 --> 00:28:19,872
+It's been real, Cupcake. Thanks. For everything.
+
+326
+00:28:28,771 --> 00:28:32,084
+Shut up. It's just a goodbye hug.
+
+327
+00:28:33,503 --> 00:28:36,173
+She wouldn't do that. Not again.
+
+328
+00:29:01,924 --> 00:29:02,724
+Halt!
+
+329
+00:29:03,770 --> 00:29:05,034
+What the hell is this?
+
+330
+00:29:08,384 --> 00:29:12,300
+Sir! I have proof. Silco's behind everything.
+
+331
+00:29:18,707 --> 00:29:19,477
+Show me.
+
+332
+00:29:24,099 --> 00:29:24,555
+No.
+
+333
+00:29:28,558 --> 00:29:29,165
+Shit.
+
+334
+00:29:51,058 --> 00:29:51,954
+Caitlyn!
+
+335
+00:30:01,663 --> 00:30:02,242
+Liar.
+
+336
+00:30:04,752 --> 00:30:06,993
+I told you to leave this alone.
+
+337
+00:31:48,505 --> 00:31:49,370
+Tell my…
+
+338
+00:31:51,392 --> 00:31:53,632
+Tell my daughter I…
+
+339
+00:33:03,433 --> 00:33:04,197
+Go!
+
+340
+00:33:24,341 --> 00:33:28,601
+Oh, look who it is. The boy savior.
+
+341
+00:33:48,850 --> 00:33:49,470
+Hah.
+
+342
+00:35:12,598 --> 00:35:13,098
+No.
+

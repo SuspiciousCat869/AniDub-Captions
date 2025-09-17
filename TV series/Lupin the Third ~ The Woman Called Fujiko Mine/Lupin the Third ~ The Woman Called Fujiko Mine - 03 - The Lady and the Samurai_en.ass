@@ -1,0 +1,398 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+Title: English Uncut (English Closed Captions, FUNimation)
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,HelveticaNeue LT 65 Medium,47,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,133,133,30,1
+Style: MainTop,HelveticaNeue LT 65 Medium,47,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,133,133,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.27,0:00:10.31,Main,,0,0,0,,Cease what you are\Ndoing and gaze at me.
+Dialogue: 0,0:00:10.33,0:00:14.24,Main,,0,0,0,,Stop everything, save for\Nthe thrumming of your heart.
+Dialogue: 0,0:00:14.26,0:00:17.29,Main,,0,0,0,,Theft. It is an\Nespecially sweet vice,
+Dialogue: 0,0:00:17.31,0:00:19.21,Main,,0,0,0,,more elegant than vandalism
+Dialogue: 0,0:00:19.23,0:00:21.42,Main,,0,0,0,,and more complex\Nthan simple robbery.
+Dialogue: 0,0:00:22.20,0:00:25.41,Main,,0,0,0,,A beautiful blend of secrets\Nand crime and mischief and fear.
+Dialogue: 0,0:00:25.43,0:00:27.36,Main,,0,0,0,,Like dear Heathcliff,
+Dialogue: 0,0:00:27.38,0:00:30.35,Main,,0,0,0,,I am defined by my\Nall-consuming passion.
+Dialogue: 0,0:00:30.37,0:00:33.27,Main,,0,0,0,,Stealing is my greatest\Ncarnal pleasure,
+Dialogue: 0,0:00:33.29,0:00:35.38,Main,,0,0,0,,a pleasure for which\NI will risk my life,
+Dialogue: 0,0:00:35.40,0:00:38.34,Main,,0,0,0,,a sexy prison from\Nwhich there is no escape.
+Dialogue: 0,0:00:38.36,0:00:41.34,Main,,0,0,0,,Why am I this way?\NWho can know?
+Dialogue: 0,0:00:41.36,0:00:44.27,Main,,0,0,0,,Who is the slave and\Nwho's the master?
+Dialogue: 0,0:00:44.29,0:00:47.22,Main,,0,0,0,,Do divine eyes fall\Nupon me any longer,
+Dialogue: 0,0:00:47.24,0:00:48.40,Main,,0,0,0,,or have the given up?
+Dialogue: 0,0:00:48.42,0:00:51.40,Main,,0,0,0,,The rush of a theft\Nallows me to forget all,
+Dialogue: 0,0:00:51.42,0:00:55.20,Main,,0,0,0,,and yet to distantly\Nremember all, as well.
+Dialogue: 0,0:00:59.30,0:01:03.26,Main,,0,0,0,,Run and speak not.\NHide and run not.
+Dialogue: 0,0:01:03.28,0:01:05.35,Main,,0,0,0,,When you've found\Nme, punish me.
+Dialogue: 0,0:01:05.37,0:01:09.32,Main,,0,0,0,,When you've punished\Nme, kill me. Save me.
+Dialogue: 0,0:01:11.25,0:01:15.27,Main,,0,0,0,,Little boy, there is nothing\Nleft to steal from you.
+Dialogue: 0,0:01:15.29,0:01:21.22,Main,,0,0,0,,You have long been an\Nempty shell. Just as I have.
+Dialogue: 0,0:01:21.24,0:01:25.21,Main,,0,0,0,,And so, if you would gaze at\Nme, cease what you are doing.
+Dialogue: 0,0:01:25.23,0:01:29.41,Main,,0,0,0,,Stop everything save for the\Nthrumming of your heart.
+Dialogue: 0,0:01:58.24,0:02:00.39,Main,,0,0,0,,Georg Trunk, King of Astria.
+Dialogue: 0,0:02:00.41,0:02:04.20,Main,,0,0,0,,A perfect opportunity to make\Na name for yourself.
+Dialogue: 0,0:02:04.22,0:02:06.25,Main,,0,0,0,,By assassinating a king?
+Dialogue: 0,0:02:06.27,0:02:07.38,Main,,0,0,0,,Don't worry.
+Dialogue: 0,0:02:07.40,0:02:11.31,Main,,0,0,0,,It's a nothing country that uses\Ncasinos to draw in tourists.
+Dialogue: 0,0:02:11.33,0:02:14.28,Main,,0,0,0,,That said, the pay's\Nplenty for a novice hit man
+Dialogue: 0,0:02:14.30,0:02:17.25,Main,,0,0,0,,looking to make his bones\Nin the underworld.
+Dialogue: 0,0:02:17.27,0:02:18.31,Main,,0,0,0,,Who's the client?
+Dialogue: 0,0:02:18.33,0:02:20.23,Main,,0,0,0,,A relative?
+Dialogue: 0,0:02:20.25,0:02:21.34,Main,,0,0,0,,It's not your place to ask.
+Dialogue: 0,0:02:21.36,0:02:25.34,Main,,0,0,0,,But there shouldn't be any\Ninternational repercussions.
+Dialogue: 0,0:02:25.36,0:02:27.43,Main,,0,0,0,,Well, Mr. Ishikawa?
+Dialogue: 0,0:02:42.31,0:02:43.43,Main,,0,0,0,,Look at it.
+Dialogue: 0,0:02:44.21,0:02:47.35,Main,,0,0,0,,Practically a museum's worth\Nof world treasures.
+Dialogue: 0,0:02:51.32,0:02:53.29,Main,,0,0,0,,I-I-I-I-Ice cream!
+Dialogue: 0,0:02:53.31,0:02:55.27,Main,,0,0,0,,Yea, yea yea! Yea!
+Dialogue: 0,0:02:55.29,0:02:56.42,Main,,0,0,0,,Bully-Bully-Bully-Bully-Bull\Ndog!
+Dialogue: 0,0:02:57.20,0:02:59.26,Main,,0,0,0,,Go, go, go, go!
+Dialogue: 0,0:02:59.28,0:03:01.26,Main,,0,0,0,,Pu-pu-pu-pu-pudding parfait!
+Dialogue: 0,0:03:01.28,0:03:03.29,Main,,0,0,0,,Yeah, yeah, yeah! Yeah!
+Dialogue: 0,0:03:03.31,0:03:05.32,Main,,0,0,0,,Everybody come together!
+Dialogue: 0,0:03:05.34,0:03:07.35,Main,,0,0,0,,Freunde auf der ganzen...
+Dialogue: 0,0:03:07.37,0:03:10.25,Main,,0,0,0,,Hey! Look, it's a samurai!
+Dialogue: 0,0:03:10.27,0:03:12.41,Main,,0,0,0,,Marco!
+Dialogue: 0,0:03:12.43,0:03:15.34,Main,,0,0,0,,He's so cool.
+Dialogue: 0,0:03:15.36,0:03:18.26,Main,,0,0,0,,Papa really liked\Nthis picture, huh?
+Dialogue: 0,0:03:18.28,0:03:19.34,Main,,0,0,0,,Samurai!
+Dialogue: 0,0:03:19.36,0:03:22.41,Main,,0,0,0,,Samu-Samu-Samu-Samu\NSamu-Samu-Samu...
+Dialogue: 0,0:03:22.43,0:03:24.41,Main,,0,0,0,,Samurai Freund!
+Dialogue: 0,0:03:24.43,0:03:27.34,Main,,0,0,0,,Those are not the words from\Nthe song Mama wrote, Marco!
+Dialogue: 0,0:03:27.36,0:03:29.21,Main,,0,0,0,,Well, I'm adding it!
+Dialogue: 0,0:03:29.23,0:03:32.20,Main,,0,0,0,,Samu-Samu-Samu-Samu\NSamurai Freund!
+Dialogue: 0,0:03:32.22,0:03:34.38,Main,,0,0,0,,Whoa, whoa, whoa whoa!
+Dialogue: 0,0:03:34.40,0:03:36.40,Main,,0,0,0,,Hey, look guys!
+Dialogue: 0,0:03:36.42,0:03:38.21,Main,,0,0,0,,Now, children.
+Dialogue: 0,0:03:38.23,0:03:39.31,Main,,0,0,0,,These men are busy working.
+Dialogue: 0,0:03:39.33,0:03:40.41,Main,,0,0,0,,You mustn't get in their way.
+Dialogue: 0,0:03:40.43,0:03:42.36,Main,,0,0,0,,Fraulein Maria!
+Dialogue: 0,0:03:43.28,0:03:45.31,Main,,0,0,0,,You've got a long trip\Nback home tomorrow.
+Dialogue: 0,0:03:45.33,0:03:48.24,Main,,0,0,0,,So let's all go back to\Nthe hotel and get some rest.
+Dialogue: 0,0:03:48.26,0:03:49.43,Main,,0,0,0,,Okay, Fraulein!
+Dialogue: 0,0:03:50.21,0:03:51.32,Main,,0,0,0,,And I'll tell you what.
+Dialogue: 0,0:03:51.34,0:03:53.42,Main,,0,0,0,,While we're walking, we can sing\Nthat song you love so much.
+Dialogue: 0,0:03:54.20,0:03:54.40,Main,,0,0,0,,Yea!
+Dialogue: 0,0:03:54.42,0:03:55.36,Main,,0,0,0,,Let's hear it!
+Dialogue: 0,0:03:55.38,0:03:57.27,Main,,0,0,0,,I-I-I-I-Ice cream!
+Dialogue: 0,0:03:57.29,0:03:58.42,Main,,0,0,0,,Yea, yea, yea!
+Dialogue: 0,0:03:59.20,0:04:00.25,Main,,0,0,0,,Yea!
+Dialogue: 0,0:04:10.28,0:04:12.23,Main,,0,0,0,,I-I-I-I-Ice cream!
+Dialogue: 0,0:04:12.25,0:04:13.29,Main,,0,0,0,,Yea, yea, yea!
+Dialogue: 0,0:04:13.31,0:04:14.29,Main,,0,0,0,,Yea!
+Dialogue: 0,0:04:14.31,0:04:15.34,Main,,0,0,0,,Bully-Bully-Bully-Bully-Bull\Ndog!
+Dialogue: 0,0:04:15.36,0:04:17.38,Main,,0,0,0,,Go, go, go, go!
+Dialogue: 0,0:04:17.40,0:04:19.39,Main,,0,0,0,,Samu-Samu-Samu-Samu-Samurai\NFreund!
+Dialogue: 0,0:04:19.41,0:04:22.21,Main,,0,0,0,,Whoa, whoa, whoa, whoa!
+Dialogue: 0,0:04:22.23,0:04:23.37,Main,,0,0,0,,Marco!
+Dialogue: 0,0:04:28.30,0:04:30.28,Main,,0,0,0,,Clear for departure!
+Dialogue: 0,0:04:56.23,0:04:59.26,Main,,0,0,0,,You must be quite weary, sire.
+Dialogue: 0,0:04:59.28,0:05:02.32,Main,,0,0,0,,Diplomacy can tax a man sorely.
+Dialogue: 0,0:05:02.34,0:05:04.33,Main,,0,0,0,,I'm glad I was able\Nto spend some time
+Dialogue: 0,0:05:04.35,0:05:08.32,Main,,0,0,0,,with my grandchildren, though.\NAnd that governess, too.
+Dialogue: 0,0:05:08.34,0:05:09.41,Main,,0,0,0,,Fraulein Maria.
+Dialogue: 0,0:05:09.43,0:05:11.42,Main,,0,0,0,,She'll only be\Nwith us 'til fall.
+Dialogue: 0,0:05:12.20,0:05:13.28,Main,,0,0,0,,She's doing fine work.
+Dialogue: 0,0:05:13.30,0:05:14.34,Main,,0,0,0,,Yes.
+Dialogue: 0,0:05:14.36,0:05:17.43,Main,,0,0,0,,If only my daughter were\Nas dependable as she is.
+Dialogue: 0,0:05:18.21,0:05:21.43,Main,,0,0,0,,There is nothing to be\Ndone about that now, sire.
+Dialogue: 0,0:05:22.21,0:05:26.20,Main,,0,0,0,,My young mistress is formally\Na part of the Shumate family.
+Dialogue: 0,0:05:26.22,0:05:27.21,Main,,0,0,0,,It won't work.
+Dialogue: 0,0:05:27.23,0:05:29.41,Main,,0,0,0,,My father would\Nnever hear of it.
+Dialogue: 0,0:05:29.43,0:05:31.37,Main,,0,0,0,,Well then it's time\Nto face facts.
+Dialogue: 0,0:05:31.39,0:05:33.23,Main,,0,0,0,,The Crown Prince is dead.
+Dialogue: 0,0:05:33.25,0:05:34.33,Main,,0,0,0,,Yes.
+Dialogue: 0,0:05:34.35,0:05:37.26,Main,,0,0,0,,My father grieves for my\Nbrother's death day and night.
+Dialogue: 0,0:05:37.28,0:05:39.35,Main,,0,0,0,,You are the next in line\Nfor the throne.
+Dialogue: 0,0:05:39.37,0:05:41.28,Main,,0,0,0,,And I'll be by your side.
+Dialogue: 0,0:05:41.30,0:05:42.23,Main,,0,0,0,,No, dear.
+Dialogue: 0,0:05:42.25,0:05:43.34,Main,,0,0,0,,I'm sorry.
+Dialogue: 0,0:05:43.36,0:05:46.42,Main,,0,0,0,,My late brother's son\NMarco is the heir now.
+Dialogue: 0,0:05:47.20,0:05:48.31,Main,,0,0,0,,He's a little boy!
+Dialogue: 0,0:05:48.33,0:05:50.25,Main,,0,0,0,,He can't rule a country!
+Dialogue: 0,0:05:50.27,0:05:52.40,Main,,0,0,0,,We owe it to the people\Nto take charge.
+Dialogue: 0,0:05:52.42,0:05:55.34,Main,,0,0,0,,That's a decision\Nfor the king to make.
+Dialogue: 0,0:05:55.36,0:05:57.25,Main,,0,0,0,,What did I tell you?
+Dialogue: 0,0:05:57.27,0:06:00.30,Main,,0,0,0,,I don't intend\Nto babysit those brats.
+Dialogue: 0,0:06:01.30,0:06:04.20,Main,,0,0,0,,Oh, Grace, look\Nat their dresses!
+Dialogue: 0,0:06:04.22,0:06:05.30,Main,,0,0,0,,They're so lovely!
+Dialogue: 0,0:06:05.32,0:06:07.23,Main,,0,0,0,,Real ladies!
+Dialogue: 0,0:06:08.42,0:06:09.41,Main,,0,0,0,,Like Mama.
+Dialogue: 0,0:06:09.43,0:06:10.42,Main,,0,0,0,,Hey now.
+Dialogue: 0,0:06:11.20,0:06:12.28,Main,,0,0,0,,You know Mama is gone.
+Dialogue: 0,0:06:12.30,0:06:13.28,Main,,0,0,0,,I know!
+Dialogue: 0,0:06:13.30,0:06:14.41,Main,,0,0,0,,But I miss her so much!
+Dialogue: 0,0:06:14.43,0:06:16.22,Main,,0,0,0,,No crying, remember?
+Dialogue: 0,0:06:16.24,0:06:17.25,Main,,0,0,0,,We promised.
+Dialogue: 0,0:06:17.27,0:06:18.42,Main,,0,0,0,,I-I-I-I-Ice cream!
+Dialogue: 0,0:06:19.20,0:06:20.41,Main,,0,0,0,,Yea, yea, yea!
+Dialogue: 0,0:06:20.43,0:06:24.20,Main,,0,0,0,,Grace, Louise,\Nlook what I got for us!
+Dialogue: 0,0:06:24.22,0:06:25.38,Main,,0,0,0,,Marco, look out!
+Dialogue: 0,0:06:28.35,0:06:31.21,Main,,0,0,0,,Honestly, you are so clumsy!
+Dialogue: 0,0:06:42.24,0:06:44.40,Main,,0,0,0,,Sa-Sa Samurai Freund.
+Dialogue: 0,0:06:48.34,0:06:50.21,Main,,0,0,0,,Too soft!
+Dialogue: 0,0:06:54.43,0:06:56.39,Main,,0,0,0,,What's wrong, children?
+Dialogue: 0,0:07:09.35,0:07:13.34,Main,,0,0,0,,Marco is quite taken\Nby samurai, you see.
+Dialogue: 0,0:07:13.36,0:07:16.35,Main,,0,0,0,,He was enthralled by some\Nprints at the Louvrun Museum.
+Dialogue: 0,0:07:16.37,0:07:17.38,Main,,0,0,0,,Too soft.
+Dialogue: 0,0:07:17.40,0:07:19.31,Main,,0,0,0,,Uh, I'm sorry?
+Dialogue: 0,0:07:19.33,0:07:20.41,Main,,0,0,0,,I am curious.
+Dialogue: 0,0:07:20.43,0:07:23.28,Main,,0,0,0,,The boy said something\Nabout a Samurai Freund.
+Dialogue: 0,0:07:23.30,0:07:25.39,Main,,0,0,0,,What does this mean?
+Dialogue: 0,0:07:25.41,0:07:27.27,Main,,0,0,0,,It's just a song they sing.
+Dialogue: 0,0:07:27.29,0:07:30.28,Main,,0,0,0,,As for "Samurai Freund" 
+Dialogue: 0,0:07:30.30,0:07:33.38,Main,,0,0,0,,Well sounds a lot\Nlike "friend," huh?
+Dialogue: 0,0:07:33.40,0:07:35.43,Main,,0,0,0,,So "Freund" is "friend"?
+Dialogue: 0,0:07:36.21,0:07:38.26,Main,,0,0,0,,You taught your\Nchildren this song?
+Dialogue: 0,0:07:38.28,0:07:39.32,Main,,0,0,0,,Hold on!
+Dialogue: 0,0:07:39.34,0:07:41.30,Main,,0,0,0,,I'm not their mother,\Njust their governess.
+Dialogue: 0,0:07:41.32,0:07:43.28,Main,,0,0,0,,Their parents were\Nboth killed three years ago
+Dialogue: 0,0:07:43.30,0:07:45.38,Main,,0,0,0,,in an automobile accident.
+Dialogue: 0,0:07:47.36,0:07:48.29,Main,,0,0,0,,I'm Maria.
+Dialogue: 0,0:07:48.31,0:07:49.41,Main,,0,0,0,,It's nice to meet you.
+Dialogue: 0,0:07:49.43,0:07:51.39,Main,,0,0,0,,What's your name?
+Dialogue: 0,0:07:51.41,0:07:53.32,Main,,0,0,0,,My name, uh.
+Dialogue: 0,0:07:53.34,0:07:55.41,Main,,0,0,0,,We brought you tea,\NSamurai Freund.
+Dialogue: 0,0:07:57.26,0:07:58.38,Main,,0,0,0,,Your name is Marco.
+Dialogue: 0,0:07:58.40,0:08:02.21,Main,,0,0,0,,A man should never cry over\Nsomething like ice cream.
+Dialogue: 0,0:08:02.23,0:08:03.34,Main,,0,0,0,,Understand?
+Dialogue: 0,0:08:03.36,0:08:05.30,Main,,0,0,0,,Promise me, man to man.
+Dialogue: 0,0:08:05.32,0:08:06.24,Main,,0,0,0,,Right!
+Dialogue: 0,0:08:06.26,0:08:06.40,Main,,0,0,0,,I promise!
+Dialogue: 0,0:08:06.42,0:08:08.22,Main,,0,0,0,,Man to man!
+Dialogue: 0,0:08:08.24,0:08:10.20,Main,,0,0,0,,Who knew there was\Na samurai on board!
+Dialogue: 0,0:08:10.22,0:08:13.33,Main,,0,0,0,,Yeah. How come we didn't\Nnotice you on board before?
+Dialogue: 0,0:08:13.35,0:08:15.30,Main,,0,0,0,,Who are you, exactly?
+Dialogue: 0,0:08:33.35,0:08:35.30,Main,,0,0,0,,Oh, cool!
+Dialogue: 0,0:08:36.39,0:08:38.22,Main,,0,0,0,,It's a bunny!
+Dialogue: 0,0:08:38.24,0:08:39.30,Main,,0,0,0,,Yes, it is a rabbit.
+Dialogue: 0,0:08:39.32,0:08:41.29,Main,,0,0,0,,Children like rabbits.
+Dialogue: 0,0:08:41.31,0:08:44.31,Main,,0,0,0,,I know these things because\NI am a traveling entertainer,
+Dialogue: 0,0:08:44.33,0:08:46.28,Main,,0,0,0,,Goemon Ishikawa.
+Dialogue: 0,0:08:51.25,0:08:53.21,Main,,0,0,0,,It's wonderful.
+Dialogue: 0,0:08:58.39,0:09:00.30,Main,,0,0,0,,You're talented.
+Dialogue: 0,0:09:03.40,0:09:04.35,Main,,0,0,0,,Yank! Yank!
+Dialogue: 0,0:09:04.37,0:09:05.42,Main,,0,0,0,,Stop that!
+Dialogue: 0,0:09:07.23,0:09:10.22,Main,,0,0,0,,What are you wearing?
+Dialogue: 0,0:09:10.24,0:09:12.28,Main,,0,0,0,,It's so weird!
+Dialogue: 0,0:09:12.30,0:09:15.24,Main,,0,0,0,,They believe Shumate\Nwill be the heir?
+Dialogue: 0,0:09:15.26,0:09:18.24,Main,,0,0,0,,But we know Prince Marco\Nis the true heir.
+Dialogue: 0,0:09:18.26,0:09:20.29,Main,,0,0,0,,Best not to look\Nat that too long, sire.
+Dialogue: 0,0:09:21.40,0:09:25.36,Main,,0,0,0,,Marco will rule and\Nuntil he's ready, I will.
+Dialogue: 0,0:09:26.33,0:09:31.38,Main,,0,0,0,,"Best not to look." Once more,\NI have cut a worthless object.
+Dialogue: 0,0:09:35.36,0:09:39.25,Main,,0,0,0,,I shall not be led astray\Nby feminine charms.
+Dialogue: 0,0:09:57.20,0:09:58.34,Main,,0,0,0,,Your life is forfeit.
+Dialogue: 0,0:09:59.39,0:10:01.42,Main,,0,0,0,,Opa!
+Dialogue: 0,0:10:02.20,0:10:03.32,Main,,0,0,0,,It was so cool!
+Dialogue: 0,0:10:03.34,0:10:05.41,Main,,0,0,0,,Have you scamps been\Nexploring the train?
+Dialogue: 0,0:10:05.43,0:10:07.28,Main,,0,0,0,,Another time.
+Dialogue: 0,0:10:07.30,0:10:10.28,Main,,0,0,0,,Honor demands that\NI take your life in private.
+Dialogue: 0,0:10:15.32,0:10:16.39,Main,,0,0,0,,Damn, too soft!
+Dialogue: 0,0:10:18.35,0:10:20.35,Main,,0,0,0,,What could that be?
+Dialogue: 0,0:10:27.26,0:10:28.21,Main,,0,0,0,,Goodness!
+Dialogue: 0,0:10:28.23,0:10:30.22,Main,,0,0,0,,What happened to you?
+Dialogue: 0,0:10:39.29,0:10:42.41,Main,,0,0,0,,So, I suppose\Na samurai like you isn't
+Dialogue: 0,0:10:42.43,0:10:44.42,Main,,0,0,0,,an uncommon sight in Japan--
+Dialogue: 0,0:10:45.20,0:10:46.23,Main,,0,0,0,,No.
+Dialogue: 0,0:10:46.25,0:10:47.43,Main,,0,0,0,,I am sad to say there\Nis no place in Japan
+Dialogue: 0,0:10:48.21,0:10:50.20,Main,,0,0,0,,for samurai anymore.
+Dialogue: 0,0:10:51.24,0:10:53.32,Main,,0,0,0,,Is that what made you\Nwant to travel?
+Dialogue: 0,0:10:53.34,0:10:55.32,Main,,0,0,0,,Perhaps so.
+Dialogue: 0,0:10:55.34,0:10:56.42,Main,,0,0,0,,That is not all, however.
+Dialogue: 0,0:10:57.20,0:10:59.20,Main,,0,0,0,,You're not alone, you know?
+Dialogue: 0,0:10:59.22,0:11:00.28,Main,,0,0,0,,I feel the same way.
+Dialogue: 0,0:11:00.30,0:11:03.20,Main,,0,0,0,,Like there's no place\Nfor me, anywhere.
+Dialogue: 0,0:11:03.22,0:11:05.27,Main,,0,0,0,,But you have the\Nchildren to look after.
+Dialogue: 0,0:11:05.29,0:11:07.36,Main,,0,0,0,,You have Freund.
+Dialogue: 0,0:11:07.38,0:11:09.42,Main,,0,0,0,,Yes, I guess I do.
+Dialogue: 0,0:11:11.26,0:11:13.37,Main,,0,0,0,,Still, I am just\Na lowly governess,
+Dialogue: 0,0:11:13.39,0:11:15.40,Main,,0,0,0,,and a temporary one at that.
+Dialogue: 0,0:11:17.35,0:11:19.32,Main,,0,0,0,,Well, I guess\NI'm going to turn in.
+Dialogue: 0,0:11:19.34,0:11:21.31,Main,,0,0,0,,Goodnight, Samurai Freund.
+Dialogue: 0,0:11:24.38,0:11:26.36,Main,,0,0,0,,She's lovely.
+Dialogue: 0,0:11:30.29,0:11:33.26,Main,,0,0,0,,He's no ordinary\Nentertainer at all.
+Dialogue: 0,0:11:45.30,0:11:47.30,Main,,0,0,0,,Clear for departure!
+Dialogue: 0,0:12:00.25,0:12:04.30,Main,,0,0,0,,Time to say goodbye, King Trunk,\Nand you as well, Ishikawa.
+Dialogue: 0,0:12:21.22,0:12:23.24,Main,,0,0,0,,The train...
+Dialogue: 0,0:12:23.26,0:12:25.23,Main,,0,0,0,,Stop! Slow down!
+Dialogue: 0,0:12:26.41,0:12:28.33,Main,,0,0,0,,I have an emergency report!
+Dialogue: 0,0:12:28.35,0:12:30.33,Main,,0,0,0,,There's an out\Nof control train!
+Dialogue: 0,0:12:37.26,0:12:38.28,Main,,0,0,0,,It's no use, sir!
+Dialogue: 0,0:12:38.30,0:12:40.23,Main,,0,0,0,,I'm not getting an answer!
+Dialogue: 0,0:12:40.25,0:12:41.35,Main,,0,0,0,,Your Majesty.
+Dialogue: 0,0:12:41.37,0:12:44.40,Main,,0,0,0,,If we continue at this speed,\Nwe'll derail before long.
+Dialogue: 0,0:12:48.20,0:12:48.37,Main,,0,0,0,,Opa!
+Dialogue: 0,0:12:48.39,0:12:49.41,Main,,0,0,0,,Opa!
+Dialogue: 0,0:12:51.26,0:12:52.41,Main,,0,0,0,,What in the world?
+Dialogue: 0,0:12:52.43,0:12:55.32,Main,,0,0,0,,Don't worry,\Nit will be all right.
+Dialogue: 0,0:12:55.34,0:12:57.40,Main,,0,0,0,,We've met with foul play.
+Dialogue: 0,0:12:57.42,0:13:01.39,Main,,0,0,0,,The train engineer--\NSomeone killed him.
+Dialogue: 0,0:13:01.41,0:13:04.35,Main,,0,0,0,,I think I know\Nwhat has happened.
+Dialogue: 0,0:13:04.37,0:13:06.28,Main,,0,0,0,,Mr. Samurai!
+Dialogue: 0,0:13:06.30,0:13:08.21,Main,,0,0,0,,Just what are you\Ntalking about?
+Dialogue: 0,0:13:08.23,0:13:09.34,Main,,0,0,0,,Cheap stage performer.
+Dialogue: 0,0:13:09.36,0:13:11.22,Main,,0,0,0,,What would you know?
+Dialogue: 0,0:13:16.24,0:13:17.40,Main,,0,0,0,,Seize that man!
+Dialogue: 0,0:13:20.41,0:13:23.20,Main,,0,0,0,,Put down your weapon.
+Dialogue: 0,0:13:25.24,0:13:25.42,Main,,0,0,0,,Go ahead, men.
+Dialogue: 0,0:13:26.20,0:13:27.22,Main,,0,0,0,,Shoot him!
+Dialogue: 0,0:13:27.24,0:13:29.30,Main,,0,0,0,,--Stop! No! No!\N--Don't shoot! He's nice!
+Dialogue: 0,0:13:53.38,0:13:54.42,Main,,0,0,0,,My sword is sharp.
+Dialogue: 0,0:13:55.20,0:13:57.36,Main,,0,0,0,,The Zantetsuken cuts anything.
+Dialogue: 0,0:13:57.38,0:14:00.30,Main,,0,0,0,,Whoa, amazing.
+Dialogue: 0,0:14:00.32,0:14:01.43,Main,,0,0,0,,Who are you, really?
+Dialogue: 0,0:14:02.21,0:14:04.41,Main,,0,0,0,,My name is Goemon Ishikawa.
+Dialogue: 0,0:14:04.43,0:14:08.24,Main,,0,0,0,,I came here on a mission\Nto take Your Majesty's life.
+Dialogue: 0,0:14:08.26,0:14:10.32,Main,,0,0,0,,And you pretended to be\Nsome sort of entertainer?
+Dialogue: 0,0:14:10.34,0:14:12.31,Main,,0,0,0,,Are you the saboteur, as well?
+Dialogue: 0,0:14:12.33,0:14:16.35,Main,,0,0,0,,No sir, I'm not, this\Nsituation was not my doing.
+Dialogue: 0,0:14:17.34,0:14:19.39,Main,,0,0,0,,I will hear\Nwhat you have to say.
+Dialogue: 0,0:14:19.41,0:14:21.28,Main,,0,0,0,,Majesty!
+Dialogue: 0,0:14:21.30,0:14:22.39,Main,,0,0,0,,We have no time to waste.
+Dialogue: 0,0:14:22.41,0:14:25.28,Main,,0,0,0,,Maria, evacuate the children\Nand other passengers
+Dialogue: 0,0:14:25.30,0:14:26.33,Main,,0,0,0,,to the rear car.
+Dialogue: 0,0:14:26.35,0:14:28.21,Main,,0,0,0,,Okay.
+Dialogue: 0,0:14:28.23,0:14:29.34,Main,,0,0,0,,Quickly now, children.
+Dialogue: 0,0:14:30.34,0:14:34.21,Main,,0,0,0,,My inexperience\Nis to blame for this.
+Dialogue: 0,0:14:34.23,0:14:36.29,Main,,0,0,0,,--Mr. Ishika--\N--I'm sorry.
+Dialogue: 0,0:14:43.30,0:14:44.30,Main,,0,0,0,,Are you okay?
+Dialogue: 0,0:14:44.32,0:14:45.31,Main,,0,0,0,,Fraulein Maria!
+Dialogue: 0,0:14:45.33,0:14:47.42,Main,,0,0,0,,Marco went to rescue\NPapa's painting!
+Dialogue: 0,0:14:48.20,0:14:48.36,Main,,0,0,0,,All right.
+Dialogue: 0,0:14:48.38,0:14:50.27,Main,,0,0,0,,You two go on ahead.
+Dialogue: 0,0:14:51.31,0:14:53.32,Main,,0,0,0,,Two separate attempts?
+Dialogue: 0,0:14:53.34,0:14:56.36,Main,,0,0,0,,They have done this because they\Ndid not believe I would succeed.
+Dialogue: 0,0:14:56.38,0:14:57.42,Main,,0,0,0,,No.
+Dialogue: 0,0:14:58.20,0:14:59.43,Main,,0,0,0,,I imagine this was\Nthe plan from the outset.
+Dialogue: 0,0:15:00.21,0:15:01.37,Main,,0,0,0,,That's how he operates.
+Dialogue: 0,0:15:01.39,0:15:04.23,Main,,0,0,0,,Schemes within schemes.
+Dialogue: 0,0:15:05.22,0:15:08.23,Main,,0,0,0,,By trying to kill me, as well,\Nthey have broken the contract.
+Dialogue: 0,0:15:08.25,0:15:10.41,Main,,0,0,0,,I have no obligation\Nto kill you now.
+Dialogue: 0,0:15:10.43,0:15:14.33,Main,,0,0,0,,Instead, I will do\Nwhat I can to help.
+Dialogue: 0,0:15:17.23,0:15:18.23,Main,,0,0,0,,Miss Maria!
+Dialogue: 0,0:15:18.25,0:15:19.23,Main,,0,0,0,,What is wrong?
+Dialogue: 0,0:15:19.25,0:15:20.20,Main,,0,0,0,,It's Marco.
+Dialogue: 0,0:15:20.22,0:15:21.36,Main,,0,0,0,,He's gone to the freight car.
+Dialogue: 0,0:15:23.28,0:15:25.42,Main,,0,0,0,,Papa's samurai.
+Dialogue: 0,0:15:27.40,0:15:28.33,Main,,0,0,0,,Marco!
+Dialogue: 0,0:15:28.35,0:15:30.28,Main,,0,0,0,,Fraulein Maria!
+Dialogue: 0,0:15:32.33,0:15:34.39,Main,,0,0,0,,We have one chance.
+Dialogue: 0,0:15:34.41,0:15:37.22,Main,,0,0,0,,If we cut loose the cargo,\Nwe should be able
+Dialogue: 0,0:15:37.24,0:15:38.36,Main,,0,0,0,,to slow the rest of the train.
+Dialogue: 0,0:15:38.38,0:15:40.38,Main,,0,0,0,,But we're carrying\Nnational treasures!
+Dialogue: 0,0:15:40.40,0:15:42.29,Main,,0,0,0,,Maria, what's more important?
+Dialogue: 0,0:15:42.31,0:15:45.22,Main,,0,0,0,,Those or the children?
+Dialogue: 0,0:15:45.24,0:15:47.24,Main,,0,0,0,,Very well.
+Dialogue: 0,0:15:47.26,0:15:49.31,Main,,0,0,0,,We have to go, Marco.
+Dialogue: 0,0:15:49.33,0:15:52.27,Main,,0,0,0,,Okay, I understand.
+Dialogue: 0,0:15:56.25,0:15:57.40,Main,,0,0,0,,It's Opa!
+Dialogue: 0,0:15:57.42,0:15:59.20,Main,,0,0,0,,Marco!
+Dialogue: 0,0:15:59.22,0:15:59.35,Main,,0,0,0,,Sire!
+Dialogue: 0,0:15:59.37,0:16:00.40,Main,,0,0,0,,We need to hurry!
+Dialogue: 0,0:16:05.23,0:16:06.35,Main,,0,0,0,,They made it back!
+Dialogue: 0,0:16:06.37,0:16:07.38,Main,,0,0,0,,Don't worry.
+Dialogue: 0,0:16:07.40,0:16:09.41,Main,,0,0,0,,Our Samurai Freund\Nis going to save us.
+Dialogue: 0,0:16:09.43,0:16:10.37,Main,,0,0,0,,I won't cry!
+Dialogue: 0,0:16:10.39,0:16:11.41,Main,,0,0,0,,I promised!
+Dialogue: 0,0:16:11.43,0:16:13.29,Main,,0,0,0,,That's a brave young man.
+Dialogue: 0,0:16:13.31,0:16:14.41,Main,,0,0,0,,We don't have much time left.
+Dialogue: 0,0:16:14.43,0:16:15.43,Main,,0,0,0,,Right.
+Dialogue: 0,0:16:16.21,0:16:17.41,Main,,0,0,0,,I'll make sure\Nthe children are secure.
+Dialogue: 0,0:16:17.43,0:16:19.41,Main,,0,0,0,,But I'm going to need\Nall of your belts.
+Dialogue: 0,0:16:24.21,0:16:25.37,Main,,0,0,0,,Oh. It doesn't reach.
+Dialogue: 0,0:16:25.39,0:16:29.34,Main,,0,0,0,,Maria, here. Use my belt.
+Dialogue: 0,0:16:39.21,0:16:39.37,Main,,0,0,0,,All right!
+Dialogue: 0,0:16:39.39,0:16:40.40,Main,,0,0,0,,Brake!
+Dialogue: 0,0:16:49.34,0:16:52.31,Main,,0,0,0,,Once more, I have cut\Na worthless object.
+Dialogue: 0,0:17:15.33,0:17:16.36,Main,,0,0,0,,Ah, well.
+Dialogue: 0,0:17:16.38,0:17:18.37,Main,,0,0,0,,So much for the museum\Nof world treasures.
+Dialogue: 0,0:17:18.39,0:17:20.34,Main,,0,0,0,,I-I-I-I-Ice cream!
+Dialogue: 0,0:17:20.36,0:17:22.25,Main,,0,0,0,,Yea, yea, yea! Yea!
+Dialogue: 0,0:17:22.27,0:17:23.30,Main,,0,0,0,,Bully-Bully-Bully-Bull dog!
+Dialogue: 0,0:17:23.32,0:17:24.37,Main,,0,0,0,,Go, go, go!
+Dialogue: 0,0:17:24.39,0:17:25.38,Main,,0,0,0,,Go!
+Dialogue: 0,0:17:25.40,0:17:27.28,Main,,0,0,0,,Samu-Samu-Samu-Samu-\NSamurai Freund!
+Dialogue: 0,0:17:27.30,0:17:29.21,Main,,0,0,0,,Whoa, whoa, whoa!
+Dialogue: 0,0:17:29.23,0:17:30.42,Main,,0,0,0,,Everybody come together!
+Dialogue: 0,0:17:31.20,0:17:33.20,Main,,0,0,0,,Freunde auf der ganzen!
+Dialogue: 0,0:17:33.22,0:17:35.43,Main,,0,0,0,,Fr-Fr-Fr-FrFreunde!
+Dialogue: 0,0:17:37.36,0:17:38.38,Main,,0,0,0,,You saved all of us.
+Dialogue: 0,0:17:38.40,0:17:40.27,Main,,0,0,0,,You have my thanks.
+Dialogue: 0,0:17:40.29,0:17:43.30,Main,,0,0,0,,I have no need for thanks but\Nnow the shadows are calling.
+Dialogue: 0,0:17:43.32,0:17:44.35,Main,,0,0,0,,I must go.
+Dialogue: 0,0:17:46.20,0:17:47.20,Main,,0,0,0,,Wait.
+Dialogue: 0,0:17:47.22,0:17:48.24,Main,,0,0,0,,The children.
+Dialogue: 0,0:17:48.26,0:17:50.28,Main,,0,0,0,,At least say\Ngoodbye to Marco.
+Dialogue: 0,0:17:50.30,0:17:53.36,Main,,0,0,0,,My Freund, I wish them well.
+Dialogue: 0,0:17:53.38,0:17:54.41,Main,,0,0,0,,Sorry.
+Dialogue: 0,0:17:56.31,0:17:56.42,Main,,0,0,0,,Grace!
+Dialogue: 0,0:17:57.20,0:17:57.32,Main,,0,0,0,,Louise!
+Dialogue: 0,0:17:57.34,0:17:58.22,Main,,0,0,0,,Marco!
+Dialogue: 0,0:17:58.24,0:17:59.21,Main,,0,0,0,,Come here!
+Dialogue: 0,0:17:59.23,0:18:00.22,Main,,0,0,0,,Opa!
+Dialogue: 0,0:18:00.24,0:18:02.32,Main,,0,0,0,,Well, shall we go home now?
+Dialogue: 0,0:18:07.30,0:18:08.31,Main,,0,0,0,,There they are!
+Dialogue: 0,0:18:08.33,0:18:10.43,Main,,0,0,0,,Thank goodness\Nthey're all safe!
+Dialogue: 0,0:18:23.26,0:18:25.20,Main,,0,0,0,,What is this?
+Dialogue: 0,0:18:31.21,0:18:33.41,Main,,0,0,0,,This is Ishikawa's doing!
+Dialogue: 0,0:18:33.43,0:18:35.43,Main,,0,0,0,,What in the world\Nis going on here?
+Dialogue: 0,0:18:36.21,0:18:39.34,Main,,0,0,0,,I'm sure the baron\Ncan explain it all to you.
+Dialogue: 0,0:18:39.36,0:18:40.37,Main,,0,0,0,,I'm sorry, Boss.
+Dialogue: 0,0:18:40.39,0:18:42.21,Main,,0,0,0,,I slipped up.
+Dialogue: 0,0:18:42.23,0:18:45.34,Main,,0,0,0,,I suggest you come with us,\NBaron Schumate.
+Dialogue: 0,0:18:52.35,0:18:54.33,Main,,0,0,0,,Good night, you three.
+Dialogue: 0,0:18:54.35,0:18:56.20,Main,,0,0,0,,Sweet dreams.
+Dialogue: 0,0:18:56.22,0:19:00.36,Main,,0,0,0,,Samu-Samu-Samurai Freund.
+Dialogue: 0,0:19:00.38,0:19:02.21,Main,,0,0,0,,Dear boy.
+Dialogue: 0,0:19:02.23,0:19:04.42,Main,,0,0,0,,Be an excellent king,\Nyou hear me?
+Dialogue: 0,0:19:16.26,0:19:18.32,Main,,0,0,0,,Well! How long\Nhave you been there?
+Dialogue: 0,0:19:18.34,0:19:20.36,Main,,0,0,0,,Are you on my side of the law?
+Dialogue: 0,0:19:20.38,0:19:23.35,Main,,0,0,0,,I suppose you could say that,\NMister Samurai.
+Dialogue: 0,0:19:23.37,0:19:25.24,Main,,0,0,0,,An assassin, then.
+Dialogue: 0,0:19:25.26,0:19:27.38,Main,,0,0,0,,Or are you a thief?
+Dialogue: 0,0:19:27.40,0:19:30.29,Main,,0,0,0,,All that treasure\Ngone up in flames.
+Dialogue: 0,0:19:30.31,0:19:32.35,Main,,0,0,0,,What a criminal\Nwaste of effort.
+Dialogue: 0,0:19:32.37,0:19:34.39,Main,,0,0,0,,But the children all survived.
+Dialogue: 0,0:19:34.41,0:19:37.26,Main,,0,0,0,,That was thanks to you.
+Dialogue: 0,0:19:37.28,0:19:38.38,Main,,0,0,0,,Please, I'm no hero.
+Dialogue: 0,0:19:38.40,0:19:40.36,Main,,0,0,0,,Not my style.
+Dialogue: 0,0:19:42.40,0:19:43.37,Main,,0,0,0,,Who are you?
+Dialogue: 0,0:19:43.39,0:19:45.28,Main,,0,0,0,,What is your real name?
+Dialogue: 0,0:19:51.43,0:19:53.30,Main,,0,0,0,,Who am I, huh?
+Dialogue: 0,0:19:53.32,0:19:55.29,Main,,0,0,0,,I'm just a woman.
+Dialogue: 0,0:19:57.27,0:19:59.34,Main,,0,0,0,,Beautiful!
+Dialogue: 0,0:19:59.36,0:20:01.29,Main,,0,0,0,,Isn't it?
+Dialogue: 0,0:20:01.31,0:20:04.35,Main,,0,0,0,,This has been in the royal\Nfamily for generations.
+Dialogue: 0,0:20:04.37,0:20:07.36,Main,,0,0,0,,They say Auguste Rodin\Nsecretly gave it to his lover,
+Dialogue: 0,0:20:07.38,0:20:09.27,Main,,0,0,0,,Camille Claudel.
+Dialogue: 0,0:20:09.29,0:20:11.43,Main,,0,0,0,,It's called\NThe Supplicant King.
+Dialogue: 0,0:20:13.35,0:20:16.21,Main,,0,0,0,,That's what you were\Nafter the whole time?
+Dialogue: 0,0:20:16.23,0:20:16.42,Main,,0,0,0,,Yes.
+Dialogue: 0,0:20:17.20,0:20:18.31,Main,,0,0,0,,It was all an act.
+Dialogue: 0,0:20:18.33,0:20:20.28,Main,,0,0,0,,Aw, are you shocked?
+Dialogue: 0,0:20:20.30,0:20:23.24,Main,,0,0,0,,But I'm just like you--\Nit's part of the job.
+Dialogue: 0,0:20:23.26,0:20:24.24,Main,,0,0,0,,Not so.
+Dialogue: 0,0:20:24.26,0:20:26.26,Main,,0,0,0,,You helped me see past that.
+Dialogue: 0,0:20:28.22,0:20:31.33,Main,,0,0,0,,I mean, you don't have any\Nplace where you belong, either.
+Dialogue: 0,0:20:31.35,0:20:35.27,Main,,0,0,0,,That's what you said and likely\Nyou don't have any true Freund.
+Dialogue: 0,0:20:35.29,0:20:37.39,Main,,0,0,0,,But if you were with me,\Nyou could have a true--
+Dialogue: 0,0:20:40.26,0:20:42.29,Main,,0,0,0,,With you, I could\Nhave a true what?
+Dialogue: 0,0:20:42.31,0:20:44.24,Main,,0,0,0,,Do tell.
+Dialogue: 0,0:20:46.25,0:20:48.43,Main,,0,0,0,,I'm Fujiko Mine and I\Nhope we meet again,
+Dialogue: 0,0:20:49.21,0:20:51.43,Main,,0,0,0,,my adorable samurai Freund.
+Dialogue: 0,0:20:55.37,0:20:56.37,Main,,0,0,0,,A true boyfriend.
+Dialogue: 0,0:20:56.39,0:20:59.42,Main,,0,0,0,,That's what I was\Ngoing to say.
+Dialogue: 0,0:21:00.20,0:21:02.25,Main,,0,0,0,,See you around, Goemon!
+Dialogue: 0,0:21:04.37,0:21:07.42,Main,,0,0,0,,Her name is Fujiko, huh.
+Dialogue: 0,0:21:08.20,0:21:10.21,Main,,0,0,0,,Who goes there?!
+Dialogue: 0,0:21:10.23,0:21:11.29,Main,,0,0,0,,Fire!
+Dialogue: 0,0:21:20.20,0:21:22.34,Main,,0,0,0,,Once again, I have\Ncut worthless objects.

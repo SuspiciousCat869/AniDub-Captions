@@ -1,0 +1,1703 @@
+﻿1
+00:02:13,957 --> 00:02:16,710
+[BRIDGE OFFICER 14A] Now
+passing through Geschtam Gate.
+
+2
+00:02:16,793 --> 00:02:19,587
+Estimated arrival
+at Balun is Tam 07:30.
+
+3
+00:02:19,671 --> 00:02:20,839
+[BRIDGE OFFICER 14B]
+Linking to system satellites.
+
+4
+00:02:20,922 --> 00:02:23,174
+[LINKE] We're lucky Domel
+brought the UX-01.
+
+5
+00:02:23,258 --> 00:02:25,260
+That will make this much easier.
+
+6
+00:02:25,343 --> 00:02:27,554
+[CELESTRA] If The Hound
+successfully snares our prey
+
+7
+00:02:27,637 --> 00:02:29,514
+in his net, we'll
+launch the operation
+
+8
+00:02:29,597 --> 00:02:31,808
+from the Aquarius Ruins.
+
+9
+00:02:31,891 --> 00:02:33,727
+Will that be
+acceptable, Mirenel?
+
+10
+00:02:33,810 --> 00:02:35,353
+Zar Belk.
+
+11
+00:02:36,312 --> 00:02:41,317
+{\an8}[MEZZE speaking Gamilan]
+
+12
+00:02:42,360 --> 00:02:43,903
+{\an8}[FLAKEN speaking Gamilan]
+
+13
+00:02:47,615 --> 00:02:48,825
+[HEINI]
+That's the last one.
+
+14
+00:02:48,908 --> 00:02:51,786
+We've deployed 'em all,
+just like they asked.
+
+15
+00:02:51,870 --> 00:02:54,581
+What are those things, anyway?
+
+16
+00:02:54,664 --> 00:02:55,582
+[FLAKEN]
+Not sure.
+
+17
+00:02:55,665 --> 00:02:57,125
+[HEINI]
+They didn't even tell you?
+
+18
+00:02:57,208 --> 00:02:58,626
+We're warriors!
+
+19
+00:02:58,710 --> 00:03:00,211
+I thought we were
+getting supplies,
+
+20
+00:03:00,295 --> 00:03:02,714
+but instead they sent us
+out to deliver contraptions
+
+21
+00:03:02,797 --> 00:03:05,300
+like cargo-hauling
+errand boys!
+
+22
+00:03:05,383 --> 00:03:06,426
+Ha!
+
+23
+00:03:06,509 --> 00:03:07,886
+[FLAKEN]
+Don't get upset, Heini.
+
+24
+00:03:07,969 --> 00:03:08,762
+[HEINI]
+Hm?
+
+25
+00:03:08,845 --> 00:03:10,221
+You'll like our next mission,
+
+26
+00:03:10,305 --> 00:03:13,224
+it comes directly from
+Lord Desler himself.
+
+27
+00:03:13,308 --> 00:03:17,187
+[HEINI] Huh? Then we're leaving
+General Domel's command
+
+28
+00:03:17,270 --> 00:03:20,106
+before we finish
+dealing with the <i>Yamato</i> ?
+
+29
+00:03:20,190 --> 00:03:21,316
+[FLAKEN]
+Yes.
+
+30
+00:03:21,399 --> 00:03:22,692
+It seems the vixen believes
+
+31
+00:03:22,776 --> 00:03:25,737
+she can handle the
+Teron problem herself.
+
+32
+00:03:39,959 --> 00:03:42,337
+[MORI]
+Nothing on subspace sonar.
+
+33
+00:03:42,420 --> 00:03:45,256
+Not even a ripple at the
+dimensional boundary line.
+
+34
+00:03:45,340 --> 00:03:46,800
+[KODAI]
+Good.
+
+35
+00:03:46,883 --> 00:03:48,968
+I was worried that ship would
+be waiting for us somewhere.
+
+36
+00:03:50,470 --> 00:03:52,806
+[MORI]
+Guess not.
+
+37
+00:03:52,889 --> 00:03:55,016
+So that's the Milky Way?
+
+38
+00:03:55,100 --> 00:03:57,811
+[KODAI] Yeah. The Earth is
+just a microscopic speck
+
+39
+00:03:57,894 --> 00:04:00,105
+somewhere in
+that haze of light.
+
+40
+00:04:00,188 --> 00:04:02,023
+While Iscandar is
+located somewhere
+
+41
+00:04:02,107 --> 00:04:04,651
+in the Large Magellanic Cloud.
+
+42
+00:04:04,734 --> 00:04:06,861
+We've still got
+a long way to go.
+
+43
+00:04:06,945 --> 00:04:09,614
+[MORI sighs]
+So hey, Kodai.
+
+44
+00:04:09,698 --> 00:04:11,032
+Yeah?
+
+45
+00:04:11,116 --> 00:04:13,201
+[MORI]
+This is a good opportunity.
+
+46
+00:04:13,284 --> 00:04:15,245
+Wanna let me pilot for a bit?
+
+47
+00:04:15,328 --> 00:04:16,538
+[KODAI]
+No way.
+
+48
+00:04:16,621 --> 00:04:19,749
+[MORI] Uh. Why not?
+We've finished our patrol!
+
+49
+00:04:19,833 --> 00:04:22,419
+[KODAI] We only have
+so many of these planes.
+
+50
+00:04:22,502 --> 00:04:24,254
+[MORI] What is that
+supposed to mean?
+
+51
+00:04:24,337 --> 00:04:25,839
+[KODAI]
+We can't afford to lose one.
+
+52
+00:04:25,922 --> 00:04:27,007
+[MORI]
+Lieutenant Kodai!
+
+53
+00:04:27,090 --> 00:04:29,134
+As Chief of Operations,
+I order you to...
+
+54
+00:04:29,217 --> 00:04:32,637
+It's nice to be
+young, isn't it? Hm?
+
+55
+00:04:32,721 --> 00:04:33,805
+[MORI]
+Nice try!
+
+56
+00:04:33,888 --> 00:04:35,265
+But thanks to that
+little stunt you pulled,
+
+57
+00:04:35,348 --> 00:04:36,599
+you're on suspension!
+
+58
+00:04:36,683 --> 00:04:38,393
+[KODAI] Oh, come on!
+You're bringing that up now?
+
+59
+00:04:38,476 --> 00:04:39,644
+[NANBU] Do I really
+have to hear this?
+
+60
+00:04:39,728 --> 00:04:41,438
+[MORI]
+You bet I am!
+
+61
+00:04:41,521 --> 00:04:43,648
+[AIHARA]
+<i>Yamato</i> to Zero-Zero-Three.
+
+62
+00:04:43,732 --> 00:04:46,192
+You realize we can hear
+everything you're saying, right?
+
+63
+00:04:46,276 --> 00:04:47,318
+[KODAI and MORI gasp]
+
+64
+00:04:47,402 --> 00:04:48,737
+Of all the people on board,
+
+65
+00:04:48,820 --> 00:04:51,239
+why'd you pick those two
+for the patrol, sir?
+
+66
+00:04:51,322 --> 00:04:53,074
+[NIIMI]
+That prototype subspace sonar
+
+67
+00:04:53,158 --> 00:04:55,493
+requires Lieutenant
+Mori's radar skills.
+
+68
+00:04:55,577 --> 00:04:58,329
+And since Lieutenant Kodai's
+serving out his suspension,
+
+69
+00:04:58,413 --> 00:05:00,206
+he's got nothing better to do.
+
+70
+00:05:00,290 --> 00:05:01,332
+It makes perfect sense.
+
+71
+00:05:01,416 --> 00:05:03,043
+--[SHIMA laughs]
+--[SAIJO] Oh.
+
+72
+00:05:04,502 --> 00:05:05,962
+[SHIMA]
+Uh?
+
+73
+00:05:06,046 --> 00:05:07,255
+Snow?
+
+74
+00:05:09,049 --> 00:05:11,009
+That can't be.
+
+75
+00:05:11,092 --> 00:05:14,512
+[WOMEN singing]
+
+76
+00:05:19,559 --> 00:05:21,394
+[AIHARA] I'm not sure
+what I'm hearing.
+
+77
+00:05:21,478 --> 00:05:24,064
+Is that someone sing--[static]
+
+78
+00:05:24,147 --> 00:05:27,442
+Aihara, did I lose you?
+<i>Yamato</i> , do you copy?
+
+79
+00:05:27,525 --> 00:05:28,777
+<i>Yamato</i> !
+
+80
+00:05:32,530 --> 00:05:33,323
+[KODAI]
+Mori?
+
+81
+00:05:33,406 --> 00:05:35,075
+[MORI]
+I'm taking us back.
+
+82
+00:05:37,410 --> 00:05:39,621
+[KODAI]
+Hey, you seeing that?
+
+83
+00:05:52,926 --> 00:05:56,012
+[singing continues]
+
+84
+00:05:56,096 --> 00:05:58,390
+[KODAI]
+What's going on?
+
+85
+00:05:58,473 --> 00:06:00,475
+[MORI]
+I can't access the hangar.
+
+86
+00:06:00,558 --> 00:06:02,477
+[KODAI]
+I'm retaking control.
+
+87
+00:06:15,699 --> 00:06:18,743
+[KODAI] All right, SID, maintain
+synchronization with the <i>Yamato.</i>
+
+88
+00:06:18,827 --> 00:06:20,412
+[SID 6A]
+Command accepted.
+
+89
+00:06:25,750 --> 00:06:26,876
+[MORI]
+How do we get in?
+
+90
+00:06:26,960 --> 00:06:28,586
+[KODAI]
+Emergency airlock.
+
+91
+00:06:38,179 --> 00:06:44,519
+[KODAI breathes heavily]
+
+92
+00:07:11,713 --> 00:07:13,882
+No way, where did
+everybody go?
+
+93
+00:07:13,965 --> 00:07:15,300
+[MORI]
+Analyzer.
+
+94
+00:07:17,302 --> 00:07:18,428
+[gasps]
+
+95
+00:07:20,013 --> 00:07:23,016
+[KODAI] Looks like the momentum
+control system is still online.
+
+96
+00:07:43,411 --> 00:07:45,705
+[COMPUTER 14A]
+Course correction confirmed.
+
+97
+00:07:45,789 --> 00:07:49,292
+[KODAI] No response.
+I can't access it.
+
+98
+00:07:49,376 --> 00:07:51,461
+Where in the world are we going?
+
+99
+00:07:52,462 --> 00:07:54,130
+[MORI] Well if the ship
+can stay on a course
+
+100
+00:07:54,214 --> 00:07:55,465
+and keep us moving on its own,
+
+101
+00:07:55,548 --> 00:07:57,550
+then the navigation system
+must be working.
+
+102
+00:07:57,634 --> 00:07:59,094
+And besides the central computer
+
+103
+00:07:59,177 --> 00:08:02,514
+there's only one
+access point for that.
+
+104
+00:08:02,597 --> 00:08:04,933
+[MORI, KODAI]
+The auto-navigation room.
+
+105
+00:08:06,601 --> 00:08:09,229
+[KODAI] But what could
+have led to all this?
+
+106
+00:08:09,312 --> 00:08:12,148
+Something is terribly
+wrong with this ship.
+
+107
+00:08:13,733 --> 00:08:16,611
+[KODAI] I just have
+no idea what it could be.
+
+108
+00:08:19,489 --> 00:08:20,949
+[MORI]
+That's strange.
+
+109
+00:08:21,032 --> 00:08:22,158
+We've got power,
+
+110
+00:08:22,242 --> 00:08:24,494
+but the elevator says
+emergency shutdown.
+
+111
+00:08:24,577 --> 00:08:27,247
+And I can't unlock
+the door to the stairs.
+
+112
+00:08:27,330 --> 00:08:29,416
+We'll climb down.
+
+113
+00:08:31,835 --> 00:08:33,044
+[WOMAN exhales]
+
+114
+00:08:33,128 --> 00:08:34,212
+[KODAI gasps]
+
+115
+00:08:37,966 --> 00:08:39,509
+[KODAI gasps]
+
+116
+00:08:40,301 --> 00:08:41,261
+[KODAI grunts]
+
+117
+00:08:41,344 --> 00:08:44,431
+[MORI]
+Kodai! Kodai!
+
+118
+00:08:47,642 --> 00:08:49,269
+Are you okay?
+
+119
+00:08:51,062 --> 00:08:54,941
+[KODAI sighs] I'm fine.
+Come on, let's get moving.
+
+120
+00:08:55,025 --> 00:08:56,609
+[KODAI grunts]
+
+121
+00:09:07,662 --> 00:09:08,663
+[KODAI]
+Uh!
+
+122
+00:09:09,205 --> 00:09:11,541
+[MORI]
+Oh. Sorry.
+
+123
+00:09:11,624 --> 00:09:13,918
+Uh. Yeah.
+
+124
+00:09:22,302 --> 00:09:25,013
+We've got those two
+possible terminals to check.
+
+125
+00:09:25,096 --> 00:09:26,598
+Should we split up?
+
+126
+00:09:26,681 --> 00:09:29,517
+No. It'll be safer
+if we stick together.
+
+127
+00:09:29,601 --> 00:09:31,186
+Good point.
+
+128
+00:09:33,980 --> 00:09:35,023
+[WOMAN exhales]
+
+129
+00:09:35,106 --> 00:09:36,399
+[MORI gasps]
+
+130
+00:09:38,610 --> 00:09:39,569
+[WOMAN singing]
+
+131
+00:09:39,652 --> 00:09:44,449
+[LINKE]
+Vav, voor, zro, koo, voon...
+
+132
+00:09:44,532 --> 00:09:45,909
+...zero.
+
+133
+00:09:45,992 --> 00:09:48,953
+[KODAI]
+Okay, let's--
+
+134
+00:09:51,831 --> 00:09:53,375
+Mori?
+
+135
+00:09:54,542 --> 00:10:01,549
+[phone ringing]
+
+136
+00:10:08,306 --> 00:10:09,307
+[KODAI]
+Hello?
+
+137
+00:10:09,391 --> 00:10:12,268
+[NORIKO KODAI]
+Susumu, where are you?
+
+138
+00:10:12,352 --> 00:10:14,270
+We've all been
+worrying about you.
+
+139
+00:10:14,354 --> 00:10:16,189
+Come home, okay?
+
+140
+00:10:18,525 --> 00:10:19,984
+[KODAI]
+Mom?
+
+141
+00:10:25,782 --> 00:10:28,827
+[footsteps]
+
+142
+00:10:35,709 --> 00:10:40,255
+[phone ringing]
+
+143
+00:10:40,755 --> 00:10:42,924
+[TAKESHI KODAI] Do you think
+that's Mamoru on the phone?
+
+144
+00:10:43,008 --> 00:10:44,426
+[MAKI KODAI] He's s'posed
+to get back to Earth today
+
+145
+00:10:44,509 --> 00:10:45,885
+and he's always
+good about calling.
+
+146
+00:10:45,969 --> 00:10:47,470
+That must be him.
+
+147
+00:10:47,554 --> 00:10:50,807
+[YOSHIO KODAI] Sure will be nice
+to have the whole family here.
+
+148
+00:10:50,890 --> 00:10:55,729
+[KODAI] Mom and Dad.
+My aunt and uncle, too.
+
+149
+00:10:55,812 --> 00:10:57,939
+But that's impossible.
+
+150
+00:10:58,023 --> 00:11:01,234
+They all died that day.
+
+151
+00:11:01,317 --> 00:11:04,112
+[LINKE]
+It's been a long time, Susumu.
+
+152
+00:11:04,195 --> 00:11:05,321
+What's wrong?
+
+153
+00:11:05,405 --> 00:11:07,866
+Aren't you going
+to answer the phone?
+
+154
+00:11:11,745 --> 00:11:13,204
+[KODAI]
+Hello?
+
+155
+00:11:13,288 --> 00:11:15,373
+[MAMORU KODAI]
+Is that you, Susumu?
+
+156
+00:11:15,457 --> 00:11:16,833
+Brother?
+
+157
+00:11:16,916 --> 00:11:19,294
+[MAMORU KODAI]
+I'll be there in 20 minutes.
+
+158
+00:11:22,714 --> 00:11:24,466
+[MAMORU KODAI]
+Sorry I'm late.
+
+159
+00:11:27,385 --> 00:11:30,972
+Tell me. Why did you
+have to die out there?
+
+160
+00:11:31,056 --> 00:11:32,849
+[MAMORU KODAI]
+What about you?
+
+161
+00:11:32,932 --> 00:11:36,186
+Are you still alive or
+did you die in space, too?
+
+162
+00:11:36,269 --> 00:11:40,190
+Do you even know?
+Where are you right now?
+
+163
+00:11:40,273 --> 00:11:42,067
+I'm onboard the <i>Yamato</i> .
+
+164
+00:11:42,150 --> 00:11:44,486
+[MAMORU KODAI]
+But that's not where you belong.
+
+165
+00:11:44,569 --> 00:11:47,364
+You know that.
+Come home, Susumu.
+
+166
+00:11:47,447 --> 00:11:50,033
+You were never cut out
+to be a soldier.
+
+167
+00:11:51,785 --> 00:11:53,995
+[LINKE]
+Your big brother is right.
+
+168
+00:11:55,997 --> 00:11:57,832
+Let's get you home, Susumu.
+
+169
+00:11:57,916 --> 00:11:59,959
+I can take you there.
+
+170
+00:12:00,043 --> 00:12:03,004
+[KODAI]
+No. I have to get back now.
+
+171
+00:12:03,088 --> 00:12:05,882
+[LINKE]
+Get back? To where?
+
+172
+00:12:05,965 --> 00:12:07,133
+[KODAI]
+The <i>Yamato</i> .
+
+173
+00:12:07,217 --> 00:12:10,011
+[LINKE] And why would you
+want to go there?
+
+174
+00:12:10,095 --> 00:12:11,429
+Because I have to fight.
+
+175
+00:12:11,513 --> 00:12:14,265
+Are you sure? Against whom?
+
+176
+00:12:14,349 --> 00:12:15,475
+[KODAI]
+Who do you think?
+
+177
+00:12:15,558 --> 00:12:17,102
+The enemy!
+
+178
+00:12:17,185 --> 00:12:19,354
+You know, the--
+
+179
+00:12:22,148 --> 00:12:25,068
+Who was... I fighting?
+
+180
+00:12:32,659 --> 00:12:37,205
+[applause]
+
+181
+00:12:38,415 --> 00:12:39,791
+[applause stops abruptly]
+
+182
+00:12:39,874 --> 00:12:41,418
+[HIJIKATA]
+Welcome to planet Earth.
+
+183
+00:12:41,501 --> 00:12:44,713
+[MORI gasps]
+Admiral Hijikata?
+
+184
+00:12:45,505 --> 00:12:47,007
+[VIDEO NARRATOR] Throughout
+the twentieth century,
+
+185
+00:12:47,090 --> 00:12:49,926
+it was normal for families to
+nurture their familial bonds
+
+186
+00:12:50,010 --> 00:12:52,887
+by gathering around
+the table for meals.
+
+187
+00:12:52,971 --> 00:12:54,305
+Kodai?
+
+188
+00:12:55,807 --> 00:12:57,434
+[HIJIKATA] So you can learn
+more about our civilization,
+
+189
+00:12:57,517 --> 00:13:00,311
+we've arranged for you to live
+among us, like an Earthling.
+
+190
+00:13:00,395 --> 00:13:02,522
+And to help you
+get adjusted here.
+
+191
+00:13:02,605 --> 00:13:05,233
+We've assigned you a partner.
+
+192
+00:13:05,316 --> 00:13:09,112
+It's an honor to meet you.
+I hope I can be helpful.
+
+193
+00:13:11,281 --> 00:13:12,532
+[tires squeal]
+
+194
+00:13:12,615 --> 00:13:14,200
+[crash]
+
+195
+00:13:15,201 --> 00:13:16,578
+[TV NEWSCASTER] Authorities
+say they are diligently
+
+196
+00:13:16,661 --> 00:13:18,121
+investigating the incident,
+
+197
+00:13:18,204 --> 00:13:20,290
+but have so far declined to
+comment about their findings,
+
+198
+00:13:20,373 --> 00:13:22,667
+and despite the swirling rumors,
+they have yet to either...
+
+199
+00:13:22,751 --> 00:13:24,794
+[LINKE]
+Oh, you're awake.
+
+200
+00:13:24,878 --> 00:13:25,962
+Where am I?
+
+201
+00:13:26,046 --> 00:13:28,089
+At the Central Hospital.
+
+202
+00:13:29,007 --> 00:13:31,593
+You really shouldn't get up yet.
+
+203
+00:13:31,676 --> 00:13:34,429
+But I--
+What happened to me?
+
+204
+00:13:34,512 --> 00:13:36,181
+How did I get here?
+
+205
+00:13:36,264 --> 00:13:38,558
+Sorry, ma'am, but you've
+suffered acute head trauma,
+
+206
+00:13:38,641 --> 00:13:39,976
+and the doctors suspect
+you have amnesia.
+
+207
+00:13:40,060 --> 00:13:41,519
+[NEWSCASTER]
+One of the victims, Yuki Mori,
+
+208
+00:13:41,603 --> 00:13:44,647
+is a soldier currently on
+special assignment in the UNCF,
+
+209
+00:13:44,731 --> 00:13:48,276
+and we are told
+she is now in a coma.
+
+210
+00:13:48,360 --> 00:13:51,488
+Inside sources believe the
+police are investigating this
+
+211
+00:13:51,571 --> 00:13:54,699
+as possible terrorism,
+but that--
+
+212
+00:13:57,035 --> 00:14:01,706
+[WOMAN singing]
+
+213
+00:14:05,960 --> 00:14:07,295
+[gasps]
+
+214
+00:14:22,560 --> 00:14:24,938
+[alarm blares]
+
+215
+00:14:25,021 --> 00:14:27,023
+An air raid warning has
+just been issued!
+
+216
+00:14:27,107 --> 00:14:28,566
+Please take cover!
+
+217
+00:14:31,361 --> 00:14:38,034
+[harmonica plays]
+
+218
+00:15:00,056 --> 00:15:02,600
+[gasps] You're here.
+
+219
+00:15:02,684 --> 00:15:05,603
+Susumu. Be a man
+and stop crying.
+
+220
+00:15:05,687 --> 00:15:09,649
+[KODAI sobs]
+
+221
+00:15:09,733 --> 00:15:13,236
+Dad gave this to me
+years ago, before the war.
+
+222
+00:15:15,321 --> 00:15:17,407
+[MAMORU KODAI]
+I want you to have it.
+
+223
+00:15:21,327 --> 00:15:24,289
+[YURISHA] Please.
+I want you to have it.
+
+224
+00:15:27,125 --> 00:15:29,878
+Wait a minute. This can't be!
+
+225
+00:15:29,961 --> 00:15:33,631
+[gasps] What are you doing here?
+
+226
+00:15:33,715 --> 00:15:36,343
+It's going to be okay, Yuki.
+
+227
+00:15:39,012 --> 00:15:40,472
+[MISAKI]
+Yuki?
+
+228
+00:15:42,057 --> 00:15:43,224
+[MORI gasps]
+
+229
+00:15:43,308 --> 00:15:44,976
+[MORI]
+Misaki?
+
+230
+00:15:45,060 --> 00:15:47,687
+Misaki? Who's that?
+
+231
+00:15:49,773 --> 00:15:51,816
+This vessel is moving.
+
+232
+00:15:51,900 --> 00:15:54,444
+It has a Wave Motion Engine.
+
+233
+00:15:54,527 --> 00:15:56,029
+You say that like
+you're surprised.
+
+234
+00:15:56,112 --> 00:15:57,781
+Where is the rest of the crew?
+
+235
+00:15:57,864 --> 00:16:00,408
+[MISAKI] I just woke up
+and I was here.
+
+236
+00:16:00,492 --> 00:16:01,409
+Oh.
+
+237
+00:16:01,493 --> 00:16:02,952
+Uh?
+
+238
+00:16:04,496 --> 00:16:06,122
+This is...
+
+239
+00:16:09,417 --> 00:16:11,127
+[MAMORU KODAI]
+Planet bombs.
+
+240
+00:16:11,211 --> 00:16:12,545
+[KODAI]
+Uh?
+
+241
+00:16:12,629 --> 00:16:16,800
+Susumu. You need to
+always remember this.
+
+242
+00:16:16,883 --> 00:16:18,468
+Right.
+
+243
+00:16:24,599 --> 00:16:25,767
+[MORI]
+No luck.
+
+244
+00:16:25,850 --> 00:16:28,436
+I can't change our course
+from here, either.
+
+245
+00:16:28,520 --> 00:16:31,690
+The real question is
+where are we warping to?
+
+246
+00:16:31,773 --> 00:16:34,484
+They're going to be waiting
+for you at the other end.
+
+247
+00:16:34,567 --> 00:16:36,319
+They'll be waiting
+for this ship.
+
+248
+00:16:36,403 --> 00:16:39,447
+Since a Wave Motion Engine
+is its means of propulsion,
+
+249
+00:16:39,531 --> 00:16:41,908
+you can stop it by removing
+the Wave Motion Core.
+
+250
+00:16:41,991 --> 00:16:44,452
+[MORI gasps]
+
+251
+00:16:44,536 --> 00:16:46,746
+I'll be back, you stay here.
+
+252
+00:16:46,830 --> 00:16:49,874
+[door opens, closes]
+
+253
+00:16:51,626 --> 00:16:54,546
+[MISAKI]
+A Wave Motion Engine. [laughs]
+
+254
+00:16:54,629 --> 00:16:56,506
+My sister must be here, too.
+
+255
+00:16:56,589 --> 00:16:58,091
+[MORI panting]
+
+256
+00:16:58,174 --> 00:16:59,509
+[COMPUTER VOICE]
+Time until warp:
+
+257
+00:16:59,592 --> 00:17:01,469
+120 seconds.
+
+258
+00:17:04,305 --> 00:17:06,474
+[COMPUTER VOICE]
+Time until warp: 30 seconds.
+
+259
+00:17:06,558 --> 00:17:07,600
+[gasps]
+
+260
+00:17:10,103 --> 00:17:11,771
+Mother. Jiro.
+
+261
+00:17:11,855 --> 00:17:12,647
+[COMPUTER VOICE]
+Countdown to warp:
+
+262
+00:17:12,731 --> 00:17:14,315
+You don't hold back, do you?
+
+263
+00:17:14,399 --> 00:17:15,483
+[COMPUTER VOICE]
+Nine.
+
+264
+00:17:15,567 --> 00:17:16,735
+Eight.
+
+265
+00:17:16,818 --> 00:17:17,861
+Seven.
+
+266
+00:17:17,944 --> 00:17:18,945
+Six.
+
+267
+00:17:19,029 --> 00:17:19,946
+Five.
+
+268
+00:17:20,030 --> 00:17:20,989
+Four.
+
+269
+00:17:21,072 --> 00:17:22,115
+Three.
+
+270
+00:17:22,198 --> 00:17:23,533
+Two.
+
+271
+00:17:23,616 --> 00:17:26,828
+Lieutenant Mori:
+Access authorized.
+
+272
+00:17:26,911 --> 00:17:28,747
+Disconnection of
+Wave Motion Core
+
+273
+00:17:28,830 --> 00:17:31,541
+from primary system initiated.
+
+274
+00:17:31,624 --> 00:17:32,500
+[sighs]
+
+275
+00:17:32,584 --> 00:17:33,835
+[COMPUTER VOICE]
+Multidimensional
+
+276
+00:17:33,918 --> 00:17:36,796
+momentum-conservation of
+quantum flywheel complete.
+
+277
+00:17:36,880 --> 00:17:39,132
+Power capacitors fully charged.
+
+278
+00:17:39,215 --> 00:17:42,302
+Power bus connections
+severed at all phases.
+
+279
+00:17:50,393 --> 00:17:52,103
+[COMPUTER VOICE]
+Deploying Wave Motion Shields
+
+280
+00:17:52,187 --> 00:17:54,189
+in core conduit bay.
+
+281
+00:17:55,440 --> 00:17:56,608
+[COMPUTER VOICE]
+Wave Motion Shields
+
+282
+00:17:56,691 --> 00:17:58,860
+deployment confirmed.
+
+283
+00:17:58,943 --> 00:18:02,030
+Wave Motion Core may
+now be safely removed.
+
+284
+00:18:09,162 --> 00:18:11,206
+[HIJIKATA]
+Yuki, what are you doing?
+
+285
+00:18:11,289 --> 00:18:12,707
+[MORI gasps]
+
+286
+00:18:12,791 --> 00:18:15,377
+I need you to put that back
+where it belongs, right now.
+
+287
+00:18:15,460 --> 00:18:17,295
+But sir. I can't.
+
+288
+00:18:17,379 --> 00:18:18,380
+[LINKE]
+That's an order.
+
+289
+00:18:18,463 --> 00:18:20,382
+Put it back.
+
+290
+00:18:20,465 --> 00:18:21,257
+But why?
+
+291
+00:18:21,341 --> 00:18:22,425
+[LINKE]
+If you don't,
+
+292
+00:18:22,509 --> 00:18:25,136
+then the Earth
+will be destroyed.
+
+293
+00:18:25,220 --> 00:18:28,223
+Destroyed? Planet Earth?
+
+294
+00:18:28,306 --> 00:18:29,432
+[LINKE]
+Yes.
+
+295
+00:18:29,516 --> 00:18:32,977
+Your home, which
+you love so dearly.
+
+296
+00:18:34,479 --> 00:18:36,439
+My... My home?
+
+297
+00:18:36,523 --> 00:18:39,192
+[LINKE]
+Yes, your home.
+
+298
+00:18:39,275 --> 00:18:40,527
+Now.
+
+299
+00:18:41,986 --> 00:18:43,905
+[LINKE]
+Bring it here.
+
+300
+00:18:47,325 --> 00:18:49,244
+[TAKESHI KODAI]
+Mamoru's late.
+
+301
+00:18:49,327 --> 00:18:51,413
+[NORIKO KODAI]
+Maybe his ship's delayed.
+
+302
+00:18:51,496 --> 00:18:54,165
+[KODAI]
+I wasn't here that day.
+
+303
+00:18:54,249 --> 00:18:57,961
+I went to meet my brother
+at the space port, but then...
+
+304
+00:18:58,044 --> 00:18:59,004
+Look!
+
+305
+00:18:59,087 --> 00:18:59,963
+[FEMALE PEDESTRIAN]
+What is that?
+
+306
+00:19:00,046 --> 00:19:01,798
+[KODAI]
+...it hit my city.
+
+307
+00:19:01,881 --> 00:19:04,134
+[TAKESHI KODAI]
+Don't be ridiculous.
+
+308
+00:19:04,217 --> 00:19:06,094
+[NORIKO KODAI]
+Earth is at peace.
+
+309
+00:19:06,177 --> 00:19:07,971
+There is no war.
+
+310
+00:19:09,139 --> 00:19:11,266
+You're wrong, there is a war.
+
+311
+00:19:11,349 --> 00:19:12,976
+The enemy are the Gamilans.
+
+312
+00:19:13,059 --> 00:19:16,396
+That day, a planet
+bomb hit here.
+
+313
+00:19:16,479 --> 00:19:19,774
+It hit my home
+and killed them all!
+
+314
+00:19:19,858 --> 00:19:25,488
+[applause]
+
+315
+00:19:27,282 --> 00:19:28,575
+--[LINKE] That's right.
+--[KODAI gasps]
+
+316
+00:19:28,658 --> 00:19:29,826
+Good girl.
+
+317
+00:19:29,909 --> 00:19:33,163
+Just put it back
+where it belongs.
+
+318
+00:19:33,246 --> 00:19:34,539
+[KODAI]
+Mori.
+
+319
+00:19:36,124 --> 00:19:37,417
+[KODAI]
+Yuki!
+
+320
+00:19:45,467 --> 00:19:46,551
+[gasps]
+
+321
+00:19:51,264 --> 00:19:52,515
+[gasps]
+
+322
+00:19:52,599 --> 00:19:54,434
+That stung a bit.
+
+323
+00:19:59,314 --> 00:20:00,440
+[LINKE grunts]
+
+324
+00:20:02,359 --> 00:20:04,027
+That's a Geschtam Field!
+
+325
+00:20:04,110 --> 00:20:08,323
+[COMPUTER VOICE] Releasing Wave
+Motion Field in conduit bay.
+
+326
+00:20:08,406 --> 00:20:10,909
+Please evacuate immediately.
+
+327
+00:20:12,494 --> 00:20:14,913
+[COMPUTER VOICE]
+Restarting Wave Motion Engine.
+
+328
+00:20:14,996 --> 00:20:16,790
+[screams]
+
+329
+00:20:17,749 --> 00:20:20,418
+[phone ringing]
+
+330
+00:20:22,337 --> 00:20:24,589
+[LINKE screams]
+
+331
+00:20:28,677 --> 00:20:30,887
+[thuds]
+
+332
+00:20:35,767 --> 00:20:36,935
+[sighs]
+
+333
+00:20:37,018 --> 00:20:39,312
+[MORI groans]
+
+334
+00:20:48,446 --> 00:20:49,906
+[BRIDGE OFFICER]
+Ghost Link severed.
+
+335
+00:20:49,989 --> 00:20:53,243
+Special Ops Officer Linke's mind
+isn't returning to her body.
+
+336
+00:20:53,326 --> 00:20:56,079
+Transferred data has been saved.
+
+337
+00:21:00,041 --> 00:21:04,087
+If you're gone, Mirenel,
+then I am all alone.
+
+338
+00:21:06,715 --> 00:21:08,341
+[DOMEL]
+Those ruins were left behind
+
+339
+00:21:08,425 --> 00:21:11,094
+by the race that
+built the gates.
+
+340
+00:21:11,177 --> 00:21:14,097
+There's a rumor she's
+one of their descendants.
+
+341
+00:21:14,180 --> 00:21:17,475
+So, what did she come here
+hoping to accomplish, anyway?
+
+342
+00:21:17,559 --> 00:21:20,979
+The motive of witches cannot
+be known by average men.
+
+343
+00:21:21,062 --> 00:21:23,356
+[GOER] Hm?
+Who're you calling average?
+
+344
+00:21:23,440 --> 00:21:24,733
+[ZOELLIK]
+So, what you're telling me is
+
+345
+00:21:24,816 --> 00:21:26,401
+that annoying space wolf
+and the witch
+
+346
+00:21:26,484 --> 00:21:29,654
+are both hopelessly fixated on
+a Yamato now, is that right?
+
+347
+00:21:29,738 --> 00:21:30,822
+[GOER]
+Yes, sir.
+
+348
+00:21:30,905 --> 00:21:31,865
+[ZOELLIK'S COURTESAN 14A]
+
+349
+00:21:31,948 --> 00:21:33,908
+[ZOELLIK]
+Then this is our moment.
+
+350
+00:21:33,992 --> 00:21:36,036
+Our moment for what, sir?
+
+351
+00:21:36,119 --> 00:21:39,330
+Yeah, you don't need to
+know, just obey.
+
+352
+00:21:45,503 --> 00:21:47,547
+[MORI] Doctor Sado says
+everyone seems to have been
+
+353
+00:21:47,630 --> 00:21:50,425
+reliving their most
+important memories.
+
+354
+00:21:51,968 --> 00:21:55,013
+Well I saw my mom and dad,
+back at home on Earth.
+
+355
+00:21:55,096 --> 00:21:56,848
+That and--
+
+356
+00:21:59,184 --> 00:22:01,227
+So what memory
+did you get to see?
+
+357
+00:22:01,311 --> 00:22:03,855
+Oh, sorry.
+
+358
+00:22:03,938 --> 00:22:05,940
+Don't be.
+
+359
+00:22:06,024 --> 00:22:09,235
+Actually, I saw someone
+I cared about, too.
+
+360
+00:22:09,319 --> 00:22:11,029
+[KODAI]
+Uh?
+
+361
+00:22:11,112 --> 00:22:14,699
+And in the end, you came
+for me, right, Kodai?
+
+362
+00:22:14,783 --> 00:22:16,868
+Uh, yeah, so?
+
+363
+00:22:16,951 --> 00:22:18,286
+[MORI giggles]
+
+364
+00:22:18,370 --> 00:22:21,164
+Uh, hey, Mori, wait!
+
+365
+00:22:21,247 --> 00:22:22,665
+What did you mean by that?
+
+366
+00:22:22,749 --> 00:22:24,209
+[MORI]
+It's a secret.
+
+367
+00:22:24,292 --> 00:22:25,877
+[KODAI]
+Come on!
+
+368
+00:22:27,545 --> 00:22:30,423
+[MISAKI]
+Now it's goodbye to me.
+
+369
+00:22:30,507 --> 00:22:32,926
+And hello to you.
+
+370
+00:22:33,009 --> 00:22:35,470
+You're Misaki again.
+
+371
+00:22:35,553 --> 00:22:37,806
+Yuria Misaki.
+

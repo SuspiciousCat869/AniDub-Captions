@@ -1,0 +1,1794 @@
+﻿1
+00:01:49,140 --> 00:01:51,643
+[static]
+
+2
+00:01:51,726 --> 00:01:53,019
+[KODAI]
+This is Susumu Kodai,
+
+3
+00:01:53,103 --> 00:01:55,939
+Acting Captain of the
+Space Battleship <i>Yamato.</i>
+
+4
+00:01:56,022 --> 00:01:58,525
+We don't want to keep fighting.
+
+5
+00:01:58,608 --> 00:02:02,153
+We want you to peacefully
+withdraw from this system.
+
+6
+00:02:02,237 --> 00:02:06,116
+[MAZER]
+<i>Yamato.</i> Damn that <i>Yamato</i> !
+
+7
+00:02:15,583 --> 00:02:17,252
+[crash]
+
+8
+00:02:17,335 --> 00:02:20,255
+We have no chance of
+reinforcement or resupply.
+
+9
+00:02:20,338 --> 00:02:22,382
+If we keep advancing like this--
+
+10
+00:02:22,465 --> 00:02:25,176
+[MAZER]
+We will chase them down!
+
+11
+00:02:25,260 --> 00:02:27,012
+That Earthling vessel beat us.
+
+12
+00:02:27,095 --> 00:02:30,473
+Yet they refused to claim
+victory and put us to the sword.
+
+13
+00:02:30,557 --> 00:02:32,267
+Until we sink that ship,
+
+14
+00:02:32,350 --> 00:02:35,854
+as warriors, we can neither
+die nor truly live.
+
+15
+00:02:35,937 --> 00:02:38,565
+Even if it means disobeying
+the emperor's orders,
+
+16
+00:02:38,648 --> 00:02:42,652
+and burning in the fires of hell
+for it, we have no choice!
+
+17
+00:02:42,736 --> 00:02:44,696
+All we can do is fight!
+
+18
+00:02:50,326 --> 00:02:53,997
+[MIL] "You are here to
+show us vindictiveness."
+
+19
+00:02:54,414 --> 00:02:56,207
+Do not think
+Emperor Zworder meant
+
+20
+00:02:56,291 --> 00:02:58,335
+he wants that trait
+for our kind.
+
+21
+00:02:58,418 --> 00:03:02,839
+Such emotions of the humanoid
+species are corrupting to us,
+
+22
+00:03:02,922 --> 00:03:05,008
+and work like a powerful drug.
+
+23
+00:03:05,091 --> 00:03:06,926
+In fact, we are
+seeing its effects
+
+24
+00:03:07,010 --> 00:03:10,430
+on the Gatlantean mind now.
+Driven by hatred for the <i>Yamato,</i>
+
+25
+00:03:10,513 --> 00:03:12,766
+they are chasing
+her against orders.
+
+26
+00:03:12,849 --> 00:03:16,436
+And thus, they're contaminated
+and threaten his perfect fleet.
+
+27
+00:03:16,519 --> 00:03:19,898
+They are waste.
+Which must be purged.
+
+28
+00:03:19,981 --> 00:03:24,194
+[DESLER] Mil, just to be clear,
+I came all this way
+
+29
+00:03:24,277 --> 00:03:26,946
+because I was told I could
+battle the <i>Yamato.</i>
+
+30
+00:03:27,030 --> 00:03:28,531
+Yes, of course.
+
+31
+00:03:28,615 --> 00:03:30,825
+How you treat the source
+of the contamination
+
+32
+00:03:30,909 --> 00:03:32,660
+is your choice.
+
+33
+00:03:32,744 --> 00:03:36,790
+I accompany you merely to report
+what I see to the emperor.
+
+34
+00:03:36,873 --> 00:03:37,874
+[DESLER]
+Hmph.
+
+35
+00:03:37,957 --> 00:03:40,502
+[GAMILOID 11A]
+Ten seconds to warp out.
+
+36
+00:03:42,003 --> 00:03:45,215
+Prepare to fire
+the Desler Cannon.
+
+37
+00:03:55,558 --> 00:03:58,770
+[MIL] We are not ruled by
+the emotions of the individual,
+
+38
+00:03:58,853 --> 00:04:02,774
+which is precisely why we were
+able to rise up and thrive.
+
+39
+00:04:02,857 --> 00:04:06,069
+To be honest, I don't like
+being around you humanoids
+
+40
+00:04:06,152 --> 00:04:08,238
+and your lowly pursuits.
+
+41
+00:04:14,911 --> 00:04:19,624
+[GAMILOID 11A] Desler Cannon
+energy charge: 120%.
+
+42
+00:04:19,708 --> 00:04:23,503
+I'll be the first to admit that,
+at times, we get carried away.
+
+43
+00:04:25,422 --> 00:04:30,051
+[DESLER] Driven mad by our
+emotions. By love, most of all.
+
+44
+00:04:36,516 --> 00:04:38,601
+No, but why?!
+
+45
+00:04:57,412 --> 00:04:59,372
+[GOENITZ] The contaminated
+fleet has been purged
+
+46
+00:04:59,456 --> 00:05:02,167
+by His Excellency, Lord Desler.
+
+47
+00:05:02,250 --> 00:05:05,253
+It would appear he has
+passed his first test.
+
+48
+00:05:05,337 --> 00:05:08,673
+Is this a good faith attempt to
+repay his debt to the emperor?
+
+49
+00:05:08,757 --> 00:05:11,009
+Or does he obey merely
+because he understands
+
+50
+00:05:11,092 --> 00:05:13,219
+he has nowhere else to go?
+
+51
+00:05:13,303 --> 00:05:16,431
+[ZWORDER] Do not try to
+explain him with logic.
+
+52
+00:05:16,514 --> 00:05:18,641
+Keep watching,
+and soon you shall see
+
+53
+00:05:18,725 --> 00:05:22,562
+that which defines and
+shackles them all.
+
+54
+00:05:26,733 --> 00:05:28,610
+[SHIMA]
+What is it? Anti-matter?
+
+55
+00:05:28,693 --> 00:05:30,904
+[SANADA] No. Its characteristics
+are similar,
+
+56
+00:05:30,987 --> 00:05:32,822
+but this is something else.
+
+57
+00:05:32,906 --> 00:05:35,825
+Some unknown form of energy.
+
+58
+00:05:35,909 --> 00:05:37,660
+Interesting.
+And you picked it up
+
+59
+00:05:37,744 --> 00:05:40,705
+in Teresa's communication waves
+from that last broadcast?
+
+60
+00:05:40,789 --> 00:05:42,874
+Yes, and that's
+not all we found.
+
+61
+00:05:42,957 --> 00:05:44,542
+There was a vast
+quantity of data
+
+62
+00:05:44,626 --> 00:05:47,420
+our systems were able to decode.
+
+63
+00:05:47,504 --> 00:05:49,255
+Information on Terezart.
+
+64
+00:05:49,339 --> 00:05:50,799
+These schematics show complex
+
+65
+00:05:50,882 --> 00:05:53,301
+gravitational interference
+fields around the planet.
+
+66
+00:05:53,385 --> 00:05:58,682
+And beyond that, a defensive
+armada of heavily armed ships.
+
+67
+00:05:58,765 --> 00:06:00,892
+And here's another model
+embedded in that broadcast,
+
+68
+00:06:00,975 --> 00:06:04,354
+which our computer just
+finished decrypting.
+
+69
+00:06:04,437 --> 00:06:05,814
+[OTA]
+What is that?
+
+70
+00:06:05,897 --> 00:06:08,733
+[SANADA] Terezart is completely
+encased in solid rock,
+
+71
+00:06:08,817 --> 00:06:10,777
+with a composition
+starkly different from
+
+72
+00:06:10,860 --> 00:06:13,822
+the planet itself, suggesting
+it was brought in later,
+
+73
+00:06:13,905 --> 00:06:16,199
+from one or more
+other celestial bodies.
+
+74
+00:06:16,282 --> 00:06:19,202
+[NANBU] What sort of technology
+could do that?
+
+75
+00:06:19,285 --> 00:06:21,830
+[SANADA] Furthermore, there are
+indications of enemy strongholds
+
+76
+00:06:21,913 --> 00:06:23,790
+throughout this rock encasement.
+
+77
+00:06:23,873 --> 00:06:25,125
+[SAITO]
+You don't say.
+
+78
+00:06:25,208 --> 00:06:27,711
+According to this data,
+Terezart itself is hollow,
+
+79
+00:06:27,794 --> 00:06:29,546
+with incredibly high
+levels of energy
+
+80
+00:06:29,629 --> 00:06:32,340
+in that space beneath
+the planet's surface.
+
+81
+00:06:32,424 --> 00:06:35,176
+That unknown energy is
+flowing in from a dimension
+
+82
+00:06:35,260 --> 00:06:40,932
+other than our own. It's hard
+to say where it's coming from.
+
+83
+00:06:41,016 --> 00:06:42,267
+Teresa.
+
+84
+00:06:42,350 --> 00:06:44,519
+[SHIMA gasps]
+But with that shell...
+
+85
+00:06:44,602 --> 00:06:45,854
+[SANADA]
+Even if we make it there,
+
+86
+00:06:45,937 --> 00:06:48,398
+direct contact might
+be impossible.
+
+87
+00:06:48,481 --> 00:06:49,524
+[MORI]
+No...
+
+88
+00:06:49,607 --> 00:06:51,359
+Then how are we
+supposed to save her?
+
+89
+00:06:51,443 --> 00:06:53,653
+[HIJIKATA] The enemy's
+defenses look strong.
+
+90
+00:06:53,737 --> 00:06:57,282
+Even landing on Terezart could
+prove incredibly difficult.
+
+91
+00:06:57,365 --> 00:07:00,076
+To pull this off, we'll need to
+combine the <i>Yamato</i> 's power
+
+92
+00:07:00,160 --> 00:07:03,079
+with the mobility of the Space
+Cavalry and Air Corps.
+
+93
+00:07:03,163 --> 00:07:05,623
+But that still may
+not be enough.
+
+94
+00:07:05,707 --> 00:07:07,083
+We should ask ourselves now,
+
+95
+00:07:07,167 --> 00:07:10,628
+are we willing to use
+the Wave Motion Gun?
+
+96
+00:07:12,130 --> 00:07:15,091
+XO. This unknown energy.
+
+97
+00:07:15,175 --> 00:07:17,260
+Is it showing a declining trend?
+
+98
+00:07:17,344 --> 00:07:21,348
+Yes, sir. If we posit that this
+massive rock encasement
+
+99
+00:07:21,431 --> 00:07:24,392
+is a structure designed to
+extract Terezart's energy,
+
+100
+00:07:24,476 --> 00:07:26,436
+then what we're seeing
+all makes sense.
+
+101
+00:07:26,519 --> 00:07:28,313
+The energy of Teresa?
+
+102
+00:07:28,396 --> 00:07:31,608
+So Gatlantis is taking it
+for themselves, like fuel?
+
+103
+00:07:31,691 --> 00:07:33,777
+[HIJIKATA]
+There may not be much time left.
+
+104
+00:07:33,860 --> 00:07:38,031
+It's your call, Acting Captain.
+How do you want to fight?
+
+105
+00:08:00,512 --> 00:08:02,305
+What do you want?
+
+106
+00:08:02,389 --> 00:08:06,017
+Oh, when I want something,
+you'll know.
+
+107
+00:08:06,101 --> 00:08:10,021
+I was simply thinking about what
+you did to the <i>Yamato</i> 's engine.
+
+108
+00:08:12,399 --> 00:08:16,528
+So tell me, why did you
+stay on this ship?
+
+109
+00:08:16,611 --> 00:08:18,780
+I stayed for the warmth.
+
+110
+00:08:18,863 --> 00:08:21,658
+[TOKO]
+Who is it? Me?
+
+111
+00:08:29,332 --> 00:08:32,085
+Enemy fire from 4,
+7, and 11 o'clock!
+
+112
+00:08:32,168 --> 00:08:34,212
+AA combat! Open all gun ports!
+
+113
+00:08:34,295 --> 00:08:37,007
+Starting evasive
+maneuvers! Hold on!
+
+114
+00:08:50,937 --> 00:08:53,231
+More missiles headed
+our way, three o'clock.
+
+115
+00:08:53,314 --> 00:08:54,524
+[SHIMA]
+Are we surrounded?
+
+116
+00:08:54,607 --> 00:08:55,442
+[KODAI]
+Any ships?
+
+117
+00:08:55,525 --> 00:08:57,485
+[MORI]
+None in radar range.
+
+118
+00:08:57,569 --> 00:08:59,821
+Use angle of fire to estimate
+number and positions
+
+119
+00:08:59,904 --> 00:09:02,782
+of enemy ships.
+Raise the shields!
+
+120
+00:09:05,076 --> 00:09:07,620
+[MORI] Missiles concentrated
+at five and seven o'clock!
+
+121
+00:09:07,704 --> 00:09:11,124
+Shima, full speed ahead!
+Get us out of here!
+
+122
+00:09:11,207 --> 00:09:14,878
+Strange to fire so many
+missiles outside radar range.
+
+123
+00:09:16,504 --> 00:09:19,174
+[GAMILOID 11A]
+Target increasing speed by 70%.
+
+124
+00:09:19,257 --> 00:09:21,551
+Distance from transfer
+point expanding.
+
+125
+00:09:21,634 --> 00:09:23,762
+Transfer temporarily suspended.
+
+126
+00:09:23,845 --> 00:09:25,764
+[DESLER]
+Quick and decisive.
+
+127
+00:09:25,847 --> 00:09:29,309
+It seems that battleship
+hasn't changed one bit.
+
+128
+00:09:29,392 --> 00:09:30,727
+Watch Mil.
+
+129
+00:09:30,810 --> 00:09:34,105
+I'm about to show you
+something rather interesting.
+
+130
+00:09:34,189 --> 00:09:37,734
+Keep your eyes on the space
+around the <i>Yamato.</i>
+
+131
+00:09:37,817 --> 00:09:41,279
+Heh. Instant Matter
+Transfer Device.
+
+132
+00:09:41,363 --> 00:09:43,573
+Re-compute target points.
+
+133
+00:09:51,414 --> 00:09:53,458
+Missiles from all directions!
+
+134
+00:09:56,461 --> 00:09:58,046
+They still have
+ships ahead of us?
+
+135
+00:09:58,129 --> 00:10:00,799
+There's no way! We should've
+shaken 'em all by now!
+
+136
+00:10:00,882 --> 00:10:02,550
+Maybe they have a second line?
+
+137
+00:10:02,634 --> 00:10:05,720
+Just how big is
+this enemy fleet?
+
+138
+00:10:05,804 --> 00:10:07,430
+It's as if the enemy
+could anticipate
+
+139
+00:10:07,514 --> 00:10:09,724
+exactly which way we would move.
+
+140
+00:10:11,059 --> 00:10:12,352
+[MORI]
+We have missiles approaching
+
+141
+00:10:12,435 --> 00:10:16,147
+from every direction.
+We're completely surrounded!
+
+142
+00:10:16,231 --> 00:10:18,608
+Acting Captain,
+what's your plan?
+
+143
+00:10:18,692 --> 00:10:21,152
+We're calculating
+an escape route now!
+
+144
+00:10:21,236 --> 00:10:22,737
+[ANALYZER]
+Calculation is complete.
+
+145
+00:10:22,821 --> 00:10:26,282
+In 18 seconds, there will be a
+six-second opening for escape
+
+146
+00:10:26,366 --> 00:10:29,077
+at one o'clock and 16 minutes.
+
+147
+00:10:29,160 --> 00:10:31,830
+You realize that
+could be a trap.
+
+148
+00:10:31,913 --> 00:10:35,291
+[OTA] I can't get a stable read
+on the post-warp coordinates!
+
+149
+00:10:37,627 --> 00:10:38,586
+Shima!
+
+150
+00:10:38,670 --> 00:10:39,713
+Aye-aye, sir!
+
+151
+00:10:39,796 --> 00:10:42,632
+Wave Motion Engine.
+Output to maximum!
+
+152
+00:10:44,426 --> 00:10:45,677
+[KODAI]
+Emergency warp!
+
+153
+00:10:45,760 --> 00:10:47,137
+Warping!
+
+154
+00:10:51,850 --> 00:10:54,269
+[GAMILOID 11A]
+Target has entered warp.
+
+155
+00:10:54,352 --> 00:10:56,646
+They saw a gap and
+they seized on it.
+
+156
+00:10:56,730 --> 00:11:00,025
+Finding a sliver
+of hope in the dark.
+
+157
+00:11:00,108 --> 00:11:02,360
+That's the <i>Yamato</i> for you.
+
+158
+00:11:07,449 --> 00:11:09,075
+[SHIMA]
+Warp complete.
+
+159
+00:11:09,159 --> 00:11:11,786
+[OTA] Radar and scanners
+coming up empty!
+
+160
+00:11:13,163 --> 00:11:15,457
+Hey, Kodai. Do you feel that?
+
+161
+00:11:15,540 --> 00:11:18,460
+Yeah. Like before.
+
+162
+00:11:18,543 --> 00:11:22,505
+It would seem we've been pulled
+down into a dimensional rift.
+
+163
+00:11:31,431 --> 00:11:33,058
+[KAMO]
+Chief, the wave coefficient
+
+164
+00:11:33,141 --> 00:11:34,517
+is stuck in alignment!
+
+165
+00:11:34,601 --> 00:11:37,854
+And the energy conversion
+rate is still accelerating!
+
+166
+00:11:37,937 --> 00:11:42,650
+What? Is the pressure reduction
+unit malfunctioning? Check it!
+
+167
+00:11:42,734 --> 00:11:44,778
+No, that's not it.
+
+168
+00:11:44,861 --> 00:11:47,322
+Quick, Chief. Shut down
+the engine, now!
+
+169
+00:11:47,405 --> 00:11:48,531
+[TOKUGAWA]
+What?
+
+170
+00:11:48,615 --> 00:11:50,825
+The <i>Yamato</i> is about
+to be destroyed!
+
+171
+00:11:51,826 --> 00:11:53,244
+Stop the engine, hurry!
+
+172
+00:11:53,328 --> 00:11:55,288
+[KAMO]
+Stopping engine, sir!
+
+173
+00:12:00,043 --> 00:12:02,545
+[KODAI]
+The remnants of a supernova?
+
+174
+00:12:02,629 --> 00:12:04,798
+[SANADA] Yes, this space
+is filled with it.
+
+175
+00:12:04,881 --> 00:12:07,175
+High-energy atoms with
+accelerated electrons
+
+176
+00:12:07,258 --> 00:12:09,010
+and protons are
+causing a rapid chain
+
+177
+00:12:09,094 --> 00:12:11,805
+of particle reactions
+all around us.
+
+178
+00:12:11,888 --> 00:12:14,474
+The Wave Motion Engine is
+constantly taking in energy
+
+179
+00:12:14,557 --> 00:12:16,184
+from the vacuum of space.
+
+180
+00:12:16,267 --> 00:12:20,730
+If it does that here, and
+continues energy conversion...
+
+181
+00:12:20,814 --> 00:12:22,190
+...it would trigger a reaction
+
+182
+00:12:22,273 --> 00:12:24,776
+that would blow the <i>Yamato</i>
+apart from the inside.
+
+183
+00:12:24,859 --> 00:12:26,861
+[CREW gasping]
+
+184
+00:12:26,945 --> 00:12:28,238
+To put it in laymen's terms:
+
+185
+00:12:28,321 --> 00:12:30,031
+We're floating inside
+a powder keg.
+
+186
+00:12:30,115 --> 00:12:32,158
+And it's like our
+engine is a match.
+
+187
+00:12:32,242 --> 00:12:33,743
+[yelps]
+
+188
+00:12:34,369 --> 00:12:35,286
+Where's the enemy?
+
+189
+00:12:35,370 --> 00:12:37,622
+Radar's still down!
+
+190
+00:12:37,706 --> 00:12:39,749
+[NANBU] Shouldn't the enemy's
+radar be down, too?
+
+191
+00:12:39,833 --> 00:12:43,086
+We need to move! We can still
+use the sub-engine, right?
+
+192
+00:12:43,169 --> 00:12:44,504
+Yes, Admiral.
+
+193
+00:12:44,587 --> 00:12:47,007
+Nanbu! Load the
+rear torpedoes!
+
+194
+00:12:47,090 --> 00:12:49,926
+Prepare for suppressive fire on
+the acting captain's command!
+
+195
+00:12:50,010 --> 00:12:51,302
+[NANBU]
+Roger that!
+
+196
+00:12:51,386 --> 00:12:54,431
+[KODAI] Shima, evasive
+maneuvers to starboard.
+
+197
+00:12:58,268 --> 00:12:59,978
+Fire!
+
+198
+00:13:12,115 --> 00:13:14,200
+[GAMILOID 11A] Internal engine
+pressure rising rapidly.
+
+199
+00:13:14,284 --> 00:13:16,327
+Same is true for
+Lascaux-class ships.
+
+200
+00:13:16,411 --> 00:13:18,455
+Continued fire is dangerous.
+
+201
+00:13:18,538 --> 00:13:20,290
+[DESLER]
+Tell them to keep firing.
+
+202
+00:13:20,373 --> 00:13:21,875
+[MIL gasping]
+
+203
+00:13:23,126 --> 00:13:24,461
+[DESLER]
+I'm impressed.
+
+204
+00:13:24,544 --> 00:13:25,503
+[MIL gasps]
+
+205
+00:13:25,587 --> 00:13:27,172
+That's a neat little
+trick you have.
+
+206
+00:13:27,255 --> 00:13:29,090
+It works not only
+at vast distances,
+
+207
+00:13:29,174 --> 00:13:32,093
+but through different
+types of space as well.
+
+208
+00:13:32,177 --> 00:13:35,347
+That's the advantage
+of the cosmo wave.
+
+209
+00:13:35,430 --> 00:13:38,016
+Thanks to that, we've had no
+trouble tracking the <i>Yamato</i>
+
+210
+00:13:38,099 --> 00:13:41,227
+across the stars.
+At least so far.
+
+211
+00:13:45,148 --> 00:13:46,107
+[DESLER]
+Higher-dimension
+
+212
+00:13:46,191 --> 00:13:48,234
+communication
+utilizing telepathy.
+
+213
+00:13:48,318 --> 00:13:49,486
+[MIL gasps]
+
+214
+00:13:49,569 --> 00:13:51,988
+[DESLER] If I recall,
+the prayers of Teresa
+
+215
+00:13:52,072 --> 00:13:54,991
+have been described
+that way, too.
+
+216
+00:13:55,075 --> 00:13:56,743
+[NANBU] They're attacking
+like their weapon systems
+
+217
+00:13:56,826 --> 00:13:59,329
+aren't affected in here at all!
+
+218
+00:13:59,412 --> 00:14:01,206
+[TOKO]
+Why don't you answer?
+
+219
+00:14:06,503 --> 00:14:09,172
+What? That's new.
+
+220
+00:14:09,255 --> 00:14:12,342
+The enemy fire is
+completely missing now.
+
+221
+00:14:20,392 --> 00:14:21,351
+[gasps]
+
+222
+00:14:21,434 --> 00:14:22,352
+[GAMILOID 11A]
+Internal explosions
+
+223
+00:14:22,435 --> 00:14:24,813
+due to excessive
+energy conversion.
+
+224
+00:14:24,896 --> 00:14:27,440
+Like your great leader,
+Emperor Zworder.
+
+225
+00:14:27,524 --> 00:14:29,693
+You seem to be a special
+sort of Gatlantean
+
+226
+00:14:29,776 --> 00:14:31,736
+with extraordinary skills.
+
+227
+00:14:31,820 --> 00:14:35,907
+Perhaps that spy who's
+infiltrated the <i>Yamato</i> is, too.
+
+228
+00:14:41,663 --> 00:14:43,665
+[SHIMA]
+What is that tube structure?
+
+229
+00:14:43,748 --> 00:14:46,418
+[SANADA]
+It's clearly been constructed.
+
+230
+00:14:46,501 --> 00:14:48,586
+[AIHARA]
+Some undiscovered alien race?
+
+231
+00:14:48,670 --> 00:14:51,256
+[SANADA] No, the style
+is remarkably similar
+
+232
+00:14:51,339 --> 00:14:53,591
+to ruins of the Aquarians.
+
+233
+00:14:53,675 --> 00:14:55,927
+And if it was built by
+that advanced civilization,
+
+234
+00:14:56,011 --> 00:14:58,179
+there's a decent chance
+it houses technology
+
+235
+00:14:58,263 --> 00:15:01,057
+that could help us.
+Risky, though.
+
+236
+00:15:02,308 --> 00:15:06,438
+Let's go! Set a course
+inside the tube structure.
+
+237
+00:15:19,284 --> 00:15:21,036
+[DESLER] I'm guessing
+that glowing object
+
+238
+00:15:21,119 --> 00:15:23,830
+is the source of this
+dimensional rift.
+
+239
+00:15:23,913 --> 00:15:25,749
+I'm also guessing
+as we draw nearer
+
+240
+00:15:25,832 --> 00:15:28,251
+its even affecting your
+dear cosmo waves.
+
+241
+00:15:28,335 --> 00:15:29,794
+[gasping]
+
+242
+00:15:29,878 --> 00:15:34,007
+And now that mental trick you're
+so proud of no longer works.
+
+243
+00:15:34,090 --> 00:15:37,469
+We'll have to turn to a
+more conventional method.
+
+244
+00:15:37,552 --> 00:15:38,928
+And what is that?
+
+245
+00:15:39,012 --> 00:15:43,058
+[DESLER grunts] We're going
+to search with our eyes.
+
+246
+00:15:52,817 --> 00:15:54,736
+A waste of effort.
+
+247
+00:15:54,819 --> 00:15:56,154
+Those telepathic waves
+
+248
+00:15:56,237 --> 00:15:59,324
+won't reach your emperor
+from here either, Mil.
+
+249
+00:16:02,702 --> 00:16:04,079
+[BOTH gasping]
+
+250
+00:16:04,162 --> 00:16:07,415
+Whatever that tube is,
+we're in it now.
+
+251
+00:16:12,837 --> 00:16:14,089
+[OTA]
+That's strange.
+
+252
+00:16:14,172 --> 00:16:16,257
+This structure's interior
+seems to be composed of
+
+253
+00:16:16,341 --> 00:16:20,261
+a different dimensional stratum
+than the space outside.
+
+254
+00:16:20,345 --> 00:16:22,514
+Is that even possible?
+
+255
+00:16:23,640 --> 00:16:25,225
+Two clearly separate
+dimensions.
+
+256
+00:16:25,308 --> 00:16:28,603
+Seamlessly connected
+by a solid structure.
+
+257
+00:16:28,687 --> 00:16:32,774
+[HIJIKATA] XO. If that's true,
+isn't it also possible
+
+258
+00:16:32,857 --> 00:16:35,026
+we could use this to get
+back to ordinary space?
+
+259
+00:16:35,110 --> 00:16:38,071
+Yes, sir. However...
+
+260
+00:16:44,911 --> 00:16:47,539
+[DESLER] The many technological
+achievements of Gatlantis,
+
+261
+00:16:47,622 --> 00:16:50,625
+and its unique philosophy
+are delights to behold.
+
+262
+00:16:50,709 --> 00:16:53,503
+And yet, I wonder...
+
+263
+00:16:53,586 --> 00:16:55,088
+Who among the vassals
+
+264
+00:16:55,171 --> 00:16:58,675
+truly understand the
+heart of their emperor?
+
+265
+00:16:58,758 --> 00:17:00,301
+Even as it sullies his people,
+
+266
+00:17:00,385 --> 00:17:03,722
+to him it may be like a
+fragrant, intoxicating wine.
+
+267
+00:17:03,805 --> 00:17:06,599
+Or perhaps it's a
+favorite plaything.
+
+268
+00:17:06,683 --> 00:17:09,269
+I would venture your emperor
+does not actually desire
+
+269
+00:17:09,352 --> 00:17:11,813
+the destruction of that ship.
+
+270
+00:17:11,896 --> 00:17:14,733
+The <i>Yamato</i> and her crew are
+most likely piquing his interest
+
+271
+00:17:14,816 --> 00:17:17,986
+in a way he hasn't felt
+in a very long time.
+
+272
+00:17:22,449 --> 00:17:25,618
+Surely your clever liege must
+have realized it from the start.
+
+273
+00:17:25,702 --> 00:17:27,328
+They are things that I want
+
+274
+00:17:27,412 --> 00:17:30,665
+but the <i>Yamato</i> 's survival
+means nothing to me at all.
+
+275
+00:17:33,293 --> 00:17:34,669
+[MIL gasps]
+
+276
+00:17:34,753 --> 00:17:39,049
+If you don't mind, I'll hold
+on to the gun from now on.
+
+277
+00:17:39,132 --> 00:17:42,427
+[HIJIKATA] We'll release Wave
+Motion Energy into this tube.
+
+278
+00:17:42,510 --> 00:17:44,679
+Then draw the thermal
+radiation it creates
+
+279
+00:17:44,763 --> 00:17:46,264
+back into the Wave
+Motion Engine.
+
+280
+00:17:46,348 --> 00:17:47,891
+Stimulated emission?
+
+281
+00:17:47,974 --> 00:17:50,560
+It's a way to use this tube's
+structure to achieve warp.
+
+282
+00:17:50,643 --> 00:17:53,938
+But one wrong move, and the ship
+will be to blown to pieces.
+
+283
+00:17:54,022 --> 00:17:56,483
+We're floating in gunpowder,
+then striking a match
+
+284
+00:17:56,566 --> 00:17:59,819
+on purpose, hoping we can
+harness the energy to escape.
+
+285
+00:17:59,903 --> 00:18:01,696
+It's up to me and the chief.
+
+286
+00:18:01,780 --> 00:18:03,948
+We'll each carry half
+of the burden.
+
+287
+00:18:04,032 --> 00:18:06,034
+No. We all will.
+
+288
+00:18:07,327 --> 00:18:09,412
+We'll carry it together.
+
+289
+00:18:13,541 --> 00:18:16,920
+And we'll carry it now because
+there's no time to waste.
+
+290
+00:18:24,594 --> 00:18:27,681
+[MIL] You were planning
+this all along.
+
+291
+00:18:27,764 --> 00:18:30,558
+You steered them to this place
+to cut off our telepathy,
+
+292
+00:18:30,642 --> 00:18:32,852
+didn't you?
+
+293
+00:18:32,936 --> 00:18:36,648
+[DESLER] I am a man who
+does not forget humiliation.
+
+294
+00:18:36,731 --> 00:18:38,316
+[MIL]
+You must realize it.
+
+295
+00:18:38,400 --> 00:18:41,277
+What will happen if you
+use that weapon here.
+
+296
+00:18:41,361 --> 00:18:43,613
+[DESLER]
+Space itself will burn.
+
+297
+00:18:43,697 --> 00:18:45,782
+The <i>Yamato</i> and those
+ships entrusted to me
+
+298
+00:18:45,865 --> 00:18:47,659
+will share the same fate.
+
+299
+00:18:47,742 --> 00:18:49,452
+Desler, no!
+
+300
+00:18:49,536 --> 00:18:50,912
+[DESLER]
+Watch closely.
+
+301
+00:18:50,995 --> 00:18:54,040
+You claimed that was
+your job, didn't you?
+
+302
+00:19:03,675 --> 00:19:05,635
+Reading extra-dimensional
+implosion!
+
+303
+00:19:05,719 --> 00:19:06,386
+[CREW gasps]
+
+304
+00:19:06,469 --> 00:19:07,637
+[OTA]
+But how?
+
+305
+00:19:10,140 --> 00:19:12,934
+Hold on. The approaching
+Wave Motion Energy
+
+306
+00:19:13,018 --> 00:19:15,061
+is colliding with this space
+in the way we theorized,
+
+307
+00:19:15,145 --> 00:19:17,230
+with a shockwave of radiation.
+
+308
+00:19:17,313 --> 00:19:18,732
+Kodai!
+
+309
+00:19:18,815 --> 00:19:21,526
+If we raise the gravity anchor
+and absorb that shockwave,
+
+310
+00:19:21,609 --> 00:19:23,028
+then we should be
+able to reach warp
+
+311
+00:19:23,111 --> 00:19:24,904
+without firing the
+Wave Motion Engine!
+
+312
+00:19:24,988 --> 00:19:27,824
+Roger. Shima, do you think
+you can ride that wave?
+
+313
+00:19:27,907 --> 00:19:30,076
+The reflection rate
+won't stabilize in here!
+
+314
+00:19:30,160 --> 00:19:32,037
+Aligning with center
+of emission!
+
+315
+00:19:32,120 --> 00:19:34,497
+[MORI] Stimulated emission
+wave approaching!
+
+316
+00:19:34,581 --> 00:19:36,833
+[SHIMA]
+Inertial canceler to maximum!
+
+317
+00:19:38,543 --> 00:19:41,880
+Contact with our stern!
+It's pushing us!
+
+318
+00:19:41,963 --> 00:19:44,799
+[TOKUGAWA]
+Open all intake valves!
+
+319
+00:19:44,883 --> 00:19:46,926
+[KODAI]
+All crew, brace for warp!
+
+320
+00:19:47,010 --> 00:19:47,927
+[SHIMA]
+3...
+
+321
+00:19:48,011 --> 00:19:48,887
+...2...
+
+322
+00:19:48,970 --> 00:19:50,889
+...1...
+
+323
+00:19:50,972 --> 00:19:52,682
+...warp!
+
+324
+00:20:05,904 --> 00:20:07,906
+[GAMILOID 11A]
+The <i>Yamato</i> has jumped.
+
+325
+00:20:07,989 --> 00:20:10,784
+Just as fortuitous as always.
+
+326
+00:20:21,127 --> 00:20:23,880
+[SHIMA sighs]
+We made it.
+
+327
+00:20:23,963 --> 00:20:25,382
+[exhales]
+
+328
+00:20:26,007 --> 00:20:27,842
+[CREW sighing]
+
+329
+00:20:33,098 --> 00:20:34,265
+[DESLER]
+Without its core,
+
+330
+00:20:34,349 --> 00:20:37,185
+this dimensional rift
+should soon disappear.
+
+331
+00:20:38,728 --> 00:20:40,271
+[gasps] What are you planning?
+
+332
+00:20:40,355 --> 00:20:41,523
+Calm down.
+
+333
+00:20:41,606 --> 00:20:43,400
+Without the interference
+from that core,
+
+334
+00:20:43,483 --> 00:20:45,360
+your cosmo waves
+should return to normal.
+
+335
+00:20:45,443 --> 00:20:47,904
+I'm surprised that
+doesn't make you happy.
+
+336
+00:20:47,987 --> 00:20:49,114
+[MIL growls]
+
+337
+00:20:49,197 --> 00:20:51,282
+[beeping]
+
+338
+00:20:56,996 --> 00:20:58,248
+Supreme Leader,
+
+339
+00:20:58,331 --> 00:21:02,085
+the entire military has
+been awaiting your return.
+
+340
+00:21:02,168 --> 00:21:06,131
+As loyal as always.
+You have my gratitude.
+
+341
+00:21:08,383 --> 00:21:10,760
+Garle Desler!
+
+342
+00:21:11,344 --> 00:21:12,679
+[gasping]
+
+343
+00:21:12,762 --> 00:21:16,891
+Tell me, Mil. What do you
+think of my actual fleet?
+
+344
+00:21:18,518 --> 00:21:21,646
+Of course your emperor
+will learn eventually.
+
+345
+00:21:21,730 --> 00:21:24,691
+[MIL whimpering]
+
+346
+00:21:24,774 --> 00:21:28,445
+But still,
+there's no need to rush.
+
+347
+00:21:29,904 --> 00:21:32,574
+[MORI] You could take command.
+You basically did today.
+
+348
+00:21:32,657 --> 00:21:35,035
+Today I helped us fall
+in an enemy trap.
+
+349
+00:21:35,118 --> 00:21:37,454
+I was simply cleaning up
+my own mess.
+
+350
+00:21:37,537 --> 00:21:40,373
+[MORI]
+But, Kodai... I know.
+
+351
+00:21:40,457 --> 00:21:42,167
+You'll say the same
+thing he did.
+
+352
+00:21:42,250 --> 00:21:44,127
+"We'll carry it together," huh?
+
+353
+00:21:44,210 --> 00:21:47,213
+Yes, "We'll carry it together."
+
+354
+00:21:47,297 --> 00:21:50,300
+He's mature, when he's
+concerned about someone else.
+
+355
+00:21:50,383 --> 00:21:51,843
+[MORI]
+Huh?
+
+356
+00:21:51,926 --> 00:21:53,553
+[HIJIKATA] I understand
+why you're worried.
+
+357
+00:21:53,636 --> 00:21:56,556
+Kodai is facing a steep wall.
+It's daunting.
+
+358
+00:21:56,639 --> 00:21:58,725
+But he has to learn
+to climb it himself.
+
+359
+00:21:58,808 --> 00:22:03,104
+The best thing you can do is be
+ready to catch him if he falls.
+
+360
+00:22:07,067 --> 00:22:09,444
+Your parents believed in
+and supported each other,
+
+361
+00:22:09,527 --> 00:22:11,446
+all the way to the end.
+
+362
+00:22:12,572 --> 00:22:14,616
+I know you two can do the same.
+
+363
+00:22:14,699 --> 00:22:19,996
+That's what humans always do,
+when we're at our best.
+
+364
+00:22:20,080 --> 00:22:21,539
+Yes, sir.
+
+365
+00:22:24,292 --> 00:22:26,169
+[TOKUGAWA]
+I've analyzed the data.
+
+366
+00:22:26,252 --> 00:22:28,129
+When we used that
+shockwave to warp,
+
+367
+00:22:28,213 --> 00:22:31,049
+we achieved three times
+the usual output.
+
+368
+00:22:31,132 --> 00:22:33,218
+Have you been able to figure
+out what caused the collapse
+
+369
+00:22:33,301 --> 00:22:35,387
+of that dimensional rift?
+
+370
+00:22:35,470 --> 00:22:38,181
+[SANADA] There's a signature
+in the neutron fluctuations,
+
+371
+00:22:38,264 --> 00:22:43,353
+something we've seen before.
+Most likely...
+
+372
+00:22:43,436 --> 00:22:45,730
+The Desler Cannon.
+
+373
+00:25:13,378 --> 00:25:15,380
+[ZWORDER]
+I've grown tired of seeing it.
+
+374
+00:25:15,463 --> 00:25:16,715
+[OTA]
+The White Comet has vanished!
+
+375
+00:25:16,798 --> 00:25:18,550
+[TOKO] Do you love him?
+Is that what drives you?
+
+376
+00:25:18,633 --> 00:25:19,718
+[KEYMAN]
+Kodai, she made her move!
+
+377
+00:25:19,801 --> 00:25:21,136
+[KODAI]
+Is that it? So it's true.
+
+378
+00:25:21,219 --> 00:25:23,013
+[NANBU]
+It's the home base of Gatlantis!
+
+379
+00:25:23,096 --> 00:25:24,389
+[TOKO]
+You're willing to kill me?
+
+380
+00:25:24,472 --> 00:25:26,474
+[HIJIKATA]
+Full speed! Prepare to warp!
+

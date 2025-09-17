@@ -1,0 +1,6908 @@
+﻿1
+00:00:50,850 --> 00:00:53,553
+[glitches]
+
+2
+00:00:54,287 --> 00:00:57,690
+-Switch on approach guidance. -Roger that. Approach guidance.
+
+3
+00:00:59,859 --> 00:01:01,361
+[clicking]
+
+4
+00:01:01,561 --> 00:01:02,896
+It's not responding.
+
+5
+00:01:02,929 --> 00:01:04,197
+What?
+
+6
+00:01:05,198 --> 00:01:07,634
+And the autopilot too. Well, all right, then.
+
+7
+00:01:07,667 --> 00:01:09,169
+We'll do it the old-fashioned way.
+
+8
+00:01:09,702 --> 00:01:10,804
+[co-pilot] Roger.
+
+9
+00:01:10,837 --> 00:01:12,105
+-Huh? -[alarm beeps]
+
+10
+00:01:12,405 --> 00:01:14,441
+Instrumentation's going haywire.
+
+11
+00:01:14,774 --> 00:01:16,309
+[pilot] Can we work around it?
+
+12
+00:01:16,342 --> 00:01:17,410
+[co-pilot] No time.
+
+13
+00:01:19,379 --> 00:01:20,980
+[pilot] Well then, we'll just have to wing it.
+
+14
+00:01:24,851 --> 00:01:26,419
+[screeching]
+
+15
+00:01:32,625 --> 00:01:36,496
+Lefchitose flight 502 made an emergency landing today,
+
+16
+00:01:36,529 --> 00:01:38,531
+due to an electrical malfunction,
+
+17
+00:01:38,565 --> 00:01:41,601
+thankfully without any major damage or injury.
+
+18
+00:01:41,634 --> 00:01:43,636
+The problem seems to have originated
+
+19
+00:01:43,670 --> 00:01:46,139
+in the plane's systems control circuit.
+
+20
+00:01:46,406 --> 00:01:49,709
+Investigators say there appears to be no risk of fire,
+
+21
+00:01:49,742 --> 00:01:53,213
+but as a precaution, similar aircraft have been grounded.
+
+22
+00:01:53,580 --> 00:01:56,182
+There's also been a report of another system failure
+
+23
+00:01:56,216 --> 00:01:57,617
+on flight 460.
+
+24
+00:01:57,650 --> 00:02:00,520
+[Daigo] Is this whole mess all because of Meicoomon?
+
+25
+00:02:00,553 --> 00:02:01,588
+Most likely.
+
+26
+00:02:02,689 --> 00:02:03,890
+Why didn't you tell me this right from the start?
+
+27
+00:02:03,923 --> 00:02:07,494
+Why didn't you let me know that Meicoomon was their target?
+
+28
+00:02:07,994 --> 00:02:10,497
+-[phone rings] -Yes.
+
+29
+00:02:12,332 --> 00:02:14,234
+Roger. I'm on my way.
+
+30
+00:02:15,335 --> 00:02:17,237
+Professor Mochizuki just arrived.
+
+31
+00:02:17,437 --> 00:02:19,539
+If you'd told me about Meicoomon,
+
+32
+00:02:19,572 --> 00:02:20,773
+I might have been able to help
+
+33
+00:02:20,807 --> 00:02:23,343
+a lot more back there at the school.
+
+34
+00:02:26,513 --> 00:02:29,449
+We have to focus on our next step to counter Meicoomon.
+
+35
+00:02:35,321 --> 00:02:36,689
+[groans]
+
+36
+00:02:50,937 --> 00:02:52,438
+[girl] It's absolutely the best...
+
+37
+00:02:52,472 --> 00:02:53,573
+[boy over PA] That's it.
+
+38
+00:02:53,606 --> 00:02:55,575
+Our school festival is officially over.
+
+39
+00:02:55,608 --> 00:02:56,843
+CHAPTER 3: \"CONFESSION\"
+
+40
+00:02:56,876 --> 00:03:00,346
+A big thanks goes out to all of you who worked so hard on it
+
+41
+00:03:00,380 --> 00:03:03,650
+and a little thanks to those who didn't. [laughs]
+
+42
+00:03:03,683 --> 00:03:07,720
+We'll have a closing ceremony at 6:00 PM, so don't miss it.
+
+43
+00:03:14,994 --> 00:03:16,329
+Huh?
+
+44
+00:03:17,697 --> 00:03:20,500
+You're dancing brought in a whole bunch of people.
+
+45
+00:03:20,533 --> 00:03:22,335
+We did well because of you.
+
+46
+00:03:22,368 --> 00:03:23,870
+Oh, thanks, but...
+
+47
+00:03:24,470 --> 00:03:26,339
+it was all of us together.
+
+48
+00:03:26,372 --> 00:03:29,442
+[girl] I wish I'd worn that uniform Mimi and Meiko made.
+
+49
+00:03:29,642 --> 00:03:31,778
+-Next year for sure. -Yeah.
+
+50
+00:03:31,811 --> 00:03:34,747
+That's true. I can always wear it the next time around.
+
+51
+00:03:36,549 --> 00:03:37,750
+[chuckles]
+
+52
+00:03:38,851 --> 00:03:39,953
+Thank you.
+
+53
+00:03:41,554 --> 00:03:43,356
+[girl 1] Where did Meiko go anyway?
+
+54
+00:03:43,790 --> 00:03:47,026
+-She went to take the trash out. -That was a long time ago.
+
+55
+00:03:47,493 --> 00:03:49,896
+[girl 2] She seemed so out of sorts all day.
+
+56
+00:03:49,929 --> 00:03:52,966
+But when I asked her about it, she said she was okay.
+
+57
+00:03:53,666 --> 00:03:54,834
+I'll go check on her.
+
+58
+00:03:58,571 --> 00:04:00,506
+[boy 1] They put this 'keep out' sign up yesterday
+
+59
+00:04:00,707 --> 00:04:02,675
+and started guarding the area.
+
+60
+00:04:02,709 --> 00:04:04,477
+-What's going on? -[boy 2] I don't know.
+
+61
+00:04:04,510 --> 00:04:06,913
+[boy 1] Wow, skillful analysis.
+
+62
+00:04:11,851 --> 00:04:13,419
+-[Mimi] Meimei! -Huh?
+
+63
+00:04:13,720 --> 00:04:15,822
+Hey, are you okay?
+
+64
+00:04:17,690 --> 00:04:19,025
+Oh! Oh!
+
+65
+00:04:19,592 --> 00:04:21,594
+Meimei? Wait!
+
+66
+00:04:22,595 --> 00:04:24,297
+Where're you going?
+
+67
+00:04:24,697 --> 00:04:25,732
+Stop!
+
+68
+00:04:26,399 --> 00:04:27,667
+[sobs]
+
+69
+00:04:30,003 --> 00:04:31,804
+[panting]
+
+70
+00:04:34,040 --> 00:04:35,074
+[gasps]
+
+71
+00:04:37,577 --> 00:04:39,679
+-Talk to me. -Oh, Mei!
+
+72
+00:04:41,114 --> 00:04:42,682
+Meicoomon...
+
+73
+00:04:42,982 --> 00:04:44,617
+was Leomon.
+
+74
+00:04:45,718 --> 00:04:47,787
+What did Meicoomon do?
+
+75
+00:04:47,820 --> 00:04:48,988
+[cries out] Mei!
+
+76
+00:04:53,660 --> 00:04:55,328
+I know this is hard but....
+
+77
+00:04:55,595 --> 00:04:57,030
+we're here for you.
+
+78
+00:04:59,766 --> 00:05:01,567
+We're in this together.
+
+79
+00:05:16,015 --> 00:05:17,984
+[doorbell rings]
+
+80
+00:05:20,887 --> 00:05:22,121
+Ken's not home.
+
+81
+00:05:28,861 --> 00:05:30,730
+Hey, did anyone text you back?
+
+82
+00:05:30,763 --> 00:05:32,398
+Uh-huh. Not yet.
+
+83
+00:05:33,166 --> 00:05:34,801
+Was that really him?
+
+84
+00:05:38,905 --> 00:05:41,007
+[TK] It'll be okay. I know it.
+
+85
+00:05:41,474 --> 00:05:43,109
+-Huh? -Let's just focus on the facts.
+
+86
+00:05:45,845 --> 00:05:46,913
+Come on.
+
+87
+00:05:49,482 --> 00:05:50,583
+[sighs]
+
+88
+00:05:53,853 --> 00:05:56,155
+[Kari] Wow, TK's really grown up.
+
+89
+00:05:56,189 --> 00:05:59,625
+-Huh? What's that? -Oh, um, nothing.
+
+90
+00:05:59,659 --> 00:06:01,127
+-Okay. -[chuckles nervously]
+
+91
+00:06:02,095 --> 00:06:03,663
+[message tone]
+
+92
+00:06:04,997 --> 00:06:06,999
+-No one was home. -Too bad.
+
+93
+00:06:08,101 --> 00:06:10,002
+[Agumon] Apparently no one's home here either.
+
+94
+00:06:10,470 --> 00:06:12,004
+At least no one who'll feed us.
+
+95
+00:06:12,038 --> 00:06:14,607
+-Hurry up, Tentomon! -I am hurrying.
+
+96
+00:06:14,807 --> 00:06:18,478
+Just slowly. One, two, three, four...
+
+97
+00:06:18,511 --> 00:06:20,213
+Well, I guess we just need to make eight
+
+98
+00:06:20,246 --> 00:06:22,048
+since Meicoomon isn't here.
+
+99
+00:06:22,615 --> 00:06:24,817
+[all sighing]
+
+100
+00:06:25,051 --> 00:06:26,986
+Make us food, not sad.
+
+101
+00:06:27,253 --> 00:06:30,022
+Sorry, guess I shouldn't have mentioned Meicoomon.
+
+102
+00:06:30,556 --> 00:06:31,824
+Too soon, Tentomon.
+
+103
+00:06:32,225 --> 00:06:34,961
+You guys... for now, just stay put.
+
+104
+00:06:35,595 --> 00:06:38,564
+-But do I have to stay hungry? -Oh, I can't take it.
+
+105
+00:06:38,598 --> 00:06:39,999
+Then take these!
+
+106
+00:06:40,500 --> 00:06:43,002
+[Izzy] We have to figure out what's causing this infection.
+
+107
+00:06:43,035 --> 00:06:46,139
+And fast. Or it could lead to a mutation.
+
+108
+00:06:46,172 --> 00:06:47,573
+What's happening, Izzy?
+
+109
+00:06:48,841 --> 00:06:51,544
+These infections... aren't only happening in the digital world.
+
+110
+00:06:51,577 --> 00:06:53,112
+[chewing appreciatively]
+
+111
+00:06:56,983 --> 00:06:58,618
+I don't understand.
+
+112
+00:06:58,951 --> 00:07:00,887
+Meicoomon was so gentle.
+
+113
+00:07:01,888 --> 00:07:04,757
+Before... did she act... strange?
+
+114
+00:07:07,593 --> 00:07:10,530
+I don't think there were signs. It was like an outbreak.
+
+115
+00:07:12,198 --> 00:07:14,167
+[Izzy] We called this an infection.
+
+116
+00:07:14,834 --> 00:07:17,136
+I don't think we realized how right we were.
+
+117
+00:07:17,904 --> 00:07:19,005
+[beep]
+
+118
+00:07:20,239 --> 00:07:23,109
+[Izzy] It's way beyond anything we could have hypothesized.
+
+119
+00:07:26,045 --> 00:07:30,917
+[keyboard keys clicking]
+
+120
+00:07:32,652 --> 00:07:36,656
+[groans in frustration]
+
+121
+00:07:43,296 --> 00:07:46,532
+Sorry, we're late. We were busy cleaning.
+
+122
+00:07:49,569 --> 00:07:52,305
+-Are you okay? -[Meimei] Ye-- Yes.
+
+123
+00:07:52,338 --> 00:07:54,240
+I'm sorry for worrying you.
+
+124
+00:07:54,807 --> 00:07:57,043
+[Izzy] We have to put together some kind of a plan.
+
+125
+00:07:57,310 --> 00:08:00,680
+Meiko, I need you to answer some questions.
+
+126
+00:08:01,080 --> 00:08:02,248
+[Meiko] Okay...
+
+127
+00:08:02,281 --> 00:08:04,250
+Are we sure Meicoomon's infected?
+
+128
+00:08:04,684 --> 00:08:05,585
+Were there any symptoms,
+
+129
+00:08:05,618 --> 00:08:08,221
+or anything out of the ordinary beforehand?
+
+130
+00:08:08,254 --> 00:08:10,022
+If so, when did it all start?
+
+131
+00:08:11,190 --> 00:08:12,792
+Anything you can tell us,
+
+132
+00:08:12,825 --> 00:08:14,794
+no matter how insignificant could help.
+
+133
+00:08:14,827 --> 00:08:16,095
+Don't overlook anything.
+
+134
+00:08:18,297 --> 00:08:19,932
+-Come on, Meiko, think! -[beeping]
+
+135
+00:08:22,635 --> 00:08:25,004
+-[sobs] -That's enough, Izzy.
+
+136
+00:08:25,037 --> 00:08:27,206
+There is no need for the third degree.
+
+137
+00:08:27,840 --> 00:08:29,876
+Think before you speak, would you?
+
+138
+00:08:29,909 --> 00:08:33,112
+I'm sorry but we need this information and we need it now!
+
+139
+00:08:33,145 --> 00:08:35,114
+The bad cop routine won't help!
+
+140
+00:08:35,314 --> 00:08:36,883
+There's no time to waste!
+
+141
+00:08:36,916 --> 00:08:38,784
+The infection could be spreading...
+
+142
+00:08:38,818 --> 00:08:40,720
+or mutating, feelings are trivial!
+
+143
+00:08:40,920 --> 00:08:43,155
+Trivial? Come on!
+
+144
+00:08:43,189 --> 00:08:45,124
+Knock it off, both of you!
+
+145
+00:08:49,662 --> 00:08:50,730
+[Mimi] Humph.
+
+146
+00:08:51,197 --> 00:08:52,932
+Huh? Meimei!
+
+147
+00:08:53,733 --> 00:08:55,801
+[Meimei] It's all my fault [sobs]
+
+148
+00:08:56,802 --> 00:08:57,803
+Mei!
+
+149
+00:08:59,772 --> 00:09:01,841
+[sobs] I should have...
+
+150
+00:09:05,811 --> 00:09:07,179
+I'm so sorry!
+
+151
+00:09:19,292 --> 00:09:20,927
+[Joe] All right, everybody. Gotta go.
+
+152
+00:09:24,196 --> 00:09:25,331
+Later.
+
+153
+00:09:27,199 --> 00:09:28,200
+Yeah.
+
+154
+00:09:33,239 --> 00:09:35,875
+Mega level, huh. Not bad.
+
+155
+00:09:36,075 --> 00:09:37,910
+Yeah. Pretty cool.
+
+156
+00:09:37,944 --> 00:09:40,012
+Izzy said this might have predicted that.
+
+157
+00:09:40,680 --> 00:09:41,681
+Huh?
+
+158
+00:09:42,415 --> 00:09:44,684
+[TK] \"Those who crave true power
+
+159
+00:09:44,717 --> 00:09:47,286
+must seek the darkness but move past it.\"
+
+160
+00:09:48,254 --> 00:09:50,189
+So what does that mean?
+
+161
+00:09:50,222 --> 00:09:51,958
+Don't look at me. I don't know.
+
+162
+00:09:51,991 --> 00:09:52,992
+Eeh.
+
+163
+00:09:53,993 --> 00:09:56,028
+But if more of our digimon reach mega level,
+
+164
+00:09:56,395 --> 00:09:58,364
+we won't have to rely on Omnimon.
+
+165
+00:10:00,099 --> 00:10:02,935
+It'd be... easier on you.
+
+166
+00:10:07,239 --> 00:10:09,241
+Anyway... see ya.
+
+167
+00:10:14,180 --> 00:10:15,314
+[door opens]
+
+168
+00:10:15,348 --> 00:10:16,816
+[Meiko] I'm home.
+
+169
+00:10:17,116 --> 00:10:21,087
+Meiko! The school festival was amazing. Great job!
+
+170
+00:10:21,120 --> 00:10:23,756
+So, to celebrate, I made your favorite.
+
+171
+00:10:24,090 --> 00:10:26,392
+Ta-da! Tempura.
+
+172
+00:10:27,994 --> 00:10:30,730
+-Where is dad? -Uh, working.
+
+173
+00:10:30,763 --> 00:10:32,832
+He might have to pull an all-nighter again.
+
+174
+00:10:32,865 --> 00:10:35,001
+He has so many meetings these days.
+
+175
+00:10:36,002 --> 00:10:39,038
+It's because of Meicoomon... isn't it?
+
+176
+00:10:39,405 --> 00:10:40,740
+Hmm.
+
+177
+00:10:41,907 --> 00:10:44,443
+Officer Himekawa has the damage report.
+
+178
+00:10:45,011 --> 00:10:46,012
+[Himekawa] Thank you.
+
+179
+00:10:46,345 --> 00:10:47,246
+So far...
+
+180
+00:10:47,279 --> 00:10:52,018
+we have identified 13 spots around the city
+
+181
+00:10:52,051 --> 00:10:54,453
+and 52 across the country.
+
+182
+00:10:55,187 --> 00:10:57,356
+And we're having problems
+
+183
+00:10:57,390 --> 00:11:00,393
+with feedback affecting electronic transmissions,
+
+184
+00:11:00,426 --> 00:11:02,261
+especially at the airport,
+
+185
+00:11:02,294 --> 00:11:04,397
+which is close enough to the disturbances
+
+186
+00:11:04,430 --> 00:11:05,564
+for flights to be affected.
+
+187
+00:11:06,298 --> 00:11:10,236
+There were four emergency landings there this week alone.
+
+188
+00:11:10,269 --> 00:11:13,139
+One place nearly crashed into another.
+
+189
+00:11:13,172 --> 00:11:15,041
+It's currently under surveillance
+
+190
+00:11:15,074 --> 00:11:16,909
+and we're watching other runways as well.
+
+191
+00:11:17,209 --> 00:11:18,978
+[chair] Thoughts, Dr. Mochizuki?
+
+192
+00:11:20,079 --> 00:11:23,049
+All right, well, before this outbreak occurred,
+
+193
+00:11:23,349 --> 00:11:25,484
+there was an unconfirmed sighting
+
+194
+00:11:25,518 --> 00:11:28,487
+of an unidentified digimon at the high school.
+
+195
+00:11:29,021 --> 00:11:32,258
+[chair] And you believe that's related to this situation?
+
+196
+00:11:32,291 --> 00:11:34,260
+I can't conclusively confirm that yet.
+
+197
+00:11:36,095 --> 00:11:38,898
+But... it certainly does seem possible
+
+198
+00:11:38,931 --> 00:11:41,400
+given the circumstance we find ourselves in now.
+
+199
+00:11:46,405 --> 00:11:47,940
+[sighs]
+
+200
+00:11:48,808 --> 00:11:50,376
+This is worse than I thought.
+
+201
+00:11:50,943 --> 00:11:53,479
+Yes, it sounds like it's going to happen again.
+
+202
+00:11:54,046 --> 00:11:55,214
+Even more victims.
+
+203
+00:11:59,185 --> 00:12:03,322
+I really don't want to put those kids through... all of that.
+
+204
+00:12:03,355 --> 00:12:04,356
+I know.
+
+205
+00:12:13,599 --> 00:12:14,900
+Dr. Mochizuki?
+
+206
+00:12:16,368 --> 00:12:18,471
+-What is it? -Well, it's...
+
+207
+00:12:18,504 --> 00:12:21,307
+-It's about your daughter, sir. -What, Meiko?
+
+208
+00:12:22,141 --> 00:12:24,910
+[Daigo] It's just that she's very upset, sir.
+
+209
+00:12:25,244 --> 00:12:26,245
+That's all.
+
+210
+00:12:27,413 --> 00:12:29,915
+[Dr. Mochizuki] I'm sorry if it's caused you distress.
+
+211
+00:12:30,316 --> 00:12:32,551
+I'll speak with her when I return home.
+
+212
+00:12:36,622 --> 00:12:37,990
+[car coming]
+
+213
+00:12:45,231 --> 00:12:46,298
+[Daigo] Huh?
+
+214
+00:12:46,966 --> 00:12:48,000
+[car door closes]
+
+215
+00:12:49,235 --> 00:12:50,302
+Matt?
+
+216
+00:12:51,070 --> 00:12:53,239
+-What's wrong? -I need information.
+
+217
+00:12:53,939 --> 00:12:55,474
+We're in a tight spot right now.
+
+218
+00:12:56,575 --> 00:12:58,477
+I'll take all I can get.
+
+219
+00:13:03,282 --> 00:13:04,416
+Please help us.
+
+220
+00:13:04,617 --> 00:13:06,185
+[Himekawa] This is highly irregular.
+
+221
+00:13:06,218 --> 00:13:08,521
+You're asking us to break protocol.
+
+222
+00:13:13,292 --> 00:13:14,326
+All right.
+
+223
+00:13:15,461 --> 00:13:17,997
+I mean, you are involved, after all.
+
+224
+00:13:18,030 --> 00:13:19,899
+So I suppose you ought to know.
+
+225
+00:13:21,467 --> 00:13:24,336
+What you're reading is called the fifth interim report.
+
+226
+00:13:24,370 --> 00:13:27,973
+Only speak of it to the other digi-destined. For now, anyway.
+
+227
+00:13:28,440 --> 00:13:30,543
+That covers everything we know happened
+
+228
+00:13:30,576 --> 00:13:32,111
+during the school festival.
+
+229
+00:13:32,144 --> 00:13:33,579
+Lots of facts to analyze.
+
+230
+00:13:34,213 --> 00:13:36,015
+We'll have to tell the media soon.
+
+231
+00:13:36,248 --> 00:13:37,416
+It'll be a circus.
+
+232
+00:13:38,484 --> 00:13:41,320
+But eventually, everything is going to come out.
+
+233
+00:13:41,620 --> 00:13:43,989
+Can you give me any information about Ken?
+
+234
+00:13:44,256 --> 00:13:46,425
+Yes, of course, we always keep tabs
+
+235
+00:13:46,458 --> 00:13:48,060
+on all of the digi-destined.
+
+236
+00:13:49,595 --> 00:13:50,996
+[Himekawa] Don't worry about Ken.
+
+237
+00:13:51,330 --> 00:13:52,965
+[sighs] I was only worried
+
+238
+00:13:52,998 --> 00:13:54,667
+because I couldn't get ahold of him.
+
+239
+00:13:54,700 --> 00:13:56,335
+[Himekawa] Let the others know.
+
+240
+00:13:56,368 --> 00:13:59,305
+The Meicoomon investigation will start immediately.
+
+241
+00:13:59,572 --> 00:14:02,408
+We'll do our best to collaborate as much as possible.
+
+242
+00:14:05,678 --> 00:14:08,147
+We'll let you know if anything changes.
+
+243
+00:14:09,348 --> 00:14:10,416
+Are we good?
+
+244
+00:14:11,083 --> 00:14:12,418
+Thank you very much.
+
+245
+00:14:14,019 --> 00:14:15,487
+See you tomorrow, right?
+
+246
+00:14:21,060 --> 00:14:24,263
+-Himekawa, you crossed the line. -Why is that?
+
+247
+00:14:24,563 --> 00:14:26,465
+You straight up lied to him.
+
+248
+00:14:26,498 --> 00:14:28,634
+You think I should be honest all the time?
+
+249
+00:14:29,602 --> 00:14:32,238
+Don't you realize they would panic
+
+250
+00:14:32,438 --> 00:14:35,274
+if they knew how many digi-destined are missing.
+
+251
+00:14:35,474 --> 00:14:38,644
+My job is to partly to shield them from things.
+
+252
+00:14:38,677 --> 00:14:41,280
+That requires deception from time to time.
+
+253
+00:14:41,480 --> 00:14:42,581
+What about the fact that
+
+254
+00:14:42,615 --> 00:14:44,683
+Meicoomon is the root of all of this?
+
+255
+00:14:44,717 --> 00:14:45,951
+But if they knew that,
+
+256
+00:14:45,985 --> 00:14:49,188
+how do you think it would affect their relationship with Meiko?
+
+257
+00:14:51,090 --> 00:14:53,692
+Preserve their innocence at least for a while.
+
+258
+00:14:53,726 --> 00:14:55,628
+They'll figure it out soon enough anyway.
+
+259
+00:14:55,661 --> 00:14:56,562
+[groans]
+
+260
+00:14:57,096 --> 00:14:58,397
+[Daigo] But why?
+
+261
+00:15:00,199 --> 00:15:02,334
+Why keep the truth from me too?
+
+262
+00:15:02,534 --> 00:15:04,436
+Do you think that I'm untrustworthy?
+
+263
+00:15:07,673 --> 00:15:09,708
+Sometimes ignorance is bliss.
+
+264
+00:15:18,517 --> 00:15:20,019
+[sighs]
+
+265
+00:15:28,327 --> 00:15:29,628
+-[Dr. Mochizuki] Meiko. -Huh?
+
+266
+00:15:30,429 --> 00:15:32,498
+Father, I brought you a change of clothes.
+
+267
+00:15:32,531 --> 00:15:33,565
+Thank you, Meiko.
+
+268
+00:15:33,766 --> 00:15:35,134
+Please let your mother know
+
+269
+00:15:35,167 --> 00:15:37,102
+that I won't be coming home until late.
+
+270
+00:15:37,136 --> 00:15:39,238
+-Yes... -Get home safely.
+
+271
+00:15:39,438 --> 00:15:42,107
+But, um... About Meicoomon....
+
+272
+00:15:44,143 --> 00:15:46,578
+Sorry, my meeting's about to start.
+
+273
+00:15:47,546 --> 00:15:48,547
+Father...
+
+274
+00:15:50,649 --> 00:15:52,184
+I'm so sorry.
+
+275
+00:15:53,652 --> 00:15:56,188
+Just leave it to us. We'll handle this, Meiko.
+
+276
+00:16:22,581 --> 00:16:23,649
+[sneezes]
+
+277
+00:16:26,485 --> 00:16:28,387
+[phone buzzes]
+
+278
+00:16:33,258 --> 00:16:35,594
+\"Are you okay? Mimi.\"
+
+279
+00:17:00,753 --> 00:17:02,121
+Reboot, huh?
+
+280
+00:17:03,455 --> 00:17:05,324
+[keyboard keys clicking]
+
+281
+00:17:12,231 --> 00:17:13,632
+-[alarm buzzes] -[groans]
+
+282
+00:17:16,435 --> 00:17:18,170
+Oh, come on!
+
+283
+00:17:18,537 --> 00:17:20,472
+I just can't crack this thing.
+
+284
+00:17:21,206 --> 00:17:22,808
+[all] Oh!
+
+285
+00:17:31,650 --> 00:17:33,619
+Meiko, your friend's here.
+
+286
+00:17:33,652 --> 00:17:34,686
+Uh?
+
+287
+00:17:36,722 --> 00:17:38,524
+[Sora] I stopped by to bring you the homework
+
+288
+00:17:38,557 --> 00:17:40,426
+we were given for summer vacation.
+
+289
+00:17:40,459 --> 00:17:41,760
+Oh, thank you.
+
+290
+00:17:42,461 --> 00:17:44,396
+-[Sora] Are you eating? -Huh?
+
+291
+00:17:44,430 --> 00:17:46,231
+You have to try to pull it together.
+
+292
+00:17:46,698 --> 00:17:48,167
+-Oh... -You need to...
+
+293
+00:17:48,367 --> 00:17:50,369
+eat and get some sleep.
+
+294
+00:17:50,669 --> 00:17:53,305
+[giggles] You're like a mother hen.
+
+295
+00:17:53,572 --> 00:17:54,873
+-[Meiko giggles] -What, no way!
+
+296
+00:17:54,907 --> 00:17:56,375
+Tai said the same thing.
+
+297
+00:17:56,642 --> 00:17:59,445
+-Boy, you try to be nice... -I'm sorry.
+
+298
+00:17:59,745 --> 00:18:02,114
+Oh, now it's okay.
+
+299
+00:18:04,283 --> 00:18:06,251
+Tai had trouble before too.
+
+300
+00:18:06,285 --> 00:18:07,319
+He did?
+
+301
+00:18:08,520 --> 00:18:10,489
+There was a time awhile back when Agumon dark-digivolved.
+
+302
+00:18:10,823 --> 00:18:12,357
+[gasps]
+
+303
+00:18:12,658 --> 00:18:16,628
+I know. But Agumon is totally fine again, you see?
+
+304
+00:18:17,863 --> 00:18:20,866
+Just remember that we and our digimon are outliers.
+
+305
+00:18:21,834 --> 00:18:23,302
+Different than the others.
+
+306
+00:18:23,802 --> 00:18:25,437
+We're always connected.
+
+307
+00:18:25,704 --> 00:18:27,206
+[sobs]
+
+308
+00:18:28,640 --> 00:18:30,409
+[Sora] I truly believe that.
+
+309
+00:18:35,314 --> 00:18:36,615
+It's okay to let it out.
+
+310
+00:18:39,785 --> 00:18:42,287
+That's the whole reason why I came.
+
+311
+00:18:42,754 --> 00:18:45,824
+[sobs and cries]
+
+312
+00:19:07,479 --> 00:19:10,749
+[Joe] Oh! It looks like a tornado hit...
+
+313
+00:19:11,316 --> 00:19:13,652
+after a hurricane and a typhoon.
+
+314
+00:19:20,325 --> 00:19:22,661
+-[Izzy groans] -Huh? [screams]
+
+315
+00:19:23,562 --> 00:19:26,398
+Black tea... Please.
+
+316
+00:19:26,431 --> 00:19:28,233
+[Joe] You don't have to finish it all in one gulp,
+
+317
+00:19:28,267 --> 00:19:29,301
+you know.
+
+318
+00:19:29,635 --> 00:19:31,570
+And how long have you been awake?
+
+319
+00:19:31,603 --> 00:19:33,572
+How long ago was the school festival?
+
+320
+00:19:33,605 --> 00:19:34,706
+[cries out] What?
+
+321
+00:19:35,040 --> 00:19:36,875
+That is really not good.
+
+322
+00:19:36,909 --> 00:19:39,912
+Izzy, if you're too tired, then you can't get anything done.
+
+323
+00:19:40,312 --> 00:19:41,380
+Studying taught me that.
+
+324
+00:19:41,413 --> 00:19:43,615
+Honestly, it's about the only thing it taught me.
+
+325
+00:19:43,916 --> 00:19:47,352
+You know, you seem more upbeat than usual.
+
+326
+00:19:47,386 --> 00:19:49,421
+Oh, yeah? Do I?
+
+327
+00:19:49,454 --> 00:19:50,789
+Is it really that obvious?
+
+328
+00:19:50,989 --> 00:19:52,524
+What should I call it?
+
+329
+00:19:52,558 --> 00:19:54,760
+Maybe awakening or insight.
+
+330
+00:19:54,793 --> 00:19:58,430
+Or maybe just being tired of being tired of studying.
+
+331
+00:19:58,664 --> 00:20:00,999
+It's like I Joe-volved to mega level.
+
+332
+00:20:01,600 --> 00:20:03,302
+[chuckles]
+
+333
+00:20:04,369 --> 00:20:06,872
+Uh, anyway, where are the digimon?
+
+334
+00:20:06,905 --> 00:20:08,674
+They're in the server now.
+
+335
+00:20:08,707 --> 00:20:11,677
+It's the safest place for them to be to avoid the infection.
+
+336
+00:20:11,710 --> 00:20:13,245
+[all saying hello]
+
+337
+00:20:13,579 --> 00:20:14,713
+I gotta be honest.
+
+338
+00:20:15,881 --> 00:20:18,283
+I actually found some coding errors even inside our PC.
+
+339
+00:20:18,317 --> 00:20:20,652
+-And our server too. -Huh?
+
+340
+00:20:20,686 --> 00:20:22,387
+Don't worry. I fixed them.
+
+341
+00:20:22,421 --> 00:20:23,922
+It's all fine now.
+
+342
+00:20:23,956 --> 00:20:25,257
+That's good I guess.
+
+343
+00:20:25,457 --> 00:20:27,559
+When I cross-referenced the data,
+
+344
+00:20:27,826 --> 00:20:29,795
+it matched up with when Meicoomon
+
+345
+00:20:29,828 --> 00:20:31,730
+was infected at the school festival.
+
+346
+00:20:31,763 --> 00:20:34,766
+-The same thing that caused 'em. -I don't know yet.
+
+347
+00:20:34,800 --> 00:20:37,736
+It'll take time to figure out and find countermeasures.
+
+348
+00:20:37,769 --> 00:20:39,905
+How about you find your way to bed?
+
+349
+00:20:39,938 --> 00:20:41,640
+You need to sleep.
+
+350
+00:20:41,673 --> 00:20:42,608
+And I'm willing to bet
+
+351
+00:20:42,641 --> 00:20:44,743
+a shower would do you a world of good too.
+
+352
+00:20:44,776 --> 00:20:47,746
+Well, I know it would certainly do my nose good.
+
+353
+00:20:47,779 --> 00:20:49,514
+[laughs] I mean if I had one.
+
+354
+00:20:49,982 --> 00:20:53,285
+All work and no shower makes Izzy a lonely boy.
+
+355
+00:20:54,019 --> 00:20:56,054
+[Tentomon] Oh, the smell-manity!
+
+356
+00:20:59,424 --> 00:21:01,627
+-Hey, Joe. -TK, what's up?
+
+357
+00:21:01,860 --> 00:21:02,861
+Where's Izzy?
+
+358
+00:21:04,630 --> 00:21:06,698
+[Joe] He preferred the sleeping bag to the couch.
+
+359
+00:21:07,566 --> 00:21:10,369
+-Out cold. -Finally got him to take a nap.
+
+360
+00:21:10,702 --> 00:21:12,971
+He's been working so hard. It isn't healthy.
+
+361
+00:21:13,639 --> 00:21:15,107
+Do you think he feels responsible?
+
+362
+00:21:15,140 --> 00:21:17,409
+Think so. He's on a mission.
+
+363
+00:21:17,676 --> 00:21:20,379
+I mean since Meicoomon has become infected.
+
+364
+00:21:20,646 --> 00:21:23,382
+Just look at the really awful stuff that's happened.
+
+365
+00:21:23,682 --> 00:21:24,883
+But it'll be okay.
+
+366
+00:21:24,916 --> 00:21:28,353
+The infection won't spread to the other digimon so easily.
+
+367
+00:21:28,754 --> 00:21:29,988
+Thinking positive, huh?
+
+368
+00:21:30,455 --> 00:21:32,491
+Well, if you focus on the negative,
+
+369
+00:21:32,524 --> 00:21:34,393
+it's more likely to happen.
+
+370
+00:21:34,693 --> 00:21:35,994
+[Patamon] TK!
+
+371
+00:21:36,395 --> 00:21:39,031
+You're back! Wow!
+
+372
+00:21:39,898 --> 00:21:42,768
+-Patamon! -It's time you came to visit.
+
+373
+00:21:42,801 --> 00:21:44,569
+[Gomamon] And about time we came out!
+
+374
+00:21:45,003 --> 00:21:46,004
+Oh, yeah!
+
+375
+00:21:46,538 --> 00:21:47,606
+[Tentomon] Count me in too!
+
+376
+00:21:48,473 --> 00:21:51,043
+Or is it count me out? I'm so confused.
+
+377
+00:21:51,076 --> 00:21:52,077
+Whee!
+
+378
+00:21:53,278 --> 00:21:55,013
+-You've been waiting all along? -[Patamon] And bored too.
+
+379
+00:21:55,047 --> 00:21:57,916
+We were trying to stay out of Izzy's hair.
+
+380
+00:21:57,949 --> 00:22:00,052
+Well... all of his parts, really.
+
+381
+00:22:00,085 --> 00:22:03,889
+-Except the part that feeds us. -Get cracking with the snacking.
+
+382
+00:22:03,922 --> 00:22:06,158
+Sure feels like a long time since I've seen this little guy.
+
+383
+00:22:06,191 --> 00:22:07,392
+[Patamon] Aww.
+
+384
+00:22:11,530 --> 00:22:13,899
+Hey, stop. That tickles.
+
+385
+00:22:14,800 --> 00:22:16,601
+-Patamon... -Hmm?
+
+386
+00:22:17,202 --> 00:22:18,570
+[TK] No!
+
+387
+00:22:18,770 --> 00:22:20,105
+No, this can't happen.
+
+388
+00:22:23,575 --> 00:22:25,544
+[Patamon growling]
+
+389
+00:22:25,577 --> 00:22:26,578
+Patamon!
+
+390
+00:22:27,979 --> 00:22:30,148
+Please just calm down. It's gonna be okay.
+
+391
+00:22:30,182 --> 00:22:31,383
+[TK groans]
+
+392
+00:22:31,583 --> 00:22:32,584
+TK?
+
+393
+00:22:33,685 --> 00:22:35,153
+[TK] Patamon, please.
+
+394
+00:22:35,821 --> 00:22:38,690
+[Patamon gasping]
+
+395
+00:22:38,724 --> 00:22:41,026
+-[Joe] What's the matter? -[TK] Uh, nothing.
+
+396
+00:22:41,626 --> 00:22:42,627
+Patamon?
+
+397
+00:22:44,696 --> 00:22:45,997
+[Patamon snarling]
+
+398
+00:22:46,031 --> 00:22:47,833
+[TK] Come on, buddy. You gotta fight it.
+
+399
+00:22:48,600 --> 00:22:50,102
+[Patamon groaning]
+
+400
+00:22:51,203 --> 00:22:52,504
+Huh?
+
+401
+00:22:56,475 --> 00:22:58,877
+[Patamon] TK, you're kinda smushing me!
+
+402
+00:22:58,910 --> 00:23:00,479
+Oh, sorry about that.
+
+403
+00:23:00,512 --> 00:23:02,147
+What's going on, TK?
+
+404
+00:23:02,180 --> 00:23:04,082
+We're just hugging it out, you know.
+
+405
+00:23:04,116 --> 00:23:05,784
+Don't get carried away.
+
+406
+00:23:05,817 --> 00:23:07,819
+Izzy's gonna be upset if you break your digimon.
+
+407
+00:23:07,853 --> 00:23:08,854
+Right.
+
+408
+00:23:09,688 --> 00:23:10,856
+TK?
+
+409
+00:23:11,089 --> 00:23:12,724
+Uh, oh, uh...
+
+410
+00:23:12,758 --> 00:23:14,726
+Don't worry. It's just a scratch, see?
+
+411
+00:23:15,727 --> 00:23:16,995
+Oh!
+
+412
+00:23:17,896 --> 00:23:20,165
+[Patamon] Must have been some serious hugging.
+
+413
+00:23:20,932 --> 00:23:24,169
+I'm starting to think, you're trying to smush me.
+
+414
+00:23:24,569 --> 00:23:26,138
+Seeing Izzy wrapped up like that
+
+415
+00:23:26,171 --> 00:23:27,873
+makes me want some chips and salsa.
+
+416
+00:23:28,173 --> 00:23:30,742
+[Gomamon] You're right. He looks like a bean and cheese burrito.
+
+417
+00:23:31,042 --> 00:23:32,911
+-[Tentomon] Ooh, burritos! -Hey, Joe.
+
+418
+00:23:32,944 --> 00:23:35,614
+What if our digimon...
+
+419
+00:23:35,647 --> 00:23:36,681
+[chomping]
+
+420
+00:23:36,715 --> 00:23:39,451
+What if our digimon get infected?
+
+421
+00:23:39,651 --> 00:23:41,119
+-[Joe] What do you mean? -[sighing]
+
+422
+00:23:41,153 --> 00:23:43,588
+[TK] Just what if? What would we do?
+
+423
+00:23:44,623 --> 00:23:46,591
+-[Joe] We'd have to fight them. -We all need a takeout.
+
+424
+00:23:48,860 --> 00:23:49,895
+Huh?
+
+425
+00:23:51,163 --> 00:23:54,466
+Doesn't Izzy research that kind of thing so we don't have to?
+
+426
+00:23:54,800 --> 00:23:56,535
+[TK] Yeah. I guess.
+
+427
+00:23:59,004 --> 00:24:00,138
+[TK] I'm gonna head home.
+
+428
+00:24:00,672 --> 00:24:02,174
+Right. Hey.
+
+429
+00:24:02,741 --> 00:24:05,010
+Hold on, you're taking Patamon?
+
+430
+00:24:06,178 --> 00:24:07,245
+That a problem?
+
+431
+00:24:07,279 --> 00:24:08,580
+Of course it is.
+
+432
+00:24:09,781 --> 00:24:11,950
+But, uh... isn't it unwise to have them all in one place?
+
+433
+00:24:11,983 --> 00:24:14,219
+I mean, what if something bad happened?
+
+434
+00:24:14,886 --> 00:24:17,622
+-Hmm. -For example, as a worst case...
+
+435
+00:24:17,956 --> 00:24:20,158
+if one got infected, we could have an outbreak.
+
+436
+00:24:20,192 --> 00:24:21,560
+Don't say that!
+
+437
+00:24:21,593 --> 00:24:24,596
+[all] Huh?
+
+438
+00:24:25,997 --> 00:24:28,233
+[TK] Right. Sorry.
+
+439
+00:24:29,601 --> 00:24:30,402
+It's just...
+
+440
+00:24:31,136 --> 00:24:33,572
+Look, Joe, I just really want to spend
+
+441
+00:24:33,605 --> 00:24:35,207
+a little quality time with Patamon.
+
+442
+00:24:35,707 --> 00:24:37,742
+I'm sure we all feel that way.
+
+443
+00:24:37,776 --> 00:24:39,711
+[Patamon] I wanna go with TK!
+
+444
+00:24:39,978 --> 00:24:43,648
+I wanna go with TK! I wanna go with TK!
+
+445
+00:24:43,682 --> 00:24:45,016
+I wanna go!
+
+446
+00:24:45,617 --> 00:24:47,018
+Sorry, but you can't...
+
+447
+00:24:47,052 --> 00:24:49,621
+[Patamon] No, no, no! And I mean no for real!
+
+448
+00:24:49,921 --> 00:24:52,657
+I'm going with TK and that's that!
+
+449
+00:24:53,658 --> 00:24:56,094
+[snoring]
+
+450
+00:25:00,365 --> 00:25:02,300
+[Patamon] This is kind of fun, isn't it?
+
+451
+00:25:04,803 --> 00:25:05,804
+[laughs]
+
+452
+00:25:06,738 --> 00:25:07,806
+Yeah, kinda.
+
+453
+00:25:08,940 --> 00:25:11,910
+I did what you wanted, right? You looked so worried.
+
+454
+00:25:11,943 --> 00:25:14,312
+I just knew that I had to come home with you.
+
+455
+00:25:15,881 --> 00:25:17,182
+[giggles]
+
+456
+00:25:17,215 --> 00:25:19,217
+-[TK] Let's go. -[Patamon] Okay.
+
+457
+00:25:22,020 --> 00:25:23,788
+[TV] This high pressure front
+
+458
+00:25:23,822 --> 00:25:25,323
+means sunny skies in the East.
+
+459
+00:25:25,357 --> 00:25:26,892
+[Mom] How are you doing?
+
+460
+00:25:26,925 --> 00:25:28,260
+[Meiko] I just need to get my shoes on.
+
+461
+00:25:28,660 --> 00:25:30,929
+[Mom] You sure you want to go to school, honey?
+
+462
+00:25:31,396 --> 00:25:33,899
+-I'm fine, Mom. -See you later.
+
+463
+00:25:34,933 --> 00:25:36,001
+Okay, see ya.
+
+464
+00:25:37,936 --> 00:25:39,271
+Oh, Meicoomon...
+
+465
+00:25:40,705 --> 00:25:41,806
+Stop it.
+
+466
+00:25:43,174 --> 00:25:45,277
+[students talking]
+
+467
+00:25:46,344 --> 00:25:48,847
+-Hi, Meiko. -Oh, good morning.
+
+468
+00:25:48,880 --> 00:25:50,782
+I was just looking for you.
+
+469
+00:25:50,815 --> 00:25:54,185
+I slept so soundly I barely had time to finish breakfast.
+
+470
+00:25:54,219 --> 00:25:55,887
+Wanna have lunch together?
+
+471
+00:25:56,154 --> 00:25:58,890
+Uh... Awesome.
+
+472
+00:25:59,791 --> 00:26:00,892
+[Mimi] Meimei!
+
+473
+00:26:01,927 --> 00:26:03,795
+-Good morning, Mimi. -[Mimi squeals]
+
+474
+00:26:07,198 --> 00:26:08,400
+I'm sorry. I really should've--
+
+475
+00:26:08,433 --> 00:26:10,402
+Hey, hey, hey, it's nothing. Forget it.
+
+476
+00:26:10,435 --> 00:26:11,770
+Not quite.
+
+477
+00:26:11,803 --> 00:26:12,804
+[all gasping]
+
+478
+00:26:13,872 --> 00:26:15,640
+-It's like you just disappeared. -I didn't mean to.
+
+479
+00:26:15,840 --> 00:26:17,275
+Now, just relax.
+
+480
+00:26:17,309 --> 00:26:19,744
+Matt only meant that he was worried about you.
+
+481
+00:26:19,778 --> 00:26:22,948
+-Can't you tell by his face? -You're a tandura.
+
+482
+00:26:22,981 --> 00:26:24,849
+Now you're just making up words!
+
+483
+00:26:25,050 --> 00:26:27,118
+-[Mimi] Matt's a stinky tandura! -[Tai] But, seriously...
+
+484
+00:26:27,152 --> 00:26:28,219
+Uh, yes?
+
+485
+00:26:29,321 --> 00:26:30,889
+Izzy's really trying hard.
+
+486
+00:26:31,256 --> 00:26:33,391
+He spends all his time in his office now.
+
+487
+00:26:33,792 --> 00:26:35,794
+He's gonna figure this whole infected thing out.
+
+488
+00:26:36,928 --> 00:26:39,698
+If anyone can find a solution, he can.
+
+489
+00:26:39,731 --> 00:26:41,333
+-Right, Mimi? -[Mimi] Enough.
+
+490
+00:26:41,866 --> 00:26:44,836
+She gets the point already. She's a smart girl.
+
+491
+00:26:44,869 --> 00:26:46,338
+Or are you saying otherwise?
+
+492
+00:26:46,771 --> 00:26:48,206
+Oh, I'm sorry.
+
+493
+00:26:48,239 --> 00:26:49,908
+[Meiko] But I want to know what's happening.
+
+494
+00:26:50,208 --> 00:26:52,377
+And I really should apologize to Izzy.
+
+495
+00:26:52,410 --> 00:26:53,712
+Then we'll go together.
+
+496
+00:26:54,846 --> 00:26:56,781
+Please don't make things more complicated and dramatic.
+
+497
+00:26:56,815 --> 00:26:59,951
+-I'm not dramatic. -Don't pay any attention to him.
+
+498
+00:27:00,151 --> 00:27:02,187
+I'm sure Izzy will figure it out.
+
+499
+00:27:02,220 --> 00:27:04,022
+He'll save everyone and Meicoomon.
+
+500
+00:27:04,255 --> 00:27:05,256
+I hope.
+
+501
+00:27:08,159 --> 00:27:10,195
+[Joe] So you just took Patamon home with you?
+
+502
+00:27:10,795 --> 00:27:11,930
+Uh-huh.
+
+503
+00:27:12,197 --> 00:27:13,865
+Izzy was really upset.
+
+504
+00:27:13,898 --> 00:27:17,068
+Patamon was just homesick. He misses me.
+
+505
+00:27:17,102 --> 00:27:19,804
+-Don't be selfish. -Look, everything's fine.
+
+506
+00:27:20,171 --> 00:27:23,174
+If anything goes wrong, I'll send him straight back to Izzy.
+
+507
+00:27:23,742 --> 00:27:25,877
+[Kari] Wow! Meiko's actually here?
+
+508
+00:27:27,012 --> 00:27:28,146
+[Meiko] Good to see you.
+
+509
+00:27:28,413 --> 00:27:31,149
+Why does only Patamon get to go home?
+
+510
+00:27:31,182 --> 00:27:33,385
+All of us miss our digimon, you know?
+
+511
+00:27:33,418 --> 00:27:36,488
+-[TK] I know. -Well, it's not just Patamon.
+
+512
+00:27:36,521 --> 00:27:37,989
+They've all been complaining
+
+513
+00:27:38,023 --> 00:27:39,924
+about being stuck inside the server.
+
+514
+00:27:40,291 --> 00:27:42,727
+Do you think it's wise to take your digimon home?
+
+515
+00:27:42,761 --> 00:27:43,995
+-Or stupid? -[all] Hmm?
+
+516
+00:27:44,829 --> 00:27:48,366
+I don’t know. I'd love to have Biyomon at home but is it safe?
+
+517
+00:27:48,400 --> 00:27:51,136
+It's too risky. What if they get infected?
+
+518
+00:27:51,903 --> 00:27:52,971
+We'd have to fight them.
+
+519
+00:27:53,171 --> 00:27:55,006
+Don't say things like that.
+
+520
+00:27:56,474 --> 00:27:57,809
+How could we?
+
+521
+00:27:58,109 --> 00:27:59,144
+We're partners.
+
+522
+00:28:00,311 --> 00:28:02,380
+-What a mess. -I know.
+
+523
+00:28:03,014 --> 00:28:04,949
+TK... You see now
+
+524
+00:28:04,983 --> 00:28:07,452
+why we can't really take them out of where they're safe.
+
+525
+00:28:12,157 --> 00:28:13,324
+[TK gasps]
+
+526
+00:28:15,160 --> 00:28:17,462
+-What's wrong, TK? -Oh...
+
+527
+00:28:18,096 --> 00:28:19,397
+[TK] It's nothing.
+
+528
+00:28:19,964 --> 00:28:22,434
+-TK? -[TK] Patamon's fine.
+
+529
+00:28:22,467 --> 00:28:23,935
+I just want more time with him.
+
+530
+00:28:24,369 --> 00:28:28,373
+-Oh... -I'm sure... they'll be okay.
+
+531
+00:28:28,406 --> 00:28:29,774
+Come on.
+
+532
+00:28:30,875 --> 00:28:33,812
+It's still not fair. They should all come home then.
+
+533
+00:28:33,845 --> 00:28:38,116
+Well, why don't they? Once in a while can't hurt, right?
+
+534
+00:28:38,850 --> 00:28:41,953
+We can have them hang out at Izzy's while we're in school,
+
+535
+00:28:42,187 --> 00:28:45,056
+-and pick them up our way home. -That's right.
+
+536
+00:28:45,090 --> 00:28:46,424
+And if we're all watching them,
+
+537
+00:28:46,458 --> 00:28:48,426
+we'll notice if anything changes.
+
+538
+00:28:48,860 --> 00:28:51,896
+We'll be more informed and can alert everyone in the group.
+
+539
+00:28:51,930 --> 00:28:53,832
+It's just like taking a kid to daycare.
+
+540
+00:28:53,865 --> 00:28:55,934
+Yeah, they're practically our kids anyway.
+
+541
+00:28:56,134 --> 00:28:58,570
+I say Sora's right about Joe being right.
+
+542
+00:28:58,603 --> 00:29:02,107
+Guys, this is serious. We need to keep an eye on the situation.
+
+543
+00:29:02,140 --> 00:29:04,075
+Yep, we will when we get 'em.
+
+544
+00:29:04,375 --> 00:29:07,112
+[Mimi] Get 'em? Can't Izzy just email them to us?
+
+545
+00:29:07,145 --> 00:29:09,214
+[Joe] You must have a great data plan.
+
+546
+00:29:09,247 --> 00:29:11,483
+Truth is the Internet may not be secure.
+
+547
+00:29:11,516 --> 00:29:13,251
+We have to pick them up to stay safe.
+
+548
+00:29:13,451 --> 00:29:15,253
+[Mimi] Haste makes you knock on wood.
+
+549
+00:29:15,286 --> 00:29:18,189
+[Sora] Uh, yeah. Or something like that.
+
+550
+00:29:18,223 --> 00:29:19,924
+[Mimi] Matt, what do you think?
+
+551
+00:29:19,958 --> 00:29:21,559
+You still say it's too risky?
+
+552
+00:29:22,026 --> 00:29:23,561
+[Matt] Well, Gabumon's sure gonna be upset
+
+553
+00:29:23,595 --> 00:29:25,330
+if he's the only one left behind.
+
+554
+00:29:25,363 --> 00:29:27,966
+[Mimi] You say that like you have no choice.
+
+555
+00:29:27,999 --> 00:29:29,300
+But you can't hide that smile.
+
+556
+00:29:29,334 --> 00:29:32,570
+-Tandura! Tandura! -[Matt] Stop making up words.
+
+557
+00:29:32,604 --> 00:29:34,973
+All right. So we agree. Let's try it.
+
+558
+00:29:35,006 --> 00:29:37,408
+-You guys... -[all] Oh!
+
+559
+00:29:39,344 --> 00:29:40,445
+Sorry, Meimei.
+
+560
+00:29:40,478 --> 00:29:42,413
+We just got caught up in the moment.
+
+561
+00:29:43,882 --> 00:29:47,152
+Oh! It's fine. Don't feel bad because of me.
+
+562
+00:29:48,153 --> 00:29:49,888
+Well, I should get home.
+
+563
+00:29:50,121 --> 00:29:51,923
+Go pick up your digimon.
+
+564
+00:29:53,224 --> 00:29:55,860
+I bet they'll be happy to go home with you.
+
+565
+00:29:57,128 --> 00:29:58,263
+Thanks.
+
+566
+00:29:58,296 --> 00:30:00,031
+[Joe] Let's get 'em and see how it goes.
+
+567
+00:30:00,265 --> 00:30:01,966
+Hopefully better than usual.
+
+568
+00:30:02,567 --> 00:30:04,402
+-[Mimi] Bye, guys. -[Sora] See you soon.
+
+569
+00:30:04,435 --> 00:30:07,205
+-[Mimi] Go have fun. -Do something, Meimei. Text me.
+
+570
+00:30:07,238 --> 00:30:08,339
+I'm sorry.
+
+571
+00:30:08,606 --> 00:30:10,542
+None of that made you feel any better.
+
+572
+00:30:10,575 --> 00:30:11,976
+It's okay.
+
+573
+00:30:12,477 --> 00:30:14,078
+I've got homework to do.
+
+574
+00:30:14,512 --> 00:30:16,247
+-See you, TK. -Meiko!
+
+575
+00:30:20,251 --> 00:30:22,487
+Can we talk somewhere before you go home?
+
+576
+00:30:23,388 --> 00:30:26,257
+[Meiko] Are you really saying that Patamon's already...
+
+577
+00:30:27,692 --> 00:30:29,360
+I'm a horrible person.
+
+578
+00:30:29,994 --> 00:30:32,497
+I told them all that their digimon would be okay.
+
+579
+00:30:32,530 --> 00:30:34,032
+Like Patamon.
+
+580
+00:30:35,333 --> 00:30:36,401
+I lied.
+
+581
+00:30:36,601 --> 00:30:37,969
+I couldn't be honest.
+
+582
+00:30:38,503 --> 00:30:40,004
+It was too hard.
+
+583
+00:30:40,205 --> 00:30:41,339
+I get it.
+
+584
+00:30:42,373 --> 00:30:43,575
+It hurts.
+
+585
+00:30:45,009 --> 00:30:46,110
+[TK] What do I do?
+
+586
+00:30:46,711 --> 00:30:48,580
+What if I can't save Patamon?
+
+587
+00:30:49,981 --> 00:30:52,417
+I mean, what if Patamon...
+
+588
+00:30:53,184 --> 00:30:54,519
+What if Patamon starts acting...
+
+589
+00:30:57,255 --> 00:30:59,057
+-[Meiko] TK... -[TK sobs]
+
+590
+00:30:59,591 --> 00:31:01,025
+[Meiko] You poor thing.
+
+591
+00:31:01,226 --> 00:31:02,894
+[TK] The whole thing sucks.
+
+592
+00:31:05,463 --> 00:31:07,999
+-[TK] Sorry. -[Meiko] No, I'm sorry.
+
+593
+00:31:08,399 --> 00:31:10,368
+I'm so, so sorry.
+
+594
+00:31:10,635 --> 00:31:12,370
+This is all my fault.
+
+595
+00:31:13,071 --> 00:31:15,640
+Uh, no. Really.
+
+596
+00:31:16,207 --> 00:31:17,675
+I didn't mean for that to sound...
+
+597
+00:31:18,209 --> 00:31:20,979
+like I was trying to blame you. Forget it.
+
+598
+00:31:21,346 --> 00:31:23,715
+After all that's happened, I should be comforting you.
+
+599
+00:31:23,748 --> 00:31:25,550
+I'm just a selfish idiot.
+
+600
+00:31:26,050 --> 00:31:27,252
+[Meiko] You're wrong.
+
+601
+00:31:27,452 --> 00:31:29,120
+It is my fault.
+
+602
+00:31:44,202 --> 00:31:46,404
+[TK] All right. Put on a good face.
+
+603
+00:31:48,373 --> 00:31:51,542
+-I'm home. -Welcome back, TK!
+
+604
+00:31:52,176 --> 00:31:54,012
+[both giggling]
+
+605
+00:31:54,045 --> 00:31:55,613
+I didn't bring you anything.
+
+606
+00:31:55,647 --> 00:31:57,649
+Don't worry. It's okay.
+
+607
+00:31:58,116 --> 00:32:01,419
+Although, I mean, a candy bar would be kinda nice. [giggles]
+
+608
+00:32:03,554 --> 00:32:06,224
+Aha. Again with the smushing.
+
+609
+00:32:09,527 --> 00:32:12,430
+It's been happening all day long. Pretty weird.
+
+610
+00:32:13,765 --> 00:32:15,767
+Listen, TK.
+
+611
+00:32:15,800 --> 00:32:18,202
+This means I'm infected, doesn't it?
+
+612
+00:32:20,104 --> 00:32:21,673
+[chuckles] Thought so.
+
+613
+00:32:22,674 --> 00:32:24,575
+[TK] Patamon, I...
+
+614
+00:32:25,376 --> 00:32:27,712
+That's why you took me away from the others, right?
+
+615
+00:32:29,814 --> 00:32:32,383
+Because I might end up like Meicoomon?
+
+616
+00:32:32,417 --> 00:32:35,219
+[TK] No! You're gonna be okay!
+
+617
+00:32:37,655 --> 00:32:39,057
+[Patamon] TK...
+
+618
+00:32:41,059 --> 00:32:43,227
+If I start to go berserk...
+
+619
+00:32:43,761 --> 00:32:46,030
+you'll have to take me down.
+
+620
+00:32:48,533 --> 00:32:50,001
+[TK] Don't ever say that!
+
+621
+00:32:50,368 --> 00:32:53,171
+But I don't want to make everyone sad, TK.
+
+622
+00:32:54,405 --> 00:32:55,773
+[TK] I could never...
+
+623
+00:32:56,841 --> 00:32:59,243
+Just listen. I'm okay with it.
+
+624
+00:32:59,277 --> 00:33:02,146
+Whatever happens, it was worth meeting you.
+
+625
+00:33:02,180 --> 00:33:04,148
+It'll be all right.
+
+626
+00:33:07,852 --> 00:33:12,190
+I'm sorry. I know it will make you sad but you'll have to.
+
+627
+00:33:13,725 --> 00:33:15,193
+Patamon...
+
+628
+00:33:15,426 --> 00:33:17,195
+Don't cry, okay.
+
+629
+00:33:19,297 --> 00:33:21,499
+[both sobbing]
+
+630
+00:33:21,733 --> 00:33:23,167
+Patamon...
+
+631
+00:33:24,168 --> 00:33:25,536
+TK...
+
+632
+00:33:37,749 --> 00:33:39,784
+[doorbell rings]
+
+633
+00:33:41,486 --> 00:33:43,121
+[Patamon] Someone's at the door.
+
+634
+00:33:48,126 --> 00:33:49,594
+-Oh, hey, Matt. -Gabumon!
+
+635
+00:33:49,894 --> 00:33:52,563
+-So they tell me. -Let's get down to it.
+
+636
+00:33:53,131 --> 00:33:54,832
+Eh, what do you mean?
+
+637
+00:33:54,866 --> 00:33:56,567
+[Matt] First, can you turn on a light.
+
+638
+00:33:56,601 --> 00:33:58,669
+[TK] Oh, I hadn't noticed.
+
+639
+00:33:58,703 --> 00:34:00,805
+[Matt] It's too dark to notice anything.
+
+640
+00:34:01,639 --> 00:34:03,207
+I see snacks.
+
+641
+00:34:03,441 --> 00:34:04,742
+So what brings you here?
+
+642
+00:34:04,776 --> 00:34:06,577
+[Matt] Well, uh...
+
+643
+00:34:06,611 --> 00:34:09,514
+did you have a fight with Tai in the past hour?
+
+644
+00:34:09,547 --> 00:34:10,415
+-[TK] No. -[Matt] Sora?
+
+645
+00:34:10,915 --> 00:34:12,750
+[TK] Why on earth would I fight with Sora?
+
+646
+00:34:14,552 --> 00:34:17,288
+-So, Joe? Mimi? -What's your deal?
+
+647
+00:34:17,321 --> 00:34:19,624
+Do I always have to be fighting with somebody?
+
+648
+00:34:19,657 --> 00:34:22,160
+-It's kinda your thing. -He has a point.
+
+649
+00:34:22,193 --> 00:34:23,728
+You're not helping, you know.
+
+650
+00:34:24,328 --> 00:34:25,830
+Look, this isn't about me.
+
+651
+00:34:26,364 --> 00:34:27,565
+Huh?
+
+652
+00:34:27,598 --> 00:34:29,133
+Something's up with you.
+
+653
+00:34:32,303 --> 00:34:33,304
+[both] Ooh...
+
+654
+00:34:35,239 --> 00:34:36,574
+[Matt] Well, what is it?
+
+655
+00:34:36,841 --> 00:34:38,876
+I'm not leaving till you level with me.
+
+656
+00:34:39,310 --> 00:34:40,511
+So, start talking.
+
+657
+00:34:41,212 --> 00:34:42,346
+I'm scared...
+
+658
+00:34:43,314 --> 00:34:44,415
+Huh?
+
+659
+00:34:49,921 --> 00:34:51,756
+...that everyone's gonna finally realize
+
+660
+00:34:51,789 --> 00:34:53,624
+you're a terrible guitarist.
+
+661
+00:34:57,528 --> 00:34:58,563
+[Matt] Huh?
+
+662
+00:35:01,766 --> 00:35:03,301
+Eh, you little...
+
+663
+00:35:04,435 --> 00:35:06,537
+You really had me going there for a minute!
+
+664
+00:35:06,571 --> 00:35:08,506
+-[TK] Sucker. -[Matt] Not funny.
+
+665
+00:35:08,906 --> 00:35:11,342
+Okay. Kinda.
+
+666
+00:35:11,375 --> 00:35:12,443
+[phone ringing]
+
+667
+00:35:15,580 --> 00:35:16,781
+Sora?
+
+668
+00:35:17,381 --> 00:35:18,716
+What would she be calling me about?
+
+669
+00:35:19,417 --> 00:35:21,219
+-Go on. Answer. -I'm gonna.
+
+670
+00:35:21,619 --> 00:35:22,653
+Hello.
+
+671
+00:35:23,754 --> 00:35:26,858
+Just making Matt mad. You know, the usual. You okay?
+
+672
+00:35:27,425 --> 00:35:28,860
+Um-hmm. Yeah.
+
+673
+00:35:29,560 --> 00:35:31,462
+Just thought I'd call and check.
+
+674
+00:35:31,496 --> 00:35:32,797
+Okay, talk to you later.
+
+675
+00:35:33,831 --> 00:35:35,399
+Well, that's done. Next?
+
+676
+00:35:35,800 --> 00:35:38,402
+-Looks like Izzy. -Izzy it is.
+
+677
+00:35:38,803 --> 00:35:40,805
+Hey, Izzy. Just wanted to say thanks
+
+678
+00:35:40,838 --> 00:35:42,473
+for all your hard work yesterday.
+
+679
+00:35:43,541 --> 00:35:45,209
+Of course, and today too.
+
+680
+00:35:45,676 --> 00:35:47,578
+Right, and the day before. Sure.
+
+681
+00:35:48,012 --> 00:35:50,214
+Listen, don't forget to eat. And sleep.
+
+682
+00:35:50,448 --> 00:35:52,216
+But not at the same time. [laughs]
+
+683
+00:35:52,250 --> 00:35:54,852
+Okay, that's it from me. Goodbye, Izzy.
+
+684
+00:35:56,020 --> 00:35:57,421
+[Sora sighs]
+
+685
+00:35:58,689 --> 00:36:01,425
+Sora, you always do a good job of taking care of everyone else.
+
+686
+00:36:01,726 --> 00:36:03,794
+-Well, we're friends. -It's just...
+
+687
+00:36:03,828 --> 00:36:05,696
+With everything that's going on,
+
+688
+00:36:05,730 --> 00:36:07,498
+I get worried about everyone.
+
+689
+00:36:07,532 --> 00:36:10,201
+It really is nice that you're so thoughtful.
+
+690
+00:36:10,468 --> 00:36:11,702
+Thanks so much.
+
+691
+00:36:11,969 --> 00:36:13,804
+That's why they call me a mother hen.
+
+692
+00:36:13,838 --> 00:36:15,806
+-But what about you? -Huh?
+
+693
+00:36:15,840 --> 00:36:18,476
+You need to take care of yourself too, don't you?
+
+694
+00:36:19,710 --> 00:36:20,878
+Myself?
+
+695
+00:36:21,679 --> 00:36:22,980
+Not an option?
+
+696
+00:36:23,014 --> 00:36:25,683
+Well, selflessness is one of your best treats.
+
+697
+00:36:26,751 --> 00:36:29,387
+All right, since you're my favorite person,
+
+698
+00:36:29,420 --> 00:36:30,588
+I'll take care of you.
+
+699
+00:36:30,788 --> 00:36:31,856
+Sound good?
+
+700
+00:36:32,323 --> 00:36:33,457
+[giggles]
+
+701
+00:36:38,462 --> 00:36:40,565
+[Sora] Thanks, Biyomon. That means a lot.
+
+702
+00:37:05,856 --> 00:37:07,625
+[man 1] Flight 194, proceed to....
+
+703
+00:37:07,658 --> 00:37:08,826
+[man 2] Whoa!
+
+704
+00:37:10,828 --> 00:37:12,930
+[man 1] It's a blackout! Start the generator!
+
+705
+00:37:13,664 --> 00:37:14,832
+[man 2] It's not working.
+
+706
+00:37:15,333 --> 00:37:17,568
+[man 3] There's no power. But the planes...
+
+707
+00:37:21,973 --> 00:37:23,674
+[computer] The time has come.
+
+708
+00:37:23,874 --> 00:37:26,410
+The era of destruction is at hand.
+
+709
+00:37:26,711 --> 00:37:29,580
+Digimon shall roam free again
+
+710
+00:37:29,847 --> 00:37:32,450
+because your world is completely reliant
+
+711
+00:37:32,483 --> 00:37:34,619
+on its digital infrastructure,
+
+712
+00:37:34,652 --> 00:37:37,855
+it is fragile, extremely fragile.
+
+713
+00:37:38,122 --> 00:37:40,024
+It is a house of cards...
+
+714
+00:37:40,057 --> 00:37:42,560
+Breaking News: Massive blackout in part of the Kanto region.
+
+715
+00:37:42,593 --> 00:37:45,029
+...ever teetering on the brink of complete collapse.
+
+716
+00:37:45,062 --> 00:37:47,398
+It must be acknowledged.
+
+717
+00:37:47,431 --> 00:37:50,968
+The era of complete catastrophe is upon us.
+
+718
+00:37:53,437 --> 00:37:54,939
+[TV] The waterfront area was left
+
+719
+00:37:54,972 --> 00:37:57,608
+completely without power yesterday evening.
+
+720
+00:37:57,642 --> 00:37:58,776
+It's now been restored
+
+721
+00:37:58,809 --> 00:38:00,911
+but the reason for the outage remains unknown.
+
+722
+00:38:01,545 --> 00:38:04,415
+It's suspected to be related to the mysterious messages
+
+723
+00:38:04,448 --> 00:38:05,716
+seen all over the Internet.
+
+724
+00:38:05,750 --> 00:38:06,917
+Massive Blackout again in the Kanto region.
+
+725
+00:38:06,951 --> 00:38:09,587
+Across the region, nervous residents are scooping up
+
+726
+00:38:09,620 --> 00:38:10,888
+emergency supplies
+
+727
+00:38:11,088 --> 00:38:12,823
+in case of another power loss.
+
+728
+00:38:14,125 --> 00:38:16,060
+\"Digimon shall roam free.\"
+
+729
+00:38:16,727 --> 00:38:18,062
+What does that mean?
+
+730
+00:38:21,632 --> 00:38:23,000
+Wait, you guys are still here?
+
+731
+00:38:23,401 --> 00:38:24,869
+You're gonna be late.
+
+732
+00:38:24,902 --> 00:38:25,903
+Right.
+
+733
+00:38:27,138 --> 00:38:28,973
+Oh, can you pick up ice cream for dessert on the way home.
+
+734
+00:38:29,440 --> 00:38:31,575
+-And milk, too? -Got it.
+
+735
+00:38:31,609 --> 00:38:34,445
+Everybody else in the world's worried about a catastrophe.
+
+736
+00:38:34,478 --> 00:38:36,013
+And mom's just worried about dairy products.
+
+737
+00:38:36,047 --> 00:38:37,048
+[giggles]
+
+738
+00:38:38,215 --> 00:38:40,751
+-I knew I loved your mom. -Your priorities are a mess.
+
+739
+00:38:40,785 --> 00:38:42,920
+Glad you still have your appetite.
+
+740
+00:38:43,421 --> 00:38:44,755
+[chuckles]
+
+741
+00:38:50,027 --> 00:38:51,862
+[Agumon] He's still ignoring us.
+
+742
+00:38:51,896 --> 00:38:53,964
+[Palmon] It's like he's been hypnotized.
+
+743
+00:38:55,966 --> 00:38:58,636
+[Palmon] How long do you think he can stay like this?
+
+744
+00:38:58,936 --> 00:39:01,072
+It's gonna be a long night.
+
+745
+00:39:01,105 --> 00:39:03,774
+[Gabumon] Say something to him, Agumon. He's freaking me out.
+
+746
+00:39:04,008 --> 00:39:06,410
+Hey, there, Izzy. Trouble with anything?
+
+747
+00:39:06,444 --> 00:39:08,112
+-Like your hearing? -Oh, relax.
+
+748
+00:39:08,145 --> 00:39:11,816
+Izzy gets this way sometimes because, well, he's Izzy.
+
+749
+00:39:11,849 --> 00:39:14,385
+-Less talk-- -More snacks, I know.
+
+750
+00:39:14,585 --> 00:39:15,753
+-[buzzing sound] -[Izzy gasps]
+
+751
+00:39:16,020 --> 00:39:18,489
+-So he can move. -Well, that's a start.
+
+752
+00:39:18,756 --> 00:39:21,759
+Shh, come on, you guys. We have to let Izzy do his work.
+
+753
+00:39:21,992 --> 00:39:25,796
+Otherwise he won't get it done. And if he doesn't get it done,
+
+754
+00:39:25,830 --> 00:39:27,665
+the longer he'll be doing it.
+
+755
+00:39:32,937 --> 00:39:34,572
+[squeaking]
+
+756
+00:39:35,606 --> 00:39:37,141
+-Huh? -Uh-huh.
+
+757
+00:39:38,676 --> 00:39:42,179
+[thumping]
+
+758
+00:39:42,646 --> 00:39:45,182
+[Izzy typing]
+
+759
+00:39:47,518 --> 00:39:51,555
+Ma'am, the digimon. They've all been departing Izzy's building.
+
+760
+00:39:51,856 --> 00:39:53,190
+What's our next move?
+
+761
+00:39:53,858 --> 00:39:55,092
+Just follow them.
+
+762
+00:39:59,764 --> 00:40:01,532
+[boy] Man, I'm hungry.
+
+763
+00:40:01,565 --> 00:40:03,134
+[boy 2] Who wants some snacks?
+
+764
+00:40:03,167 --> 00:40:05,736
+[girl] How did you handle the blackout?
+
+765
+00:40:05,770 --> 00:40:08,105
+[girl 2] Same way I handle everything. Bad.
+
+766
+00:40:08,139 --> 00:40:10,074
+[Boy 3] They should have given us the day off.
+
+767
+00:40:10,107 --> 00:40:12,576
+[Boy 4] Yeah, an early summer vacation.
+
+768
+00:40:32,830 --> 00:40:33,764
+-[phone rings] -Huh?
+
+769
+00:40:34,665 --> 00:40:36,734
+[Kari] Huh, I thought I turned this thing off.
+
+770
+00:40:38,836 --> 00:40:41,872
+-[ringing continues] -Uh...
+
+771
+00:40:43,174 --> 00:40:44,208
+Hello?
+
+772
+00:40:54,318 --> 00:40:55,753
+The time...
+
+773
+00:40:56,587 --> 00:40:57,888
+has arrived.
+
+774
+00:41:04,028 --> 00:41:06,163
+[Gatomon] Do you think it was okay to leave Izzy's place
+
+775
+00:41:06,197 --> 00:41:07,264
+without asking first?
+
+776
+00:41:07,865 --> 00:41:10,935
+Well, we already left so we can't really ask second.
+
+777
+00:41:10,968 --> 00:41:13,304
+Oh, I don't know, I always ask for seconds.
+
+778
+00:41:13,337 --> 00:41:16,907
+Well, I just didn't want to bother bothering Izzy.
+
+779
+00:41:17,274 --> 00:41:18,509
+So what are we gonna do?
+
+780
+00:41:18,542 --> 00:41:21,946
+I think we've already proven we can stand around doing nothing.
+
+781
+00:41:21,979 --> 00:41:22,980
+But guys,
+
+782
+00:41:24,248 --> 00:41:26,116
+we have to make sure we don't expose ourselves to infection.
+
+783
+00:41:26,150 --> 00:41:28,018
+[Patamon] Funny you should say that.
+
+784
+00:41:28,886 --> 00:41:30,120
+[Gabumon] What's up?
+
+785
+00:41:30,154 --> 00:41:32,590
+It's, um... Thing is...
+
+786
+00:41:33,357 --> 00:41:34,992
+Well, I'm infected.
+
+787
+00:41:35,259 --> 00:41:37,695
+[all scream]
+
+788
+00:41:37,928 --> 00:41:41,732
+[Gomamon] That is so not good. Are you sure?
+
+789
+00:41:41,932 --> 00:41:44,134
+[Patamon] Yeah, I'm sure it's not good.
+
+790
+00:41:44,168 --> 00:41:47,905
+-Does being infected hurt? -No, it's just a little scary.
+
+791
+00:41:48,138 --> 00:41:50,674
+Does he know yet, TK?
+
+792
+00:41:50,708 --> 00:41:53,210
+Uh-huh, but he said not to tell anyone.
+
+793
+00:41:53,677 --> 00:41:55,246
+I guess I didn't do that too well.
+
+794
+00:41:55,279 --> 00:41:57,348
+But shouldn't we let all the others know?
+
+795
+00:41:57,381 --> 00:41:59,550
+No, not yet. Please, guys.
+
+796
+00:41:59,750 --> 00:42:02,887
+If you're infected there's no point in us staying at Izzy's.
+
+797
+00:42:02,920 --> 00:42:04,321
+But we should at least tell him
+
+798
+00:42:04,355 --> 00:42:06,290
+so he can help figure out your options.
+
+799
+00:42:06,323 --> 00:42:08,359
+[Tentomon] Maybe he can digivaccinate you.
+
+800
+00:42:08,392 --> 00:42:10,194
+Please don't. Listen, guys,
+
+801
+00:42:10,227 --> 00:42:13,130
+I'm just going to leave so I don't infect anybody else.
+
+802
+00:42:13,163 --> 00:42:15,032
+But where will you go?
+
+803
+00:42:15,065 --> 00:42:16,567
+[Patamon sighs]
+
+804
+00:42:18,969 --> 00:42:21,705
+Sora's gonna freak out if there are any more problems.
+
+805
+00:42:22,006 --> 00:42:23,641
+Mimi too.
+
+806
+00:42:23,674 --> 00:42:25,776
+I don't want to upset anyone but if you--
+
+807
+00:42:25,809 --> 00:42:29,013
+You have to promise me that if I start to go berserk...
+
+808
+00:42:32,917 --> 00:42:34,385
+you'll take me down.
+
+809
+00:42:34,418 --> 00:42:36,687
+-No! No way! -Don't say that.
+
+810
+00:42:36,720 --> 00:42:38,188
+[Patamon] Look, you're like my family.
+
+811
+00:42:38,222 --> 00:42:39,356
+[all] Aww.
+
+812
+00:42:39,757 --> 00:42:42,293
+I just couldn't bear it if I infected you.
+
+813
+00:42:42,960 --> 00:42:43,994
+I couldn't.
+
+814
+00:42:45,162 --> 00:42:47,965
+-[Agumon] Oh, Patamon! -I know.
+
+815
+00:42:54,171 --> 00:42:55,372
+[all gasp]
+
+816
+00:42:59,777 --> 00:43:02,980
+[Palmon] Kari? What're you doing here?
+
+817
+00:43:03,013 --> 00:43:04,982
+[Agumon] Not that we have a reason to be here.
+
+818
+00:43:05,015 --> 00:43:07,251
+It's not like one of us is infected or anything.
+
+819
+00:43:07,284 --> 00:43:09,053
+-[Agumon giggles nervously] -Listen to me.
+
+820
+00:43:09,253 --> 00:43:10,854
+[all] Wha...
+
+821
+00:43:12,389 --> 00:43:15,759
+-Not sure I like the new look. -[whimpers]
+
+822
+00:43:15,993 --> 00:43:17,127
+You're right.
+
+823
+00:43:17,828 --> 00:43:19,863
+-That's not Kari. -Then who is it.
+
+824
+00:43:20,864 --> 00:43:25,002
+[fake Kari] I am... the one who longs for stability.
+
+825
+00:43:25,369 --> 00:43:28,339
+I borrowed this body so that I could talk to you.
+
+826
+00:43:29,807 --> 00:43:31,775
+Is that... Kari?
+
+827
+00:43:32,076 --> 00:43:35,379
+You see... this world's in serious danger.
+
+828
+00:43:35,846 --> 00:43:38,682
+And the same goes for the digital world.
+
+829
+00:43:38,716 --> 00:43:40,250
+[all gasp in horror]
+
+830
+00:43:40,284 --> 00:43:43,320
+Those digimon who've become infected
+
+831
+00:43:43,354 --> 00:43:45,723
+are causing major problems.
+
+832
+00:43:46,023 --> 00:43:49,460
+They're continually terrorizing the quantized world
+
+833
+00:43:49,493 --> 00:43:51,729
+and disrupting its continuity.
+
+834
+00:43:51,962 --> 00:43:54,665
+-Quantized world? -Continuity?
+
+835
+00:43:55,199 --> 00:43:57,868
+[fake Kari] The digital devices of your world
+
+836
+00:43:57,901 --> 00:44:00,037
+and the surrounding sphere of the Internet
+
+837
+00:44:00,070 --> 00:44:01,872
+that was created from them
+
+838
+00:44:02,139 --> 00:44:04,041
+bred the digital world.
+
+839
+00:44:04,408 --> 00:44:08,312
+In essence, it emerged from the quantum sea.
+
+840
+00:44:08,345 --> 00:44:12,249
+More worlds than you can imagine have come into being this way.
+
+841
+00:44:12,816 --> 00:44:15,786
+Some worlds are as different as night and day
+
+842
+00:44:15,819 --> 00:44:18,322
+and yet they still exist side by side.
+
+843
+00:44:19,089 --> 00:44:22,793
+However, if these so called infected digimon
+
+844
+00:44:22,826 --> 00:44:25,396
+are able to breach the quantized world,
+
+845
+00:44:25,996 --> 00:44:27,731
+then in all likelihood,
+
+846
+00:44:27,765 --> 00:44:30,467
+they will destroy the digital world in the process.
+
+847
+00:44:31,001 --> 00:44:32,870
+It will cease to exist.
+
+848
+00:44:32,903 --> 00:44:36,407
+And humanity's electronic devices will fail as well.
+
+849
+00:44:36,807 --> 00:44:38,342
+[Tentomon] Wait, let me get this straight,
+
+850
+00:44:38,375 --> 00:44:40,210
+the digital world would be destroyed?
+
+851
+00:44:40,244 --> 00:44:42,112
+And this one would be too?
+
+852
+00:44:42,379 --> 00:44:43,881
+Sadly, yes.
+
+853
+00:44:44,281 --> 00:44:45,983
+And it is also likely...
+
+854
+00:44:46,283 --> 00:44:49,219
+that all of you would perish with the digital world too.
+
+855
+00:44:49,253 --> 00:44:52,056
+-That can't be true! -[all digimon] Oh, no!
+
+856
+00:44:56,160 --> 00:44:58,762
+Isn't there anything we can do?
+
+857
+00:45:02,199 --> 00:45:06,003
+There is only one way to avoid this grave fate.
+
+858
+00:45:06,370 --> 00:45:07,838
+Just one.
+
+859
+00:45:08,172 --> 00:45:10,074
+[all] One way? What?
+
+860
+00:45:10,841 --> 00:45:12,976
+A tremendous sacrifice.
+
+861
+00:45:14,278 --> 00:45:17,915
+When Meicoomon next emerges, time will run out
+
+862
+00:45:18,449 --> 00:45:20,918
+[sighs] and then...
+
+863
+00:45:21,251 --> 00:45:22,953
+Uh, Kari!
+
+864
+00:45:31,161 --> 00:45:34,131
+-Uh, Himekawa! -I think she's okay.
+
+865
+00:45:34,531 --> 00:45:36,233
+It seems she just fainted.
+
+866
+00:45:36,266 --> 00:45:38,035
+No, she's not okay.
+
+867
+00:45:38,068 --> 00:45:39,903
+What even happened to her, anyway?
+
+868
+00:45:39,937 --> 00:45:42,473
+Oh, I'm not entirely sure yet but...
+
+869
+00:45:42,906 --> 00:45:44,541
+it appears that someone used her
+
+870
+00:45:44,575 --> 00:45:47,111
+as a conduit in order to deliver a message to you.
+
+871
+00:45:47,144 --> 00:45:50,447
+What do you think she meant by \"a sacrifice\"?
+
+872
+00:45:50,914 --> 00:45:53,217
+[Himekawa] Perhaps... a reboot.
+
+873
+00:45:53,584 --> 00:45:54,551
+What, a reboot?
+
+874
+00:45:54,585 --> 00:45:56,954
+Please tell me that's something you can eat.
+
+875
+00:45:56,987 --> 00:45:59,223
+Agumon, stop obsessing about food!
+
+876
+00:45:59,256 --> 00:46:01,158
+We believe that the digital world
+
+877
+00:46:01,191 --> 00:46:03,193
+is one of the many worlds that exists
+
+878
+00:46:03,227 --> 00:46:06,096
+side by side with our own, a sort of parallel universe.
+
+879
+00:46:06,463 --> 00:46:08,298
+As long as our world exists,
+
+880
+00:46:08,332 --> 00:46:10,834
+it's possible to restart the digital one.
+
+881
+00:46:11,034 --> 00:46:14,104
+-That's a reboot. -And what happens if we do that?
+
+882
+00:46:14,538 --> 00:46:16,406
+[Himekawa] Well, infected digimon
+
+883
+00:46:16,440 --> 00:46:18,809
+weren't originally part of the digital world.
+
+884
+00:46:19,076 --> 00:46:21,512
+So after a reboot, the infection would be gone.
+
+885
+00:46:24,915 --> 00:46:28,118
+If that's true, what are you waiting for already?
+
+886
+00:46:29,253 --> 00:46:31,455
+Rebooting's only a last resort.
+
+887
+00:46:31,488 --> 00:46:33,157
+[all] A last resort?
+
+888
+00:46:36,460 --> 00:46:40,230
+The quantum sea has created uncountable other worlds.
+
+889
+00:46:40,931 --> 00:46:43,433
+At the same time, it's different than all of them.
+
+890
+00:46:43,467 --> 00:46:45,035
+It's the primal world.
+
+891
+00:46:45,068 --> 00:46:46,436
+The progenitor.
+
+892
+00:46:46,470 --> 00:46:48,338
+An unplanned, uncontrolled reboot
+
+893
+00:46:48,372 --> 00:46:50,374
+could leave gaps in evolutions.
+
+894
+00:46:50,674 --> 00:46:54,244
+Or even destroy the entire digital world.
+
+895
+00:46:55,145 --> 00:46:56,180
+But...
+
+896
+00:46:58,315 --> 00:47:00,384
+[Gatomon] But we're already out of time.
+
+897
+00:47:00,417 --> 00:47:01,652
+[Himekawa] Yes.
+
+898
+00:47:01,685 --> 00:47:03,620
+If we just stand around and wait,
+
+899
+00:47:04,054 --> 00:47:06,623
+all the other worlds would be destroyed too.
+
+900
+00:47:07,057 --> 00:47:08,625
+In order to avoid that,
+
+901
+00:47:09,026 --> 00:47:10,527
+we must reboot.
+
+902
+00:47:11,929 --> 00:47:13,397
+[Gabumon] If we do this,
+
+903
+00:47:13,597 --> 00:47:15,999
+will Matt's world be okay?
+
+904
+00:47:16,500 --> 00:47:19,903
+[Himekawa] Only if every trace of infection has vanished
+
+905
+00:47:19,937 --> 00:47:22,206
+from this world when the reboot is initiated.
+
+906
+00:47:22,606 --> 00:47:24,074
+How do you know that?
+
+907
+00:47:24,641 --> 00:47:26,643
+I'm a high-ranking officer, that's how.
+
+908
+00:47:27,077 --> 00:47:29,213
+You're saying that this sacrifice
+
+909
+00:47:29,246 --> 00:47:32,082
+is basically turning back time in the digital world?
+
+910
+00:47:34,084 --> 00:47:36,053
+That's right. More or less.
+
+911
+00:47:36,353 --> 00:47:37,421
+How's it work?
+
+912
+00:47:37,688 --> 00:47:39,389
+This whole reboot thing?
+
+913
+00:47:39,690 --> 00:47:41,225
+I don't know exactly
+
+914
+00:47:41,458 --> 00:47:43,527
+but it all rests on one thing.
+
+915
+00:47:44,127 --> 00:47:45,495
+Homeostasis,
+
+916
+00:47:46,196 --> 00:47:49,566
+and if it truly wants stability across worlds.
+
+917
+00:47:49,600 --> 00:47:50,934
+Homeostasis?
+
+918
+00:47:51,134 --> 00:47:52,669
+I'm almost positive.
+
+919
+00:47:53,103 --> 00:47:55,339
+That's who just talked to you through Kari.
+
+920
+00:47:56,073 --> 00:47:58,141
+Maybe it's easiest to think of it
+
+921
+00:47:58,175 --> 00:48:00,210
+as a super being from the digital world.
+
+922
+00:48:00,244 --> 00:48:02,312
+[Agumon] There's nothing easy about that.
+
+923
+00:48:03,113 --> 00:48:04,214
+[Himekawa] In any event,
+
+924
+00:48:04,248 --> 00:48:08,051
+we believe it is seeking stability across worlds.
+
+925
+00:48:08,352 --> 00:48:10,420
+But Meicoomon's next appearance
+
+926
+00:48:10,654 --> 00:48:13,090
+could trigger a dangerous reboot.
+
+927
+00:48:13,557 --> 00:48:17,127
+[all gasp in fear]
+
+928
+00:48:19,062 --> 00:48:20,697
+Well, regardless of that,
+
+929
+00:48:20,731 --> 00:48:22,366
+I can't leave Kari here like this.
+
+930
+00:48:22,633 --> 00:48:24,401
+I'm driving her to the hospital.
+
+931
+00:48:24,668 --> 00:48:26,003
+What're you going to do?
+
+932
+00:48:26,370 --> 00:48:29,573
+-Huh-oh, we're coming along. -Hold on.
+
+933
+00:48:30,040 --> 00:48:32,576
+Are you... trustworthy?
+
+934
+00:48:35,579 --> 00:48:37,681
+Gatomon, what's wrong?
+
+935
+00:48:39,483 --> 00:48:41,118
+[Gatomon] We need to talk.
+
+936
+00:48:48,325 --> 00:48:49,359
+[sighs]
+
+937
+00:48:53,463 --> 00:48:54,698
+Ah!
+
+938
+00:48:55,632 --> 00:48:57,034
+[Agumon] So to talk,
+
+939
+00:48:57,067 --> 00:48:59,202
+don't we have to actually, you know, talk?
+
+940
+00:48:59,236 --> 00:49:01,338
+[Gatomon] Right, so about this reboot thing.
+
+941
+00:49:01,571 --> 00:49:04,508
+It would let us help out a lot of worlds right?
+
+942
+00:49:04,541 --> 00:49:05,776
+[Gatomon] You don't really understand
+
+943
+00:49:05,809 --> 00:49:07,077
+what would happen
+
+944
+00:49:08,211 --> 00:49:08,679
+if we turned back time in the digital world, do you?
+
+945
+00:49:08,712 --> 00:49:10,147
+[all] Not at all.
+
+946
+00:49:11,281 --> 00:49:13,183
+It isn't only the digital world that would get rebooted,
+
+947
+00:49:13,216 --> 00:49:14,384
+we would as well.
+
+948
+00:49:17,287 --> 00:49:19,323
+-Get it? -[all] Not even a bit.
+
+949
+00:49:19,523 --> 00:49:23,160
+It means... that we would lose all of our memories.
+
+950
+00:49:23,360 --> 00:49:25,028
+Our memories?
+
+951
+00:49:25,362 --> 00:49:28,398
+-What are those again? -Agumon, not time for jokes.
+
+952
+00:49:28,665 --> 00:49:30,801
+Hold on. Are you really saying
+
+953
+00:49:30,834 --> 00:49:33,370
+we'd forget everything that's happened to us?
+
+954
+00:49:33,403 --> 00:49:35,205
+-[Gatomon] That's right. -[all] Oh!
+
+955
+00:49:35,439 --> 00:49:36,340
+Everything?
+
+956
+00:49:36,373 --> 00:49:39,176
+You're telling me I'd even forget Mimi?
+
+957
+00:49:39,376 --> 00:49:40,644
+No way.
+
+958
+00:49:43,747 --> 00:49:46,083
+-But I don't wanna. -Me neither.
+
+959
+00:49:46,316 --> 00:49:48,218
+I can't forget TK!
+
+960
+00:49:48,251 --> 00:49:51,088
+Just the thought of it's even scarier than being erased!
+
+961
+00:49:51,321 --> 00:49:52,789
+This is a bad idea.
+
+962
+00:49:52,823 --> 00:49:55,258
+[Tentomon] Even worse than all our other bad ideas.
+
+963
+00:49:56,526 --> 00:49:57,461
+[Gatomon] Yes.
+
+964
+00:49:57,494 --> 00:50:00,097
+Losing our memories would be truly scary.
+
+965
+00:50:00,430 --> 00:50:02,165
+But really, the scariest thing
+
+966
+00:50:02,199 --> 00:50:03,734
+is that we wouldn't even know it happened
+
+967
+00:50:03,767 --> 00:50:06,636
+'cause we wouldn't be able to remember that we forgot.
+
+968
+00:50:06,670 --> 00:50:08,205
+[Tentomon] Is there anything we can do?
+
+969
+00:50:08,238 --> 00:50:09,439
+You heard Himekawa.
+
+970
+00:50:09,840 --> 00:50:13,610
+If Meicoomon shows up, she could trigger an uncontrolled reboot.
+
+971
+00:50:13,643 --> 00:50:15,178
+And that's the bad kind of bad.
+
+972
+00:50:15,212 --> 00:50:17,614
+Not the slightly better kind of bad she talked about.
+
+973
+00:50:18,115 --> 00:50:21,284
+Wait, if we caught Meicoomon, could we stop the reboot?
+
+974
+00:50:21,551 --> 00:50:25,288
+Yeah, I bet that we can if we can all just work together.
+
+975
+00:50:25,522 --> 00:50:27,290
+But what if we can't?
+
+976
+00:50:27,491 --> 00:50:29,259
+[all groan]
+
+977
+00:50:29,292 --> 00:50:32,062
+[Gatomon] Listen, no more feeling sorry for ourselves.
+
+978
+00:50:32,262 --> 00:50:35,198
+We wanna protect our partners and their world, right?
+
+979
+00:50:35,399 --> 00:50:37,167
+Then, this is how it's gotta be.
+
+980
+00:50:37,434 --> 00:50:39,269
+We've to prepare for the worst.
+
+981
+00:50:39,870 --> 00:50:42,672
+Great. Now I'm feeling sorry for myself again.
+
+982
+00:50:42,706 --> 00:50:44,241
+[Palmon] Gatomon...
+
+983
+00:50:45,475 --> 00:50:48,111
+Come on, guys. Let's not give up hope yet.
+
+984
+00:50:48,378 --> 00:50:49,846
+[all moan]
+
+985
+00:50:50,347 --> 00:50:52,783
+Izzy's trying everything he can.
+
+986
+00:50:52,816 --> 00:50:56,453
+I know, but if he can't figure it all out then...
+
+987
+00:50:56,720 --> 00:50:58,555
+He will. He has to.
+
+988
+00:50:58,588 --> 00:51:00,457
+He's working on it.
+
+989
+00:51:00,490 --> 00:51:03,427
+And Izzy won't stop until he finds the solution!
+
+990
+00:51:03,927 --> 00:51:06,329
+That's why... eeyeah...
+
+991
+00:51:06,363 --> 00:51:07,731
+Tentomon!
+
+992
+00:51:07,764 --> 00:51:09,499
+I know he can do it.
+
+993
+00:51:09,533 --> 00:51:11,435
+It's his only option.
+
+994
+00:51:11,701 --> 00:51:13,437
+I believe in him too.
+
+995
+00:51:13,770 --> 00:51:16,640
+But what if it's too late by the time he figures it out?
+
+996
+00:51:17,207 --> 00:51:19,142
+[all groan]
+
+997
+00:51:21,778 --> 00:51:23,313
+[Himekawa] Well, that's a relief.
+
+998
+00:51:23,513 --> 00:51:24,781
+Seems you're just a little anemic.
+
+999
+00:51:25,348 --> 00:51:26,283
+Yeah, but...
+
+1000
+00:51:26,316 --> 00:51:28,652
+I still don't understand what happened to me.
+
+1001
+00:51:28,685 --> 00:51:32,222
+Last thing I remember, I was walking down the hall at school,
+
+1002
+00:51:32,255 --> 00:51:34,391
+and next thing I know, I'm in the hospital.
+
+1003
+00:51:34,424 --> 00:51:36,293
+Well, I don't really know.
+
+1004
+00:51:36,326 --> 00:51:38,228
+I only found you after you fainted.
+
+1005
+00:51:40,197 --> 00:51:41,698
+With all that's been going on lately,
+
+1006
+00:51:41,731 --> 00:51:44,868
+you probably haven't been taking proper care of yourself.
+
+1007
+00:51:44,901 --> 00:51:47,537
+-[Kari] I guess... -I should drive you home.
+
+1008
+00:51:47,571 --> 00:51:49,639
+Oh, no! I'm okay, really.
+
+1009
+00:51:50,340 --> 00:51:51,775
+I left my bag at school.
+
+1010
+00:51:51,808 --> 00:51:53,410
+I gotta go back and get it.
+
+1011
+00:51:53,443 --> 00:51:55,479
+All right, well, see you soon.
+
+1012
+00:51:55,512 --> 00:51:57,214
+Thank you so much for all your help.
+
+1013
+00:51:58,849 --> 00:51:59,850
+Hmm.
+
+1014
+00:52:08,825 --> 00:52:10,227
+[Himekawa sighs]
+
+1015
+00:52:11,294 --> 00:52:12,762
+We're all out of time.
+
+1016
+00:52:23,907 --> 00:52:25,509
+-[Gatomon] Kari! -Huh?
+
+1017
+00:52:26,443 --> 00:52:27,644
+Gatomon?
+
+1018
+00:52:31,581 --> 00:52:33,683
+Gatomon, something wrong?
+
+1019
+00:52:33,717 --> 00:52:35,318
+Aren't you supposed to be at Izzy's?
+
+1020
+00:52:35,352 --> 00:52:36,386
+No, it's okay.
+
+1021
+00:52:36,419 --> 00:52:37,754
+What do you mean, \"okay\"?
+
+1022
+00:52:38,021 --> 00:52:40,257
+Let's go do some shopping before we go home.
+
+1023
+00:52:40,490 --> 00:52:43,660
+Uh, shopping? What's going on? Are you all right?
+
+1024
+00:52:45,729 --> 00:52:47,464
+Don't worry about it.
+
+1025
+00:52:47,497 --> 00:52:49,900
+I-- I just want to spend some time with you.
+
+1026
+00:52:49,933 --> 00:52:51,268
+Sounds great.
+
+1027
+00:52:58,275 --> 00:52:59,276
+Huh?
+
+1028
+00:53:02,546 --> 00:53:03,914
+Gabumon, what're you doing here? .
+
+1029
+00:53:03,947 --> 00:53:05,682
+I'm just saying hi.
+
+1030
+00:53:09,819 --> 00:53:11,588
+-[Gabumon] Hey, Matt. -Hmm?
+
+1031
+00:53:11,621 --> 00:53:13,990
+Could you play the harmonica for me?
+
+1032
+00:53:14,024 --> 00:53:15,292
+Harmonica?
+
+1033
+00:53:15,492 --> 00:53:17,827
+-Please. -Well, Gabumon...
+
+1034
+00:53:17,861 --> 00:53:20,864
+-I'm kinda practicing here. -[sighs] All right.
+
+1035
+00:53:21,364 --> 00:53:25,302
+-Is everything okay? -Oh, uh... yeah. Never mind.
+
+1036
+00:53:26,770 --> 00:53:28,271
+Gabumon?
+
+1037
+00:53:28,471 --> 00:53:30,574
+Just keep on practicing.
+
+1038
+00:53:38,348 --> 00:53:40,817
+Why'd you stop playing? Is something wrong?
+
+1039
+00:53:43,053 --> 00:53:44,454
+Are you done?
+
+1040
+00:53:46,590 --> 00:53:48,825
+I just thought I'd switch up the pace a little.
+
+1041
+00:53:49,025 --> 00:53:50,393
+[plays harmonica]
+
+1042
+00:54:08,945 --> 00:54:10,480
+[Sora] What is it?
+
+1043
+00:54:12,048 --> 00:54:13,783
+It's just... Sora,
+
+1044
+00:54:13,984 --> 00:54:15,885
+what do you want to do when you get older?
+
+1045
+00:54:16,419 --> 00:54:18,355
+[Sora] Huh? Where'd that come from?
+
+1046
+00:54:18,388 --> 00:54:20,290
+[Piyomon] I'm just curious about your future.
+
+1047
+00:54:20,490 --> 00:54:23,593
+There's way too much going on and now to worry about that.
+
+1048
+00:54:23,627 --> 00:54:26,529
+I mean, there's Izzy's health, the infected digimon...
+
+1049
+00:54:26,563 --> 00:54:28,898
+I want to hear about your secret hopes and dreams.
+
+1050
+00:54:28,932 --> 00:54:32,435
+Nah, I'll take a pass. That's way too grown up for me.
+
+1051
+00:54:32,469 --> 00:54:33,903
+Come on, please tell me.
+
+1052
+00:54:33,937 --> 00:54:37,440
+-Hmm, what do I dream of? -Yeah, yeah.
+
+1053
+00:54:37,474 --> 00:54:39,342
+[Sora] Nah, it's too embarrassing.
+
+1054
+00:54:39,376 --> 00:54:40,710
+[Piyomon] Oh, come on!
+
+1055
+00:54:41,578 --> 00:54:43,313
+You want me to meet your girlfriend?
+
+1056
+00:54:43,580 --> 00:54:45,548
+Oh, yeah. We're partners.
+
+1057
+00:54:45,582 --> 00:54:48,318
+So I want to make sure that you get a proper introduction.
+
+1058
+00:54:48,752 --> 00:54:50,053
+Partners, huh?
+
+1059
+00:54:50,720 --> 00:54:52,555
+Yeah, well, that's what we are.
+
+1060
+00:54:52,589 --> 00:54:55,492
+I gotta make sure my partners get to know each other, don't I?
+
+1061
+00:54:55,525 --> 00:54:58,461
+I mean, she might even become my life partner someday.
+
+1062
+00:54:59,729 --> 00:55:00,730
+[whimpers quietly]
+
+1063
+00:55:02,699 --> 00:55:06,403
+Okay. So what shall I wear? Something special like a suit?
+
+1064
+00:55:06,436 --> 00:55:08,672
+-My formal fur? -Formal fur?
+
+1065
+00:55:08,705 --> 00:55:10,473
+No, just be yourself.
+
+1066
+00:55:10,507 --> 00:55:12,676
+Don't change a thing. You got me?
+
+1067
+00:55:12,709 --> 00:55:13,977
+All right, sure.
+
+1068
+00:55:14,010 --> 00:55:16,780
+But for the record, I wanna know one thing.
+
+1069
+00:55:16,813 --> 00:55:18,682
+Yeah, sure. Like what?
+
+1070
+00:55:18,715 --> 00:55:20,917
+How we met? Or how we fell in love?
+
+1071
+00:55:20,950 --> 00:55:23,119
+Or how she fills my heart with pure joy--
+
+1072
+00:55:23,153 --> 00:55:25,622
+Can other people actually see her?
+
+1073
+00:55:25,655 --> 00:55:27,457
+[Joe] Hey, she's really real.
+
+1074
+00:55:27,490 --> 00:55:28,558
+For real.
+
+1075
+00:55:37,000 --> 00:55:38,435
+-Kari! -Hm?
+
+1076
+00:55:38,468 --> 00:55:39,469
+Kari! Look at that.
+
+1077
+00:55:40,370 --> 00:55:41,471
+[Gatomon] So many types of ice cream.
+
+1078
+00:55:41,705 --> 00:55:43,006
+You want some?
+
+1079
+00:55:43,039 --> 00:55:44,074
+Uh-huh.
+
+1080
+00:55:45,008 --> 00:55:47,444
+[Gatomon] Hey, don't forget me. Pass it.
+
+1081
+00:55:47,477 --> 00:55:48,511
+[Kari giggles]
+
+1082
+00:55:48,978 --> 00:55:50,647
+[Gatomon] Now that's good ice cream.
+
+1083
+00:55:50,680 --> 00:55:51,848
+I mean, is it ever bad?
+
+1084
+00:55:53,983 --> 00:55:55,885
+-Hey, Kari? -Hmm?
+
+1085
+00:55:56,186 --> 00:55:57,620
+[Gatomon] Look, a photo booth.
+
+1086
+00:55:58,788 --> 00:56:01,991
+-Can we take pictures? -Okay, if you want.
+
+1087
+00:56:02,492 --> 00:56:03,626
+You don't?
+
+1088
+00:56:03,660 --> 00:56:05,729
+No, come on, let’s go do it.
+
+1089
+00:56:05,762 --> 00:56:07,664
+[Gatomon] Great one. That one, too.
+
+1090
+00:56:08,098 --> 00:56:10,700
+That could be better. There, better.
+
+1091
+00:56:13,903 --> 00:56:15,972
+[Gatomon giggles]
+
+1092
+00:56:21,044 --> 00:56:24,748
+So she says, \"I got this beautiful pot of flowers, right?
+
+1093
+00:56:24,781 --> 00:56:27,016
+And I have been watering them every day.
+
+1094
+00:56:27,050 --> 00:56:28,218
+Two times a day.
+
+1095
+00:56:28,251 --> 00:56:29,152
+But they're not growing.\"
+
+1096
+00:56:29,185 --> 00:56:32,155
+Well, get this, Palmon, they are plastic!
+
+1097
+00:56:32,655 --> 00:56:34,224
+-Huh? -Uh...
+
+1098
+00:56:34,257 --> 00:56:36,659
+I thought that was... funny, right?
+
+1099
+00:56:37,260 --> 00:56:40,663
+Oh! Yeah, totally. Really great story.
+
+1100
+00:56:40,697 --> 00:56:42,799
+In fact, it was hysterical!
+
+1101
+00:56:42,832 --> 00:56:44,968
+-Wait, what happened? -Uh?
+
+1102
+00:56:46,002 --> 00:56:48,772
+[Mimi] Oh, good one, Palmon. You are so funny. [chuckles]
+
+1103
+00:56:48,805 --> 00:56:50,707
+[Palmon] Hysterical, right?
+
+1104
+00:56:51,241 --> 00:56:53,910
+[Agumon] Come on, Tai, let's go play soccer.
+
+1105
+00:56:54,177 --> 00:56:56,112
+-Soccer? -And then video games.
+
+1106
+00:56:56,146 --> 00:56:57,914
+And then lunch, and then some more lunch
+
+1107
+00:56:57,947 --> 00:56:59,916
+and then lunch on the side, I love lunch.
+
+1108
+00:56:59,949 --> 00:57:01,885
+-Do you like lunch? -[Tai] What's up with you?
+
+1109
+00:57:01,918 --> 00:57:05,088
+Oh, nothing. Can't I just be excited for no reason?
+
+1110
+00:57:05,121 --> 00:57:06,923
+[Tai] Did you get into the coffee again?
+
+1111
+00:57:07,123 --> 00:57:08,792
+Oh, come on, Tai.
+
+1112
+00:57:08,825 --> 00:57:09,893
+Let's hang out.
+
+1113
+00:57:10,193 --> 00:57:12,462
+Seriously, are you okay?
+
+1114
+00:57:12,695 --> 00:57:15,532
+All I want is to spend some time with you.
+
+1115
+00:57:15,865 --> 00:57:16,966
+Agumon?
+
+1116
+00:57:17,000 --> 00:57:20,003
+It's not like it's the end of the world or anything.
+
+1117
+00:57:20,036 --> 00:57:22,105
+Um, forget I said that.
+
+1118
+00:57:22,138 --> 00:57:24,841
+[Tai] You're acting weird. Well, weirder.
+
+1119
+00:57:24,874 --> 00:57:26,776
+[Agumon] I don't know the meaning of the word.
+
+1120
+00:57:26,810 --> 00:57:28,812
+[Tai] You don't have to know it to be it.
+
+1121
+00:57:29,646 --> 00:57:31,147
+Just tell me what's going on.
+
+1122
+00:57:31,181 --> 00:57:33,116
+You're making me more nervous than normal.
+
+1123
+00:57:33,783 --> 00:57:35,485
+Um, it's nothing.
+
+1124
+00:57:35,785 --> 00:57:37,020
+Come on.
+
+1125
+00:57:38,154 --> 00:57:39,155
+Huh?
+
+1126
+00:57:41,157 --> 00:57:42,992
+I just wanna play.
+
+1127
+00:57:44,694 --> 00:57:45,962
+[TK] Oh, Patamon.
+
+1128
+00:57:46,830 --> 00:57:49,499
+I just wish there was something I could do.
+
+1129
+00:57:51,267 --> 00:57:54,037
+[Patamon whining]
+
+1130
+00:57:57,307 --> 00:57:58,608
+[sighs]
+
+1131
+00:57:59,275 --> 00:58:01,711
+[Patamon] Just being with you helps me.
+
+1132
+00:58:02,278 --> 00:58:04,714
+You can squish me all you want.
+
+1133
+00:58:07,584 --> 00:58:09,719
+Don't tell anyone I told you.
+
+1134
+00:58:10,820 --> 00:58:12,088
+A reboot?
+
+1135
+00:58:12,922 --> 00:58:14,224
+Don't worry, Tai.
+
+1136
+00:58:14,257 --> 00:58:17,594
+Everything's gonna be okay once we stop Meicoomon.
+
+1137
+00:58:18,061 --> 00:58:21,097
+We'll be just the way we used to be. Right Tai?
+
+1138
+00:58:22,065 --> 00:58:23,233
+Tai?
+
+1139
+00:58:26,202 --> 00:58:27,737
+[Tai] No, Agumon.
+
+1140
+00:58:34,277 --> 00:58:36,579
+So, Matt, what're you thinking about?
+
+1141
+00:58:36,880 --> 00:58:38,681
+I'd like to go back in time.
+
+1142
+00:58:38,715 --> 00:58:39,716
+[Gabumon] Uh?
+
+1143
+00:58:40,950 --> 00:58:43,653
+I know. I rarely think like this.
+
+1144
+00:58:45,388 --> 00:58:46,823
+But I just wonder...
+
+1145
+00:58:48,324 --> 00:58:51,828
+What if... my memories are all wrong, huh?
+
+1146
+00:58:53,396 --> 00:58:54,998
+I was so young.
+
+1147
+00:58:55,198 --> 00:58:56,799
+I could've made things up.
+
+1148
+00:58:57,834 --> 00:58:58,935
+What if...
+
+1149
+00:58:59,235 --> 00:59:01,004
+nothing happened like I thought.
+
+1150
+00:59:01,237 --> 00:59:03,172
+Everything happened.
+
+1151
+00:59:07,076 --> 00:59:08,645
+It was all real.
+
+1152
+00:59:11,648 --> 00:59:12,682
+[sighs]
+
+1153
+00:59:12,916 --> 00:59:14,083
+[plays harmonica]
+
+1154
+00:59:35,171 --> 00:59:37,774
+[Izzy] These errors keep popping up in the code.
+
+1155
+00:59:38,207 --> 00:59:40,143
+They seem to be the root of all this.
+
+1156
+00:59:40,944 --> 00:59:42,078
+[Tentomon] Did you find something?
+
+1157
+00:59:43,346 --> 00:59:46,182
+[Izzy] Well, our world's digital devices work on a binary code
+
+1158
+00:59:46,215 --> 00:59:49,085
+or with other systems that can be converted to binary.
+
+1159
+00:59:49,786 --> 00:59:51,387
+But somehow some got hacked
+
+1160
+00:59:51,421 --> 00:59:54,023
+and overwritten in an unknown numerical system.
+
+1161
+00:59:55,158 --> 00:59:58,027
+So computers around the world are getting viruses.
+
+1162
+00:59:58,061 --> 00:59:59,228
+[Tentomon] Oh, no!
+
+1163
+00:59:59,796 --> 01:00:00,730
+[Izzy] This new code
+
+1164
+01:00:00,763 --> 01:00:02,865
+doesn't seem to be based in a binary system,
+
+1165
+01:00:02,899 --> 01:00:06,035
+a decimal system or even a hexadecimal system.
+
+1166
+01:00:06,703 --> 01:00:09,672
+Our electronic devices can't recognize it.
+
+1167
+01:00:09,706 --> 01:00:11,774
+That's why we can't see it with our goggles.
+
+1168
+01:00:12,475 --> 01:00:14,043
+If I'd known this sooner,
+
+1169
+01:00:14,077 --> 01:00:17,046
+I could have come up with a plan to decode it. But...
+
+1170
+01:00:17,847 --> 01:00:20,149
+without the base, there's nothing I can do.
+
+1171
+01:00:21,351 --> 01:00:22,952
+Maybe it's possible to convert
+
+1172
+01:00:22,986 --> 01:00:24,821
+the data into something readable.
+
+1173
+01:00:24,854 --> 01:00:26,122
+But one mistake could cause
+
+1174
+01:00:26,155 --> 01:00:27,924
+every computer and electronic device
+
+1175
+01:00:27,957 --> 01:00:29,392
+worldwide to shut down.
+
+1176
+01:00:29,926 --> 01:00:32,195
+And even if I knew the code's base,
+
+1177
+01:00:32,228 --> 01:00:33,863
+what could I do about it now?
+
+1178
+01:00:34,230 --> 01:00:36,432
+My own computer, one that I programmed myself,
+
+1179
+01:00:36,466 --> 01:00:37,900
+is being overwritten.
+
+1180
+01:00:39,936 --> 01:00:41,337
+This is pointless.
+
+1181
+01:00:41,838 --> 01:00:44,007
+I'm just staring at the screen.
+
+1182
+01:00:44,407 --> 01:00:46,309
+Not getting anywhere.
+
+1183
+01:00:47,243 --> 01:00:50,446
+-I feel so useless! Aargh! -[electronic beeping]
+
+1184
+01:00:50,980 --> 01:00:53,916
+I'm a fool. A useless fool!
+
+1185
+01:00:54,250 --> 01:00:56,419
+All the time I've spent working on this...
+
+1186
+01:00:57,220 --> 01:00:58,421
+And for what?
+
+1187
+01:00:59,155 --> 01:01:02,091
+I'm just... useless. Useless...
+
+1188
+01:01:02,859 --> 01:01:05,028
+[sobs]
+
+1189
+01:01:05,528 --> 01:01:07,997
+Izzy, I don't mean to interrupt your meltdown but
+
+1190
+01:01:08,031 --> 01:01:10,767
+you shouldn't feel so bad that you haven't found the solution.
+
+1191
+01:01:10,800 --> 01:01:12,869
+But, this is a disaster.
+
+1192
+01:01:13,503 --> 01:01:15,204
+And I can't figure a way out.
+
+1193
+01:01:15,238 --> 01:01:17,140
+[Tentomon] Well, one thing I know about you is that
+
+1194
+01:01:17,173 --> 01:01:19,008
+you are able to achieve great things
+
+1195
+01:01:19,042 --> 01:01:21,144
+because of your great persistence.
+
+1196
+01:01:22,445 --> 01:01:25,248
+You're driven by the opportunity to make things better.
+
+1197
+01:01:25,448 --> 01:01:26,916
+I even think you're happiest
+
+1198
+01:01:26,949 --> 01:01:28,184
+when you're learning something new.
+
+1199
+01:01:28,217 --> 01:01:31,854
+Because you have the ability to see not only what something is,
+
+1200
+01:01:31,888 --> 01:01:33,256
+but how great it can be.
+
+1201
+01:01:33,523 --> 01:01:34,991
+But since you've become focused
+
+1202
+01:01:35,024 --> 01:01:36,893
+on what's bad instead of what's good,
+
+1203
+01:01:36,926 --> 01:01:39,062
+your work doesn't make you happy anymore.
+
+1204
+01:01:39,095 --> 01:01:40,263
+Of course it doesn't.
+
+1205
+01:01:40,296 --> 01:01:42,365
+I feel like I've been going in circles.
+
+1206
+01:01:43,533 --> 01:01:45,001
+Uh, I'm sorry.
+
+1207
+01:01:45,568 --> 01:01:48,905
+I'm sorry. I hate to see you so miserable.
+
+1208
+01:01:48,938 --> 01:01:50,873
+It must be hard to keep starting over.
+
+1209
+01:01:50,907 --> 01:01:53,342
+-Tentomon, you... -[sighs]
+
+1210
+01:01:54,110 --> 01:01:56,179
+Looks like there's only one thing to do.
+
+1211
+01:01:56,212 --> 01:01:57,246
+[Izzy] What?
+
+1212
+01:01:59,849 --> 01:02:01,050
+A reboot?
+
+1213
+01:02:01,451 --> 01:02:03,986
+[Tentomon] We digimon can't do it on our own.
+
+1214
+01:02:04,220 --> 01:02:05,254
+But if it comes to that,
+
+1215
+01:02:05,288 --> 01:02:09,292
+then we're prepared to do what needs to be done.
+
+1216
+01:02:11,427 --> 01:02:13,996
+[Izzy] A reboot would fix all our issues.
+
+1217
+01:02:14,030 --> 01:02:15,798
+Okay, I've got a plan.
+
+1218
+01:02:16,566 --> 01:02:18,301
+Now, I just have to get it done.
+
+1219
+01:02:18,901 --> 01:02:21,304
+All right. I gotta work fast.
+
+1220
+01:02:21,604 --> 01:02:23,239
+I can solve this.
+
+1221
+01:02:23,973 --> 01:02:25,508
+I know you can, Izzy.
+
+1222
+01:02:25,541 --> 01:02:27,110
+I believe in you.
+
+1223
+01:02:27,143 --> 01:02:28,945
+I guess you believe in you too.
+
+1224
+01:02:29,212 --> 01:02:30,513
+Just look at you go.
+
+1225
+01:02:30,980 --> 01:02:32,482
+Now that's my Izzy.
+
+1226
+01:02:32,515 --> 01:02:34,083
+Always full of hope
+
+1227
+01:02:34,317 --> 01:02:37,253
+and everything's going to be okay now. Oh!
+
+1228
+01:02:40,590 --> 01:02:41,891
+[electronic disturbance]
+
+1229
+01:02:49,465 --> 01:02:51,567
+[Daigo] \"The ties that bind.\"
+
+1230
+01:02:51,968 --> 01:02:53,236
+[phone buzzing]
+
+1231
+01:02:53,503 --> 01:02:54,604
+Hello?
+
+1232
+01:02:54,637 --> 01:02:56,205
+There's a distortion.
+
+1233
+01:02:57,540 --> 01:02:59,108
+The data is clustering.
+
+1234
+01:02:59,375 --> 01:03:01,911
+It's becoming denser at an increasing rate.
+
+1235
+01:03:02,278 --> 01:03:03,379
+They're coming.
+
+1236
+01:03:08,384 --> 01:03:12,021
+[thunder and electricity crackling]
+
+1237
+01:03:15,625 --> 01:03:17,960
+[Meicoomon roars]
+
+1238
+01:03:19,996 --> 01:03:22,198
+[Izzy]Oh, no! A distortion!
+
+1239
+01:03:31,908 --> 01:03:33,442
+[policeman] Roger that. Just hang tight,
+
+1240
+01:03:33,476 --> 01:03:35,278
+I'm heading toward the blockade right now.
+
+1241
+01:03:37,313 --> 01:03:38,381
+[Tai gasps]
+
+1242
+01:03:41,450 --> 01:03:42,652
+Wow!
+
+1243
+01:03:42,685 --> 01:03:46,289
+Something big's about to go down, Agumon.
+
+1244
+01:03:46,322 --> 01:03:48,457
+-Looks crazy. -You ready?
+
+1245
+01:03:49,025 --> 01:03:50,993
+Oh yeah. Let's go.
+
+1246
+01:03:51,027 --> 01:03:52,195
+[Tai] All right.
+
+1247
+01:03:52,228 --> 01:03:53,429
+[Meiko's Mom] Meiko, wait!
+
+1248
+01:03:54,230 --> 01:03:56,098
+[Meiko] I can't. I gotta go.
+
+1249
+01:03:56,566 --> 01:03:59,035
+[explosive noise]
+
+1250
+01:04:00,069 --> 01:04:01,270
+[Joe] Tai!
+
+1251
+01:04:02,038 --> 01:04:03,206
+[Tai] Joe!
+
+1252
+01:04:03,239 --> 01:04:04,540
+Glad you're back in action. Let's do this.
+
+1253
+01:04:17,220 --> 01:04:19,555
+Agumon digivolve to!
+
+1254
+01:04:20,990 --> 01:04:23,993
+Gomamon digivolve to!
+
+1255
+01:04:37,173 --> 01:04:40,543
+[roaring]
+
+1256
+01:04:41,077 --> 01:04:43,546
+-Greymon! -Ikkayumon!
+
+1257
+01:04:44,013 --> 01:04:46,315
+-They'll wreck this place again! -Greymon!
+
+1258
+01:04:46,549 --> 01:04:49,518
+Push Meicoomon back through the distortion!
+
+1259
+01:04:49,552 --> 01:04:52,555
+[roaring]
+
+1260
+01:04:59,295 --> 01:05:00,963
+[Meiko] Meicoomon's at the pavilion.
+
+1261
+01:05:01,430 --> 01:05:02,431
+Oh, Mei!
+
+1262
+01:05:04,533 --> 01:05:06,369
+[roaring]
+
+1263
+01:05:14,243 --> 01:05:16,245
+Meteor away!
+
+1264
+01:05:20,149 --> 01:05:22,151
+Needle spray!
+
+1265
+01:05:24,654 --> 01:05:25,655
+Tai!
+
+1266
+01:05:26,455 --> 01:05:28,190
+Man, what an epic fight!
+
+1267
+01:05:28,224 --> 01:05:29,492
+Keep it up, Togemon.
+
+1268
+01:05:29,759 --> 01:05:32,061
+You can stop Meicoomon!
+
+1269
+01:05:37,066 --> 01:05:39,302
+[Meiko] No! Stop fighting!
+
+1270
+01:05:40,336 --> 01:05:42,672
+-Is she serious? -Let her try to help.
+
+1271
+01:05:42,705 --> 01:05:45,274
+-Meimei! -Meicoomon, you have to stop!
+
+1272
+01:05:47,777 --> 01:05:49,779
+-[screeching] -[roaring]
+
+1273
+01:05:49,812 --> 01:05:51,013
+[Meiko] Mei!
+
+1274
+01:05:58,054 --> 01:06:00,423
+-He digivolved! -Mei, no!
+
+1275
+01:06:02,358 --> 01:06:03,359
+Look out!
+
+1276
+01:06:06,429 --> 01:06:07,997
+[Joe] Matt! Meiko!
+
+1277
+01:06:16,439 --> 01:06:18,074
+Meiko, are you okay?
+
+1278
+01:06:19,175 --> 01:06:21,377
+-Mei! -Wait, are you crazy?
+
+1279
+01:06:21,410 --> 01:06:24,013
+I gotta stop Meicoomon. Please let go.
+
+1280
+01:06:24,780 --> 01:06:26,349
+The digimon are trying to stop her
+
+1281
+01:06:26,382 --> 01:06:28,317
+and they're the best chance we've got.
+
+1282
+01:06:28,351 --> 01:06:30,619
+What happens if you run in there and get hurt?
+
+1283
+01:06:31,220 --> 01:06:32,688
+Meicoomon might go berserk.
+
+1284
+01:06:34,857 --> 01:06:36,392
+We've got to get to safety.
+
+1285
+01:06:40,329 --> 01:06:41,564
+-Kari. -Yeah?
+
+1286
+01:06:41,597 --> 01:06:43,733
+We can't just watch anymore. We gotta help.
+
+1287
+01:06:44,166 --> 01:06:45,334
+[Kari] You're right.
+
+1288
+01:06:45,368 --> 01:06:46,802
+Okay, go!
+
+1289
+01:06:47,536 --> 01:06:49,238
+[Patamon] Wait for me, Gatomon!
+
+1290
+01:06:49,839 --> 01:06:51,440
+Please, TK!
+
+1291
+01:07:00,850 --> 01:07:04,353
+Gatomon digivolve to!
+
+1292
+01:07:15,631 --> 01:07:18,334
+Angewomon!
+
+1293
+01:07:29,779 --> 01:07:32,615
+-[roaring] -[screaming]
+
+1294
+01:07:32,848 --> 01:07:34,550
+Yes, nice one.
+
+1295
+01:07:34,583 --> 01:07:35,818
+Keep her in there.
+
+1296
+01:07:36,419 --> 01:07:38,821
+Yeah, but... even if Meicoomon's there
+
+1297
+01:07:38,854 --> 01:07:40,856
+what about after the next distortion?
+
+1298
+01:07:45,861 --> 01:07:50,399
+[screaming and groaning]
+
+1299
+01:08:02,745 --> 01:08:04,146
+That's not good.
+
+1300
+01:08:08,918 --> 01:08:10,519
+[Patamon] TK, they need me.
+
+1301
+01:08:10,553 --> 01:08:11,854
+-I gotta go. -No!
+
+1302
+01:08:11,887 --> 01:08:13,289
+But, TK...
+
+1303
+01:08:13,589 --> 01:08:15,491
+Patamon, if you go,
+
+1304
+01:08:15,524 --> 01:08:17,126
+then you're gonna...
+
+1305
+01:08:17,893 --> 01:08:19,361
+Are you kidding?
+
+1306
+01:08:19,795 --> 01:08:21,263
+It's okay.
+
+1307
+01:08:23,265 --> 01:08:25,167
+[TK] No, you have to stay here with me!
+
+1308
+01:08:25,201 --> 01:08:27,470
+[Patamon] But I gotta and you know it!
+
+1309
+01:08:27,503 --> 01:08:30,439
+We digimon have to protect your world.
+
+1310
+01:08:30,973 --> 01:08:32,374
+[TK] Patamon...
+
+1311
+01:08:33,576 --> 01:08:36,312
+And that's why I came here in the first place, you know.
+
+1312
+01:08:36,345 --> 01:08:38,681
+But I... I can't...
+
+1313
+01:08:38,714 --> 01:08:39,882
+[Patamon] TK.
+
+1314
+01:08:44,520 --> 01:08:45,554
+See you soon.
+
+1315
+01:08:46,388 --> 01:08:48,224
+[yells] Patamon!
+
+1316
+01:09:03,506 --> 01:09:06,275
+Patamon digivolve to!
+
+1317
+01:09:27,329 --> 01:09:29,198
+Angemon!
+
+1318
+01:09:43,779 --> 01:09:46,282
+Mei, I'm here for you!
+
+1319
+01:09:46,482 --> 01:09:48,951
+Please listen to me! Please!
+
+1320
+01:09:52,621 --> 01:09:55,357
+[roaring and screaming with rage]
+
+1321
+01:09:55,758 --> 01:09:56,992
+What can I do?
+
+1322
+01:09:57,660 --> 01:09:59,828
+It's hopeless! Oh, Mei!
+
+1323
+01:10:00,296 --> 01:10:01,764
+What's this energy spike?
+
+1324
+01:10:03,299 --> 01:10:04,567
+It's totally different
+
+1325
+01:10:04,600 --> 01:10:06,435
+than the data from the other distortions.
+
+1326
+01:10:06,902 --> 01:10:08,737
+Why did it appear with Meicoomon?
+
+1327
+01:10:09,939 --> 01:10:11,373
+Unbelievable!
+
+1328
+01:10:11,407 --> 01:10:12,575
+You find something?
+
+1329
+01:10:12,875 --> 01:10:15,644
+All of these strange events began
+
+1330
+01:10:15,911 --> 01:10:18,847
+when Meiko and Meicoomon moved to town.
+
+1331
+01:10:18,881 --> 01:10:21,350
+Of course! What's that mean exactly?
+
+1332
+01:10:21,617 --> 01:10:22,985
+[Izzy] Maybe Meicoomon
+
+1333
+01:10:23,485 --> 01:10:25,721
+didn't catch the infection from another digimon,
+
+1334
+01:10:25,754 --> 01:10:27,690
+Maybe it was caused by Meiko.
+
+1335
+01:10:27,723 --> 01:10:28,891
+[Tentomon] Meiko? Seriously?
+
+1336
+01:10:29,425 --> 01:10:30,826
+I'm not entirely certain
+
+1337
+01:10:31,026 --> 01:10:33,295
+but it does fit the observed data.
+
+1338
+01:10:33,329 --> 01:10:36,665
+Listen, Izzy, we gotta get down there and help out right now.
+
+1339
+01:10:36,699 --> 01:10:38,701
+I know. I'm just about done.
+
+1340
+01:10:39,034 --> 01:10:40,970
+I just gotta load this on to my laptop.
+
+1341
+01:10:42,638 --> 01:10:45,007
+[Meicoomon screaming]
+
+1342
+01:10:54,550 --> 01:10:55,884
+Angemon!
+
+1343
+01:10:55,918 --> 01:10:56,986
+[Angemon groans]
+
+1344
+01:10:57,519 --> 01:10:59,054
+-Angemon! -It's too dangerous.
+
+1345
+01:10:59,088 --> 01:11:01,624
+-But he might be hurt! -Did you see that?
+
+1346
+01:11:01,957 --> 01:11:04,493
+Yeah, I did. He's infected.
+
+1347
+01:11:16,939 --> 01:11:18,841
+-Angemon! -I knew it.
+
+1348
+01:11:19,541 --> 01:11:21,043
+He's infected.
+
+1349
+01:11:24,947 --> 01:11:26,548
+No, you don't!
+
+1350
+01:11:28,951 --> 01:11:30,019
+Nice!
+
+1351
+01:11:44,833 --> 01:11:47,436
+[Kari] Angemon and Angewomon are fighting each other?
+
+1352
+01:11:47,970 --> 01:11:49,805
+I can't believe this is happening!
+
+1353
+01:11:49,838 --> 01:11:51,040
+Why would they do that?
+
+1354
+01:11:51,740 --> 01:11:53,375
+They've always been on the same side.
+
+1355
+01:11:53,709 --> 01:11:57,046
+But, that means, Togemon could be in trouble too.
+
+1356
+01:11:57,579 --> 01:11:58,981
+What if she gets infected next?
+
+1357
+01:12:02,785 --> 01:12:04,119
+Oh, no! Togemon!
+
+1358
+01:12:11,093 --> 01:12:13,128
+[screaming]
+
+1359
+01:12:16,532 --> 01:12:17,666
+[Kari] TK.
+
+1360
+01:12:18,133 --> 01:12:19,501
+Angemon...
+
+1361
+01:12:22,137 --> 01:12:23,906
+-You guys! -Izzy!
+
+1362
+01:12:24,606 --> 01:12:25,808
+Where's Meicoomon?
+
+1363
+01:12:27,042 --> 01:12:28,544
+Our digimon are trying to push her through the distortion.
+
+1364
+01:12:29,511 --> 01:12:31,046
+Rain!
+
+1365
+01:12:36,552 --> 01:12:38,087
+[screaming in pain]
+
+1366
+01:12:38,520 --> 01:12:39,688
+Oh, no! Birdramon!
+
+1367
+01:12:44,560 --> 01:12:46,395
+-Garurumon! -Togemon!
+
+1368
+01:12:46,662 --> 01:12:48,530
+Oh, no! They've all got it!
+
+1369
+01:13:11,553 --> 01:13:13,088
+Angewomon too?
+
+1370
+01:13:14,123 --> 01:13:15,991
+The infection is spreading faster
+
+1371
+01:13:16,191 --> 01:13:17,392
+and at this rate,
+
+1372
+01:13:17,426 --> 01:13:20,729
+the number of digimon getting compromised might multiply.
+
+1373
+01:13:21,497 --> 01:13:22,765
+If that happens...
+
+1374
+01:13:45,587 --> 01:13:47,990
+Greymon digivolve to!
+
+1375
+01:14:01,003 --> 01:14:03,238
+MetalGreymon!
+
+1376
+01:14:07,009 --> 01:14:08,877
+[screaming and groaning]
+
+1377
+01:14:14,550 --> 01:14:17,152
+-What's happening? -Some kind of countdown.
+
+1378
+01:14:17,186 --> 01:14:18,587
+To what?
+
+1379
+01:14:18,787 --> 01:14:20,222
+The reboot!
+
+1380
+01:14:20,756 --> 01:14:21,924
+[all] The reboot?
+
+1381
+01:14:22,691 --> 01:14:24,593
+What's that mean? What's going on?
+
+1382
+01:14:25,060 --> 01:14:27,863
+Gatomon never talked about anything like that.
+
+1383
+01:14:33,936 --> 01:14:36,738
+That would mean our digimon'd have their memories erased.
+
+1384
+01:14:37,840 --> 01:14:40,008
+[Joe] You mean they'll even forget us?
+
+1385
+01:14:40,042 --> 01:14:43,011
+-Yeah. -No way! Try something else!
+
+1386
+01:14:43,612 --> 01:14:45,881
+Actually I do have a plan B.
+
+1387
+01:14:46,281 --> 01:14:47,616
+You do?
+
+1388
+01:14:48,951 --> 01:14:50,853
+[roaring]
+
+1389
+01:14:56,692 --> 01:14:58,727
+-Izzy, I need to fight too. -Hold on.
+
+1390
+01:15:06,034 --> 01:15:08,003
+[Izzy] I can get data for a backup
+
+1391
+01:15:08,036 --> 01:15:09,771
+if our digimon go into that cube.
+
+1392
+01:15:10,772 --> 01:15:11,974
+What do you mean 'backup'?
+
+1393
+01:15:12,007 --> 01:15:14,109
+I mean, copies of the original file
+
+1394
+01:15:14,142 --> 01:15:15,210
+and if I have them
+
+1395
+01:15:15,244 --> 01:15:17,946
+I can sort out the data corrupted by the infection.
+
+1396
+01:15:18,680 --> 01:15:21,049
+Tentomon, go and help MetalGreymon
+
+1397
+01:15:21,083 --> 01:15:23,151
+get everyone pushed into the backup field.
+
+1398
+01:15:23,185 --> 01:15:24,586
+You got it!
+
+1399
+01:15:38,367 --> 01:15:40,903
+Tentomon digivolve to!
+
+1400
+01:16:00,255 --> 01:16:03,759
+Kabuterimon!
+
+1401
+01:16:04,226 --> 01:16:06,261
+[Sora] Come on, you guys!
+
+1402
+01:16:06,295 --> 01:16:09,965
+You have to save everyone! You can!
+
+1403
+01:16:29,017 --> 01:16:30,819
+MetalGreymon!
+
+1404
+01:16:41,730 --> 01:16:43,065
+[groaning]
+
+1405
+01:17:07,456 --> 01:17:09,324
+[Izzy] Tentomon!
+
+1406
+01:17:10,359 --> 01:17:11,393
+[gasp in shock]
+
+1407
+01:17:12,427 --> 01:17:14,763
+Tentomon, you gotta get into that backup field.
+
+1408
+01:17:14,796 --> 01:17:17,432
+-Alone if you have to. -[Tentomon] No can do.
+
+1409
+01:17:17,899 --> 01:17:19,267
+What's the matter with you!
+
+1410
+01:17:25,741 --> 01:17:27,776
+I'm sorry, Izzy, but I can't.
+
+1411
+01:17:27,809 --> 01:17:29,778
+The other digimon are already out there
+
+1412
+01:17:29,811 --> 01:17:32,381
+risking their hides to stop Meicoomon.
+
+1413
+01:17:33,448 --> 01:17:36,985
+I can't stay in here doing nothing just to save myself!
+
+1414
+01:17:37,319 --> 01:17:38,754
+Tentomon...
+
+1415
+01:17:38,787 --> 01:17:40,922
+[Tentomon] Izzy, when we first met,
+
+1416
+01:17:40,956 --> 01:17:42,991
+I didn't know you from Adam,
+
+1417
+01:17:43,025 --> 01:17:44,426
+and I still don't know who that is,
+
+1418
+01:17:44,826 --> 01:17:47,295
+but getting to know you over the years
+
+1419
+01:17:47,329 --> 01:17:50,365
+has been the greatest thing that's ever happened to me.
+
+1420
+01:17:51,099 --> 01:17:52,834
+If my memories get erased,
+
+1421
+01:17:52,868 --> 01:17:55,037
+we'll just have to make new ones together, right?
+
+1422
+01:17:55,537 --> 01:17:58,040
+-Wait... -No matter what happens...
+
+1423
+01:17:58,373 --> 01:18:03,245
+promise me, you'll hold on to your love of learning, okay?
+
+1424
+01:18:05,013 --> 01:18:06,081
+Stop this.
+
+1425
+01:18:07,349 --> 01:18:08,450
+[Tentomon] Sorry I couldn't give you more of a heads up!
+
+1426
+01:18:09,017 --> 01:18:10,152
+Tentomon!
+
+1427
+01:18:10,185 --> 01:18:11,453
+Goodbye, Izzy!
+
+1428
+01:18:12,154 --> 01:18:13,422
+It's been a pleasure.
+
+1429
+01:18:32,174 --> 01:18:36,044
+Kabuterimon digivolve to!
+
+1430
+01:18:46,021 --> 01:18:49,357
+MegaKabuterimon!
+
+1431
+01:18:49,591 --> 01:18:51,893
+Once I get a hold of you,
+
+1432
+01:18:52,194 --> 01:18:55,097
+I'm not going to let go!
+
+1433
+01:18:56,331 --> 01:18:57,332
+[grunting]
+
+1434
+01:19:02,070 --> 01:19:03,472
+Listen up!
+
+1435
+01:19:07,175 --> 01:19:11,113
+MegaKabuterimon digivolve to!
+
+1436
+01:19:24,926 --> 01:19:28,396
+HerculesKabuterimon!
+
+1437
+01:19:41,209 --> 01:19:43,545
+[screaming]
+
+1438
+01:19:57,125 --> 01:19:58,927
+Is this it?
+
+1439
+01:19:58,960 --> 01:20:02,597
+Is it really time for me to say goodbye?
+
+1440
+01:20:03,298 --> 01:20:06,535
+Everyone is going to be so very sad!
+
+1441
+01:20:08,904 --> 01:20:10,839
+Open your eyes!
+
+1442
+01:20:18,480 --> 01:20:19,915
+Thank you!
+
+1443
+01:20:25,954 --> 01:20:31,159
+[electronic ticking]
+
+1444
+01:20:37,332 --> 01:20:38,533
+[continuous beep]
+
+1445
+01:21:01,356 --> 01:21:03,558
+[Patamon] Don't forget me, TK!
+
+1446
+01:21:22,544 --> 01:21:23,678
+[TK] I think Patamon...
+
+1447
+01:21:24,279 --> 01:21:26,448
+was the first one to catch it.
+
+1448
+01:21:27,449 --> 01:21:28,450
+But...
+
+1449
+01:21:29,618 --> 01:21:30,952
+I just couldn't bring myself to tell you guys.
+
+1450
+01:21:31,586 --> 01:21:32,587
+Because...
+
+1451
+01:21:33,121 --> 01:21:34,289
+I was so afraid.
+
+1452
+01:21:38,059 --> 01:21:39,628
+Good morning, everybody.
+
+1453
+01:21:40,295 --> 01:21:42,230
+Summer is upon us and the season started with
+
+1454
+01:21:42,264 --> 01:21:44,666
+record breaking turnouts at our amusement parks.
+
+1455
+01:21:45,467 --> 01:21:48,103
+There's been a steady flow of students and families
+
+1456
+01:21:48,136 --> 01:21:49,671
+coming in since early this morning.
+
+1457
+01:21:50,272 --> 01:21:53,041
+The forecast calls for nothing but blue skies
+
+1458
+01:21:53,074 --> 01:21:55,076
+and unusually warm weather.
+
+1459
+01:21:55,110 --> 01:21:57,412
+So this should be a very pleasant day.
+
+1460
+01:21:57,445 --> 01:21:59,714
+I hope that everyone's able to enjoy it.
+
+1461
+01:21:59,748 --> 01:22:01,349
+We certainly intend to.
+
+1462
+01:22:01,549 --> 01:22:03,118
+-[children laughing] -[child 1] Take that!
+
+1463
+01:22:03,485 --> 01:22:04,653
+[lifeguard] No splashing.
+
+1464
+01:22:10,392 --> 01:22:12,394
+[Himekawa] It's been a whole week now.
+
+1465
+01:22:12,427 --> 01:22:14,629
+And we've yet to see any signs of disturbance
+
+1466
+01:22:14,663 --> 01:22:17,132
+in the digital world from the quantum sea.
+
+1467
+01:22:18,300 --> 01:22:19,401
+[man] Seems so.
+
+1468
+01:22:27,509 --> 01:22:30,211
+But there's a very good reason for that, you know.
+
+1469
+01:22:31,513 --> 01:22:32,981
+[Himekawa] I know.
+
+1470
+01:22:42,791 --> 01:22:45,460
+[Himekawa] The kids are just going to have to move on
+
+1471
+01:22:45,493 --> 01:22:47,262
+and put all this behind them.
+
+1472
+01:22:53,068 --> 01:22:55,036
+It had to happen eventually.
+
+1473
+01:23:06,448 --> 01:23:07,716
+[Himekawa] Before we know it,
+
+1474
+01:23:07,749 --> 01:23:10,185
+there will be new buildings sprouting up.
+
+1475
+01:23:10,218 --> 01:23:11,419
+In six months from now,
+
+1476
+01:23:12,721 --> 01:23:14,589
+this place will look just like it did before all this started.
+
+1477
+01:23:15,156 --> 01:23:16,391
+Within a year,
+
+1478
+01:23:16,424 --> 01:23:18,793
+everyone will have forgotten that it happened at all.
+
+1479
+01:23:19,494 --> 01:23:21,129
+No one will give a second thought
+
+1480
+01:23:21,162 --> 01:23:22,630
+to anything about digimon.
+
+1481
+01:23:23,131 --> 01:23:25,033
+If they even remember what they are.
+
+1482
+01:23:27,402 --> 01:23:29,104
+[man] What about the kids?
+
+1483
+01:23:31,840 --> 01:23:33,008
+[Himekawa] They'll just...
+
+1484
+01:23:33,041 --> 01:23:35,643
+have to say goodbye to that part of their childhood.
+
+1485
+01:23:49,357 --> 01:23:51,226
+[Izzy] Any news on the digital world?
+
+1486
+01:23:53,294 --> 01:23:55,096
+Have the digidevices rebooted?
+
+1487
+01:23:57,198 --> 01:23:58,633
+When the digital world rebooted,
+
+1488
+01:23:58,666 --> 01:24:00,368
+it was supposed to revert to its state
+
+1489
+01:24:00,402 --> 01:24:01,636
+prior to the distortions
+
+1490
+01:24:01,669 --> 01:24:04,239
+and the digidevices should have followed suit.
+
+1491
+01:24:04,272 --> 01:24:05,840
+We're gonna have to find another way.
+
+1492
+01:24:06,541 --> 01:24:09,110
+-[TK] What's plan B then? -What do you mean?
+
+1493
+01:24:09,144 --> 01:24:10,745
+Even if find our digimon...
+
+1494
+01:24:11,146 --> 01:24:12,313
+they won't remember us.
+
+1495
+01:24:13,782 --> 01:24:15,150
+And what do we say?
+
+1496
+01:24:16,251 --> 01:24:17,485
+When it came down to it,
+
+1497
+01:24:18,286 --> 01:24:20,121
+I couldn't even protect my own partner.
+
+1498
+01:24:20,688 --> 01:24:22,624
+I was helpless to save Patamon.
+
+1499
+01:24:23,324 --> 01:24:25,326
+[Izzy] So what do you think we should do, TK?
+
+1500
+01:24:26,394 --> 01:24:28,263
+Mope around and try to forget them?
+
+1501
+01:24:28,596 --> 01:24:30,698
+This isn't about what you couldn't do in the past,
+
+1502
+01:24:31,266 --> 01:24:33,201
+this is about what you're going to do now.
+
+1503
+01:24:34,202 --> 01:24:35,503
+[Izzy typing]
+
+1504
+01:25:46,808 --> 01:25:47,842
+[Himekawa] Izumi?
+
+1505
+01:25:55,984 --> 01:25:57,418
+[Meiko] It's Mimi.
+
+1506
+01:25:58,286 --> 01:26:00,355
+Got caught in the rain again.
+
+1507
+01:26:06,561 --> 01:26:08,463
+[Izzy] Don't you want to see them again?
+
+1508
+01:26:09,564 --> 01:26:11,199
+Yeah, of course.
+
+1509
+01:26:11,699 --> 01:26:13,234
+They're our partners.
+
+1510
+01:26:14,602 --> 01:26:15,970
+Maybe someday...
+
+1511
+01:26:16,004 --> 01:26:17,305
+[whistle]
+
+1512
+01:26:25,780 --> 01:26:27,248
+Agumon...
+
+1513
+01:26:28,349 --> 01:26:30,485
+Hey! Tai!
+
+1514
+01:27:04,319 --> 01:27:05,620
+[Tai] You know, you guys...
+
+1515
+01:27:06,387 --> 01:27:08,957
+if we keep waiting for this mythical someday,
+
+1516
+01:27:10,024 --> 01:27:13,261
+we'll be old and grey before we see our partners again.
+
+1517
+01:27:14,696 --> 01:27:15,863
+[Izzy] Exactly.
+
+1518
+01:27:19,567 --> 01:27:20,768
+Then let's go.
+
+1519
+01:27:35,950 --> 01:27:37,552
+[doorbell peals]
+
+1520
+01:27:39,087 --> 01:27:40,388
+[Meiko] TK...
+
+1521
+01:27:42,790 --> 01:27:44,959
+-Are you serious? -[Tai] Absolutely.
+
+1522
+01:27:45,393 --> 01:27:46,628
+You'd better be sure.
+
+1523
+01:27:46,661 --> 01:27:49,097
+Once we open the gate, it could be unstable.
+
+1524
+01:27:49,130 --> 01:27:50,698
+You may not be able to come back.
+
+1525
+01:27:50,732 --> 01:27:52,300
+[Daigo] It's too dangerous.
+
+1526
+01:27:52,767 --> 01:27:55,803
+You guys, don't be foolish. We have to discuss this.
+
+1527
+01:27:56,004 --> 01:27:58,072
+-I'm going. -But Matt...
+
+1528
+01:27:58,473 --> 01:28:00,842
+Look, there's no point in freaking out about it.
+
+1529
+01:28:00,875 --> 01:28:02,543
+I mean we did the same thing
+
+1530
+01:28:02,577 --> 01:28:04,112
+when we were back in elementary school.
+
+1531
+01:28:04,145 --> 01:28:05,380
+That's right.
+
+1532
+01:28:05,580 --> 01:28:08,116
+We're older now. We know the risks.
+
+1533
+01:28:08,149 --> 01:28:09,350
+All right, then.
+
+1534
+01:28:10,251 --> 01:28:11,519
+I'll set up where the reboot occurred.
+
+1535
+01:28:11,552 --> 01:28:12,654
+Hime...
+
+1536
+01:28:13,121 --> 01:28:15,890
+Nishijima, take them to the site.
+
+1537
+01:28:15,923 --> 01:28:17,892
+I'll contact security and distract them.
+
+1538
+01:28:22,130 --> 01:28:24,599
+[Daigo] Are you guys really sure this is what you want.
+
+1539
+01:28:24,632 --> 01:28:25,700
+[all] Uh-huh.
+
+1540
+01:28:32,507 --> 01:28:34,108
+[Meiko] You know that I can't join you.
+
+1541
+01:28:35,043 --> 01:28:36,544
+[TK] Why not?
+
+1542
+01:28:36,577 --> 01:28:38,813
+Because I don't have the right to go.
+
+1543
+01:28:38,846 --> 01:28:41,983
+-What's that supposed to mean? -This was Mei's fault.
+
+1544
+01:28:42,483 --> 01:28:43,885
+Well, Mei's and mine I guess.
+
+1545
+01:28:44,152 --> 01:28:45,853
+How is it Meicoomon's fault?
+
+1546
+01:28:48,189 --> 01:28:50,892
+Because Mei was the source of the infection.
+
+1547
+01:29:16,617 --> 01:29:19,921
+[Mei] Mei... Mei... co...
+
+1548
+01:29:22,223 --> 01:29:23,758
+Meiko...
+
+1549
+01:29:26,594 --> 01:29:27,862
+[giggles]
+
+1550
+01:29:36,537 --> 01:29:39,407
+And that is how I first met Mei.
+
+1551
+01:29:39,941 --> 01:29:43,144
+My dad was working as a digimon researcher then.
+
+1552
+01:29:44,145 --> 01:29:47,815
+He told me that Mei was an extra special digimon.
+
+1553
+01:29:48,483 --> 01:29:49,851
+I heard some rumors,
+
+1554
+01:29:49,884 --> 01:29:52,553
+but I never knew exactly why she was special.
+
+1555
+01:29:53,121 --> 01:29:55,623
+I never expected things to turn out like this.
+
+1556
+01:29:56,157 --> 01:29:57,892
+I wanted to say something,
+
+1557
+01:29:58,659 --> 01:30:00,661
+but I... I just...
+
+1558
+01:30:01,229 --> 01:30:03,431
+I... couldn't bring myself
+
+1559
+01:30:03,731 --> 01:30:05,099
+to actually do it.
+
+1560
+01:30:05,133 --> 01:30:06,701
+I... I...
+
+1561
+01:30:16,544 --> 01:30:17,812
+But TK,
+
+1562
+01:30:19,013 --> 01:30:22,083
+I don't want to make everyone sad, you know.
+
+1563
+01:30:25,520 --> 01:30:27,588
+I know how hard all of this has been for you.
+
+1564
+01:30:29,056 --> 01:30:30,491
+Forget about blame.
+
+1565
+01:30:30,525 --> 01:30:31,926
+What's done is done.
+
+1566
+01:30:31,959 --> 01:30:33,594
+It's what we do next that matters.
+
+1567
+01:30:35,630 --> 01:30:37,131
+And I say what we should do is...
+
+1568
+01:30:37,532 --> 01:30:40,501
+-go find our partners so we-- -Stop being nice to me!
+
+1569
+01:30:41,202 --> 01:30:43,838
+I can't handle it. Don't sugarcoat it.
+
+1570
+01:30:44,038 --> 01:30:45,706
+Just be honest and blame me!
+
+1571
+01:30:45,740 --> 01:30:47,608
+Be angry, I deserve it!
+
+1572
+01:30:47,942 --> 01:30:49,844
+Meiko! Stop!
+
+1573
+01:30:50,244 --> 01:30:53,481
+[Meiko] I'm sorry but this isn't just hard for me...
+
+1574
+01:30:55,850 --> 01:30:57,718
+it's all just so...
+
+1575
+01:30:58,052 --> 01:30:59,554
+horrible.
+
+1576
+01:31:01,756 --> 01:31:04,559
+At least, it does feel good
+
+1577
+01:31:04,592 --> 01:31:06,994
+to finally say it out loud to someone.
+
+1578
+01:31:07,028 --> 01:31:08,262
+It's true. [sobs]
+
+1579
+01:31:08,863 --> 01:31:10,665
+I feel relieved,
+
+1580
+01:31:11,032 --> 01:31:12,900
+now that I've confessed.
+
+1581
+01:31:13,668 --> 01:31:17,672
+I have no right to see the digimon, none at all!
+
+1582
+01:31:18,005 --> 01:31:20,641
+Just... Just leave me alone. [sobbing]
+
+1583
+01:31:22,243 --> 01:31:23,678
+[TK] I'm sorry, Meiko.
+
+1584
+01:31:23,711 --> 01:31:25,046
+I can't do that.
+
+1585
+01:31:25,313 --> 01:31:26,647
+We're in this together.
+
+1586
+01:31:28,149 --> 01:31:30,918
+I mean... you're Meicoomon's partner.
+
+1587
+01:31:31,786 --> 01:31:32,987
+But more than that...
+
+1588
+01:31:34,021 --> 01:31:35,256
+you're one of us.
+
+1589
+01:31:38,092 --> 01:31:39,227
+When you're ready...
+
+1590
+01:31:39,660 --> 01:31:40,761
+we'll be waiting.
+
+1591
+01:31:43,598 --> 01:31:44,732
+[sobbing]
+
+1592
+01:31:49,737 --> 01:31:51,906
+So you're saying that all along
+
+1593
+01:31:52,206 --> 01:31:54,575
+[Joe] Meicoomon was the source of the infection?
+
+1594
+01:31:55,009 --> 01:31:56,310
+Did your agency know?
+
+1595
+01:31:56,344 --> 01:31:58,646
+I didn't. I would have told you.
+
+1596
+01:31:59,914 --> 01:32:02,216
+Oh, Meimei, it's awful.
+
+1597
+01:32:02,250 --> 01:32:04,919
+Well, maybe if she'd clued us in earlier...
+
+1598
+01:32:04,952 --> 01:32:06,854
+You think you could've done it, Joe?
+
+1599
+01:32:08,956 --> 01:32:10,191
+'Cause I know...
+
+1600
+01:32:10,224 --> 01:32:11,759
+that I couldn't.
+
+1601
+01:32:13,227 --> 01:32:15,162
+It's harder than you think.
+
+1602
+01:32:15,930 --> 01:32:17,064
+Much harder.
+
+1603
+01:32:18,165 --> 01:32:20,902
+I knew Patamon was infected but I couldn't tell you.
+
+1604
+01:32:22,803 --> 01:32:24,071
+[Joe] You have a point.
+
+1605
+01:32:25,773 --> 01:32:27,008
+Are those coordinates where
+
+1606
+01:32:27,041 --> 01:32:28,743
+our partners are in the digital world?
+
+1607
+01:32:28,776 --> 01:32:30,711
+I think so. I scrubbed the data
+
+1608
+01:32:30,745 --> 01:32:32,647
+and got intel from Agent Himekawa.
+
+1609
+01:32:34,982 --> 01:32:36,984
+[quiet whirring]
+
+1610
+01:32:37,785 --> 01:32:38,819
+Uh-huh.
+
+1611
+01:32:47,128 --> 01:32:49,363
+Agent Himekawa, what's she doing here?
+
+1612
+01:32:51,399 --> 01:32:52,833
+[Sora] A D-three?
+
+1613
+01:32:52,867 --> 01:32:54,168
+This is all theoretical
+
+1614
+01:32:54,201 --> 01:32:56,237
+which is scientist talk for 'don't have a clue'.
+
+1615
+01:32:56,837 --> 01:32:59,240
+But if the data that's on this D-three,
+
+1616
+01:32:59,707 --> 01:33:01,375
+can be synced up with your own power,
+
+1617
+01:33:01,409 --> 01:33:04,011
+it very well might be possible to open a gateway.
+
+1618
+01:33:04,045 --> 01:33:05,246
+What power is that?
+
+1619
+01:33:06,080 --> 01:33:07,248
+[Himekawa] The power that exists
+
+1620
+01:33:07,448 --> 01:33:09,283
+within each of your digital crests.
+
+1621
+01:33:42,950 --> 01:33:44,085
+[TK] I guess this is it.
+
+1622
+01:33:45,019 --> 01:33:46,654
+[Daigo] Be careful, guys.
+
+1623
+01:33:48,222 --> 01:33:49,323
+What's wrong?
+
+1624
+01:33:49,757 --> 01:33:51,258
+[Sora] Well, it's sort of scary.
+
+1625
+01:33:54,161 --> 01:33:56,697
+[Joe] You know, I've been thinking about this moment
+
+1626
+01:33:56,731 --> 01:33:58,699
+since the first time I saw Gomamon.
+
+1627
+01:33:59,066 --> 01:34:00,768
+I've got to be brave,
+
+1628
+01:34:00,801 --> 01:34:03,104
+or else he'll never stop making fun of me.
+
+1629
+01:34:04,105 --> 01:34:05,272
+[Matt] It'll be okay.
+
+1630
+01:34:31,932 --> 01:34:33,000
+[Meiko gasps]
+
+1631
+01:34:40,274 --> 01:34:41,375
+[glass shatters]
+
+1632
+01:34:42,209 --> 01:34:44,111
+[Mei] I'm sorry, Meiko.
+
+1633
+01:34:44,412 --> 01:34:46,747
+[Meiko] Don't touch the glass, it's dangerous.
+
+1634
+01:34:47,148 --> 01:34:48,749
+You don't want to get cut, do you?
+
+1635
+01:34:49,917 --> 01:34:51,152
+[gasps in pain]
+
+1636
+01:34:51,786 --> 01:34:54,121
+Oh, no! Meiko, you're hurt!
+
+1637
+01:34:54,355 --> 01:34:56,457
+It's okay. It's just a scratch.
+
+1638
+01:34:58,259 --> 01:35:00,394
+You see, it's all better already.
+
+1639
+01:35:00,428 --> 01:35:01,495
+[Mei] Does it hurt?
+
+1640
+01:35:01,962 --> 01:35:03,798
+Not at all. It's totally fine.
+
+1641
+01:35:03,831 --> 01:35:06,367
+[Mei] I'm so sorry, Meiko. I didn't mean to do it.
+
+1642
+01:35:07,101 --> 01:35:08,803
+You got hurt because of me.
+
+1643
+01:35:08,836 --> 01:35:11,439
+No big deal. Besides I'm pretty tough.
+
+1644
+01:35:12,139 --> 01:35:14,842
+Thanks. I love you, Meiko.
+
+1645
+01:35:15,943 --> 01:35:16,977
+Mei...
+
+1646
+01:35:17,378 --> 01:35:18,512
+[buzzer]
+
+1647
+01:35:22,550 --> 01:35:24,118
+[Meiko panting]
+
+1648
+01:35:35,362 --> 01:35:36,397
+Uh...
+
+1649
+01:35:39,133 --> 01:35:41,035
+[Tai] It all looks exactly the same.
+
+1650
+01:35:41,402 --> 01:35:44,038
+[Mimi] Yeah, that thingy is just like that thingy.
+
+1651
+01:35:44,071 --> 01:35:46,273
+[Izzy] Well, the digital world may have been rebooted,
+
+1652
+01:35:46,307 --> 01:35:48,909
+but it's fundamental structure remains the same.
+
+1653
+01:35:49,477 --> 01:35:52,012
+-Although... -What's wrong?
+
+1654
+01:35:52,046 --> 01:35:54,181
+Something... just feels off.
+
+1655
+01:35:54,515 --> 01:35:56,383
+-How so? -I'm not sure.
+
+1656
+01:35:56,584 --> 01:35:58,986
+-But something is different. -I agree.
+
+1657
+01:35:59,253 --> 01:36:00,454
+[Matt] Different how?
+
+1658
+01:36:00,488 --> 01:36:02,890
+I don't know. It feels weird.
+
+1659
+01:36:02,923 --> 01:36:04,225
+[all sighing]
+
+1660
+01:36:05,025 --> 01:36:07,194
+[Matt] Well, let's go see what we can find out.
+
+1661
+01:36:11,632 --> 01:36:13,100
+[Sora] So far...
+
+1662
+01:36:13,134 --> 01:36:15,469
+all we've found out is that we're out of shape.
+
+1663
+01:36:15,503 --> 01:36:16,537
+[Matt] Speak for yourself.
+
+1664
+01:36:16,570 --> 01:36:19,507
+'Cause I'm too out of breath to speak for myself.
+
+1665
+01:36:20,174 --> 01:36:22,276
+[Joe] At least we didn't find what we usually find.
+
+1666
+01:36:22,576 --> 01:36:24,111
+Trouble, pain and terror.
+
+1667
+01:36:24,411 --> 01:36:25,980
+-[lightning] -[Joe] Or maybe we did!
+
+1668
+01:36:26,180 --> 01:36:28,582
+[loud explosion]
+
+1669
+01:36:29,950 --> 01:36:31,952
+[roars]
+
+1670
+01:36:31,986 --> 01:36:33,020
+Alphamon!
+
+1671
+01:36:37,458 --> 01:36:38,459
+[Matt] There's another one.
+
+1672
+01:36:46,066 --> 01:36:48,269
+Who is that guy? I've never seen him before.
+
+1673
+01:36:56,610 --> 01:36:57,878
+[Joe] Just like old times!
+
+1674
+01:37:11,625 --> 01:37:14,094
+[all screaming]
+
+1675
+01:37:18,532 --> 01:37:22,002
+[TK] Well, we got through that like we always do, barely.
+
+1676
+01:37:22,369 --> 01:37:24,205
+Did you see that new digimon?
+
+1677
+01:37:24,471 --> 01:37:26,106
+I wonder who he is?
+
+1678
+01:37:26,140 --> 01:37:28,042
+Pretty sure he's Alphamon's enemy.
+
+1679
+01:37:28,409 --> 01:37:30,044
+I need more than that.
+
+1680
+01:37:30,077 --> 01:37:32,546
+-[computer beeps] -Aha, Jesmon.
+
+1681
+01:37:33,314 --> 01:37:34,515
+What're you thinking?
+
+1682
+01:37:35,716 --> 01:37:37,484
+Just that both of those guys appear to be ultimate level.
+
+1683
+01:37:37,718 --> 01:37:39,119
+Yeah, they did.
+
+1684
+01:37:40,254 --> 01:37:41,488
+I thought that all the digimon would have reverted to
+
+1685
+01:37:41,522 --> 01:37:43,257
+digieggs after the reboot?
+
+1686
+01:37:43,490 --> 01:37:46,126
+Is it possible they escaped the reboot?
+
+1687
+01:37:46,360 --> 01:37:49,396
+And then they somehow managed to digivolve to ultimate level?
+
+1688
+01:37:49,964 --> 01:37:51,532
+Well, what are we supposed to do
+
+1689
+01:37:51,565 --> 01:37:54,368
+if one of those digimon comes after us next time?
+
+1690
+01:37:55,169 --> 01:37:57,037
+-Palmon and the others aren't-- -[muted whistling]
+
+1691
+01:37:57,071 --> 01:37:58,305
+Shh.
+
+1692
+01:37:58,339 --> 01:37:59,373
+What's up?
+
+1693
+01:38:01,008 --> 01:38:02,509
+-You hear that? -Huh?
+
+1694
+01:38:03,377 --> 01:38:06,947
+[whistling]
+
+1695
+01:38:07,248 --> 01:38:08,649
+Sounds like a whistle.
+
+1696
+01:38:09,049 --> 01:38:10,718
+[all sigh]
+
+1697
+01:38:10,751 --> 01:38:12,519
+[Matt] Ah, why are we running again?
+
+1698
+01:38:14,255 --> 01:38:16,156
+-[whistling] -[Matt] Just up ahead.
+
+1699
+01:38:16,991 --> 01:38:19,226
+[all panting]
+
+1700
+01:38:20,194 --> 01:38:23,564
+[whistling continues]
+
+1701
+01:38:24,632 --> 01:38:25,933
+[TK] Togemon...
+
+1702
+01:38:29,503 --> 01:38:33,407
+[childish sounds]
+
+1703
+01:38:35,109 --> 01:38:36,176
+[Tai] Gomamon...
+
+1704
+01:38:36,377 --> 01:38:37,511
+Who are you?
+
+1705
+01:38:37,544 --> 01:38:38,679
+[both] Uh?
+
+1706
+01:38:41,682 --> 01:38:42,983
+[all gasping]
+
+1707
+01:38:44,585 --> 01:38:46,186
+[whistling]
+
+1708
+01:38:46,220 --> 01:38:47,688
+Come on, give it back.
+
+1709
+01:38:47,721 --> 01:38:50,424
+I'll give it back later when I'm done playing with it.
+
+1710
+01:38:51,091 --> 01:38:53,661
+Awesome, but what's the deal with the whistle?
+
+1711
+01:38:53,694 --> 01:38:55,429
+I wanna play! I wanna play!
+
+1712
+01:38:57,298 --> 01:38:58,666
+It sounds pretty.
+
+1713
+01:38:59,133 --> 01:39:01,402
+Just let me play with it a little while longer.
+
+1714
+01:39:02,303 --> 01:39:05,139
+[whistling]
+
+1715
+01:39:05,439 --> 01:39:07,408
+-[Sora] Yokomon! -[digimon squeal in fear]
+
+1716
+01:39:09,276 --> 01:39:10,277
+Who are you?
+
+1717
+01:39:17,284 --> 01:39:18,485
+[whimpers quietly]
+
+1718
+01:39:20,754 --> 01:39:22,089
+Hello there.
+
+1719
+01:39:22,790 --> 01:39:25,192
+And what's your name? I'm new around here.
+
+1720
+01:39:25,559 --> 01:39:27,561
+I'd love to learn more about your world'
+
+1721
+01:39:27,594 --> 01:39:29,263
+'cause it's really prodigious.
+
+1722
+01:39:29,496 --> 01:39:31,365
+Would you tell me about it please?
+
+1723
+01:39:48,449 --> 01:39:50,317
+[stranger] What a touching reunion!
+
+1724
+01:39:56,623 --> 01:39:57,691
+[Himekawa smirks]
+
+1725
+01:40:00,461 --> 01:40:01,729
+[Tai] Look at all of you.
+
+1726
+01:40:02,830 --> 01:40:04,498
+It's great to see you again.
+
+1727
+01:40:12,639 --> 01:40:14,174
+Meiko...
+

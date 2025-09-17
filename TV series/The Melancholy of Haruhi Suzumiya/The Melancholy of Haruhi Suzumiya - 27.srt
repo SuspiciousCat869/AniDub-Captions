@@ -1,0 +1,1733 @@
+﻿1
+00:00:02,697 --> 00:00:06,021
+Lord Suzumiya, we have report from the scout fleet.
+
+2
+00:00:06,400 --> 00:00:08,192
+The enemy ships have been located.
+
+3
+00:00:08,488 --> 00:00:11,363
+Enemy fleet at altitude eight minutes, twenty seconds.
+
+4
+00:00:11,491 --> 00:00:16,267
+Distance to our location is 6.3
+astronomical units at 60% light speed.
+
+5
+00:00:16,403 --> 00:00:19,877
+The enemy's fleet consists of approximately 15,000 ships.
+
+6
+00:00:20,505 --> 00:00:22,880
+They're here! We're gonna annihilate 'em!
+
+7
+00:00:22,964 --> 00:00:24,721
+All ships to battle stations!
+
+8
+00:00:26,701 --> 00:00:27,784
+Aye, aye, ma'am.
+
+9
+00:00:27,846 --> 00:00:29,480
+All ships to battle stations!
+
+10
+00:00:29,571 --> 00:00:31,691
+Set all reactors to combat output.
+
+11
+00:00:31,863 --> 00:00:34,147
+Set all thrusters to first stage speeds.
+
+12
+00:00:34,254 --> 00:00:37,425
+3... 2... 1... Ignition!
+
+13
+00:00:37,579 --> 00:00:41,498
+L-Loading all cannons with super gravitational torpedoes!
+
+14
+00:00:41,697 --> 00:00:46,075
+And um... L-Load the super proton cannon, too.
+
+15
+00:00:46,384 --> 00:00:49,509
+Um... All cannons stand by to fire!
+
+16
+00:00:49,615 --> 00:00:50,920
+Maximum boosters.
+
+17
+00:00:51,104 --> 00:00:52,955
+Initiate electronic warfare.
+
+18
+00:00:52,986 --> 00:00:55,689
+ECM, ECCMs are fully operational.
+
+19
+00:00:55,786 --> 00:00:56,615
+Excellent!
+
+20
+00:00:56,698 --> 00:00:58,492
+All ships, full speed ahead!
+
+21
+00:00:58,870 --> 00:01:02,306
+Hey, Haruhi, don't you think it'd be better
+if you pulled your ships back a little bit?
+
+22
+00:01:02,338 --> 00:01:04,528
+Your fleet shouldn't be so far in front of us.
+
+23
+00:01:04,553 --> 00:01:05,772
+What are you talking about?!
+
+24
+00:01:05,853 --> 00:01:08,618
+I wanna shoot beams and missiles at the enemy, too!
+
+25
+00:01:08,643 --> 00:01:13,214
+Look, when you're playing shogi or chess, the
+king isn't the one who charges into enemy territory.
+
+26
+00:01:13,415 --> 00:01:16,362
+Oh, yeah... Good thinking.
+
+27
+00:01:16,623 --> 00:01:18,777
+Okay, Kyon. You guys take care of it.
+
+28
+00:01:19,234 --> 00:01:22,721
+Go find the enemy leader, and give
+him a good pummeling with your cannons!
+
+29
+00:01:22,746 --> 00:01:23,857
+And make sure you win!
+
+30
+00:01:23,946 --> 00:01:26,422
+I want you to take those fools from the Computer Club,
+
+31
+00:01:26,459 --> 00:01:29,391
+and beat the living daylights out of those geek boys!
+
+32
+00:01:32,142 --> 00:01:34,891
+Wouldn't it better if we just raised the white flag now?
+
+33
+00:01:35,881 --> 00:01:38,255
+Well, I guess that's not gonna be an option today.
+
+34
+00:03:11,477 --> 00:03:12,566
+<i>It is autumn now.</i>
+
+35
+00:03:13,172 --> 00:03:15,854
+<i>And the arts festival ended
+several days ago without incident.</i>
+
+36
+00:03:16,318 --> 00:03:18,307
+<i>Peace and quiet had returned to the campus.</i>
+
+37
+00:03:18,551 --> 00:03:20,784
+<i>You could say, it was just another ordinary day.</i>
+
+38
+00:03:21,339 --> 00:03:26,788
+<i>Then again, I shouldn't be so quick to label an afternoon
+spent at the SOS Brigade headquarters as "ordinary."</i>
+
+39
+00:03:27,938 --> 00:03:31,712
+<i>I mean, every day, I hang out with an
+alien, a time traveler, and an ESPer.</i>
+
+40
+00:03:31,953 --> 00:03:34,196
+<i>And I'm still as sane and objective as ever.</i>
+
+41
+00:03:35,401 --> 00:03:37,327
+<i>I wonder if that makes me special or something.</i>
+
+42
+00:03:37,642 --> 00:03:39,778
+<i>I'm sure Lacan's dying to have a word with me.</i>
+
+43
+00:03:39,882 --> 00:03:41,038
+You seem worried.
+
+44
+00:03:41,392 --> 00:03:42,421
+Is something wrong?
+
+45
+00:03:42,760 --> 00:03:43,169
+Nope.
+
+46
+00:03:46,760 --> 00:03:51,017
+I was just thinking about how awesome I am for
+being able to cope with this absurd situation.
+
+47
+00:03:51,108 --> 00:03:53,766
+And if you ask me, I think I'm due for a little praise.
+
+48
+00:03:54,416 --> 00:03:55,155
+You're right.
+
+49
+00:03:55,442 --> 00:03:58,230
+Well? Would you like me to give
+you some words of praise then?
+
+50
+00:03:58,396 --> 00:04:00,564
+You praising me won't make me any happier.
+
+51
+00:04:00,878 --> 00:04:03,582
+All it'll do is make me think
+you've got something up your sleeve.
+
+52
+00:04:04,846 --> 00:04:05,798
+True enough.
+
+53
+00:04:06,352 --> 00:04:08,047
+I'm sorry this took so long.
+
+54
+00:04:08,553 --> 00:04:10,803
+I bought this stem tea called karigane.
+
+55
+00:04:10,859 --> 00:04:14,078
+It's the first time I've ever
+made it, so I hope I brewed it well!
+
+56
+00:04:14,217 --> 00:04:15,184
+<i>Nonsense.</i>
+
+57
+00:04:15,297 --> 00:04:20,684
+If the divine hands of Miss Asahina touched it, even tap
+water would taste better than melted snow from the Alps!
+
+58
+00:04:21,993 --> 00:04:23,596
+I hope you like the flavor!
+
+59
+00:04:25,035 --> 00:04:26,851
+By the way, where's Miss Suzumiya?
+
+60
+00:04:27,094 --> 00:04:28,289
+She's got cleanup duty.
+
+61
+00:04:29,432 --> 00:04:31,598
+<i>Sure is peaceful when she's not around, isn't it?</i>
+
+62
+00:04:35,827 --> 00:04:37,373
+Yes! I'm coming!
+
+63
+00:04:40,164 --> 00:04:42,849
+It's the president of the Computer Club.
+
+64
+00:04:43,958 --> 00:04:45,612
+Isn't your leader here today?
+
+65
+00:04:47,091 --> 00:04:48,192
+You guys want something?
+
+66
+00:04:49,442 --> 00:04:51,204
+First, I want you to take this.
+
+67
+00:04:53,478 --> 00:04:56,020
+You'll find some game software on that disc.
+
+68
+00:04:56,108 --> 00:04:59,251
+Yeah, it's an original game
+that we designed and developed.
+
+69
+00:04:59,517 --> 00:05:01,665
+We had it on display at the arts festival.
+
+70
+00:05:01,860 --> 00:05:03,171
+Maybe you saw it?
+
+71
+00:05:03,537 --> 00:05:04,537
+I don't remember.
+
+72
+00:05:05,143 --> 00:05:10,249
+<i>The only memory I want to retain from the arts festival
+is the image of Miss Asahina wearing that maid outfit!</i>
+
+73
+00:05:11,208 --> 00:05:11,755
+Really?
+
+74
+00:05:12,256 --> 00:05:14,685
+Perhaps we were exhibiting it in the wrong place?
+
+75
+00:05:14,710 --> 00:05:16,018
+So what did you guys want?
+
+76
+00:05:16,467 --> 00:05:17,298
+That's right!
+
+77
+00:05:17,700 --> 00:05:20,496
+We've come here to challenge you and your brigade thing.
+
+78
+00:05:20,613 --> 00:05:21,589
+A duel!
+
+79
+00:05:21,732 --> 00:05:23,915
+We fight a duel using our game!
+
+80
+00:05:24,147 --> 00:05:25,466
+Really, a duel!
+
+81
+00:05:25,491 --> 00:05:26,562
+We wanna duel against...
+
+82
+00:05:26,587 --> 00:05:27,320
+<i>I beg you...</i>
+
+83
+00:05:27,590 --> 00:05:30,208
+<i>Please stop repeating the word "duel" over and over!</i>
+
+84
+00:05:30,459 --> 00:05:33,125
+<i>If Haruhi's ultra-sharp ears could
+hear you, you'd be as good as...</i>
+
+85
+00:05:34,422 --> 00:05:35,427
+Chief!
+
+86
+00:05:35,513 --> 00:05:38,367
+So, you want a duel? Who are you guys anyway?
+
+87
+00:05:38,481 --> 00:05:43,964
+A-ha, I bet you creeps are some kinda secret
+syndicate trying to muscle my SOS Brigade outta the way.
+
+88
+00:05:44,136 --> 00:05:45,594
+I won't let that happen!
+
+89
+00:05:45,619 --> 00:05:50,789
+Annihilating evil and shining light upon
+darkness is the sworn duty of a hero of justice!
+
+90
+00:05:50,814 --> 00:05:54,132
+Haruhi? You should listen to what
+people have to say before you kick them.
+
+91
+00:05:54,157 --> 00:05:57,836
+Kyon, a duel is a duel from the
+very moment the word is mentioned!
+
+92
+00:05:57,999 --> 00:06:01,060
+Anything the loser says after that is just an excuse.
+
+93
+00:06:02,853 --> 00:06:04,024
+It's you guys?
+
+94
+00:06:04,159 --> 00:06:07,279
+Why are the Computer Club geeks pickin' a fight with us?
+
+95
+00:06:07,394 --> 00:06:10,449
+That's exactly what they were about to
+explain to us before you took 'em out.
+
+96
+00:06:10,647 --> 00:06:12,247
+Oh? They were, huh?
+
+97
+00:06:12,272 --> 00:06:14,525
+Ugh, rotten SOS Brigade.
+
+98
+00:06:15,339 --> 00:06:16,141
+Whatever!
+
+99
+00:06:16,241 --> 00:06:20,585
+We, the members of the Computer Club,
+hereby challenge the SOS Brigade to a duel!
+
+100
+00:06:20,610 --> 00:06:21,656
+A duel, huh?
+
+101
+00:06:22,874 --> 00:06:24,221
+Chief!
+
+102
+00:06:24,755 --> 00:06:27,242
+<i>Come on, guys. It's time to move the story along.</i>
+
+103
+00:06:27,405 --> 00:06:29,322
+Well? What's this all about?
+
+104
+00:06:29,380 --> 00:06:31,339
+We made a game, and we wanna fight you guys in it.
+
+105
+00:06:31,364 --> 00:06:33,861
+And if we win, you have to return "it" to us.
+
+106
+00:06:33,886 --> 00:06:35,604
+What do you mean? Return what?
+
+107
+00:06:35,867 --> 00:06:38,610
+If you're not using it, give back our computer!
+
+108
+00:06:38,773 --> 00:06:40,643
+But, I use this thing all the time!
+
+109
+00:06:40,812 --> 00:06:43,188
+A coupla days ago, we cut our movie on it.
+
+110
+00:06:43,213 --> 00:06:44,564
+<i>Actually, I did that.</i>
+
+111
+00:06:44,712 --> 00:06:46,501
+And we made our homepage with it.
+
+112
+00:06:46,532 --> 00:06:47,552
+<i>Yep, did that, too.</i>
+
+113
+00:06:47,577 --> 00:06:48,744
+What are you talking about?!
+
+114
+00:06:48,769 --> 00:06:50,669
+You barely even update your homepage!
+
+115
+00:06:50,813 --> 00:06:54,040
+<i>Ah-hah, so he's the guy who's always visiting our site.</i>
+
+116
+00:06:54,594 --> 00:06:56,150
+That explains the camel cricket.
+
+117
+00:06:56,400 --> 00:07:00,561
+Wait a second, when I went over there, and I
+said I wanted it, you said you'd give it to me!
+
+118
+00:07:00,906 --> 00:07:02,906
+You remember it, too. Don't you, Kyon?
+
+119
+00:07:03,017 --> 00:07:04,066
+You sure about that?
+
+120
+00:07:04,091 --> 00:07:07,137
+The deal is off! And besides, you bullied me into it!
+
+121
+00:07:07,164 --> 00:07:12,373
+In fact, I'm even willing to forget the mental trauma
+you inflicted upon me when you abducted my computer.
+
+122
+00:07:12,605 --> 00:07:15,974
+Yes, I want to forget it. We should both forget it.
+
+123
+00:07:16,688 --> 00:07:19,480
+Anyway, whatever! We wanna fight you, you got it?!
+
+124
+00:07:19,564 --> 00:07:20,707
+Sure, you got it.
+
+125
+00:07:20,874 --> 00:07:23,910
+If you wanna fight us so bad,
+then we accept your challenge!
+
+126
+00:07:24,139 --> 00:07:26,772
+Now then, what do you guys give us if we win?
+
+127
+00:07:26,877 --> 00:07:28,181
+Well, let's see...
+
+128
+00:07:29,053 --> 00:07:31,386
+How about four brand new laptops?
+
+129
+00:07:31,411 --> 00:07:33,498
+That's one laptop for each member.
+
+130
+00:07:33,523 --> 00:07:34,439
+Are you serious?!
+
+131
+00:07:34,483 --> 00:07:35,358
+Oh, yes.
+
+132
+00:07:35,422 --> 00:07:38,788
+Really? I'm not gonna let you
+call it off if you change your mind.
+
+133
+00:07:38,876 --> 00:07:39,852
+You understand?
+
+134
+00:07:39,877 --> 00:07:41,907
+Don't worry. You have my word.
+
+135
+00:07:41,985 --> 00:07:44,515
+You're pretty confident, aren't you? All right.
+
+136
+00:07:45,049 --> 00:07:48,190
+Now that I think about it, you guys
+don't have any girls in your club.
+
+137
+00:07:48,276 --> 00:07:50,642
+If you guys beat us, we'll give her to you.
+
+138
+00:07:50,748 --> 00:07:51,717
+How 'bout that?
+
+139
+00:07:52,494 --> 00:07:55,130
+I'm sure you guys can find a good use for Yuki!
+
+140
+00:07:55,256 --> 00:07:59,828
+Since you're putting up four computers against
+the one we have, Yuki helps to even out the stakes!
+
+141
+00:07:59,853 --> 00:08:00,482
+Yeah! Well...
+
+142
+00:08:00,507 --> 00:08:00,985
+<i>No.</i>
+
+143
+00:08:01,136 --> 00:08:04,339
+<i>There's a big difference between
+the specs of four laptops and Nagato.</i>
+
+144
+00:08:04,380 --> 00:08:05,759
+But you wouldn't know that.
+
+145
+00:08:06,010 --> 00:08:08,451
+Really? Then do you want Mikuru instead?
+
+146
+00:08:11,152 --> 00:08:12,859
+Why don't you be the prize?
+
+147
+00:08:12,885 --> 00:08:15,647
+If you're gonna bet anything, how
+'bout you go ahead and bet your own body?
+
+148
+00:08:15,672 --> 00:08:17,505
+Stop being so selfish for once.
+
+149
+00:08:17,646 --> 00:08:19,179
+What are you talking about?!
+
+150
+00:08:19,283 --> 00:08:22,942
+Are you forgetting that I'm the divine
+and sacred figurehead of the SOS Brigade?!
+
+151
+00:08:23,030 --> 00:08:24,316
+I'm your leader, dummy!
+
+152
+00:08:24,479 --> 00:08:28,730
+I will never give up this position except
+to the person I feel is the chosen one.
+
+153
+00:08:28,755 --> 00:08:31,380
+<i>You mean you're gonna stay here even after you graduate?!</i>
+
+154
+00:08:31,581 --> 00:08:33,605
+What's it gonna be? Who do you prefer?
+
+155
+00:08:33,724 --> 00:08:35,522
+Well... I... Uh...
+
+156
+00:08:35,606 --> 00:08:37,525
+I see, so that's how it's gonna be.
+
+157
+00:08:37,555 --> 00:08:39,094
+If you insist, you can have me.
+
+158
+00:08:39,119 --> 00:08:41,882
+No! No! Absolutely no. No way.
+
+159
+00:08:42,832 --> 00:08:47,080
+The game is an online space battle
+simulator. Five players versus five.
+
+160
+00:08:47,229 --> 00:08:50,205
+The battle will begin at 4:00, one week from today.
+
+161
+00:08:50,230 --> 00:08:52,849
+Until then, you should brush up on your skills.
+
+162
+00:08:52,874 --> 00:08:54,966
+We'll be disappointed if you're too weak.
+
+163
+00:08:55,189 --> 00:08:56,904
+<i>He's acting like he's already won.</i>
+
+164
+00:08:57,102 --> 00:09:00,043
+How generous of you to give us our prizes in advance!
+
+165
+00:09:01,145 --> 00:09:04,009
+After all, each brigade member
+should have their own computer!
+
+166
+00:09:04,089 --> 00:09:06,096
+<i>And she's acting the exact same way.</i>
+
+167
+00:09:07,817 --> 00:09:09,225
+About this duel coming up,
+
+168
+00:09:09,506 --> 00:09:11,120
+let's just try not to cheat, okay?
+
+169
+00:09:11,145 --> 00:09:12,452
+Cheat? Us?
+
+170
+00:09:12,726 --> 00:09:13,880
+Yeah, this time around,
+
+171
+00:09:13,905 --> 00:09:19,196
+all alien, futuristic, and ESPer methods of
+cheating are 100% completely off-limits. You got that?
+
+172
+00:09:19,344 --> 00:09:23,755
+We will fight fairly and accept the outcome,
+whatever that may be. That is the best way.
+
+173
+00:09:23,910 --> 00:09:26,139
+Then you won't mind if we just happen to lose the game.
+
+174
+00:09:26,359 --> 00:09:30,165
+That's right. The only thing we're gonna
+lose is that computer we stole from them.
+
+175
+00:09:30,396 --> 00:09:32,005
+And I guess that's not such a big deal.
+
+176
+00:09:32,639 --> 00:09:36,907
+<i>Although, if that does happen, I'm
+gonna need to relocate the Asahina gallery.</i>
+
+177
+00:09:37,980 --> 00:09:42,914
+Oh, I'm not talkin' about the computer. Miss
+Suzumiya doesn't like to lose at anything, ever.
+
+178
+00:09:42,939 --> 00:09:43,652
+Remember?
+
+179
+00:09:44,126 --> 00:09:47,701
+Whenever she feels like she's going
+to lose, she creates closed space.
+
+180
+00:09:47,980 --> 00:09:50,147
+And then, she lets those you-know-what's loose.
+
+181
+00:09:50,505 --> 00:09:51,755
+You'll be okay with that?
+
+182
+00:09:51,924 --> 00:09:53,127
+I don't really care.
+
+183
+00:09:53,411 --> 00:09:55,891
+Besides, it's about damn time
+that girl learned her lesson.
+
+184
+00:09:58,188 --> 00:09:59,663
+What's up? You're creeping me out.
+
+185
+00:09:59,802 --> 00:10:02,388
+No, sorry. I just got a bit jealous, is all.
+
+186
+00:10:02,563 --> 00:10:07,497
+I admit, I'm a little envious of the invisible
+trust that exists between Miss Suzumiya and yourself.
+
+187
+00:10:07,714 --> 00:10:09,830
+I don't have any idea what you're talking about.
+
+188
+00:10:09,952 --> 00:10:13,099
+Let's say we lose the game
+against the Computer Club next week,
+
+189
+00:10:13,688 --> 00:10:16,105
+and based on what you've already seen with your own eyes,
+
+190
+00:10:16,130 --> 00:10:19,958
+you're choosing to believe that Miss
+Suzumiya won't create a closed space this time.
+
+191
+00:10:20,515 --> 00:10:22,837
+Well? That's because you trust her.
+
+192
+00:10:23,189 --> 00:10:27,672
+Then, there's Miss Suzumiya. She believes you're
+the one who's goin' to lead our team to victory.
+
+193
+00:10:27,813 --> 00:10:29,432
+So, she trusts you.
+
+194
+00:10:29,785 --> 00:10:33,950
+She's so confident she's going to win that
+she'd risk losing her own members in the wager.
+
+195
+00:10:34,266 --> 00:10:35,558
+That, is trust.
+
+196
+00:10:36,106 --> 00:10:38,182
+Although she'd never come right out and say it,
+
+197
+00:10:38,609 --> 00:10:43,488
+the truth of the matter is that between the two of
+you, there is the most ideal bond of trust I've ever seen.
+
+198
+00:10:49,213 --> 00:10:51,684
+"The Day of Sagittarius Part Three," huh?
+
+199
+00:10:51,822 --> 00:10:54,519
+So there was a part one and part two before this version?
+
+200
+00:10:54,562 --> 00:10:55,233
+Lame.
+
+201
+00:10:55,263 --> 00:10:57,469
+Sounds like they were going for something cool sounding.
+
+202
+00:10:57,639 --> 00:10:59,143
+Doesn't make any sense, though.
+
+203
+00:10:59,434 --> 00:11:02,715
+<i>What're you talking about? Is
+the "SOS Brigade" any better?</i>
+
+204
+00:11:03,145 --> 00:11:05,383
+Well, at least the game looks simple enough to play.
+
+205
+00:11:06,219 --> 00:11:09,630
+Each of the five players is
+given a fleet of 15,000 space ships,
+
+206
+00:11:09,713 --> 00:11:11,753
+which they're able to command from their own computer.
+
+207
+00:11:12,995 --> 00:11:17,100
+You win the game by destroying all the enemy
+ships or by blowing up the enemy leader's flagship.
+
+208
+00:11:18,583 --> 00:11:20,078
+What's with this bright spot?
+
+209
+00:11:20,208 --> 00:11:21,514
+That's your line of sight.
+
+210
+00:11:21,921 --> 00:11:24,890
+You can see enemy and obstacles
+only when they're inside that bubble.
+
+211
+00:11:25,334 --> 00:11:30,102
+In order to play, you'll have to send out scout
+ships from your fleet to increase your field of vision.
+
+212
+00:11:30,552 --> 00:11:34,562
+Basically, in order to win this thing, it looks
+like you need to find out where your enemy is,
+
+213
+00:11:34,645 --> 00:11:36,287
+and take 'em out as fast as you can.
+
+214
+00:11:36,484 --> 00:11:39,075
+So you can't see the enemy in the beginning?
+
+215
+00:11:40,405 --> 00:11:44,368
+Um, Kyon? I, uh... I'm not really good at stuff like this.
+
+216
+00:11:44,393 --> 00:11:46,294
+I don't think I understand it at all.
+
+217
+00:11:46,319 --> 00:11:47,286
+Hey, don't worry.
+
+218
+00:11:47,334 --> 00:11:50,403
+Just take your time, get used to the
+controls, and try and have some fun with it.
+
+219
+00:11:50,428 --> 00:11:52,162
+This is not supposed to be fun!
+
+220
+00:11:52,187 --> 00:11:55,752
+We're gonna crush the Computer Club
+so hard, they won't be able to stand up!
+
+221
+00:11:55,911 --> 00:11:57,745
+Now let's get some training happening!
+
+222
+00:11:57,885 --> 00:12:02,036
+Naturally, I'll be commanding this
+outfit. Now hop to it! Battle positions!
+
+223
+00:12:02,187 --> 00:12:04,153
+<i>At least we've got Nagato on our side.</i>
+
+224
+00:12:05,007 --> 00:12:07,190
+<i>I take it back. We're dead!</i>
+
+225
+00:12:07,645 --> 00:12:09,263
+All ships, attack!
+
+226
+00:12:13,844 --> 00:12:15,298
+All ships, attack!
+
+227
+00:12:19,026 --> 00:12:20,549
+All ships, attack!
+
+228
+00:12:22,524 --> 00:12:24,107
+All ships, attack!
+
+229
+00:12:25,436 --> 00:12:27,512
+We got beat again!
+
+230
+00:12:27,537 --> 00:12:29,953
+Killing in this rotten game's irritating me!
+
+231
+00:12:30,058 --> 00:12:31,808
+It's because you keep rushing in!
+
+232
+00:12:31,947 --> 00:12:34,022
+You don't just charge into battle in the beginning.
+
+233
+00:12:34,107 --> 00:12:36,430
+Geez! This thing is such a drag!
+
+234
+00:12:36,619 --> 00:12:39,316
+I'd much rather play something easier to understand.
+
+235
+00:12:42,114 --> 00:12:44,559
+<i>Is it just me or are you having fun over there?</i>
+
+236
+00:12:45,524 --> 00:12:49,296
+<i>I meant what I said before, There's
+absolutely no cheating this time, okay?</i>
+
+237
+00:12:55,539 --> 00:12:58,474
+Today, the skies are clear and the waves are high.
+
+238
+00:12:58,687 --> 00:13:01,353
+This battle will decide the destiny of the empire!
+
+239
+00:13:01,423 --> 00:13:03,782
+And believe me, this is just the beginning.
+
+240
+00:13:04,108 --> 00:13:06,370
+We'll vaporize anything that gets in our way.
+
+241
+00:13:06,467 --> 00:13:09,845
+The SOS Brigade will make its name
+known to the ends of the universe!
+
+242
+00:13:09,870 --> 00:13:15,410
+One day I'll talk to the Board of Education about creating
+branches of the SOS Brigade in every public school!
+
+243
+00:13:15,479 --> 00:13:19,067
+Obviously, we're going to win,
+but I still won't allow any slacking!
+
+244
+00:13:19,388 --> 00:13:20,893
+Now, pulverize 'em!
+
+245
+00:13:21,497 --> 00:13:23,689
+<i>Whatever gives her that confidence, I want it.</i>
+
+246
+00:13:23,906 --> 00:13:26,018
+<i>Even if it's only two milligrams, I want it.</i>
+
+247
+00:13:26,560 --> 00:13:29,417
+Oh, really? Do you want me to pump some into you?
+
+248
+00:13:33,660 --> 00:13:35,264
+There! Bet that did the trick!
+
+249
+00:13:35,376 --> 00:13:37,855
+What good does it do to stare
+at me and make me uncomfortable?
+
+250
+00:13:37,929 --> 00:13:40,823
+I charged my glare with a bunch
+of energy and sent it to you!
+
+251
+00:13:41,071 --> 00:13:43,493
+You probably felt something like your body getting warmer.
+
+252
+00:13:43,630 --> 00:13:45,018
+Maybe you're starting to sweat!
+
+253
+00:13:45,139 --> 00:13:47,087
+You feel it, don't you? You feel it?
+
+254
+00:13:47,293 --> 00:13:49,554
+<i>No, I felt like my life was in danger.</i>
+
+255
+00:13:49,700 --> 00:13:51,439
+Looks like the game's about to begin.
+
+256
+00:14:03,256 --> 00:14:04,772
+All ships, ahead!
+
+257
+00:14:05,717 --> 00:14:07,404
+<i>Well, the game's begun.</i>
+
+258
+00:14:07,804 --> 00:14:10,763
+<i>And as luck would have it, we've
+just run across an enemy fleet.</i>
+
+259
+00:14:11,609 --> 00:14:15,087
+<i>Thanks to Nagato, we've somehow managed
+to figure out the enemy's movements.</i>
+
+260
+00:14:15,404 --> 00:14:19,450
+<i>She scouts and fights the enemy
+simultaneously. Talk about bravery.</i>
+
+261
+00:14:19,879 --> 00:14:24,279
+<i>Miss Asahina, the gaming novice, and Haruhi,
+the charging idiot, are completely useless.</i>
+
+262
+00:14:24,548 --> 00:14:27,078
+<i>It's five against three, and we're the ones outnumbered.</i>
+
+263
+00:14:27,825 --> 00:14:31,771
+The enemy's usin' a "V" formation to
+try to lure us into their firing range.
+
+264
+00:14:31,796 --> 00:14:34,023
+I think we should counter with a defensive strategy.
+
+265
+00:14:34,509 --> 00:14:38,660
+Sounds like a great plan. But what would
+Haruhi say about this strategy of yours?
+
+266
+00:14:40,525 --> 00:14:41,117
+What the...?!
+
+267
+00:14:41,470 --> 00:14:43,468
+We're being attacked by another enemy fleet?
+
+268
+00:14:43,725 --> 00:14:45,064
+Where'd these guys come from?!
+
+269
+00:14:45,322 --> 00:14:46,912
+They're goin' after my fleet, too!
+
+270
+00:14:47,309 --> 00:14:48,871
+How did they figure out where we were?
+
+271
+00:14:49,493 --> 00:14:52,421
+What're you doing?! Hurry up and start retaliating!
+
+272
+00:14:52,485 --> 00:14:54,204
+I didn't need you to tell me that.
+
+273
+00:14:54,799 --> 00:14:57,462
+Starboard, 90 degrees. Open all cannons.
+
+274
+00:14:57,705 --> 00:15:00,238
+It sounds like someone's getting serious about this game.
+
+275
+00:15:00,597 --> 00:15:05,201
+Enemy fleet in range! Beam
+cannons, open fire! Wait, hang on!
+
+276
+00:15:06,197 --> 00:15:07,444
+Damn, they got away.
+
+277
+00:15:07,508 --> 00:15:11,571
+Same over here. They unloaded on us for
+a bit, then they vanished into thin air.
+
+278
+00:15:11,960 --> 00:15:13,654
+The old hit-and-run tactic, huh?
+
+279
+00:15:14,018 --> 00:15:15,923
+Whoa! They're back. Other side.
+
+280
+00:15:16,304 --> 00:15:17,729
+They're just picking us off.
+
+281
+00:15:17,835 --> 00:15:20,562
+What are you doing, slow poke?! They're getting away!
+
+282
+00:15:20,587 --> 00:15:24,552
+I know! But I can't do anything to stop
+them! Those jerks are hitting us from both sides!
+
+283
+00:15:24,577 --> 00:15:26,501
+It's time to launch the... dams.
+
+284
+00:15:27,066 --> 00:15:28,338
+Here I go! Wait!
+
+285
+00:15:31,389 --> 00:15:34,489
+Can someone please tell me where I am right now?
+
+286
+00:15:34,710 --> 00:15:38,201
+I can't take this anymore!
+Attention, fleets! Full speed ahead!
+
+287
+00:15:38,226 --> 00:15:41,126
+I'm gonna find the enemy leader and pummel him to bits!
+
+288
+00:15:41,570 --> 00:15:43,178
+What're you doing? Pull back!
+
+289
+00:15:43,252 --> 00:15:44,889
+He's right; leave this to us!
+
+290
+00:15:44,914 --> 00:15:48,667
+Out of my way! The leaders are
+gonna duke this out, one on one!
+
+291
+00:15:48,692 --> 00:15:50,486
+Fall back! We don't even know where he is!
+
+292
+00:15:50,511 --> 00:15:52,500
+Then leave it to me! I'll find him!
+
+293
+00:15:52,525 --> 00:15:53,988
+I'm telling you, fall back!
+
+294
+00:15:54,087 --> 00:15:56,546
+Let's calm down. The enemy's shooting at us.
+
+295
+00:15:56,571 --> 00:15:58,788
+Hey, guys! Where did everyone go...
+
+296
+00:15:58,819 --> 00:16:00,164
+Move!
+
+297
+00:16:00,189 --> 00:16:01,939
+I can't! I'm stuck here!
+
+298
+00:16:02,775 --> 00:16:04,090
+<i>We're gonna lose this thing.</i>
+
+299
+00:16:06,420 --> 00:16:07,037
+What the...?!
+
+300
+00:16:07,277 --> 00:16:08,978
+Wow, she split up her fleet.
+
+301
+00:16:09,343 --> 00:16:10,275
+You can do that?
+
+302
+00:16:10,520 --> 00:16:12,603
+I remember reading about it in the back of the manual.
+
+303
+00:16:12,969 --> 00:16:16,965
+Apparently, you can split your fleet up
+into 20 squadrons and control them separately.
+
+304
+00:16:17,835 --> 00:16:22,467
+The thing is, it isn't humanly possible to
+control so many squadrons at the same time.
+
+305
+00:16:22,583 --> 00:16:24,066
+So, nobody was doing it.
+
+306
+00:16:24,596 --> 00:16:26,513
+<i>Isn't humanly possible, huh?</i>
+
+307
+00:16:29,392 --> 00:16:32,564
+Aren't you afraid you'll break
+the keyboard hitting it that hard?
+
+308
+00:16:32,594 --> 00:16:36,608
+Anyone accepting defeat will be punished
+by running ten laps around the school!
+
+309
+00:16:36,878 --> 00:16:37,669
+Naked!
+
+310
+00:16:37,780 --> 00:16:41,516
+And you'll have to yell, "Green martians
+"are chasing me!" for the whole ten laps!
+
+311
+00:16:41,594 --> 00:16:42,862
+Uh... You know... Hm?
+
+312
+00:16:44,385 --> 00:16:48,454
+<i>Um, Miss Nagato? Yeah, hi. What
+exactly are you doing right now?</i>
+
+313
+00:16:49,911 --> 00:16:50,789
+Hey, Nagato.
+
+314
+00:16:51,011 --> 00:16:51,426
+What?
+
+315
+00:16:51,797 --> 00:16:54,545
+I thought I told you before that
+we weren't gonna cheat this time.
+
+316
+00:16:54,741 --> 00:16:58,902
+I am not. Currently, I am not
+engaged in manipulating special data.
+
+317
+00:16:59,066 --> 00:17:00,943
+I am adhering to the rules of the game.
+
+318
+00:17:01,388 --> 00:17:02,868
+Uh... You're serious?
+
+319
+00:17:03,006 --> 00:17:06,397
+I am serious. The Computer
+Club is the one that is cheating.
+
+320
+00:17:06,682 --> 00:17:08,841
+They are? Then, what are they doing?
+
+321
+00:17:09,699 --> 00:17:11,765
+They've deactivated their scouting mode.
+
+322
+00:17:11,876 --> 00:17:16,744
+Since the beginning of the game, everything on
+the map, including our positions, has been visible.
+
+323
+00:17:17,077 --> 00:17:19,333
+It's amazing! I understood what you just said.
+
+324
+00:17:20,406 --> 00:17:24,325
+They've got it fixed so that we can't see where
+they're hiding, but they can see where we are.
+
+325
+00:17:24,651 --> 00:17:26,162
+It's no wonder they're killing us.
+
+326
+00:17:26,187 --> 00:17:26,678
+Yes.
+
+327
+00:17:26,703 --> 00:17:30,022
+Since we started playing, we
+never had any option except losing.
+
+328
+00:17:30,133 --> 00:17:31,387
+I want to change that.
+
+329
+00:17:33,380 --> 00:17:35,551
+Okay, they've been cheating, I understand that.
+
+330
+00:17:35,907 --> 00:17:40,838
+However, if we start using magic to cheat back at them,
+at the end of the day, we're no better than they are!
+
+331
+00:17:41,176 --> 00:17:44,275
+You get where I'm coming from?
+In fact, we'd be worse than them.
+
+332
+00:17:44,423 --> 00:17:47,128
+I repeat, I am not disobeying your orders.
+
+333
+00:17:47,248 --> 00:17:52,388
+I would like to modify the program in a matter that is
+consistent with the current levels of earth technology...
+
+334
+00:17:52,413 --> 00:17:54,709
+ensuring equal playing conditions.
+
+335
+00:17:55,956 --> 00:17:56,741
+May I?
+
+336
+00:18:03,098 --> 00:18:04,903
+<i>Are you doing this because you want to win?</i>
+
+337
+00:18:14,648 --> 00:18:16,003
+Okay! Let's do it then!
+
+338
+00:18:19,575 --> 00:18:20,206
+Done.
+
+339
+00:18:21,163 --> 00:18:22,866
+Nice! Very Nice!
+
+340
+00:18:22,982 --> 00:18:27,088
+I was a little worried there when they fired up
+the squadron mode, but we've still got the advantage.
+
+341
+00:18:27,268 --> 00:18:29,654
+We see them, but they can't see us.
+
+342
+00:18:30,077 --> 00:18:33,246
+Time to wrap this up. Destroy them!
+
+343
+00:18:33,271 --> 00:18:35,363
+Annihilate the SOS Brigade!
+
+344
+00:18:37,270 --> 00:18:37,894
+Wha...?!
+
+345
+00:18:37,986 --> 00:18:40,404
+Chief! Scouting mode has been activated!
+
+346
+00:18:43,812 --> 00:18:45,563
+They're attacking our blind spot!
+
+347
+00:18:46,081 --> 00:18:48,231
+We can't figure out their movements!
+
+348
+00:18:48,289 --> 00:18:52,142
+What're you idiots doing?!
+Deactivate scouting mode! Turn it off!
+
+349
+00:18:52,167 --> 00:18:54,659
+We can't change it! It's denying access!
+
+350
+00:18:54,684 --> 00:18:56,083
+We're locked out!
+
+351
+00:18:56,151 --> 00:18:57,676
+That's... Impossible!
+
+352
+00:18:57,701 --> 00:19:00,758
+I gotcha! Fire, fire, fire!
+
+353
+00:19:03,942 --> 00:19:04,869
+Say good night!
+
+354
+00:19:04,901 --> 00:19:07,213
+Damn you, Kyon! That's my enemy!
+
+355
+00:19:07,238 --> 00:19:09,697
+We've managed to destroy two of the enemy's fleets.
+
+356
+00:19:09,925 --> 00:19:11,951
+And the others are lookin' a bit confused.
+
+357
+00:19:12,344 --> 00:19:17,038
+Thanks to Miss Nagato's squadrons, it looks like
+the tides of war have finally turned in our favor.
+
+358
+00:19:17,399 --> 00:19:19,447
+Yeah, but the enemy leader's still out there.
+
+359
+00:19:19,595 --> 00:19:20,950
+So how're we gonna take him out?
+
+360
+00:19:21,152 --> 00:19:23,378
+No problem. I'll force him your way.
+
+361
+00:19:24,913 --> 00:19:26,919
+D-dammit!
+
+362
+00:19:27,092 --> 00:19:29,335
+Wow, he's driving his fleet right into our sights!
+
+363
+00:19:29,360 --> 00:19:31,040
+Just like a mouse caught in a trap.
+
+364
+00:19:31,072 --> 00:19:33,560
+Um... Am I supposed to shoot this thing?
+
+365
+00:19:33,676 --> 00:19:36,351
+I don't get what just happened, but great job, guys!
+
+366
+00:19:36,766 --> 00:19:38,374
+All ships, open fire!
+
+367
+00:19:38,475 --> 00:19:41,781
+Go out there and burn the enemy
+leader with all the fires of hell!
+
+368
+00:19:49,456 --> 00:19:50,636
+He's getting away!
+
+369
+00:20:03,170 --> 00:20:07,336
+This can't be happening! Glory to the Computer Club!
+
+370
+00:20:13,228 --> 00:20:15,049
+I lost... We were beaten...
+
+371
+00:20:15,607 --> 00:20:19,465
+I'll apologize now. I admit it, I'm sorry.
+
+372
+00:20:19,981 --> 00:20:21,452
+But I can't believe... I...
+
+373
+00:20:21,562 --> 00:20:25,876
+I just can't believe the program
+was rewritten during game-play!
+
+374
+00:20:26,110 --> 00:20:27,398
+That's impossible!
+
+375
+00:20:27,456 --> 00:20:31,650
+What are you mumbling about? Whatever.
+You do remember your promise, right?
+
+376
+00:20:31,675 --> 00:20:36,492
+These laptops belong to the SOS Brigade
+now, and I won't let you back out of it.
+
+377
+00:20:36,795 --> 00:20:37,271
+Hey...
+
+378
+00:20:38,731 --> 00:20:40,671
+Tell me, I wanna know who did it.
+
+379
+00:20:41,010 --> 00:20:44,370
+Whoever cracked that program
+has to be some kinda super hacker.
+
+380
+00:20:44,986 --> 00:20:47,223
+Never-mind, I think I know who it was.
+
+381
+00:20:51,173 --> 00:20:52,366
+If you ever have free time,
+
+382
+00:20:52,391 --> 00:20:57,462
+I was wondering if you'd consider
+participating in Computer Club activities. Please?
+
+383
+00:20:57,773 --> 00:20:59,514
+<i>Great, he's trying to recruit Yuki.</i>
+
+384
+00:20:59,565 --> 00:21:03,437
+Whoa! Hang on! You can't just rent
+Yuki without my permission! Got it!?
+
+385
+00:21:03,498 --> 00:21:08,895
+She's the silent character in the SOS Brigade
+line-up! And besides, I saw her first, so there!
+
+386
+00:21:09,303 --> 00:21:10,111
+Hang on.
+
+387
+00:21:13,138 --> 00:21:16,567
+<i>I think that even someone like
+Nagato has to have other interests.</i>
+
+388
+00:21:16,971 --> 00:21:18,245
+<i>Now, I can't be sure,</i>
+
+389
+00:21:18,576 --> 00:21:21,976
+<i>but it looked to me like she was having
+fun, pounding away on that keyboard.</i>
+
+390
+00:21:22,362 --> 00:21:26,848
+<i>Besides, I'll bet she gets tired of
+observing Haruhi all the time. I know I would.</i>
+
+391
+00:21:27,201 --> 00:21:32,883
+<i>I mean, even a humanoid interface designed for contact
+with organic life forms needs a break every now and then.</i>
+
+392
+00:21:34,530 --> 00:21:35,963
+Just do what you want, okay?
+
+393
+00:21:36,705 --> 00:21:40,747
+If you feel like going next door, and playing
+around on their computers, it's totally cool.
+
+394
+00:21:49,679 --> 00:21:50,553
+Perhaps I will.
+
+395
+00:21:50,672 --> 00:21:51,574
+Seriously?!
+
+396
+00:21:51,599 --> 00:21:53,149
+Oh, thank you!
+
+397
+00:21:53,177 --> 00:21:53,899
+There you go.
+
+398
+00:21:54,095 --> 00:21:56,633
+I guess it's okay if Yuki's fine with it.
+
+399
+00:21:57,127 --> 00:21:58,147
+Oh, by the way...
+
+400
+00:21:58,793 --> 00:22:00,573
+The Computer Club lost the game!
+
+401
+00:22:00,790 --> 00:22:04,227
+And as the losers, you have to do
+whatever the winners tell you to do!
+
+402
+00:22:04,252 --> 00:22:04,770
+What?!
+
+403
+00:22:04,824 --> 00:22:07,839
+All you need to do is swear your absolute loyalty to me.
+
+404
+00:22:07,969 --> 00:22:10,454
+Oh, don't worry. I'll treat you nice.
+
+405
+00:22:10,990 --> 00:22:15,252
+And if you guys work real hard, I just
+might let you become a member of the brigade!
+
+406
+00:22:15,472 --> 00:22:18,421
+Koizumi! Draw up a contract for him to sign!
+
+407
+00:22:18,547 --> 00:22:20,189
+As you wish, Your Highness.
+

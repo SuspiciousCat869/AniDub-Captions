@@ -1,0 +1,1412 @@
+﻿1
+00:01:48,848 --> 00:01:51,726
+[SAKI]
+Mom? Mommy?
+
+2
+00:01:58,608 --> 00:02:00,610
+[SAKI]
+This place is so pretty, Mommy.
+
+3
+00:02:00,694 --> 00:02:01,861
+[SAKI'S MOM]
+Isn't it?
+
+4
+00:02:01,945 --> 00:02:03,905
+When you grow up, Saki,
+promise me something.
+
+5
+00:02:03,988 --> 00:02:05,740
+That you'll do your
+best to be as gentle
+
+6
+00:02:05,824 --> 00:02:07,450
+as the flowers in this meadow.
+
+7
+00:02:07,534 --> 00:02:08,743
+[SAKI]
+Okay!
+
+8
+00:02:27,554 --> 00:02:29,180
+[SAKI'S MOM]
+I'm sorry.
+
+9
+00:02:36,980 --> 00:02:38,189
+[SAKI'S MOM]
+Saki.
+
+10
+00:02:38,273 --> 00:02:41,276
+Mommy can't take any more
+of this cruel world.
+
+11
+00:02:41,359 --> 00:02:42,861
+[SAKI]
+Mommy!
+
+12
+00:02:43,862 --> 00:02:45,613
+[SAKI'S MOM]
+I'm sorry.
+
+13
+00:02:50,368 --> 00:02:54,289
+[SAKI] My mother was a kind
+person, but she was weak.
+
+14
+00:02:55,290 --> 00:02:57,334
+[SAKI] If kindness and
+humanity have the power
+
+15
+00:02:57,417 --> 00:03:01,004
+to kill a person,
+then I have no need of them.
+
+16
+00:03:15,310 --> 00:03:16,478
+[OPERATOR 21A]
+The Comet Empire has reached
+
+17
+00:03:16,561 --> 00:03:18,313
+Mars Absolute Defense Zone.
+
+18
+00:03:18,396 --> 00:03:20,565
+Over 20,000 enemy
+ships and counting!
+
+19
+00:03:20,648 --> 00:03:22,942
+[OPERATOR 21B] We lost contact
+with the triple B Fleet
+
+20
+00:03:23,026 --> 00:03:25,403
+when they executed a short
+warp into the comet!
+
+21
+00:03:25,487 --> 00:03:26,988
+[OPERATOR 21C] Speed of the
+Comet Empire's advance
+
+22
+00:03:27,072 --> 00:03:28,365
+remains steady!
+
+23
+00:03:28,448 --> 00:03:30,909
+Impossible. They don't
+have an unlimited
+
+24
+00:03:30,992 --> 00:03:32,827
+number of ships
+at their disposal.
+
+25
+00:03:32,911 --> 00:03:35,538
+If we can just continue to
+whittle down their numbers
+
+26
+00:03:35,622 --> 00:03:38,833
+with the Wave Motion Gun
+Fleet, we can still win.
+
+27
+00:03:38,917 --> 00:03:40,919
+Any sign of the <i>Yamato</i> ?
+
+28
+00:03:41,002 --> 00:03:42,337
+[OPERATOR 21D]
+According to the Yamanami Fleet,
+
+29
+00:03:42,420 --> 00:03:43,963
+which rescued some
+of their crew,
+
+30
+00:03:44,047 --> 00:03:45,298
+there's been no further contact
+
+31
+00:03:45,382 --> 00:03:47,133
+since they fell
+inside the comet.
+
+32
+00:03:47,217 --> 00:03:49,678
+[OPERATOR 21E]
+It's possible that they're...
+
+33
+00:03:49,761 --> 00:03:51,638
+[SAITO]
+Huh? Come again?
+
+34
+00:03:51,721 --> 00:03:53,640
+[KEYMAN]
+A safety mechanism.
+
+35
+00:03:53,723 --> 00:03:58,687
+If what they say is true, then
+the Zemurians had a failsafe.
+
+36
+00:03:58,770 --> 00:04:01,690
+Some kind of device that would
+allow them to enslave Gatlantis.
+
+37
+00:04:01,773 --> 00:04:03,650
+Permanently, it seems.
+
+38
+00:04:06,361 --> 00:04:07,862
+So, tell us.
+
+39
+00:04:07,946 --> 00:04:10,865
+We only let you onboard
+to give us information.
+
+40
+00:04:10,949 --> 00:04:12,450
+[ZEMURIAN CHILD 20A]
+The answer's a secret.
+
+41
+00:04:12,534 --> 00:04:14,661
+[ZEMURIAN CHILD 20B] One that
+we cannot share with outsiders.
+
+42
+00:04:14,744 --> 00:04:17,205
+[TOKO]
+Give him what he wants.
+
+43
+00:04:17,288 --> 00:04:19,791
+As the last surviving Zemurian,
+
+44
+00:04:19,874 --> 00:04:23,586
+I will be listening to
+everything you tell them.
+
+45
+00:04:23,670 --> 00:04:24,796
+[ZEMURIAN CHILD 20B]
+The one that will play
+
+46
+00:04:24,879 --> 00:04:26,172
+the tune of destruction.
+
+47
+00:04:26,256 --> 00:04:27,465
+[ZEMURIAN CHILD 20A]
+The cornerstone of control
+
+48
+00:04:27,549 --> 00:04:28,925
+over Gatlantis.
+
+49
+00:04:29,009 --> 00:04:31,386
+[ZEMURIAN CHILD 20B]
+The tool of oppression.
+
+50
+00:04:31,469 --> 00:04:34,389
+[ZEMURIAN CHILDREN] It is
+known by the name of Golem.
+
+51
+00:04:34,472 --> 00:04:36,099
+Interesting.
+
+52
+00:04:36,182 --> 00:04:38,226
+[ZEMURIAN CHILD 20A] Golem was
+created in the distant past,
+
+53
+00:04:38,309 --> 00:04:39,853
+by the ancient Zemurians.
+
+54
+00:04:39,936 --> 00:04:41,896
+[ZEMURIAN CHILD 20B] If it is
+activated, it will bring death
+
+55
+00:04:41,980 --> 00:04:44,566
+to all artificial life
+in the universe.
+
+56
+00:04:44,649 --> 00:04:45,775
+[ZEMURIAN CHILD 20A]
+When Zworder rebelled,
+
+57
+00:04:45,859 --> 00:04:47,902
+the very first thing
+he did was steal Golem
+
+58
+00:04:47,986 --> 00:04:49,487
+from the Zemurians.
+
+59
+00:04:49,571 --> 00:04:51,906
+[ZEMURIAN CHILD 20A]
+However, no matter how he tried,
+
+60
+00:04:51,990 --> 00:04:53,908
+he couldn't destroy it.
+
+61
+00:04:53,992 --> 00:04:56,077
+[ZEMURIAN CHILD 20A] The moment
+it senses destruction is near,
+
+62
+00:04:56,161 --> 00:04:57,871
+Golem will begin to sing.
+
+63
+00:04:57,954 --> 00:04:59,789
+[ZEMURIAN CHILD 20B] The tune
+it produces is one that leads
+
+64
+00:04:59,873 --> 00:05:02,292
+to the destruction of
+all artificial cells.
+
+65
+00:05:02,375 --> 00:05:04,794
+[ZEMURIAN CHILD 20A] Throughout
+every corner of the universe.
+
+66
+00:05:04,878 --> 00:05:07,547
+So, you're saying Golem
+still exists somewhere.
+
+67
+00:05:07,630 --> 00:05:09,758
+Tell me where it's being kept!
+
+68
+00:05:11,676 --> 00:05:13,053
+[KODAI]
+Analyzer, what's wrong?
+
+69
+00:05:13,136 --> 00:05:15,889
+Tch. I guess they're onto us.
+
+70
+00:05:15,972 --> 00:05:17,849
+[NAGAKURA]
+The link cut out? But why now?
+
+71
+00:05:17,932 --> 00:05:20,769
+[SAITO] We hadn't even gotten
+to the most important part!
+
+72
+00:05:20,852 --> 00:05:21,603
+[TOKO]
+I'll tell you.
+
+73
+00:05:21,686 --> 00:05:23,355
+[OTHERS gasp]
+
+74
+00:05:25,190 --> 00:05:29,194
+Find Zworder,
+and you'll find Golem, too.
+
+75
+00:05:30,195 --> 00:05:32,822
+[GAIREN]
+They've discovered far too much.
+
+76
+00:05:32,906 --> 00:05:34,741
+[ZWORDER]
+In order to devour Earth,
+
+77
+00:05:34,824 --> 00:05:39,037
+we already knew we'd have
+to cast a planet aside.
+
+78
+00:05:39,120 --> 00:05:41,373
+Eradicate Zemuria.
+
+79
+00:05:42,457 --> 00:05:43,917
+[ZWORDER]
+Is this your guidance?
+
+80
+00:05:44,000 --> 00:05:46,378
+Is this what you wanted as well?
+
+81
+00:05:47,462 --> 00:05:49,005
+[ZWORDER]
+Teresa.
+
+82
+00:06:07,899 --> 00:06:09,109
+What the--?
+
+83
+00:06:09,192 --> 00:06:11,069
+Tectonic shifts occurring
+on planetary scale!
+
+84
+00:06:11,152 --> 00:06:13,196
+Everyone, to your stations!
+
+85
+00:06:13,279 --> 00:06:15,699
+<i>Yamato</i> , prepare to take off!
+
+86
+00:06:47,480 --> 00:06:49,441
+Go on, then, attack.
+
+87
+00:06:53,111 --> 00:06:54,362
+This is an order!
+
+88
+00:06:54,446 --> 00:06:56,906
+From Defense Command
+to all ships!
+
+89
+00:06:56,990 --> 00:07:01,077
+Fight till the end!
+Hold the line at all costs!
+
+90
+00:07:01,161 --> 00:07:05,248
+If you last a day,
+we'll send in the next force.
+
+91
+00:07:05,331 --> 00:07:09,127
+If you last two, double
+that. Three, even more!
+
+92
+00:07:09,210 --> 00:07:11,463
+As long as we have
+the time fault,
+
+93
+00:07:11,546 --> 00:07:14,424
+Earth's forces
+are inexhaustible!
+
+94
+00:07:14,507 --> 00:07:17,093
+Do not falter! Fight!
+
+95
+00:07:17,177 --> 00:07:22,015
+Fight for Earth, and for the
+children of future generations!
+
+96
+00:07:22,098 --> 00:07:23,892
+We must not let
+our civilization,
+
+97
+00:07:23,975 --> 00:07:26,311
+nor the human race,
+come to an end!
+
+98
+00:07:26,394 --> 00:07:28,229
+And we shall not!
+
+99
+00:07:29,939 --> 00:07:31,649
+[SERIZAWA]
+We must survive.
+
+100
+00:07:31,733 --> 00:07:33,818
+No matter what
+we must sacrifice.
+
+101
+00:07:33,902 --> 00:07:36,529
+No matter what we're
+forced to become!
+
+102
+00:07:45,330 --> 00:07:48,208
+[YAMANAMI]
+Autonomous control by an AI.
+
+103
+00:07:48,291 --> 00:07:52,253
+We've finally reached the point
+where I'm the only crew member.
+
+104
+00:07:55,048 --> 00:07:56,424
+[YAMANAMI sighs]
+
+105
+00:07:56,508 --> 00:07:58,802
+[YAMANAMI]
+It's lonely, that's for sure.
+
+106
+00:07:58,885 --> 00:08:01,596
+Isn't it, <i>Andromeda</i> ?
+
+107
+00:08:22,242 --> 00:08:24,536
+[CREW 21A] Three Medarusa-
+class ships were sunk!
+
+108
+00:08:24,619 --> 00:08:27,330
+This is just the beginning!
+Keep pushing!
+
+109
+00:08:30,667 --> 00:08:32,168
+Turn the catapult at once!
+
+110
+00:08:32,252 --> 00:08:34,713
+Prepare to launch
+the Deathvatators!
+
+111
+00:08:48,685 --> 00:08:49,936
+[ALDEBARAN CREW 21A]
+Super-massive enemy carrier
+
+112
+00:08:50,020 --> 00:08:52,188
+has launched scores
+of shipborne planes!
+
+113
+00:08:52,272 --> 00:08:54,566
+Prepare torpedoes,
+and multi-launch missiles,
+
+114
+00:08:54,649 --> 00:08:55,984
+ready to fire!
+
+115
+00:08:56,067 --> 00:08:58,319
+Follow that with a volley
+of graviton spread rounds.
+
+116
+00:08:58,403 --> 00:09:00,280
+Ready? Fire!
+
+117
+00:09:16,963 --> 00:09:18,256
+[gasps]
+
+118
+00:09:20,717 --> 00:09:22,635
+[CREW 21B] Incoming call
+from the <i>Aldebaran</i> .
+
+119
+00:09:22,719 --> 00:09:25,055
+We'll hold the enemy
+here for the time being.
+
+120
+00:09:25,138 --> 00:09:26,806
+Detach your shields and retreat.
+
+121
+00:09:26,890 --> 00:09:28,725
+Head for the space behind Mars.
+
+122
+00:09:28,808 --> 00:09:31,311
+We can't. In the name
+of our Gamilan pride,
+
+123
+00:09:31,394 --> 00:09:32,729
+we'll stay and fight!
+
+124
+00:09:32,812 --> 00:09:35,815
+Detached force inbound.
+It's coming directly from Earth.
+
+125
+00:09:35,899 --> 00:09:36,941
+[gasps]
+
+126
+00:10:02,676 --> 00:10:06,054
+All ships prepare to
+fire Wave Motion Guns.
+
+127
+00:10:16,815 --> 00:10:18,650
+Fire!
+
+128
+00:10:34,624 --> 00:10:36,501
+[HIJIKATA] We'll use the
+force of the crust shattering
+
+129
+00:10:36,584 --> 00:10:37,711
+to take off.
+
+130
+00:10:37,794 --> 00:10:40,088
+Sub-engine starting.
+
+131
+00:10:44,009 --> 00:10:45,093
+[HIJIKATA]
+Kodai, now!
+
+132
+00:10:45,176 --> 00:10:46,845
+Raise the ship, go!
+
+133
+00:11:06,656 --> 00:11:08,616
+[SAIJO]
+High energy belt approaching!
+
+134
+00:11:08,700 --> 00:11:10,744
+<i>Yamato</i> , take off!
+
+135
+00:11:25,592 --> 00:11:28,386
+We've got to get to somewhere
+we can communicate
+
+136
+00:11:28,470 --> 00:11:30,638
+and send information
+about Golem to Earth.
+
+137
+00:11:30,722 --> 00:11:32,974
+Engine! Maximum output!
+
+138
+00:11:47,322 --> 00:11:48,948
+[YAMANAMI] Now there's
+no difference between
+
+139
+00:11:49,032 --> 00:11:52,827
+Earth and Gatlantis. As long
+as the time fault exists,
+
+140
+00:11:52,911 --> 00:11:56,456
+the killing won't end.
+It will go on forever.
+
+141
+00:12:02,545 --> 00:12:06,341
+[YAMANAMI] In trying to rebuild
+our planet, we were confident.
+
+142
+00:12:06,424 --> 00:12:09,678
+We thought we had
+chosen the correct path.
+
+143
+00:12:20,772 --> 00:12:24,234
+[YAMANAMI] If I can just
+destroy that gravity source.
+
+144
+00:12:24,317 --> 00:12:25,443
+[gasps]
+
+145
+00:12:27,529 --> 00:12:28,780
+[YAMANAMI]
+But that's--
+
+146
+00:12:28,863 --> 00:12:31,574
+Why would they destroy
+their own planet?
+
+147
+00:12:31,658 --> 00:12:32,992
+[YAMANAMI gasps]
+
+148
+00:12:37,122 --> 00:12:39,708
+[SHIMA] What did you say?
+Hey, repeat that!
+
+149
+00:12:39,791 --> 00:12:41,251
+[GINGA AI]
+Repeating: the exhaustion level
+
+150
+00:12:41,334 --> 00:12:42,877
+of the Earth-Gamilas
+Combined Fleet
+
+151
+00:12:42,961 --> 00:12:44,838
+has just exceeded 50 percent.
+
+152
+00:12:44,921 --> 00:12:48,591
+As such, this ship will
+no longer engage in battle.
+
+153
+00:12:48,675 --> 00:12:52,095
+We have received orders from
+Command HQ to carry out G Plan.
+
+154
+00:12:52,178 --> 00:12:54,806
+Henceforth, I will be
+assuming partial control
+
+155
+00:12:54,889 --> 00:12:57,142
+of this ship's operations.
+
+156
+00:12:57,225 --> 00:12:58,685
+We're under AI command?
+
+157
+00:12:58,768 --> 00:13:00,395
+What is the meaning of this?
+
+158
+00:13:00,478 --> 00:13:02,772
+What exactly is this G plan?
+
+159
+00:13:02,856 --> 00:13:04,566
+Because we have the time fault,
+
+160
+00:13:04,649 --> 00:13:07,944
+we're able to create an
+endless supply of weapons now.
+
+161
+00:13:08,028 --> 00:13:09,738
+But we're still human,
+
+162
+00:13:09,821 --> 00:13:11,823
+and we'll reach our
+limits very soon.
+
+163
+00:13:11,906 --> 00:13:13,950
+So, in response,
+we'll reduce crew numbers
+
+164
+00:13:14,034 --> 00:13:15,410
+by substituting AI.
+
+165
+00:13:15,493 --> 00:13:18,121
+And also, we'll use our
+weapons more efficiently
+
+166
+00:13:18,204 --> 00:13:19,664
+by modifying the human body.
+
+167
+00:13:19,748 --> 00:13:21,541
+[gasps]
+
+168
+00:13:21,624 --> 00:13:23,918
+This is war, and if
+it keeps dragging on,
+
+169
+00:13:24,002 --> 00:13:25,587
+then we'll resort to
+desperate measures
+
+170
+00:13:25,670 --> 00:13:28,381
+to ensure the
+survival of humanity.
+
+171
+00:13:28,465 --> 00:13:31,801
+So while we still can,
+we're preserving typical DNA.
+
+172
+00:13:31,885 --> 00:13:33,803
+And if worse comes to worse...
+
+173
+00:13:33,887 --> 00:13:37,015
+Then we can escape from Earth
+in pursuit of other frontiers.
+
+174
+00:13:37,098 --> 00:13:38,641
+That's the G Plan, isn't it?
+
+175
+00:13:38,725 --> 00:13:40,226
+How could we do that?
+
+176
+00:13:40,310 --> 00:13:42,520
+Even if we're carrying
+reproductive cells,
+
+177
+00:13:42,604 --> 00:13:45,857
+producing human beings from
+them is a complicated process.
+
+178
+00:13:45,940 --> 00:13:48,109
+And this ship isn't
+equipped for that.
+
+179
+00:13:48,193 --> 00:13:49,152
+[gasps]
+
+180
+00:13:49,235 --> 00:13:50,987
+Right. Do you see?
+
+181
+00:13:51,071 --> 00:13:53,823
+That's why most of the
+<i>Ginga</i> 's crew is female.
+
+182
+00:13:53,907 --> 00:13:57,035
+Fully mechanical production
+will be possible eventually,
+
+183
+00:13:57,118 --> 00:13:59,245
+but it's not at present.
+
+184
+00:13:59,329 --> 00:14:01,498
+The last bastion of humanity.
+
+185
+00:14:01,581 --> 00:14:03,792
+Even if we replace
+limbs with machines,
+
+186
+00:14:03,875 --> 00:14:05,669
+our bodies must remain.
+
+187
+00:14:07,087 --> 00:14:08,338
+If the human race
+is to survive--
+
+188
+00:14:08,421 --> 00:14:10,632
+Do you really have to
+take it to such extremes?!
+
+189
+00:14:10,715 --> 00:14:12,509
+[gasps]
+
+190
+00:14:12,592 --> 00:14:14,803
+[SAKI]
+In order to overcome terror,
+
+191
+00:14:14,886 --> 00:14:17,764
+we have to become
+terror, ourselves.
+
+192
+00:14:17,847 --> 00:14:19,432
+The Wave Motion Gun Fleet.
+
+193
+00:14:19,516 --> 00:14:22,519
+Military expansion
+using the time fault.
+
+194
+00:14:22,602 --> 00:14:24,354
+After living through
+the war with Gamilas
+
+195
+00:14:24,437 --> 00:14:28,441
+and all its destruction,
+this was humanity's solution.
+
+196
+00:14:28,525 --> 00:14:32,028
+People are too weak to exist
+in such a cruel universe.
+
+197
+00:14:32,112 --> 00:14:34,114
+We have to evolve.
+
+198
+00:14:35,824 --> 00:14:37,534
+[YAMANAMI] Priority
+Transmission to all ships
+
+199
+00:14:37,617 --> 00:14:39,953
+from the <i>Andromeda</i> .
+Do you read?
+
+200
+00:14:40,036 --> 00:14:41,287
+I've found the <i>Yamato</i> !
+
+201
+00:14:41,371 --> 00:14:42,914
+[gasps]
+
+202
+00:14:42,997 --> 00:14:44,124
+[YAMANAMI]
+It was only for a moment,
+
+203
+00:14:44,207 --> 00:14:46,334
+but I detected her optically.
+
+204
+00:14:47,585 --> 00:14:49,713
+[YAMANAMI]
+It's unmistakable!
+
+205
+00:14:49,796 --> 00:14:52,716
+The <i>Yamato</i> is still alive!
+
+206
+00:14:52,799 --> 00:14:54,551
+<i>Yamato</i> .
+
+207
+00:14:54,634 --> 00:14:55,885
+[YAMANAMI] But they're
+caught in the massive
+
+208
+00:14:55,969 --> 00:14:59,055
+gravitational pull
+of the Comet Empire.
+
+209
+00:14:59,139 --> 00:15:02,183
+It will be difficult for the
+<i>Yamato</i> to escape on her own.
+
+210
+00:15:02,267 --> 00:15:04,728
+Remaining ships,
+if you can hear me,
+
+211
+00:15:04,811 --> 00:15:07,272
+please help the <i>Yamato</i> escape.
+
+212
+00:15:09,315 --> 00:15:10,525
+[YAMANAMI]
+As for this ship,
+
+213
+00:15:10,608 --> 00:15:12,819
+I'll approach the comet's
+gravitational core,
+
+214
+00:15:12,902 --> 00:15:16,031
+and attempt to destroy the
+enemy's source of gravity.
+
+215
+00:15:19,242 --> 00:15:20,744
+But that'd be suicide!
+
+216
+00:15:20,827 --> 00:15:23,663
+The <i>Andromeda</i> going in alone,
+without any support?
+
+217
+00:15:23,747 --> 00:15:25,540
+You're right.
+With the comet's ability
+
+218
+00:15:25,623 --> 00:15:27,500
+to control that much mass,
+
+219
+00:15:27,584 --> 00:15:29,753
+the <i>Andromeda</i>
+can't do this alone.
+
+220
+00:15:30,920 --> 00:15:33,173
+[SANADA]
+Captain, may I offer my opinion?
+
+221
+00:15:33,256 --> 00:15:36,009
+If we were to amplify the
+<i>Andromeda</i> 's Wave Motion Gun
+
+222
+00:15:36,092 --> 00:15:37,761
+using the <i>Ginga</i> 's
+Cosmo Reverse,
+
+223
+00:15:37,844 --> 00:15:39,304
+even that would be
+enough to damage
+
+224
+00:15:39,387 --> 00:15:41,097
+the enemy's gravity source.
+
+225
+00:15:44,601 --> 00:15:46,478
+[GINGA AI] Achieving the
+aforementioned desired effect
+
+226
+00:15:46,561 --> 00:15:49,147
+would put far too much
+strain on the CRS.
+
+227
+00:15:49,230 --> 00:15:51,524
+We cannot afford to implement
+such an unreliable plan
+
+228
+00:15:51,608 --> 00:15:53,985
+and risk loss or damage
+to the Cosmo reverse System
+
+229
+00:15:54,069 --> 00:15:54,903
+in the process.
+
+230
+00:15:54,986 --> 00:15:57,280
+I don't remember asking you!
+
+231
+00:16:01,034 --> 00:16:02,077
+[SANADA]
+Captain.
+
+232
+00:16:05,830 --> 00:16:07,123
+So many.
+
+233
+00:16:07,207 --> 00:16:10,460
+Too many lives have been
+lost in this battle.
+
+234
+00:16:10,543 --> 00:16:13,880
+It's too late for me to
+take responsibility for it.
+
+235
+00:16:13,963 --> 00:16:16,424
+At the very least...
+
+236
+00:16:16,508 --> 00:16:18,843
+...I can sacrifice my
+life and the <i>Andromeda</i>
+
+237
+00:16:18,927 --> 00:16:24,015
+for a worthy cause.
+I will bring you back, <i>Yamato</i> !
+
+238
+00:16:24,099 --> 00:16:25,183
+[HIJIKATA]
+Yamanami!
+
+239
+00:16:25,266 --> 00:16:26,768
+[gasps]
+
+240
+00:16:26,851 --> 00:16:30,563
+[HIJIKATA] Dying is no way to
+take responsibility, Yamanami.
+
+241
+00:16:34,484 --> 00:16:36,319
+[HIJIKATA]
+Stay alive.
+
+242
+00:16:37,904 --> 00:16:39,906
+[HIJIKATA]
+Stay alive and feel the shame.
+
+243
+00:16:39,989 --> 00:16:42,075
+No matter how
+humiliating it may be,
+
+244
+00:16:42,158 --> 00:16:44,035
+live through it anyway!
+
+245
+00:16:47,414 --> 00:16:48,957
+All humans are weak.
+
+246
+00:16:49,040 --> 00:16:52,544
+We're fallible.
+We all make mistakes.
+
+247
+00:16:52,627 --> 00:16:56,214
+I say, so what?
+We're not machines.
+
+248
+00:16:56,297 --> 00:16:58,550
+[GINGA AI] The G Plan
+must always take priority.
+
+249
+00:16:58,633 --> 00:17:00,802
+[HIJIKATA]
+Machines feel no shame.
+
+250
+00:17:00,885 --> 00:17:02,971
+[GINGA AI]
+For the survival of humanity.
+
+251
+00:17:03,054 --> 00:17:04,639
+[HIJIKATA]
+Our inevitable missteps,
+
+252
+00:17:04,723 --> 00:17:06,141
+and the resulting guilt,
+
+253
+00:17:06,224 --> 00:17:08,977
+those are the privileges
+of being human.
+
+254
+00:17:09,060 --> 00:17:11,688
+[GINGA AI] This ship will
+immediately cease combat oper--
+
+255
+00:17:13,940 --> 00:17:15,150
+[ICHINOSE]
+Captain!
+
+256
+00:17:15,233 --> 00:17:18,069
+As of this moment,
+command AI's been replaced.
+
+257
+00:17:18,153 --> 00:17:20,238
+I will now take
+command of this ship!
+
+258
+00:17:20,321 --> 00:17:23,616
+Troubleshooting. A-7.
+System set to restart.
+
+259
+00:17:23,700 --> 00:17:26,286
+<i>Ginga</i> ! To the Martian front!
+
+260
+00:17:47,474 --> 00:17:50,393
+Rapid-fire torpedoes! Fire!
+
+261
+00:17:56,566 --> 00:18:00,904
+Heh. You are as stubborn as
+they come. Right, <i>Andromeda</i> ?
+
+262
+00:18:01,946 --> 00:18:04,491
+Wave Motion Gun!
+Prepare to Fire!
+
+263
+00:18:26,638 --> 00:18:29,432
+Captain Yamanami.
+We'll come with you.
+
+264
+00:18:30,433 --> 00:18:33,186
+Together, we will survive.
+
+265
+00:18:41,695 --> 00:18:45,115
+[KANZAKI] Cosmo Reverse
+is operating at its limits!
+
+266
+00:18:45,198 --> 00:18:48,451
+Once we take this shot,
+that's the end of it.
+
+267
+00:18:48,535 --> 00:18:51,621
+It's all right.
+This ship belongs to us.
+
+268
+00:18:51,705 --> 00:18:53,707
+To all of humanity!
+
+269
+00:18:59,629 --> 00:19:02,048
+Amp factor is 8,000,000 TPA!
+
+270
+00:19:02,132 --> 00:19:04,551
+Cosmo Reverse, activate!
+
+271
+00:19:08,263 --> 00:19:11,433
+Wave Motion Gun, fire now!
+
+272
+00:19:49,304 --> 00:19:50,722
+Rudder's not working!
+
+273
+00:19:50,805 --> 00:19:52,849
+We've got three more seconds
+till the shockwave's passed!
+
+274
+00:19:52,932 --> 00:19:55,101
+Engine! Maximum output!
+
+275
+00:19:55,185 --> 00:19:56,436
+Roger!
+
+276
+00:20:07,447 --> 00:20:09,491
+[SAIJO]
+Zemuria is collapsing!
+
+277
+00:20:18,416 --> 00:20:20,460
+[SAIJO] Rocket anchors have
+been forcefully attached.
+
+278
+00:20:20,543 --> 00:20:22,379
+We're being towed!
+
+279
+00:20:22,462 --> 00:20:24,923
+[gasps] Is that--?
+
+280
+00:20:25,006 --> 00:20:26,716
+The <i>Andromeda</i> !
+
+281
+00:20:32,722 --> 00:20:36,142
+All ships, retreat from
+the White Comet at once!
+
+282
+00:21:09,968 --> 00:21:11,761
+[KANZAKI] The <i>Andromeda</i>
+has sustained heavy damage.
+
+283
+00:21:11,845 --> 00:21:13,471
+She's at her limit.
+
+284
+00:21:19,019 --> 00:21:20,770
+[KATO]
+The <i>Yamato</i> .
+
+285
+00:21:24,733 --> 00:21:29,529
+[KATO]
+She's alive. They got out alive.
+
+286
+00:21:29,612 --> 00:21:32,157
+[SAKI] Black Bird Team.
+All units, take off!
+
+287
+00:21:32,240 --> 00:21:34,576
+Support the <i>Yamato</i>
+and the <i>Andromeda</i> .
+
+288
+00:21:34,659 --> 00:21:36,369
+Right! Roger that!
+
+289
+00:21:48,423 --> 00:21:50,884
+Well, I guess this is it.
+
+290
+00:21:53,470 --> 00:21:55,221
+[gasps] What the--?
+
+291
+00:22:08,610 --> 00:22:09,819
+[gasps]
+
+292
+00:22:26,211 --> 00:22:27,379
+[HIJIKATA]
+Hm?
+
+293
+00:22:31,383 --> 00:22:34,469
+[KATO] This is Black Bird
+Kato. Do you read?
+
+294
+00:22:34,552 --> 00:22:37,180
+Successfully rescued
+Captain Yamanami.
+
+295
+00:22:37,263 --> 00:22:41,351
+Repeat: Successfully
+rescued Captain Yamanami!
+
+296
+00:25:49,706 --> 00:25:51,374
+[KODAI] I think that we
+should at least attempt
+
+297
+00:25:51,458 --> 00:25:52,917
+to talk with Zworder
+one more time.
+
+298
+00:25:53,001 --> 00:25:55,170
+[SAITO] There has to be some
+way we can cut their strings!
+
+299
+00:25:55,253 --> 00:25:57,255
+[KEYMAN]
+I'm afraid there's only one way.
+
+300
+00:25:57,339 --> 00:25:58,590
+[SAIJO]
+No enemies in sight!
+
+301
+00:25:58,673 --> 00:26:00,300
+Only the <i>Neu Deusular</i> !
+
+302
+00:26:00,383 --> 00:26:01,301
+[HIJIKATA]
+Keep going.
+
+303
+00:26:01,384 --> 00:26:03,511
+Ram us in if you have to!
+

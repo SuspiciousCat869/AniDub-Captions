@@ -1,0 +1,1244 @@
+﻿1
+00:00:17,042 --> 00:00:19,293
+Huh. There's no one anywhere near us.
+
+2
+00:00:28,473 --> 00:00:30,667
+Death Gun and Sinon aren't on the map,
+
+3
+00:00:30,840 --> 00:00:33,380
+but counting them, there's six players left.
+
+4
+00:00:34,382 --> 00:00:34,953
+Huh?
+
+5
+00:00:35,821 --> 00:00:37,375
+They took each other out.
+
+6
+00:00:37,965 --> 00:00:39,370
+That leaves four.
+
+7
+00:00:43,729 --> 00:00:44,912
+30 players started.
+
+8
+00:00:44,952 --> 00:00:47,387
+24 are out, so that leaves six.
+
+9
+00:00:47,451 --> 00:00:49,040
+Me and Yamikaze
+
+10
+00:00:49,715 --> 00:00:51,287
+and Sinon and Death Gun,
+
+11
+00:00:51,312 --> 00:00:52,428
+that's 28,
+
+12
+00:00:52,688 --> 00:00:54,902
+and Pale Rider makes it 29.
+
+13
+00:00:56,911 --> 00:00:58,568
+We're short a player.
+
+14
+00:01:00,483 --> 00:01:04,335
+Did Death Gun murder someone else after he got Pale Rider?
+
+15
+00:01:05,060 --> 00:01:08,016
+No. His partner's been waiting at Sinon's for his cue.
+
+16
+00:01:08,081 --> 00:01:10,207
+He can't be two places at once.
+
+17
+00:01:10,829 --> 00:01:11,864
+Unless...
+
+18
+00:01:12,331 --> 00:01:14,832
+There's another angle to this I'm missing.
+
+19
+00:03:04,519 --> 00:03:05,919
+Well, what'd you find?
+
+20
+00:03:06,230 --> 00:03:07,679
+There's five of us left,
+
+21
+00:03:08,226 --> 00:03:10,325
+you, me, Yamikaze...
+
+22
+00:03:10,665 --> 00:03:12,251
+I didn't see Death Gun, though.
+
+23
+00:03:12,666 --> 00:03:15,105
+And there's another player out there somewhere.
+
+24
+00:03:15,323 --> 00:03:19,027
+The scan didn't pick him up, so
+they might be hiding in a cave like us.
+
+25
+00:03:19,351 --> 00:03:21,391
+That's it, just us five?
+
+26
+00:03:22,478 --> 00:03:26,098
+Well, it's been an hour and 45 minutes already.
+
+27
+00:03:26,407 --> 00:03:30,036
+Seeing as how the last BOB ended in about two hours,
+
+28
+00:03:30,184 --> 00:03:32,026
+this one's right on schedule.
+
+29
+00:03:32,683 --> 00:03:35,944
+Heh. I'm surprised no one's chucked a grenade in here yet.
+
+30
+00:03:36,295 --> 00:03:39,389
+Yeah. Maybe we've got Death Gun to thank for that.
+
+31
+00:03:39,730 --> 00:03:44,259
+Could be while he's looking for us, he's
+whittling down the competition with that rifle of his.
+
+32
+00:03:46,563 --> 00:03:47,391
+If you're right,
+
+33
+00:03:47,442 --> 00:03:50,071
+then he's a shoo‐in for the max‐kills award.
+
+34
+00:03:51,519 --> 00:03:52,354
+Whatever.
+
+35
+00:03:52,398 --> 00:03:54,390
+We should worry about Yamikaze.
+
+36
+00:03:54,670 --> 00:03:57,393
+You were probably the only one
+who showed up on his terminal,
+
+37
+00:03:57,480 --> 00:04:00,356
+so we better get ready, 'cause he'll be coming for you.
+
+38
+00:04:01,096 --> 00:04:01,953
+He any good?
+
+39
+00:04:02,457 --> 00:04:04,592
+He was runner‐up in the last BOB.
+
+40
+00:04:04,677 --> 00:04:07,214
+He's your typical full‐on AGI type.
+
+41
+00:04:07,294 --> 00:04:09,338
+They call him the Run‐Gun Demon or something.
+
+42
+00:04:09,544 --> 00:04:11,437
+Uh, run what?
+
+43
+00:04:11,519 --> 00:04:12,721
+Run and gun.
+
+44
+00:04:12,921 --> 00:04:15,678
+You run, shoot, run. It's a style of combat.
+
+45
+00:04:16,109 --> 00:04:18,745
+His main weapon's a Calico M900A,
+
+46
+00:04:18,770 --> 00:04:20,377
+an ultralight submachine gun.
+
+47
+00:04:21,106 --> 00:04:25,435
+Yamikaze couldn't compete with Zxe‐D's
+rare gun and armor in the last tourney,
+
+48
+00:04:25,659 --> 00:04:27,129
+but even though he didn't win,
+
+49
+00:04:27,186 --> 00:04:29,255
+some people say he's the better player.
+
+50
+00:04:34,765 --> 00:04:36,856
+Whoa. He's really that good?
+
+51
+00:04:37,081 --> 00:04:40,457
+Like the best player on Japan's "GGO" server good?
+
+52
+00:04:41,299 --> 00:04:42,401
+Yeah, he is,
+
+53
+00:04:43,027 --> 00:04:45,156
+and he might be our ace in the hole, too.
+
+54
+00:04:45,553 --> 00:04:48,846
+If you're right about Death Gun, then
+I'm the only one he's ready to kill.
+
+55
+00:04:49,312 --> 00:04:53,489
+You know, 'cause his partner's
+waiting back at my apartment right now.
+
+56
+00:04:54,246 --> 00:04:59,363
+See, I figure that if that's the case,
+Yamikaze's not in any real danger of getting killed.
+
+57
+00:04:59,768 --> 00:05:01,840
+This is gonna sound cold,
+
+58
+00:05:01,941 --> 00:05:05,452
+but I was thinking he would make the perfect decoy for us.
+
+59
+00:05:05,732 --> 00:05:09,069
+When Death Gun shoots Yamikaze, we'll know where he is.
+
+60
+00:05:10,944 --> 00:05:13,401
+In a way, we got two decoys,
+
+61
+00:05:13,777 --> 00:05:16,125
+him in here and me IRL.
+
+62
+00:05:16,819 --> 00:05:18,393
+You're pretty brave, Sinon.
+
+63
+00:05:18,918 --> 00:05:19,390
+Huh?
+
+64
+00:05:20,890 --> 00:05:23,787
+Not even. I'm trying not to think about it,
+
+65
+00:05:24,212 --> 00:05:27,643
+trying to avoid what scares me, like I always do.
+
+66
+00:05:28,155 --> 00:05:30,043
+Anyway, you think it'll work?
+
+67
+00:05:30,454 --> 00:05:33,405
+Yeah. I mean, it sounds pretty good.
+
+68
+00:05:34,767 --> 00:05:37,667
+Although there's still one thing that bothers me.
+
+69
+00:05:38,198 --> 00:05:41,551
+Just now, when I added up the
+players who were left and who were done,
+
+70
+00:05:41,745 --> 00:05:43,659
+I could only come up with 28.
+
+71
+00:05:44,027 --> 00:05:47,247
+Pale Rider's 29, but still, we're short one.
+
+72
+00:05:47,335 --> 00:05:51,488
+No way. Could Death Gun have killed
+someone else after he tried for me?
+
+73
+00:05:51,633 --> 00:05:56,634
+How's that even possible? I mean, his number
+two's supposed be waiting at my place now.
+
+74
+00:05:56,813 --> 00:05:59,165
+Right. That's how I figured it, too,
+
+75
+00:05:59,754 --> 00:06:02,800
+but now I'm thinking something else is going on.
+
+76
+00:06:03,415 --> 00:06:09,254
+Between the time Death Gun shot Pale Rider and
+when he tried for you, only 30 minutes had gone by,
+
+77
+00:06:10,089 --> 00:06:11,734
+so based on my theory,
+
+78
+00:06:11,904 --> 00:06:16,325
+Pale Rider's apartment would have to be no
+more than 30 minutes away from your place.
+
+79
+00:06:16,704 --> 00:06:18,856
+That's kind of convenient, don't you think?
+
+80
+00:06:19,290 --> 00:06:22,214
+I guess, but what other explanation is there for it?
+
+81
+00:06:22,307 --> 00:06:25,275
+Maybe Death Gun isn't working with just the one guy.
+
+82
+00:06:26,336 --> 00:06:28,768
+Like maybe he's got a few more partners.
+
+83
+00:06:28,916 --> 00:06:31,836
+If he does, then it'd be possible to kill one player
+
+84
+00:06:32,025 --> 00:06:34,973
+while still having someone available to kill you
+
+85
+00:06:35,680 --> 00:06:38,063
+and one for Yamikaze.
+
+86
+00:06:38,307 --> 00:06:41,895
+He could be a target now, too. I don't know. I don't know.
+
+87
+00:06:47,768 --> 00:06:49,310
+Oh, my god.
+
+88
+00:06:49,463 --> 00:06:53,487
+If you're right and there's more of 'em
+out there, how many more are we talking about?
+
+89
+00:06:53,623 --> 00:06:55,602
+If they're all ex‐Laughing Coffin,
+
+90
+00:06:55,927 --> 00:06:57,874
+at least 10, maybe more.
+
+91
+00:06:58,662 --> 00:07:00,785
+I doubt they're all involved with this,
+
+92
+00:07:00,927 --> 00:07:04,884
+but we can't be sure there's only one
+real‐world killer out there anymore.
+
+93
+00:07:05,074 --> 00:07:10,206
+They're crazy. Why else would they do
+this after getting out of "SAO" alive?
+
+94
+00:07:10,509 --> 00:07:13,743
+How could anyone stay a player‐killer after that game?
+
+95
+00:07:15,641 --> 00:07:17,535
+For the same reason as us.
+
+96
+00:07:18,503 --> 00:07:20,539
+Why do I keep being a swordsman
+
+97
+00:07:21,131 --> 00:07:22,909
+and you a sniper?
+
+98
+00:07:25,551 --> 00:07:28,184
+I called 'em PKers, but I take it back.
+
+99
+00:07:29,024 --> 00:07:31,622
+There are lots of people who PK in this game.
+
+100
+00:07:32,158 --> 00:07:34,733
+I used to run with a squad of PKers myself.
+
+101
+00:07:34,861 --> 00:07:38,397
+But at the end of the day, Pkers
+have a code of honor they stick to.
+
+102
+00:07:38,782 --> 00:07:40,210
+They're not PKers.
+
+103
+00:07:40,235 --> 00:07:42,966
+They kill people with poison while they're unconscious
+
+104
+00:07:43,114 --> 00:07:44,677
+like a bunch of cowards.
+
+105
+00:07:44,999 --> 00:07:46,638
+There's no honor in murder.
+
+106
+00:07:47,082 --> 00:07:50,122
+That's chickenshit, straight up,
+
+107
+00:07:50,269 --> 00:07:52,301
+and we can't let them get away with it.
+
+108
+00:07:52,835 --> 00:07:54,516
+No, we can't.
+
+109
+00:07:55,103 --> 00:07:58,135
+We've got a chance to stop these
+people, and we're gonna take it.
+
+110
+00:07:58,539 --> 00:08:00,843
+Death Gun's going down on this battlefield.
+
+111
+00:08:01,058 --> 00:08:03,345
+It's over for him and his pals.
+
+112
+00:08:03,428 --> 00:08:04,864
+I'll make 'em all pay.
+
+113
+00:08:06,434 --> 00:08:07,243
+Yeah,
+
+114
+00:08:07,635 --> 00:08:10,241
+this is how I make amends for what I did,
+
+115
+00:08:10,759 --> 00:08:13,251
+for losing it in the chaos of battle,
+
+116
+00:08:13,742 --> 00:08:16,272
+for killing those two players that night
+
+117
+00:08:16,814 --> 00:08:18,589
+and the other one later on.
+
+118
+00:08:18,736 --> 00:08:20,815
+This is how I'll get closure.
+
+119
+00:08:22,307 --> 00:08:23,701
+I'll protect Sinon,
+
+120
+00:08:23,747 --> 00:08:25,064
+take out Yamikaze,
+
+121
+00:08:25,101 --> 00:08:26,511
+and end Death Gun.
+
+122
+00:08:26,826 --> 00:08:29,715
+It won't be easy, but it's what I have to do.
+
+123
+00:08:30,549 --> 00:08:32,580
+I'm gonna take Yamikaze out.
+
+124
+00:08:33,404 --> 00:08:35,445
+I won't let Death Gun kill him.
+
+125
+00:08:35,539 --> 00:08:36,068
+Huh?
+
+126
+00:08:36,421 --> 00:08:37,871
+Yamikaze's tough.
+
+127
+00:08:38,178 --> 00:08:40,638
+I doubt even you could finish him with one hit,
+
+128
+00:08:41,048 --> 00:08:44,206
+and if he's busy with you, Death Gun's sure to go for him.
+
+129
+00:08:44,335 --> 00:08:46,747
+Then how are we gonna deal with that?
+
+130
+00:08:46,805 --> 00:08:48,398
+Did you forget what I am?
+
+131
+00:08:49,768 --> 00:08:50,924
+I'm a sniper.
+
+132
+00:08:51,519 --> 00:08:56,153
+I'll have eyes on you the whole time, so
+once they move on you, I'll know their locations.
+
+133
+00:08:56,439 --> 00:08:59,542
+I'll hit Yamikaze first. Then I'll go for Death Gun.
+
+134
+00:09:00,316 --> 00:09:01,290
+Okay, then.
+
+135
+00:09:02,733 --> 00:09:04,107
+We go with your plan.
+
+136
+00:09:05,042 --> 00:09:05,795
+All right.
+
+137
+00:09:05,874 --> 00:09:07,999
+I think they should be pretty close by now.
+
+138
+00:09:08,475 --> 00:09:10,361
+I'm gonna hop on the buggy and head out.
+
+139
+00:09:11,003 --> 00:09:12,756
+Leave the cave right after I do,
+
+140
+00:09:12,915 --> 00:09:14,679
+and get set up as fast as you can.
+
+141
+00:09:23,932 --> 00:09:25,527
+Good luck out there, partner.
+
+142
+00:09:54,537 --> 00:09:56,782
+Yamikaze's coming from the west,
+
+143
+00:09:56,975 --> 00:10:00,410
+so if a shot comes from the
+east, it'll probably be Death Gun.
+
+144
+00:10:01,750 --> 00:10:05,122
+He's got that cloak, so when
+he shoots, he'll be invisible.
+
+145
+00:10:05,551 --> 00:10:08,577
+If he hits Kirito in the heart or head, it's over.
+
+146
+00:10:10,508 --> 00:10:13,146
+But if you can cut my bullet in half,
+
+147
+00:10:13,258 --> 00:10:14,857
+you can dodge his, right?
+
+148
+00:10:15,321 --> 00:10:16,503
+Right, Kirito?
+
+149
+00:10:17,838 --> 00:10:21,311
+My first priority is taking Yamikaze out of the picture.
+
+150
+00:10:21,563 --> 00:10:24,038
+If I miss, Kirito will get shot.
+
+151
+00:10:24,243 --> 00:10:27,033
+Then Death Gun will find me and kill me.
+
+152
+00:10:28,337 --> 00:10:30,360
+My life, my real life,
+
+153
+00:10:30,385 --> 00:10:34,262
+depends on a single bullet, like it did that day.
+
+154
+00:10:39,613 --> 00:10:41,236
+Please, Hecate.
+
+155
+00:10:41,873 --> 00:10:44,337
+I'm weak, and I need your strength,
+
+156
+00:10:44,900 --> 00:10:47,127
+the strength to stand up for myself
+
+157
+00:10:47,249 --> 00:10:48,373
+and move on.
+
+158
+00:11:12,548 --> 00:11:13,774
+Southwest.
+
+159
+00:11:14,230 --> 00:11:15,508
+That's Yamikaze.
+
+160
+00:11:16,368 --> 00:11:18,740
+Don't worry. Sinon's got him.
+
+161
+00:11:22,775 --> 00:11:23,385
+Whoa.
+
+162
+00:11:27,122 --> 00:11:28,063
+What do I do?
+
+163
+00:11:28,654 --> 00:11:30,445
+I could try to shoot in front of him
+
+164
+00:11:30,641 --> 00:11:33,627
+or shoot at his feet, hope he
+panics, and then take him out.
+
+165
+00:11:37,715 --> 00:11:41,929
+No. Once he's got Kirito in
+range, he'll stop to steady his aim.
+
+166
+00:11:42,349 --> 00:11:43,959
+I have to wait till he does.
+
+167
+00:11:44,985 --> 00:11:46,190
+I'll be patient.
+
+168
+00:11:46,707 --> 00:11:48,091
+Don't worry, Kirito.
+
+169
+00:11:49,191 --> 00:11:50,511
+I've got your back.
+
+170
+00:12:01,416 --> 00:12:02,598
+Concentrate.
+
+171
+00:12:03,857 --> 00:12:05,844
+Home in on his drive to kill
+
+172
+00:12:06,939 --> 00:12:08,194
+like last time.
+
+173
+00:12:19,969 --> 00:12:21,019
+That's right.
+
+174
+00:12:21,425 --> 00:12:23,738
+I could feel their lust for murder.
+
+175
+00:12:24,152 --> 00:12:25,613
+That's how I noticed 'em.
+
+176
+00:12:28,710 --> 00:12:30,596
+The first guy who attacked me,
+
+177
+00:12:31,419 --> 00:12:33,033
+what was his name?
+
+178
+00:12:37,396 --> 00:12:43,390
+Kirito, someday I'll kill you properly.
+
+179
+00:12:54,839 --> 00:12:58,835
+Someday I'll kill you properly.
+
+180
+00:13:24,416 --> 00:13:25,443
+Yamikaze.
+
+181
+00:13:58,326 --> 00:13:59,176
+Kirito.
+
+182
+00:14:15,927 --> 00:14:16,623
+Gotcha.
+
+183
+00:14:57,280 --> 00:14:59,883
+It's up to you now, Kirito.
+
+184
+00:15:00,556 --> 00:15:01,510
+She did it.
+
+185
+00:15:01,551 --> 00:15:02,805
+Now it's my turn.
+
+186
+00:15:30,953 --> 00:15:31,889
+Kirito.
+
+187
+00:15:35,605 --> 00:15:37,086
+Don't worry, mommy.
+
+188
+00:15:38,100 --> 00:15:41,480
+No matter how strong his enemy is, daddy wont lose.
+
+189
+00:15:41,771 --> 00:15:43,315
+He's daddy, after all.
+
+190
+00:15:45,047 --> 00:15:46,305
+Yeah, you're right.
+
+191
+00:15:47,963 --> 00:15:50,371
+Turn left. His room is eight meters down.
+
+192
+00:15:51,747 --> 00:15:52,661
+Kirigaya?
+
+193
+00:15:55,793 --> 00:15:56,793
+Kirito!
+
+194
+00:15:56,866 --> 00:15:58,217
+Miss Yuuki, right?
+
+195
+00:15:58,592 --> 00:15:59,879
+We've been expecting you.
+
+196
+00:16:00,001 --> 00:16:02,687
+Is something wrong with Ki... I mean Kazuto?
+
+197
+00:16:03,001 --> 00:16:04,261
+No, he's okay.
+
+198
+00:16:04,574 --> 00:16:06,779
+I know it looks bad, but he's not in danger.
+
+199
+00:16:07,182 --> 00:16:08,799
+His heart rate spiked, is all.
+
+200
+00:16:09,461 --> 00:16:10,789
+His heart rate?
+
+201
+00:16:13,226 --> 00:16:15,286
+Why? What's going on?
+
+202
+00:16:16,052 --> 00:16:18,927
+Mommy, look to your right at the monitor on the wall.
+
+203
+00:16:19,234 --> 00:16:22,306
+I'm going to patch in the live
+footage from the MMO stream.
+
+204
+00:16:23,873 --> 00:16:24,462
+Huh?
+
+205
+00:16:34,412 --> 00:16:36,550
+Is that Kirito?
+
+206
+00:16:36,971 --> 00:16:40,254
+That's Kirigaya's avatar from the game he's diving in now?
+
+207
+00:16:40,554 --> 00:16:42,373
+Uh‐huh. He's in battle.
+
+208
+00:16:42,766 --> 00:16:45,421
+I think that's why his heart's racing so much.
+
+209
+00:16:48,648 --> 00:16:49,689
+An Estoc.
+
+210
+00:16:52,626 --> 00:16:53,477
+That's it.
+
+211
+00:16:53,738 --> 00:16:56,691
+One of Laughing Coffin's leaders
+was a master with an Estoc,
+
+212
+00:16:56,938 --> 00:16:59,499
+but what was he called?
+
+213
+00:17:00,204 --> 00:17:02,259
+"Sterben"?
+
+214
+00:17:02,872 --> 00:17:04,769
+Isn't it supposed to be Steven?
+
+215
+00:17:04,816 --> 00:17:05,536
+It's not.
+
+216
+00:17:05,561 --> 00:17:06,520
+She's right.
+
+217
+00:17:06,788 --> 00:17:08,153
+It's a German word.
+
+218
+00:17:08,348 --> 00:17:11,196
+I know it. It's a medical term we use.
+
+219
+00:17:11,497 --> 00:17:13,844
+It's pronounced "shterben".
+
+220
+00:17:14,625 --> 00:17:16,297
+"Shterben"?
+
+221
+00:17:17,181 --> 00:17:18,654
+It means "to die."
+
+222
+00:17:19,107 --> 00:17:22,926
+In hospitals, we use that word
+when a patient's passed away.
+
+223
+00:17:29,267 --> 00:17:30,226
+Kirito.
+
+224
+00:17:36,389 --> 00:17:36,946
+Heh.
+
+225
+00:17:37,341 --> 00:17:39,423
+That's an interesting weapon you've got there.
+
+226
+00:17:39,875 --> 00:17:43,993
+If I'd known there were metal swords in
+"GGO", I would have gotten my hands on one.
+
+227
+00:17:44,120 --> 00:17:48,999
+You should have done your homework
+before logging in, black swordsman.
+
+228
+00:17:49,607 --> 00:17:52,243
+I made this with the weapon creation skill.
+
+229
+00:17:52,376 --> 00:17:54,576
+It can't be any longer or heavier,
+
+230
+00:17:54,601 --> 00:17:56,101
+but it does the trick.
+
+231
+00:17:56,502 --> 00:18:00,937
+Wow. If that's the best sword I can make, then
+I guess I couldn't make one I'd be happy with.
+
+232
+00:18:01,214 --> 00:18:04,553
+Still into swords with high strength requirements?
+
+233
+00:18:04,709 --> 00:18:06,308
+You haven't changed.
+
+234
+00:18:06,547 --> 00:18:08,315
+Must be pretty tough for you,
+
+235
+00:18:08,629 --> 00:18:11,638
+having to twirl that flashlight around.
+
+236
+00:18:13,408 --> 00:18:15,441
+This thing's not as bad as all that.
+
+237
+00:18:16,112 --> 00:18:19,153
+I always wondered what it'd be
+like to fight with one of these.
+
+238
+00:18:19,489 --> 00:18:21,981
+Besides, a sword's a sword.
+
+239
+00:18:22,217 --> 00:18:24,827
+If I can slash you and burn through your HP with it,
+
+240
+00:18:24,920 --> 00:18:26,307
+it's good enough for me.
+
+241
+00:18:27,548 --> 00:18:29,299
+You talk a good game,
+
+242
+00:18:29,370 --> 00:18:31,787
+but it's all talk.
+
+243
+00:18:32,286 --> 00:18:36,068
+You sucked in too much rotten air from the real world.
+
+244
+00:18:36,394 --> 00:18:39,182
+That half‐ass vorpal strike you just pulled,
+
+245
+00:18:39,226 --> 00:18:42,405
+if the old you saw it, he'd shake his head.
+
+246
+00:18:42,993 --> 00:18:44,068
+Maybe so,
+
+247
+00:18:44,515 --> 00:18:46,586
+but the same goes for you, too.
+
+248
+00:18:46,830 --> 00:18:48,393
+You're living in the past.
+
+249
+00:18:48,434 --> 00:18:51,562
+I bet you think you're still a member of Laughing Coffin.
+
+250
+00:18:54,436 --> 00:18:55,854
+You remember.
+
+251
+00:18:56,181 --> 00:18:57,636
+I'm impressed.
+
+252
+00:18:57,794 --> 00:19:02,154
+Then I guess you understand
+the difference between you and me.
+
+253
+00:19:02,540 --> 00:19:05,418
+I'm a genuine red player,
+
+254
+00:19:05,520 --> 00:19:08,121
+while you are not.
+
+255
+00:19:11,349 --> 00:19:14,253
+You killed only because you were scared,
+
+256
+00:19:14,357 --> 00:19:17,010
+scared and desperate to survive.
+
+257
+00:19:17,356 --> 00:19:18,890
+And instead of facing it,
+
+258
+00:19:18,923 --> 00:19:21,186
+I bet you tried to forget it even happened,
+
+259
+00:19:21,385 --> 00:19:23,788
+just like a coward.
+
+260
+00:19:24,995 --> 00:19:26,725
+I might be a coward,
+
+261
+00:19:26,804 --> 00:19:30,148
+but still, I'll stop you from killing again.
+
+262
+00:19:31,277 --> 00:19:34,069
+I figured out how Zxe‐D and the others were murdered.
+
+263
+00:19:34,465 --> 00:19:37,173
+It's got nothing to do with that handgun of yours,
+
+264
+00:19:37,343 --> 00:19:39,790
+and you don't have special powers either.
+
+265
+00:19:40,457 --> 00:19:42,678
+How'd those people die then?
+
+266
+00:19:43,316 --> 00:19:45,843
+Back at the terminals at the governor's office,
+
+267
+00:19:45,868 --> 00:19:50,284
+you used that cloak to scope out the
+addresses of the BOB Contestants.
+
+268
+00:19:51,048 --> 00:19:53,496
+Then you had someone break into their apartments
+
+269
+00:19:53,521 --> 00:19:56,869
+and timed it so when you fired,
+they'd inject a drug into 'em,
+
+270
+00:19:57,098 --> 00:19:59,564
+making it look like they died of heart failure.
+
+271
+00:19:59,791 --> 00:20:01,112
+That's how you did it.
+
+272
+00:20:02,115 --> 00:20:08,436
+The ministry of internal affairs has the in‐game and
+real‐world info of every single player from "SAO".
+
+273
+00:20:09,044 --> 00:20:12,082
+Once they get your handle,
+they'll find out your real name,
+
+274
+00:20:12,166 --> 00:20:15,049
+your real address, and all the evil shit you've ever done.
+
+275
+00:20:15,152 --> 00:20:16,860
+It's only a matter of time.
+
+276
+00:20:19,690 --> 00:20:21,079
+It's all over for you,
+
+277
+00:20:21,656 --> 00:20:24,158
+so log out, and turn yourself in.
+
+278
+00:20:24,659 --> 00:20:27,368
+You think you've got it all figured out,
+
+279
+00:20:28,547 --> 00:20:29,677
+but you don't.
+
+280
+00:20:30,597 --> 00:20:32,645
+And you can't stop me.
+
+281
+00:20:33,546 --> 00:20:34,851
+Want to know why?
+
+282
+00:20:35,283 --> 00:20:39,716
+Because I know you'll never remember what my handle was.
+
+283
+00:20:40,167 --> 00:20:41,505
+You think so?
+
+284
+00:20:41,801 --> 00:20:43,693
+What makes you so sure I won't?
+
+285
+00:20:45,951 --> 00:20:50,148
+You don't even remember the reason
+you forgot it in the first place.
+
+286
+00:20:50,537 --> 00:20:51,655
+Think back.
+
+287
+00:20:52,231 --> 00:20:55,101
+After that battle between your group and mine,
+
+288
+00:20:55,165 --> 00:20:57,360
+I tried to tell you my name,
+
+289
+00:20:58,428 --> 00:21:00,463
+but you said...
+
+290
+00:21:03,285 --> 00:21:05,475
+There's no point in giving me your name.
+
+291
+00:21:05,653 --> 00:21:07,114
+I don't want to know it.
+
+292
+00:21:07,194 --> 00:21:10,565
+As far as I'm concerned, I'll never see you again.
+
+293
+00:21:15,088 --> 00:21:17,396
+You can't remember my handle,
+
+294
+00:21:17,563 --> 00:21:19,115
+and you never will.
+
+295
+00:21:19,433 --> 00:21:21,211
+I never gave it to you,
+
+296
+00:21:21,615 --> 00:21:23,994
+and now I'm going to cut you down.
+
+297
+00:21:24,105 --> 00:21:28,537
+I'll leave you lying here, watching
+helplessly as I kill the girl,
+
+298
+00:21:28,661 --> 00:21:31,181
+and you can't stop me!
+
+299
+00:21:45,609 --> 00:21:47,449
+Stings, doesn't it?
+
+300
+00:21:47,563 --> 00:21:50,937
+This is made from the best metal you can get in the game.
+
+301
+00:21:51,905 --> 00:21:56,003
+It's armor plating from a space battleship.
+
+302
+00:23:35,633 --> 00:23:37,773
+Next time: "Phantom Bullet".
+

@@ -1,0 +1,952 @@
+﻿1
+00:00:20,468 --> 00:00:23,138
+Once upon a time,
+
+2
+00:00:23,138 --> 00:00:27,600
+there lived a beautiful girl named Cinderella.
+
+3
+00:00:27,600 --> 00:00:32,439
+But she was abused every day
+
+4
+00:00:32,439 --> 00:00:35,025
+by her wicked stepmother and stepsisters.
+
+5
+00:00:35,025 --> 00:00:38,236
+Cinderella, clean our room.
+
+6
+00:00:38,236 --> 00:00:41,656
+That's right! Then you need to scrub the floors.
+
+7
+00:00:41,656 --> 00:00:43,283
+I don't want to.
+
+8
+00:00:43,283 --> 00:00:46,911
+Crawl on the floor and scrub it yourself.
+
+9
+00:00:46,911 --> 00:00:48,788
+You want me to crawl on the floor?
+
+10
+00:00:48,788 --> 00:00:50,415
+I think I'm up for it.
+
+11
+00:00:50,415 --> 00:00:52,083
+Sister, don't be ridiculous.
+
+12
+00:00:52,083 --> 00:00:54,044
+You don't understand, I just...
+
+13
+00:00:54,044 --> 00:00:57,172
+Good. This works out well for everyone, then.
+
+14
+00:00:57,172 --> 00:01:00,967
+Cinderella, how can you
+treat your sister that way?
+
+15
+00:01:00,967 --> 00:01:03,762
+Poor Cinderella is being abused!
+
+16
+00:01:03,762 --> 00:01:05,096
+The poor thing.
+
+17
+00:01:05,096 --> 00:01:10,685
+Poor Cinderella picks up the bucket
+and goes to leave the room.
+
+18
+00:01:10,685 --> 00:01:14,481
+But she ends up tripping and dropping it.
+
+19
+00:01:14,481 --> 00:01:16,191
+Oh no! Water torture!
+
+20
+00:01:16,191 --> 00:01:19,694
+Cinderella, this is wonderful...
+I mean... horrific!
+
+21
+00:01:19,694 --> 00:01:22,364
+I'm sorry, sister.
+
+22
+00:01:22,364 --> 00:01:23,740
+I'll use this to wipe you clean.
+
+23
+00:01:23,740 --> 00:01:25,450
+I get the mop?
+
+24
+00:01:25,450 --> 00:01:26,576
+--Hey.
+--Are you okay, sister?
+
+25
+00:01:26,576 --> 00:01:26,993
+--What?
+--Are you okay, sister?
+
+26
+00:01:26,993 --> 00:01:27,577
+--What?
+--Yes. Cinderella is just fine.
+
+27
+00:01:27,577 --> 00:01:28,912
+--Is this how <i>Cinderella </i>goes?
+--Yes. Cinderella is just fine.
+
+28
+00:01:28,912 --> 00:01:31,081
+--Is this how <i>Cinderella </i>goes?
+--Cinderella, I'm not talking to you.
+
+29
+00:01:31,081 --> 00:01:33,083
+--No.
+--Oh, I see.
+
+30
+00:01:33,291 --> 00:01:35,001
+{\an8}"Wicked Stepmother, It's Your Cue!"
+
+31
+00:01:35,293 --> 00:01:38,254
+{\an8}"Episode 12: The Show Begins! Showtime"
+Are they going to be okay?
+
+32
+00:01:38,254 --> 00:01:40,173
+{\an8}"Episode 12: The Show Begins! Showtime"
+The leader of the Nazarick
+Floor Guardians, Albedo, is there.
+
+33
+00:01:40,173 --> 00:01:43,218
+{\an8}
+The leader of the Nazarick
+Floor Guardians, Albedo, is there.
+
+34
+00:01:43,218 --> 00:01:46,471
+There's nothing to worry about!
+
+35
+00:01:46,471 --> 00:01:48,264
+Is she that strong?
+
+36
+00:01:48,264 --> 00:01:49,474
+Yes.
+
+37
+00:01:49,474 --> 00:01:55,313
+She's among the strongest of Nazarick's members.
+
+38
+00:01:55,313 --> 00:01:56,773
+I see!
+
+39
+00:01:56,773 --> 00:02:00,819
+We call her the big-mouthed
+gorilla for a reason.
+
+40
+00:02:02,028 --> 00:02:06,991
+I have the feeling Shalltear is
+talking smack about me somewhere!
+
+41
+00:02:08,326 --> 00:02:09,369
+Wow!
+
+42
+00:02:09,369 --> 00:02:13,957
+We'll be on our way, Cinderella!
+
+43
+00:02:13,957 --> 00:02:15,208
+I'm so jealous.
+
+44
+00:02:15,208 --> 00:02:17,168
+How come I don't get to go?
+
+45
+00:02:17,168 --> 00:02:18,920
+Damn it! I bet you're jealous!
+
+46
+00:02:18,920 --> 00:02:21,589
+Sister, don't swear in the school play.
+
+47
+00:02:21,589 --> 00:02:22,966
+--So, where are we going again?
+
+48
+00:02:22,966 --> 00:02:24,843
+--You can do this!
+--So, where are we going again?
+
+49
+00:02:24,843 --> 00:02:27,512
+Mother, we're on our way to the ball!
+
+50
+00:02:27,512 --> 00:02:30,557
+--You can do this, Demiurge!
+--That's right.
+
+51
+00:02:37,897 --> 00:02:40,108
+Hang in there, Albedo!
+
+52
+00:02:41,067 --> 00:02:42,610
+Emilia! Puck!
+
+53
+00:02:42,610 --> 00:02:43,945
+Prepare the ice magic!
+
+54
+00:02:43,945 --> 00:02:45,739
+--Right!
+--Leave it to me!
+
+55
+00:02:45,739 --> 00:02:48,324
+Aqua, can you make lots of water?
+
+56
+00:02:48,324 --> 00:02:51,036
+What? I'm the Goddess of Water!
+
+57
+00:02:51,036 --> 00:02:52,871
+Of course I can! Of course I can!
+
+58
+00:02:52,871 --> 00:02:54,497
+It's like taking candy from a baby!
+
+59
+00:02:54,497 --> 00:02:58,084
+Yes! For a genius wizard like me,
+
+60
+00:02:58,084 --> 00:03:01,254
+taking you to the ball is like
+taking candy from a baby!
+
+61
+00:03:01,254 --> 00:03:03,965
+Nobody actually says that.
+
+62
+00:03:03,965 --> 00:03:05,967
+I bet the one who wrote
+that part of the script is...
+
+63
+00:03:05,967 --> 00:03:07,093
+Emilia.
+
+64
+00:03:07,093 --> 00:03:08,636
+Yup.
+
+65
+00:03:08,636 --> 00:03:13,058
+Sacred Create Water!
+
+66
+00:03:15,685 --> 00:03:16,519
+Well?
+
+67
+00:03:16,519 --> 00:03:17,979
+I used my full power!
+
+68
+00:03:17,979 --> 00:03:20,565
+That was too much power, but thank you!
+
+69
+00:03:20,565 --> 00:03:21,691
+Emilia!
+
+70
+00:03:21,691 --> 00:03:22,984
+Right!
+
+71
+00:03:28,823 --> 00:03:29,657
+Puck!
+
+72
+00:03:29,657 --> 00:03:32,077
+I'm on it, Lia!
+
+73
+00:03:34,954 --> 00:03:39,876
+Um, Megumin said I'm supposed to
+say an incantation...
+
+74
+00:03:39,876 --> 00:03:42,712
+Lia, it's nice that you do what others tell you.
+
+75
+00:03:42,712 --> 00:03:45,965
+But I think you're okay
+ignoring Megumin right now.
+
+76
+00:03:45,965 --> 00:03:47,217
+Am I?
+
+77
+00:03:47,217 --> 00:03:48,802
+Yeah. Okay!
+
+78
+00:03:48,802 --> 00:03:51,012
+Steel turn to ash,
+
+79
+00:03:51,012 --> 00:03:52,347
+stone to dust,
+
+80
+00:03:52,347 --> 00:03:53,181
+as the black gathers and...
+
+81
+00:03:53,181 --> 00:03:55,308
+That incantation is way too long!
+
+82
+00:03:55,308 --> 00:03:57,727
+Who told her she could ad-lib?
+
+83
+00:03:57,727 --> 00:04:01,064
+If we told her to make it short,
+she wouldn't do it anyway!
+
+84
+00:04:01,064 --> 00:04:02,649
+That's right, Ains!
+
+85
+00:04:10,240 --> 00:04:12,951
+<i>Ora-ora-ora-ora-ora-ora!</i>
+
+86
+00:04:24,504 --> 00:04:28,925
+What happens if that comes over here?
+
+87
+00:04:28,925 --> 00:04:31,469
+The school festival will be over.
+
+88
+00:04:31,469 --> 00:04:32,470
+I don't want that!
+
+89
+00:04:32,470 --> 00:04:34,681
+I want to see Master be the duckling!
+
+90
+00:04:34,681 --> 00:04:36,558
+Then fight!
+
+91
+00:04:37,559 --> 00:04:39,060
+Who are you?
+
+92
+00:04:39,060 --> 00:04:40,979
+To fight. To struggle.
+
+93
+00:04:40,979 --> 00:04:43,648
+Got it! Thanks!
+
+94
+00:04:43,648 --> 00:04:45,817
+Wait, sis!
+
+95
+00:04:48,361 --> 00:04:51,573
+Youth is a wonderful thing.
+
+96
+00:04:51,573 --> 00:04:54,743
+Behold this awesome carriage!
+
+97
+00:04:54,743 --> 00:04:58,830
+I'm shocked that a mere pumpkin
+could turn into something so pathetic.
+
+98
+00:04:58,830 --> 00:05:00,290
+Who are you calling pathetic?
+
+99
+00:05:00,290 --> 00:05:01,541
+A talking carriage!
+
+100
+00:05:01,541 --> 00:05:03,376
+Carriages don't talk!
+
+101
+00:05:03,376 --> 00:05:06,963
+You were made to carry things, not talk!
+
+102
+00:05:06,963 --> 00:05:08,715
+That's really cruel!
+
+103
+00:05:10,759 --> 00:05:14,346
+It's a terrible foe, Death Knight!
+
+104
+00:05:14,346 --> 00:05:17,515
+We should go help!
+
+105
+00:05:18,350 --> 00:05:20,477
+--Let's go.
+--Stay here.
+
+106
+00:05:21,728 --> 00:05:25,482
+There's no place for us in this battle.
+
+107
+00:05:25,482 --> 00:05:27,400
+Why?
+
+108
+00:05:27,400 --> 00:05:28,777
+Because...
+
+109
+00:05:28,777 --> 00:05:30,987
+This is a battle for maidens!
+
+110
+00:05:30,987 --> 00:05:33,531
+I'm female.
+
+111
+00:05:38,161 --> 00:05:41,247
+Cinderella, why are you here?
+
+112
+00:05:41,247 --> 00:05:44,292
+That's right. You don't belong...
+
+113
+00:05:44,292 --> 00:05:45,669
+This isn't even a conversation.
+
+114
+00:05:45,669 --> 00:05:46,294
+--But her brutal mocking laughter
+
+115
+00:05:46,294 --> 00:05:47,545
+--Hang in there...
+--But her brutal mocking laughter
+
+116
+00:05:47,545 --> 00:05:49,130
+--Hang in there, Demiurge!
+--is making me...
+
+117
+00:05:49,130 --> 00:05:51,383
+--Hang in there, Demiurge!
+
+118
+00:05:52,509 --> 00:05:54,886
+Raphtalia, Filo!
+
+119
+00:05:55,929 --> 00:05:57,514
+I'm counting on you!
+
+120
+00:05:57,514 --> 00:05:58,473
+We'll help!
+
+121
+00:05:58,473 --> 00:05:59,474
+Thanks!
+
+122
+00:05:59,474 --> 00:06:02,894
+Attack from different angles
+so it can't focus its attacks!
+
+123
+00:06:02,894 --> 00:06:04,270
+Got it!
+
+124
+00:06:04,270 --> 00:06:06,106
+Okay!
+
+125
+00:06:14,364 --> 00:06:15,782
+Wow.
+
+126
+00:06:15,782 --> 00:06:18,743
+She turns into a really strong bird!
+
+127
+00:06:18,743 --> 00:06:20,912
+Am I strong? Am I strong?
+
+128
+00:06:20,912 --> 00:06:22,914
+Yes! Very strong!
+
+129
+00:06:34,175 --> 00:06:35,343
+Something wrong?
+
+130
+00:06:35,343 --> 00:06:36,928
+Nothing at all, I wonder.
+
+131
+00:06:36,928 --> 00:06:40,724
+She thinks you're thinking
+naughty thoughts about her.
+
+132
+00:06:41,641 --> 00:06:43,101
+I am not!
+
+133
+00:06:43,101 --> 00:06:44,936
+He's right, actually.
+
+134
+00:06:44,936 --> 00:06:47,105
+No!
+
+135
+00:06:54,904 --> 00:06:55,989
+What is that?
+
+136
+00:06:55,989 --> 00:06:57,449
+It didn't have those last time!
+
+137
+00:06:57,449 --> 00:07:01,911
+It's not the Destroyer you know anymore!
+
+138
+00:07:06,708 --> 00:07:09,627
+Missile Parry!
+
+139
+00:07:09,627 --> 00:07:13,214
+Followed by... Counter Arrow!
+
+140
+00:07:15,800 --> 00:07:17,260
+Thank you!
+
+141
+00:07:17,260 --> 00:07:20,638
+I'm saving myself for the one I love...
+
+142
+00:07:21,639 --> 00:07:24,267
+I'm saving myself for the one I love...
+
+143
+00:07:24,267 --> 00:07:26,186
+Wonderful! That's wonderful!
+
+144
+00:07:26,186 --> 00:07:33,026
+Yes! For the man I love, Lord Ains,
+I must annihilate the Destroyer!
+
+145
+00:07:33,026 --> 00:07:35,820
+That is my own diligence!
+
+146
+00:07:35,820 --> 00:07:37,697
+Love!
+
+147
+00:07:37,697 --> 00:07:42,202
+And so the two of them fell in love.
+
+148
+00:07:54,756 --> 00:07:56,841
+High-density magic signal
+emanating from the target!
+
+149
+00:07:56,841 --> 00:07:58,385
+Watch out!
+
+150
+00:07:58,385 --> 00:07:59,552
+Defensive wall!
+
+151
+00:07:59,552 --> 00:08:01,429
+Walls of Jericho!
+
+152
+00:08:03,723 --> 00:08:05,850
+You're good, for a human!
+
+153
+00:08:05,850 --> 00:08:08,603
+I was trained in hell!
+
+154
+00:08:10,438 --> 00:08:11,648
+But...
+
+155
+00:08:13,024 --> 00:08:15,276
+I have to go. Sorry.
+
+156
+00:08:15,276 --> 00:08:16,319
+Wait!
+
+157
+00:08:16,319 --> 00:08:18,113
+At least tell me your name.
+
+158
+00:08:27,247 --> 00:08:28,665
+What is this?
+
+159
+00:08:30,041 --> 00:08:31,084
+Visha!
+
+160
+00:08:32,293 --> 00:08:35,505
+I'm at my limit!
+
+161
+00:08:35,505 --> 00:08:37,424
+I'll protect you!
+
+162
+00:08:37,424 --> 00:08:40,468
+Like Naofumi does!
+
+163
+00:08:45,515 --> 00:08:46,725
+She's absorbing it?
+
+164
+00:08:46,725 --> 00:08:49,602
+That's an amazing power!
+
+165
+00:08:49,602 --> 00:08:51,312
+Demihuman!
+
+166
+00:08:51,312 --> 00:08:53,106
+Raphtalia!
+
+167
+00:08:58,820 --> 00:08:59,696
+Aqua!
+
+168
+00:08:59,696 --> 00:09:00,697
+Right!
+
+169
+00:09:00,697 --> 00:09:04,784
+You fit the glass slipper perfectly!
+
+170
+00:09:04,784 --> 00:09:08,663
+You are the princess I've been looking for!
+
+171
+00:09:08,663 --> 00:09:15,337
+You're going to pay for trying to
+mess with our school festival,
+
+172
+00:09:15,337 --> 00:09:17,172
+Destroyer!
+
+173
+00:09:17,172 --> 00:09:20,342
+Taste my wrath!
+
+174
+00:09:20,342 --> 00:09:24,763
+My rage at not being able to
+see Lord Ains' legendary performance!
+
+175
+00:09:24,763 --> 00:09:27,724
+My sadness at not being able to
+eat more chocolate bananas!
+
+176
+00:09:27,724 --> 00:09:30,518
+My disappointment at not being able to
+have more fun at the festival!
+
+177
+00:09:30,518 --> 00:09:31,478
+I'm disappointed!
+
+178
+00:09:31,478 --> 00:09:32,354
+Disappointed!
+
+179
+00:09:32,354 --> 00:09:34,064
+Disappointed!
+
+180
+00:09:34,064 --> 00:09:37,859
+So, it's up to you now, Aqua!
+
+181
+00:09:37,859 --> 00:09:39,402
+Leave it to me!
+
+182
+00:09:39,402 --> 00:09:45,450
+And this is for everybody!
+
+183
+00:09:45,450 --> 00:09:48,328
+--<i>God Blow!</i>
+
+184
+00:09:48,328 --> 00:09:50,372
+--Please accept the love of me,
+--<i>God Blow!</i>
+
+185
+00:09:50,372 --> 00:09:52,999
+--the prince.
+--<i>God Blow!</i>
+
+186
+00:09:52,999 --> 00:09:55,877
+--Yes, with pleasure.
+--<i>God Blow!</i>
+
+187
+00:10:03,968 --> 00:10:05,095
+So...
+
+188
+00:10:05,095 --> 00:10:08,348
+Nothing changed!
+
+189
+00:10:08,348 --> 00:10:12,936
+So, let's get back to class!
+
+190
+00:10:16,648 --> 00:10:19,526
+So nothing changed at all, huh?
+
+191
+00:10:19,526 --> 00:10:22,070
+That's not quite true.
+
+192
+00:10:23,363 --> 00:10:25,365
+Everything changes.
+
+193
+00:10:25,365 --> 00:10:31,371
+Only when you come together
+can you have the future you want.
+
+194
+00:10:31,371 --> 00:10:33,998
+Why are you being serious all of a sudden?
+
+195
+00:10:33,998 --> 00:10:37,961
+As long as you have the will to change it,
+
+196
+00:10:37,961 --> 00:10:41,506
+you can change the future as much as you want!
+
+197
+00:10:41,506 --> 00:10:42,924
+{\an8}<i>It's an invitation from another world!</i>
+Ros-<i>chi</i>.
+
+198
+00:10:42,924 --> 00:10:44,092
+{\an8}<i>It's an invitation from another world!</i>
+What...
+
+199
+00:10:44,092 --> 00:10:45,427
+{\an8}<i>It's an invitation from another world!</i>
+...does...
+
+200
+00:10:45,427 --> 00:10:46,928
+{\an8}<i>It's an invitation from another world!</i>
+...that...
+
+201
+00:10:46,928 --> 00:10:48,430
+{\an8}<i>It's an invitation from another world!</i>
+...mean?
+
+202
+00:10:48,430 --> 00:10:49,347
+{\an8}<i>It's an invitation from another world!</i>
+
+203
+00:10:49,347 --> 00:10:52,475
+{\an8}<i>It's an invitation from another world!</i>
+Open your books to page 334!
+
+204
+00:10:52,475 --> 00:10:53,643
+Hold it!
+
+205
+00:10:53,643 --> 00:10:55,812
+{\an8}<i>Another world! This is another world!</i>
+
+206
+00:10:55,812 --> 00:10:59,149
+{\an8}<i>Strange things await you!</i>
+
+207
+00:10:59,149 --> 00:11:03,611
+{\an8}<i>It's another world, like a dream!</i>
+
+208
+00:11:03,611 --> 00:11:07,198
+{\an8}<i>It won't let you go, it won't let you head home</i>
+
+209
+00:11:07,198 --> 00:11:09,951
+{\an8}<i>You're not going back to your old world</i>
+
+210
+00:11:09,951 --> 00:11:14,581
+{\an8}<i>It's a forbidden passport!</i>
+
+211
+00:11:14,581 --> 00:11:20,045
+{\an8}<i>It's a story of four nations,</i>
+
+212
+00:11:20,045 --> 00:11:26,718
+{\an8}<i>an other world quartet that gathers once a week!</i>
+
+213
+00:11:26,718 --> 00:11:29,137
+{\an8}<i>Another world! This is another world!</i>
+
+214
+00:11:29,137 --> 00:11:34,976
+{\an8}<i>Now let's head on a dangerous journey?</i>
+<i>Huh? Huh? Huh? Huh?!</i>
+
+215
+00:11:34,976 --> 00:11:37,395
+{\an8}<i>Other world showtime!</i>
+
+216
+00:11:37,395 --> 00:11:45,987
+{\an8}<i>The bell's ringing to start the day,</i>
+<i>whether you like it or not!</i>
+
+217
+00:11:45,987 --> 00:11:51,493
+{\an8}<i>There's no telling what'll happen,</i>
+
+218
+00:11:51,493 --> 00:11:55,997
+{\an8}<i>just like the real world!</i>
+
+219
+00:11:55,997 --> 00:11:59,834
+{\an8}<i>It won't let you go, it won't let you head home</i>
+
+220
+00:11:59,834 --> 00:12:04,506
+{\an8}<i>Other world! Other world!</i>
+<i>Other world! Other world! Aah!</i>
+
+221
+00:12:04,506 --> 00:12:05,382
+{\an8}<i>SHOWTIME!</i>
+
+222
+00:12:05,382 --> 00:12:05,924
+{\an8}<i>This story is fiction!</i>
+
+223
+00:12:05,924 --> 00:12:06,633
+{\an8}<i>This story is fiction!</i>
+"New Season Coming Soon"
+
+224
+00:12:06,633 --> 00:12:08,551
+{\an8}<i>Warning: use only as directed!</i>
+"New Season Coming Soon"
+
+225
+00:12:08,551 --> 00:12:10,679
+{\an8}
+"New Season Coming Soon"
+

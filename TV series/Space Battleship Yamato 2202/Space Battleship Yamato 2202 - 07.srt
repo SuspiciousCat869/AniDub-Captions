@@ -1,0 +1,1432 @@
+﻿1
+00:02:25,176 --> 00:02:28,680
+Chief Intel Archivist Gairen,
+
+2
+00:02:28,763 --> 00:02:32,559
+we need you to bring up the
+records regarding the <i>Yamato.</i>
+
+3
+00:02:32,642 --> 00:02:34,436
+[GAIREN]
+Yes, ma'am.
+
+4
+00:02:40,567 --> 00:02:41,943
+[GAIREN]
+This is what we observed
+
+5
+00:02:42,027 --> 00:02:46,448
+near Balun 31.72 hebrons ago.
+
+6
+00:03:02,589 --> 00:03:04,257
+What a powerful weapon.
+
+7
+00:03:04,341 --> 00:03:07,927
+That ship's dangerous.
+Contact Mazer's fleet.
+
+8
+00:03:08,011 --> 00:03:10,138
+They were ordered to
+invade the Zol System.
+
+9
+00:03:10,221 --> 00:03:11,556
+[ZWORDER]
+No need.
+
+10
+00:03:11,639 --> 00:03:12,265
+Huh...?
+
+11
+00:03:12,349 --> 00:03:14,476
+They will not use it.
+
+12
+00:03:14,559 --> 00:03:19,564
+The <i>Yamato</i> may hold the power,
+but they lack the will.
+
+13
+00:03:21,358 --> 00:03:27,364
+[laughs]
+
+14
+00:03:45,882 --> 00:03:49,594
+This is terrible! Look at that!
+
+15
+00:03:49,678 --> 00:03:53,014
+[YAMAMOTO] <i>Yamato.</i> This is
+Cosmo Tiger pilot Yamamoto.
+
+16
+00:03:53,098 --> 00:03:55,517
+Do you copy?
+
+17
+00:03:55,600 --> 00:03:59,104
+Please respond. Come on...
+
+18
+00:04:02,982 --> 00:04:04,401
+[OTA] Pressure levels
+approaching limits
+
+19
+00:04:04,484 --> 00:04:05,902
+of the Wave Motion Shields.
+
+20
+00:04:05,985 --> 00:04:09,072
+[SANADA] Approximately one
+minute until shields fail.
+
+21
+00:04:09,155 --> 00:04:11,950
+[YAMATO CREW chattering]
+
+22
+00:04:12,033 --> 00:04:13,702
+[TOKUGAWA]
+There's no time to spare!
+
+23
+00:04:13,785 --> 00:04:15,745
+Do whatever it takes
+to keep us stable,
+
+24
+00:04:15,829 --> 00:04:17,706
+and start up the sub-engine!
+
+25
+00:04:17,789 --> 00:04:21,501
+Send all available energy to
+main engine. Every bit counts!
+
+26
+00:04:21,584 --> 00:04:24,879
+Hurry sir! There's not much more
+we can do for the shields.
+
+27
+00:04:24,963 --> 00:04:27,090
+If they fail we'll
+be crushed flat.
+
+28
+00:04:27,173 --> 00:04:29,300
+Analyzer, report.
+
+29
+00:04:29,384 --> 00:04:30,969
+[ANALYZER]
+Determining rock configuration
+
+30
+00:04:31,052 --> 00:04:35,640
+necessary to disperse weight
+and maintain protective cavity.
+
+31
+00:04:35,724 --> 00:04:37,600
+Calculation complete.
+
+32
+00:04:38,810 --> 00:04:41,604
+Aim magnetron probes, and fire!
+
+33
+00:04:42,981 --> 00:04:44,315
+Fire!
+
+34
+00:04:49,029 --> 00:04:51,364
+Magnetron wave calibrated
+and launched.
+
+35
+00:04:51,448 --> 00:04:54,075
+[SANADA] Wave Motion
+Shields failure in 5...
+
+36
+00:04:54,159 --> 00:04:57,954
+...4... 3... 2... 1...
+
+37
+00:05:07,505 --> 00:05:09,841
+[TOKUGAWA]
+Probes holding steady.
+
+38
+00:05:09,924 --> 00:05:11,343
+It actually worked!
+
+39
+00:05:11,426 --> 00:05:13,345
+That's one more close call.
+
+40
+00:05:13,428 --> 00:05:14,929
+[sighs]
+
+41
+00:05:30,570 --> 00:05:33,698
+[COSMODART] Admiral Mazer, we're
+detecting faint energy readings
+
+42
+00:05:33,782 --> 00:05:35,283
+just below the surface.
+
+43
+00:05:35,367 --> 00:05:39,788
+That Earthling ship, the
+<i>Yamato,</i> may still be intact.
+
+44
+00:05:39,871 --> 00:05:43,583
+No matter. The Emperor's
+decision has come down.
+
+45
+00:05:43,667 --> 00:05:45,335
+Thankfully we've been
+granted permission
+
+46
+00:05:45,418 --> 00:05:48,338
+to use the Legionnaire
+Cannon just as we hoped.
+
+47
+00:05:48,421 --> 00:05:50,006
+Make the preparations.
+
+48
+00:05:50,090 --> 00:05:51,299
+Sir.
+
+49
+00:05:52,801 --> 00:05:55,178
+Look at this false star
+lighting up their system's
+
+50
+00:05:55,261 --> 00:05:58,932
+most distant planet,
+but not for long.
+
+51
+00:06:10,276 --> 00:06:12,028
+There're so many of them.
+
+52
+00:06:12,112 --> 00:06:14,489
+[KEYMAN] Did you manage
+to contact the <i>Yamato</i> ?
+
+53
+00:06:14,572 --> 00:06:18,243
+They're safe down there. They'll
+launch once they finish repairs.
+
+54
+00:06:18,326 --> 00:06:22,038
+[KEYMAN] You should send them
+that recon report, as well.
+
+55
+00:06:22,122 --> 00:06:25,542
+Not that knowing is going
+to make any difference now.
+
+56
+00:06:27,419 --> 00:06:28,545
+Problem?
+
+57
+00:06:28,628 --> 00:06:29,963
+Not really.
+
+58
+00:06:32,382 --> 00:06:36,928
+Always so calm, aren't ya?
+Must be your cold blood.
+
+59
+00:06:37,012 --> 00:06:39,931
+It seems my translator
+is malfunctioning.
+
+60
+00:06:40,015 --> 00:06:42,267
+If that's the case,
+you'd better take it off.
+
+61
+00:06:42,350 --> 00:06:44,144
+I'd hate for you
+to hear us talking,
+
+62
+00:06:44,227 --> 00:06:48,189
+but then have no freaking idea
+what we're actually feeling.
+
+63
+00:06:50,650 --> 00:06:52,318
+[sighs] Tsurumi.
+
+64
+00:06:52,402 --> 00:06:53,778
+Huh? Sir!
+
+65
+00:06:53,862 --> 00:06:55,780
+[KATO]
+Pass out emergency rations.
+
+66
+00:06:55,864 --> 00:06:58,074
+Get some from my plane
+for Mr. Gamilas.
+
+67
+00:06:58,158 --> 00:06:59,451
+--[gasps]
+--[SHINOHARA, YAMAMOTO] Heh.
+
+68
+00:06:59,534 --> 00:07:02,203
+Well, they get hungry
+same as us, don't they?
+
+69
+00:07:02,287 --> 00:07:05,123
+And put something
+in your belly, too.
+
+70
+00:07:05,206 --> 00:07:07,250
+Uh, yes, sir.
+
+71
+00:07:21,222 --> 00:07:24,809
+Sorry for Commander
+Kato--it isn't you.
+
+72
+00:07:26,269 --> 00:07:29,314
+[YAMAMOTO]
+His son is sick, and his wife...
+
+73
+00:07:29,397 --> 00:07:31,358
+Things haven't been
+easy for him.
+
+74
+00:07:31,441 --> 00:07:33,860
+That's not it. He's angry
+
+75
+00:07:33,943 --> 00:07:37,822
+because he's certain your crew
+will overcome this and I'm not.
+
+76
+00:07:37,906 --> 00:07:40,450
+That's why he's picking
+a fight with me.
+
+77
+00:07:41,951 --> 00:07:46,373
+Face it. The <i>Yamato</i> is
+not the same as before.
+
+78
+00:07:46,456 --> 00:07:48,875
+That fact should be
+obvious to all of you.
+
+79
+00:07:48,958 --> 00:07:52,253
+And yet, it seems
+no one wants to say it.
+
+80
+00:07:52,337 --> 00:07:53,713
+You've put all
+the responsibility
+
+81
+00:07:53,797 --> 00:07:58,468
+on your acting captain,
+and this is the end result.
+
+82
+00:08:01,930 --> 00:08:03,390
+This rescue...
+
+83
+00:08:03,473 --> 00:08:06,935
+You were opposed to it
+from the start, Lieutenant.
+
+84
+00:08:07,018 --> 00:08:08,478
+That's right.
+
+85
+00:08:08,561 --> 00:08:12,565
+But I'll admit, you've saved
+many lives, at least up to now.
+
+86
+00:08:12,649 --> 00:08:14,067
+If we do manage to escape,
+
+87
+00:08:14,150 --> 00:08:18,697
+then I suppose Kodai will
+have made the right decision.
+
+88
+00:08:18,780 --> 00:08:22,992
+He may be stubborn,
+but he's not foolish.
+
+89
+00:08:25,161 --> 00:08:26,996
+How can there be this many?
+
+90
+00:08:27,080 --> 00:08:29,958
+And according to Keyman there
+was still a constant stream
+
+91
+00:08:30,041 --> 00:08:32,877
+of ships warping out after
+he finished recording this.
+
+92
+00:08:32,961 --> 00:08:34,087
+Analyzer.
+
+93
+00:08:34,170 --> 00:08:35,296
+[ANALYZER]
+Yes sir?
+
+94
+00:08:35,380 --> 00:08:37,215
+[SANADA] Their fleet
+formation is peculiar.
+
+95
+00:08:37,298 --> 00:08:40,301
+Compare with past data, and try
+to predict what they're up to.
+
+96
+00:08:40,385 --> 00:08:41,261
+[ANALYZER]
+Copy that.
+
+97
+00:08:41,344 --> 00:08:43,096
+[SAITO]
+You the acting captain?
+
+98
+00:08:43,179 --> 00:08:44,514
+[SHIMA]
+Who's asking?
+
+99
+00:08:44,597 --> 00:08:47,267
+I'm Commander of the Space
+Cavalry Seventh Regiment,
+
+100
+00:08:47,350 --> 00:08:48,935
+Hajime Saito.
+
+101
+00:08:49,019 --> 00:08:52,480
+First off, let me express
+my deepest gratitude.
+
+102
+00:08:52,564 --> 00:08:55,859
+You saved the lives of
+over 200 colonists.
+
+103
+00:08:55,942 --> 00:08:58,528
+Thank you. You've risked a lot.
+
+104
+00:08:58,611 --> 00:09:02,032
+That said, there's a question
+I can't help but ask.
+
+105
+00:09:02,115 --> 00:09:04,701
+What the hell are
+you waiting for?!
+
+106
+00:09:04,784 --> 00:09:09,039
+Your ship has the Wave
+Motion Gun! Why not use it?
+
+107
+00:09:10,582 --> 00:09:13,001
+I don't have to answer
+to you, Commander.
+
+108
+00:09:13,084 --> 00:09:14,711
+[SAITO]
+Don't you have a responsibility
+
+109
+00:09:14,794 --> 00:09:16,338
+to the people you've
+taken aboard?
+
+110
+00:09:16,421 --> 00:09:17,797
+Hey! That's enough!
+
+111
+00:09:17,881 --> 00:09:20,425
+All of these people believe
+you've saved their lives.
+
+112
+00:09:20,508 --> 00:09:23,136
+They believe they can
+go to Earth now.
+
+113
+00:09:23,219 --> 00:09:27,182
+They believe in the <i>Yamato</i>
+that achieved the impossible!
+
+114
+00:09:27,265 --> 00:09:28,933
+If you don't use that Gun,
+
+115
+00:09:29,017 --> 00:09:32,562
+how are you going to get them
+off this world? Answer me!
+
+116
+00:09:32,645 --> 00:09:33,480
+[AIHARA]
+Quiet!
+
+117
+00:09:33,563 --> 00:09:34,606
+[static]
+
+118
+00:09:34,689 --> 00:09:36,691
+[AIHARA]
+It's a distress signal
+
+119
+00:09:36,775 --> 00:09:38,318
+from what's left of
+your headquarters!
+
+120
+00:09:38,401 --> 00:09:39,110
+Say wha...?
+
+121
+00:09:39,194 --> 00:09:41,696
+Aihara, let us hear.
+
+122
+00:09:42,447 --> 00:09:44,532
+[UNCF OFFICER 6A] Remaining
+units, if you can hear us
+
+123
+00:09:44,616 --> 00:09:46,534
+please proceed to
+headquarters now.
+
+124
+00:09:46,618 --> 00:09:49,120
+Survivors are underground
+but pinned down.
+
+125
+00:09:49,204 --> 00:09:52,916
+Commander Hijikata is here
+and alive but badly wounded.
+
+126
+00:09:52,999 --> 00:09:55,710
+[SAITO]
+The old man! He's still alive!
+
+127
+00:10:05,553 --> 00:10:07,972
+This is Kato, I'm listening.
+
+128
+00:10:08,056 --> 00:10:10,558
+[KODAI] Their HQ was hit hard,
+but we've confirmed survivors--
+
+129
+00:10:10,642 --> 00:10:12,727
+including their
+Commander, Hijikata.
+
+130
+00:10:12,811 --> 00:10:14,521
+Admiral Hijikata's alive?
+
+131
+00:10:14,604 --> 00:10:17,357
+[KODAI] A team of Space Cavalry
+is en route to rescue them now.
+
+132
+00:10:17,440 --> 00:10:19,901
+[SAIJO]
+Radar back online!
+
+133
+00:10:19,984 --> 00:10:23,530
+Enemy fleet confirmed.
+Bringing it up on main screen.
+
+134
+00:10:23,613 --> 00:10:25,490
+[KODAI]
+How can there be that many?
+
+135
+00:10:25,573 --> 00:10:28,201
+[SAIJO] Enemy ships are still
+warping out in large numbers.
+
+136
+00:10:28,284 --> 00:10:30,620
+Current total exceeds 15,000.
+
+137
+00:10:30,704 --> 00:10:32,497
+[KODAI]
+All right, Cosmo Tiger Squadron,
+
+138
+00:10:32,580 --> 00:10:35,834
+hang tight and standby
+for orders. Bridge out.
+
+139
+00:10:35,917 --> 00:10:36,918
+[KATO]
+Roger that.
+
+140
+00:10:37,002 --> 00:10:39,629
+Hold on. That fleet...
+
+141
+00:10:39,713 --> 00:10:41,506
+[ANALYZER]
+Analysis complete.
+
+142
+00:10:41,589 --> 00:10:44,384
+Enemy Karakrum-class battleship
+group appears to be
+
+143
+00:10:44,467 --> 00:10:47,429
+constructing giant
+cylinder formation.
+
+144
+00:10:47,512 --> 00:10:50,598
+Estimated time of
+completion: 10-20 hours.
+
+145
+00:10:50,682 --> 00:10:54,394
+Estimated total in final
+formation: 2.5 million ships.
+
+146
+00:10:54,477 --> 00:10:56,896
+Superstructure believed to
+be massive accelerator,
+
+147
+00:10:56,980 --> 00:10:58,982
+which will induce critical
+stellar instability
+
+148
+00:10:59,065 --> 00:11:01,609
+when orbiting artificial
+sun enters cylinder,
+
+149
+00:11:01,693 --> 00:11:04,404
+expelling energy capable
+of annihilating all objects
+
+150
+00:11:04,487 --> 00:11:07,032
+within 20,000-kilometer radius.
+
+151
+00:11:07,115 --> 00:11:09,451
+They'll cause a supernova?
+
+152
+00:11:09,534 --> 00:11:12,287
+There's more to it.
+That shape...
+
+153
+00:11:12,370 --> 00:11:14,664
+Kodai. We need to
+get out of here.
+
+154
+00:11:14,748 --> 00:11:17,000
+[SANADA]
+Wait. Analyzer.
+
+155
+00:11:17,083 --> 00:11:20,295
+Hypothesize that formation
+is also a firing platform.
+
+156
+00:11:20,378 --> 00:11:23,631
+Would there be a planet in
+the diverted energy's path?
+
+157
+00:11:23,715 --> 00:11:26,843
+[ANALYZER] Scaling to estimated
+final size of enemy fleet.
+
+158
+00:11:26,926 --> 00:11:30,096
+Calculating trajectory of
+diverted supernova energy.
+
+159
+00:11:30,180 --> 00:11:33,683
+Planets in effective
+range... One.
+
+160
+00:11:33,767 --> 00:11:34,642
+Planet Earth.
+
+161
+00:11:34,726 --> 00:11:35,560
+[KODAI gasps]
+
+162
+00:11:35,643 --> 00:11:36,311
+[SAIJO gasps]
+
+163
+00:11:36,394 --> 00:11:37,729
+[AIHARA, TOKUGAWA gasp]
+
+164
+00:11:37,812 --> 00:11:38,813
+[OTA gasps]
+
+165
+00:12:53,221 --> 00:12:55,807
+Any survivors, respond now!
+
+166
+00:12:57,642 --> 00:13:00,061
+[HIJIKATA]
+No need to yell, Commander.
+
+167
+00:13:00,145 --> 00:13:02,063
+[SAITO]
+It's the old man!
+
+168
+00:13:13,450 --> 00:13:15,035
+[STARSHA]
+Promise me you will be better.
+
+169
+00:13:15,118 --> 00:13:16,202
+[OKITA]
+I give you my word.
+
+170
+00:13:16,286 --> 00:13:17,162
+[STARSHA]
+Promise me you will be better.
+
+171
+00:13:17,245 --> 00:13:18,329
+[OKITA]
+I give you my word.
+
+172
+00:13:18,413 --> 00:13:19,664
+[STARSHA]
+Promise me you will be better.
+
+173
+00:13:19,748 --> 00:13:20,832
+[OKITA]
+I give you my word.
+
+174
+00:13:20,915 --> 00:13:21,875
+[STARSHA]
+Promise me you will be better.
+
+175
+00:13:21,958 --> 00:13:24,127
+[OKITA]
+I give you my word.
+
+176
+00:13:24,210 --> 00:13:26,796
+Show your resolve.
+
+177
+00:13:27,172 --> 00:13:30,717
+[KODAI gasping]
+Resolve...?
+
+178
+00:13:32,427 --> 00:13:36,681
+What should I resolve
+to do?! Tell me, Captain!
+
+179
+00:13:40,143 --> 00:13:43,271
+[footsteps]
+
+180
+00:13:45,607 --> 00:13:47,025
+Kodai.
+
+181
+00:13:50,362 --> 00:13:54,366
+Kodai, we should use the Gun.
+
+182
+00:13:57,202 --> 00:13:59,537
+It's the only option we have.
+
+183
+00:13:59,621 --> 00:14:02,290
+If that formation is
+the weapon we think it is,
+
+184
+00:14:02,374 --> 00:14:04,793
+the damage to planet Earth
+would be immeasurable.
+
+185
+00:14:04,876 --> 00:14:07,128
+[KODAI]
+A promise.
+
+186
+00:14:07,212 --> 00:14:08,797
+He made a promise.
+
+187
+00:14:08,880 --> 00:14:11,257
+Captain Okita gave
+his word to Starsha
+
+188
+00:14:11,341 --> 00:14:13,677
+that we wouldn't use
+the Wave Motion Gun again.
+
+189
+00:14:13,760 --> 00:14:16,054
+That's how the Earth was saved.
+
+190
+00:14:18,014 --> 00:14:22,060
+Sanada. I'm just... I'm lost.
+
+191
+00:14:22,143 --> 00:14:23,269
+I've tried to do these things
+
+192
+00:14:23,353 --> 00:14:25,605
+that shouldn't even
+be in question.
+
+193
+00:14:25,689 --> 00:14:30,276
+Keeping our promises.
+Saving people who ask for help.
+
+194
+00:14:30,360 --> 00:14:33,238
+Those things should
+be givens, right?!
+
+195
+00:14:33,321 --> 00:14:35,699
+Kodai...
+
+196
+00:14:35,782 --> 00:14:39,494
+[KODAI] If our kind can't do
+those fundamental things,
+
+197
+00:14:39,577 --> 00:14:43,415
+then I'm embarrassed
+to call Earth my home.
+
+198
+00:14:43,498 --> 00:14:45,667
+I wanna prove we're
+not all that weak.
+
+199
+00:14:45,750 --> 00:14:48,670
+I want to show Earthlings
+can be better.
+
+200
+00:14:48,753 --> 00:14:52,382
+That's the <i>Yamato</i> 's role.
+
+201
+00:14:52,465 --> 00:14:54,592
+But to live...
+
+202
+00:14:54,676 --> 00:14:57,095
+...we'll have to break
+that promise ourselves,
+
+203
+00:14:57,178 --> 00:14:59,472
+and kill tens of thousands.
+
+204
+00:15:20,243 --> 00:15:22,537
+[door opens]
+
+205
+00:15:22,620 --> 00:15:24,622
+[door closes]
+
+206
+00:15:40,180 --> 00:15:42,015
+[beeping]
+
+207
+00:15:42,098 --> 00:15:43,850
+[AIHARA]
+Acting Captain, you have a call
+
+208
+00:15:43,933 --> 00:15:45,727
+from Lieutenant Keyman.
+
+209
+00:15:45,810 --> 00:15:47,812
+[KEYMAN]
+It's dawn up here, Kodai.
+
+210
+00:15:47,896 --> 00:15:51,775
+You can't see it, since
+you're buried underground.
+
+211
+00:15:51,858 --> 00:15:55,487
+But the artificial sun we
+Gamilans left is quite a marvel.
+
+212
+00:15:55,570 --> 00:15:57,572
+I just thought you should know.
+
+213
+00:16:13,630 --> 00:16:16,216
+Understood. Thank you.
+
+214
+00:16:16,299 --> 00:16:19,135
+[KEYMAN]
+I wish you luck.
+
+215
+00:16:19,219 --> 00:16:20,845
+Begin the firing sequence.
+
+216
+00:16:20,929 --> 00:16:23,223
+We're going to use
+the Wave Motion Gun.
+
+217
+00:16:23,306 --> 00:16:25,600
+[BOTH gasp]
+
+218
+00:16:27,018 --> 00:16:29,020
+Sub-engine... Start up.
+
+219
+00:16:29,104 --> 00:16:30,355
+[TOKUGAWA]
+Starting sub-engine.
+
+220
+00:16:30,438 --> 00:16:31,481
+Uh.
+
+221
+00:16:31,564 --> 00:16:32,899
+[TOKUGAWA]
+Mm.
+
+222
+00:16:33,191 --> 00:16:35,610
+Kodai. To do this
+we'll need to time it
+
+223
+00:16:35,694 --> 00:16:37,987
+to the instant that sun
+enters their formation.
+
+224
+00:17:21,740 --> 00:17:23,366
+[SAITO]
+Hang in there, Old Man.
+
+225
+00:17:23,450 --> 00:17:26,953
+Once we make it to the <i>Yamato,</i>
+you'll be in good hands.
+
+226
+00:17:45,138 --> 00:17:46,848
+Commander! The <i>Yamato</i> !
+
+227
+00:17:46,931 --> 00:17:48,058
+What?!
+
+228
+00:18:09,245 --> 00:18:12,707
+Kodai. Now! Fire the damn Gun!
+
+229
+00:18:16,211 --> 00:18:18,963
+Are you just going to watch
+while the enemy destroys us?
+
+230
+00:18:19,047 --> 00:18:19,881
+Come on!
+
+231
+00:18:19,964 --> 00:18:22,342
+Patience.
+
+232
+00:18:22,425 --> 00:18:24,177
+Kodai will fire.
+
+233
+00:18:25,387 --> 00:18:27,180
+[COSMODART]
+Admiral Mazer, we've assumed
+
+234
+00:18:27,263 --> 00:18:30,975
+Legionnaire Cannon formation
+and are in line to receive.
+
+235
+00:18:31,059 --> 00:18:34,896
+Artificial star will connect
+with core point shortly.
+
+236
+00:18:34,979 --> 00:18:39,025
+Splendid. Prepare to fire
+the Legionnaire Cannon.
+
+237
+00:18:51,246 --> 00:18:53,039
+[KODAI] Open circuit to
+the Wave Motion Gun.
+
+238
+00:18:53,123 --> 00:18:54,666
+[NANBU]
+Opening circuit.
+
+239
+00:18:54,749 --> 00:18:56,960
+[TOKUGAWA]
+Sealing emergency vents.
+
+240
+00:18:57,043 --> 00:18:59,671
+Activating force injector.
+
+241
+00:18:59,754 --> 00:19:04,551
+Confirming force injector
+active. Releasing final safety.
+
+242
+00:19:06,469 --> 00:19:09,723
+On track. Tachyon particle
+pressure rising.
+
+243
+00:19:09,806 --> 00:19:12,225
+Now reaching 120%.
+
+244
+00:19:12,308 --> 00:19:15,562
+Stand by, safeguards up.
+
+245
+00:19:15,645 --> 00:19:18,231
+They're going to use it...
+The Gun.
+
+246
+00:19:18,314 --> 00:19:21,693
+[KODAI] Engage anti-shock
+and anti-flare defenses.
+
+247
+00:19:21,776 --> 00:19:24,195
+Targeting scope. Active.
+
+248
+00:19:24,279 --> 00:19:28,408
+Electronic cross-gauge,
+display brightness 100.
+
+249
+00:19:28,491 --> 00:19:31,453
+Multiple coronal holes
+forming on the artificial sun.
+
+250
+00:19:31,536 --> 00:19:34,831
+Confirmed energy flow into
+enemy fleet formation.
+
+251
+00:19:34,914 --> 00:19:36,374
+[KODAI]
+3...
+
+252
+00:19:36,458 --> 00:19:38,209
+...2...
+
+253
+00:19:38,293 --> 00:19:39,586
+...1...
+
+254
+00:19:41,463 --> 00:19:42,589
+Firing!
+
+255
+00:20:08,365 --> 00:20:11,576
+[MAZER grunts] What is this?
+What's happening to the fleet?
+
+256
+00:20:11,659 --> 00:20:13,578
+[COSMODART]
+Some sort of wave interference!
+
+257
+00:20:13,661 --> 00:20:16,414
+The power system on every
+ship is malfunctioning!
+
+258
+00:20:16,498 --> 00:20:17,707
+[MAZER growls]
+
+259
+00:20:31,846 --> 00:20:36,142
+So it's the same as the depth
+charges we used before. Correct?
+
+260
+00:20:36,226 --> 00:20:37,644
+That's right.
+
+261
+00:20:37,727 --> 00:20:40,897
+It shot directly into the
+artificial sun's core reactor.
+
+262
+00:20:40,980 --> 00:20:43,900
+The wave motion resonance
+creates interference.
+
+263
+00:20:43,983 --> 00:20:47,195
+They won't be able
+to move for some time.
+
+264
+00:20:47,278 --> 00:20:49,906
+Clever. You saved us yet again.
+
+265
+00:20:49,989 --> 00:20:52,659
+That sun at dawn
+is a true marvel.
+
+266
+00:20:52,742 --> 00:20:54,953
+That's the only thing
+I said to him.
+
+267
+00:20:55,995 --> 00:20:57,247
+[KODAI]
+This is Susumu Kodai,
+
+268
+00:20:57,330 --> 00:21:00,542
+Acting Captain of the
+Space Battleship <i>Yamato.</i>
+
+269
+00:21:00,625 --> 00:21:01,793
+If we attack now,
+
+270
+00:21:01,876 --> 00:21:05,422
+we can eliminate every
+vessel in your fleet.
+
+271
+00:21:05,505 --> 00:21:08,758
+We can, but we don't
+want to keep fighting.
+
+272
+00:21:08,842 --> 00:21:12,220
+We want you to peacefully
+withdraw from this system.
+
+273
+00:21:12,303 --> 00:21:16,266
+If you comply, we will not
+pursue and we will not attack.
+
+274
+00:21:16,349 --> 00:21:19,602
+We come from different worlds,
+but as fellow sentient beings,
+
+275
+00:21:19,686 --> 00:21:21,938
+I ask that you think
+this through.
+
+276
+00:21:22,022 --> 00:21:25,984
+Forgiveness? Really?
+After what they just did?
+
+277
+00:21:26,067 --> 00:21:28,528
+It's possible that's
+the right move.
+
+278
+00:21:28,611 --> 00:21:31,614
+However, for that to be
+true the other side
+
+279
+00:21:31,698 --> 00:21:33,575
+would have to think like we do.
+
+280
+00:21:33,658 --> 00:21:34,993
+[SAITO gasping]
+
+281
+00:21:35,076 --> 00:21:38,038
+[HIJIKATA] Our new enemies are
+not like the Gamilans.
+
+282
+00:21:38,121 --> 00:21:42,083
+These spared dogs may
+come back to bite.
+
+283
+00:21:45,879 --> 00:21:49,674
+[MAZER] Run away.
+He actually told us to run away.
+
+284
+00:21:49,758 --> 00:21:52,594
+Instead of killing us
+or taking us prisoner.
+
+285
+00:21:52,677 --> 00:21:56,723
+How can this be?
+Why would they let us go?
+
+286
+00:21:56,806 --> 00:21:59,893
+[COSMODART] I don't understand.
+It makes no sense!
+
+287
+00:21:59,976 --> 00:22:02,604
+What in the world
+are they doing?
+
+288
+00:22:02,687 --> 00:22:04,606
+It's love.
+
+289
+00:22:05,940 --> 00:22:07,567
+Heh.
+
+290
+00:22:15,408 --> 00:22:17,577
+[SHIMA] You fired this
+thing and saved the Earth
+
+291
+00:22:17,660 --> 00:22:22,123
+without taking a single life.
+I'd call that admirable.
+
+292
+00:22:22,207 --> 00:22:25,710
+[KODAI exhales]
+I can twist it however I want,
+
+293
+00:22:25,794 --> 00:22:28,713
+but it won't change the fact
+I used the Wave Motion Gun.
+
+294
+00:22:28,797 --> 00:22:30,674
+[SANADA]
+Kodai.
+
+295
+00:22:30,757 --> 00:22:32,842
+[KODAI]
+I know.
+
+296
+00:22:32,926 --> 00:22:35,679
+I won't say it in in
+front of the others.
+
+297
+00:22:38,473 --> 00:22:43,645
+Maybe I'm fooling myself, but we
+all have to start somewhere.
+
+298
+00:24:59,906 --> 00:25:01,449
+[HIJIKATA]
+I have this feeling--
+
+299
+00:25:01,533 --> 00:25:03,368
+like Okita is still
+onboard this ship.
+
+300
+00:25:03,451 --> 00:25:04,703
+[KODAI]
+All right. Who are you?
+
+301
+00:25:04,786 --> 00:25:06,121
+[SHINOHARA]
+It's practically a graveyard.
+
+302
+00:25:06,204 --> 00:25:07,330
+[SANADA]
+You're telling me a civilian
+
+303
+00:25:07,414 --> 00:25:08,665
+is headed for the
+ruins right now?
+
+304
+00:25:08,748 --> 00:25:09,666
+[SHIMA]
+What's going on here, Keyman?
+
+305
+00:25:09,749 --> 00:25:11,292
+[SANADA]
+Kodai, where did you go?
+
+306
+00:25:11,376 --> 00:25:14,004
+[ZWORDER]
+My name is Zworder.
+

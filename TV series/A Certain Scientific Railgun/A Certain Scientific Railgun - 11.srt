@@ -1,0 +1,1401 @@
+﻿1
+00:00:06,921 --> 00:00:08,698
+Computational device?
+
+2
+00:00:09,171 --> 00:00:13,373
+By using the AIM diffusion field as a
+medium, I was able to construct a network...
+
+3
+00:00:13,721 --> 00:00:18,734
+And by distributing the processing across
+multiple brains, I can enable complex computations.
+
+4
+00:00:19,069 --> 00:00:20,892
+That's what the Level Upper really is.
+
+5
+00:00:23,539 --> 00:00:24,264
+But why?
+
+6
+00:00:24,772 --> 00:00:26,897
+I requested the use of Tree Diagram...
+
+7
+00:00:27,099 --> 00:00:29,983
+I needed access to it to perform certain simulations.
+
+8
+00:00:30,355 --> 00:00:32,226
+But for whatever reason, I was denied.
+
+9
+00:00:32,734 --> 00:00:35,270
+I needed a computational device in its place.
+
+10
+00:00:36,754 --> 00:00:39,034
+You've used their brains to construct a computer?
+
+11
+00:00:39,422 --> 00:00:41,672
+I've put about ten thousand of them together.
+
+12
+00:00:41,879 --> 00:00:43,656
+That should be an adequate substitute.
+
+13
+00:00:45,796 --> 00:00:47,797
+Don't give me such a reproachful look.
+
+14
+00:00:49,272 --> 00:00:50,990
+It will all be over soon enough.
+
+15
+00:00:51,713 --> 00:00:53,994
+And once it is, everyone will be released.
+
+16
+00:00:56,437 --> 00:00:58,014
+This is a treatment program...
+
+17
+00:00:58,051 --> 00:00:59,841
+It will uninstall the Level Upper.
+
+18
+00:01:00,976 --> 00:01:02,254
+I'm giving it to you.
+
+19
+00:01:05,546 --> 00:01:07,338
+There are no lasting aftereffects.
+
+20
+00:01:07,363 --> 00:01:10,939
+Everything will return to normal,
+and nobody will be lost in the process.
+
+21
+00:01:11,068 --> 00:01:12,679
+And I'm supposed to trust you?
+
+22
+00:01:12,794 --> 00:01:15,756
+You give me this thing that probably
+hasn't even been tested before,
+
+23
+00:01:15,781 --> 00:01:18,170
+and I should just take it without asking questions?
+
+24
+00:01:18,825 --> 00:01:20,448
+You have quite a harsh view of me.
+
+25
+00:01:23,634 --> 00:01:26,645
+Yes. Dr. Kiyama is not at this location.
+
+26
+00:01:28,148 --> 00:01:30,264
+Copy that. We are seizing all data.
+
+27
+00:01:36,516 --> 00:01:37,466
+What is all this?
+
+28
+00:01:38,938 --> 00:01:39,873
+That's not good.
+
+29
+00:01:41,164 --> 00:01:42,846
+It looks like they've already arrived.
+
+30
+00:01:43,604 --> 00:01:48,263
+It hasn't been long enough since they lost contact with
+you for that to be the reason they're making this move.
+
+31
+00:01:48,382 --> 00:01:50,382
+They must have figured it out some other way.
+
+32
+00:01:51,452 --> 00:01:54,235
+I programmed my equipment with
+security measures in the event
+
+33
+00:01:54,260 --> 00:01:56,991
+it was booted without following designated protocols.
+
+34
+00:01:58,172 --> 00:02:02,112
+Those measures have been activated, which
+means all data on the Level Upper has been lost.
+
+35
+00:02:02,626 --> 00:02:06,671
+The only means of waking the sleepers now
+is what you're holding there in your hand.
+
+36
+00:02:09,280 --> 00:02:10,818
+So take good care of it.
+
+37
+00:02:25,567 --> 00:02:27,344
+Attention, Harumi Kiyama!
+
+38
+00:02:27,978 --> 00:02:29,625
+Antiskill is here, huh?
+
+39
+00:02:30,064 --> 00:02:34,463
+One thing that I can say for them is that they
+sure move fast when their orders come from the top.
+
+40
+00:02:34,754 --> 00:02:38,111
+You are under arrest for suspicion
+of distributing the Level Upper...
+
+41
+00:02:38,399 --> 00:02:40,021
+Surrender yourself at once.
+
+42
+00:02:40,105 --> 00:02:41,208
+What are you gonna do...?
+
+43
+00:02:41,403 --> 00:02:43,576
+It looks like this is the end of the line for you.
+
+44
+00:02:45,084 --> 00:02:46,751
+The Level Upper is a program...
+
+45
+00:02:46,881 --> 00:02:50,918
+It was designed for making computing equipment
+through the use of human brain activity...
+
+46
+00:02:51,688 --> 00:02:52,711
+but that isn't all.
+
+47
+00:02:53,157 --> 00:02:56,480
+It also generates a certain byproduct within its users.
+
+48
+00:02:57,994 --> 00:03:00,562
+I've got an interesting demonstration for you.
+
+49
+00:04:36,735 --> 00:04:40,981
+I want you to slowly place both hands
+behind your head and lie down on your stomach.
+
+50
+00:04:43,061 --> 00:04:44,995
+The girl hostage appears unharmed.
+
+51
+00:04:46,171 --> 00:04:47,242
+Secure her!
+
+52
+00:04:58,361 --> 00:04:59,067
+What was that?!
+
+53
+00:04:59,211 --> 00:05:01,145
+I... I can't control myself!
+
+54
+00:05:05,583 --> 00:05:07,557
+Impossible! She's an Esper?!
+
+55
+00:05:11,641 --> 00:05:14,104
+Keep the change... and please, get out of here quickly.
+
+56
+00:05:14,129 --> 00:05:15,111
+Why? What's happening?
+
+57
+00:05:16,224 --> 00:05:17,840
+Kuroko, tell me what's going on!
+
+58
+00:05:17,865 --> 00:05:18,515
+Kuroko!
+
+59
+00:05:19,474 --> 00:05:22,775
+Antiskill managed to locate
+Kiyama, but she's engaging them...
+
+60
+00:05:23,224 --> 00:05:25,619
+What's more... She's using an ability.
+
+61
+00:05:26,271 --> 00:05:28,265
+What are you saying? Is she an Esper?
+
+62
+00:05:28,727 --> 00:05:32,571
+The databank doesn't show any record
+of her receiving any ability development.
+
+63
+00:05:32,793 --> 00:05:33,666
+Even so...
+
+64
+00:05:39,008 --> 00:05:41,350
+She is clearly using some kind of ability.
+
+65
+00:05:41,508 --> 00:05:44,754
+And what's more, it looks like there
+have to be multiple abilities in play.
+
+66
+00:05:44,782 --> 00:05:45,720
+No way!
+
+67
+00:05:48,250 --> 00:05:50,177
+No one ever has more than one ability.
+
+68
+00:05:50,469 --> 00:05:52,148
+There are no exceptions, are there?
+
+69
+00:05:53,081 --> 00:05:55,260
+Maybe it has something to do with the Level Upper.
+
+70
+00:05:56,288 --> 00:06:01,542
+In her system, she has ten thousand Espers synaptically
+linked by some kind of bizarre computer network...
+
+71
+00:06:02,043 --> 00:06:04,058
+They can be thought of as one giant brain.
+
+72
+00:06:04,772 --> 00:06:09,483
+If she can really control them, she should be
+able to do things that no normal brain could do alone.
+
+73
+00:06:10,149 --> 00:06:13,686
+If my guess is correct, then
+Kiyama's become something entirely new.
+
+74
+00:06:14,033 --> 00:06:17,339
+The phantom being that nobody
+thought could actually exist...
+
+75
+00:06:17,588 --> 00:06:19,096
+A compound Esper...
+
+76
+00:06:19,525 --> 00:06:20,565
+"Dual Skill."
+
+77
+00:06:26,954 --> 00:06:28,351
+Antiskill's wiped out...
+
+78
+00:06:28,946 --> 00:06:29,756
+All of them.
+
+79
+00:06:32,750 --> 00:06:33,634
+Uiharu!
+
+80
+00:06:36,147 --> 00:06:37,060
+Are you all right?
+
+81
+00:06:37,354 --> 00:06:38,568
+You can relax.
+
+82
+00:06:39,404 --> 00:06:42,366
+She just caught an aftershock from
+the fighting and got knocked out...
+
+83
+00:06:42,665 --> 00:06:44,106
+Her life is in no danger.
+
+84
+00:06:45,421 --> 00:06:46,570
+Mikoto Misaka...
+
+85
+00:06:47,426 --> 00:06:50,079
+One of only seven Level 5s in Academy City...
+
+86
+00:06:51,546 --> 00:06:56,142
+Despite your extensive skill and experience, I
+doubt you have fought against an opponent like me.
+
+87
+00:06:56,722 --> 00:07:01,157
+Do you think you'll be able to stop me when I
+have the power of ten thousand minds at my disposal?
+
+88
+00:07:01,854 --> 00:07:03,239
+That's what you want to know?
+
+89
+00:07:03,453 --> 00:07:04,366
+Can I stop you...?
+
+90
+00:07:05,325 --> 00:07:06,439
+Of course I can!
+
+91
+00:07:15,508 --> 00:07:16,641
+You're full of surprises.
+
+92
+00:07:16,883 --> 00:07:19,636
+You really can use a lot of
+different abilities, can't you?
+
+93
+00:07:19,725 --> 00:07:21,846
+This "Dual Skill" thing's pretty fascinating.
+
+94
+00:07:21,871 --> 00:07:23,610
+It should make for an interesting battle.
+
+95
+00:07:23,639 --> 00:07:28,835
+You'll find my ability is different in nature and
+in name than the impossible power people speak of.
+
+96
+00:07:29,308 --> 00:07:31,963
+It should be called... "Multiskill"!
+
+97
+00:07:33,296 --> 00:07:37,654
+Call it whatever you want, for all I care... A
+new name won't change what I'm going to do to you!
+
+98
+00:07:41,588 --> 00:07:42,581
+Is something wrong?
+
+99
+00:07:43,399 --> 00:07:47,925
+You knew I could use multiple abilities, but
+you didn't think I could use them all at once?
+
+100
+00:08:02,431 --> 00:08:03,563
+Is she insane?
+
+101
+00:08:03,659 --> 00:08:06,957
+She wields those abilities without any
+concern of getting caught up in them?!
+
+102
+00:08:07,355 --> 00:08:08,966
+That was anticlimactic.
+
+103
+00:08:09,326 --> 00:08:12,175
+I would've thought a Level 5
+would be capable of more than that.
+
+104
+00:08:14,363 --> 00:08:16,364
+So you were able to counter one of my shocks.
+
+105
+00:08:16,756 --> 00:08:18,420
+Don't think that means you've won!
+
+106
+00:08:21,464 --> 00:08:21,972
+Huh?
+
+107
+00:08:24,880 --> 00:08:25,578
+Oh, crap!
+
+108
+00:08:31,554 --> 00:08:33,640
+Why don't you stop this foolishness?
+
+109
+00:08:34,805 --> 00:08:37,613
+There's just one little matter
+that I need to look into further...
+
+110
+00:08:37,884 --> 00:08:40,274
+and once that's done, I'll release all of them.
+
+111
+00:08:41,797 --> 00:08:43,438
+I won't sacrifice anyone.
+
+112
+00:08:43,463 --> 00:08:44,590
+Are you kidding me?!
+
+113
+00:08:45,362 --> 00:08:47,134
+You won't sacrifice anyone?
+
+114
+00:08:47,340 --> 00:08:49,562
+What about all the people you've dragged into this?
+
+115
+00:08:50,849 --> 00:08:53,351
+What about all the people whose lives you've toyed with?!
+
+116
+00:08:53,628 --> 00:08:56,458
+After all you've done there's no
+chance you're getting away with it!
+
+117
+00:08:58,272 --> 00:09:03,225
+Good grief. You may be a Level 5 but still,
+you have no idea how the world works, do you?
+
+118
+00:09:03,806 --> 00:09:05,671
+Not the twisted world you live in!
+
+119
+00:09:07,248 --> 00:09:10,859
+You undergo a special "ability
+development" on a daily basis.
+
+120
+00:09:11,166 --> 00:09:14,418
+Do you really think everything they
+do in this city is safe and humane?
+
+121
+00:09:16,473 --> 00:09:21,492
+The powers that be in Academy City are concealing
+something very important about these abilities.
+
+122
+00:09:22,287 --> 00:09:24,662
+The teachers who work here know nothing about it.
+
+123
+00:09:25,801 --> 00:09:29,183
+But they're still "developing" the
+brains of their young students every day.
+
+124
+00:09:31,287 --> 00:09:34,267
+Can you begin to understand how dangerous that might be?
+
+125
+00:09:35,035 --> 00:09:37,922
+I'll admit that's quite an
+interesting story you just told.
+
+126
+00:09:38,985 --> 00:09:41,713
+And I'll be sure to take a nice, long look into it.
+
+127
+00:09:42,125 --> 00:09:43,945
+Once I've taken you into custody!
+
+128
+00:09:46,988 --> 00:09:48,188
+That will have to wait...
+
+129
+00:09:48,588 --> 00:09:50,904
+I've got other things to tend to at the moment.
+
+130
+00:09:54,629 --> 00:09:55,629
+Empty cans...?
+
+131
+00:09:57,808 --> 00:09:58,721
+Gravitons!
+
+132
+00:09:59,844 --> 00:10:01,018
+So, what will you do now?
+
+133
+00:10:01,463 --> 00:10:02,203
+That's easy...
+
+134
+00:10:03,212 --> 00:10:04,109
+Blow them away!
+
+135
+00:10:07,129 --> 00:10:08,383
+That's very impressive...
+
+136
+00:10:09,004 --> 00:10:09,709
+Too bad.
+
+137
+00:10:13,156 --> 00:10:15,620
+Well? I made short work of those.
+
+138
+00:10:16,496 --> 00:10:17,449
+Are we done ye...
+
+139
+00:10:30,588 --> 00:10:32,838
+I expected you to give me more trouble than that...
+
+140
+00:10:33,457 --> 00:10:34,760
+Is that really all you've got?
+
+141
+00:10:35,174 --> 00:10:36,109
+Level 5?
+
+142
+00:10:37,674 --> 00:10:39,549
+I suppose you'll hold it against me.
+
+143
+00:10:43,046 --> 00:10:44,795
+Look at that... I caught you.
+
+144
+00:10:45,240 --> 00:10:46,183
+Impossible!
+
+145
+00:10:47,588 --> 00:10:49,911
+You used magnetics to make yourself a shield.
+
+146
+00:10:50,504 --> 00:10:52,564
+I'll shock you at point blank range.
+
+147
+00:10:53,001 --> 00:10:55,163
+It didn't work against this idiot I know...
+
+148
+00:10:55,438 --> 00:10:59,103
+but I don't think even you possess an
+ability as out of this world as his is.
+
+149
+00:11:00,671 --> 00:11:01,504
+Too slow!
+
+150
+00:11:12,163 --> 00:11:14,415
+I admit, I did hold back on you a little.
+
+151
+00:11:14,796 --> 00:11:15,387
+Teacher?
+
+152
+00:11:15,684 --> 00:11:16,811
+Teacher!
+
+153
+00:11:17,058 --> 00:11:17,722
+What the...?
+
+154
+00:11:17,796 --> 00:11:18,180
+Teacher!
+
+155
+00:11:18,205 --> 00:11:20,069
+I'm hearing this directly in my head.
+
+156
+00:11:20,094 --> 00:11:21,165
+Teacher!
+
+157
+00:11:21,298 --> 00:11:21,941
+Am I...
+
+158
+00:11:21,965 --> 00:11:22,296
+Teacher!
+
+159
+00:11:22,338 --> 00:11:24,479
+Am I hearing Dr. Kiyama's memories?
+
+160
+00:11:24,504 --> 00:11:25,416
+Teacher?
+
+161
+00:11:25,444 --> 00:11:29,127
+I must have created an electrical circuit
+between us that allows me to hear them.
+
+162
+00:11:29,661 --> 00:11:30,548
+Teacher!
+
+163
+00:11:33,846 --> 00:11:35,164
+Hi, Miss Kiyama!
+
+164
+00:11:37,475 --> 00:11:38,646
+Me, a teacher?
+
+165
+00:11:39,480 --> 00:11:41,355
+This must be some kind of joke, right?
+
+166
+00:11:41,522 --> 00:11:42,379
+Not at all...
+
+167
+00:11:42,710 --> 00:11:46,209
+Why, is there a problem? You do
+have a teaching certificate, don't you?
+
+168
+00:11:46,379 --> 00:11:46,947
+Yes.
+
+169
+00:11:47,796 --> 00:11:52,216
+In that case what could be out of place
+about you taking up a position as a teacher?
+
+170
+00:11:52,286 --> 00:11:55,155
+That certificate's just something
+I happened to get along the way.
+
+171
+00:11:55,209 --> 00:11:57,245
+I know research is your preferred area...
+
+172
+00:11:57,438 --> 00:11:58,968
+I'm not asking you to give it up.
+
+173
+00:11:59,963 --> 00:12:01,165
+Far from it in fact,
+
+174
+00:12:01,190 --> 00:12:05,824
+I'm asking you to head up a high level experiment
+that's being backed by the board of directors themselves.
+
+175
+00:12:06,078 --> 00:12:07,144
+You really mean it?
+
+176
+00:12:07,896 --> 00:12:09,662
+You see those children down there?
+
+177
+00:12:10,754 --> 00:12:13,611
+They're what we refer to as "Child Errors."
+
+178
+00:12:13,867 --> 00:12:16,733
+For whatever reason, they were
+abandoned here in Academy City.
+
+179
+00:12:17,010 --> 00:12:18,289
+They have no other family.
+
+180
+00:12:18,979 --> 00:12:19,482
+Ah...
+
+181
+00:12:20,101 --> 00:12:22,435
+They are also the subjects of this experiment.
+
+182
+00:12:22,796 --> 00:12:24,838
+As well as the students who you will be teaching.
+
+183
+00:12:26,426 --> 00:12:30,221
+In order for the experiment to succeed,
+we will need to keep detailed growth data
+
+184
+00:12:30,246 --> 00:12:35,467
+on each one of the subjects, analyze them meticulously,
+and make any necessary adjustments as time goes on.
+
+185
+00:12:35,980 --> 00:12:40,044
+I'm sure you can see that having their
+teacher handle that will save a lot of trouble.
+
+186
+00:12:41,086 --> 00:12:41,935
+I guess so.
+
+187
+00:12:42,671 --> 00:12:44,199
+It does sound more efficient.
+
+188
+00:12:51,019 --> 00:12:55,902
+Uh... my name is Harumi Kiyama and
+starting today I'm going to be your teacher.
+
+189
+00:12:56,454 --> 00:12:57,311
+Nice to meet you.
+
+190
+00:12:57,438 --> 00:12:59,559
+Nice to meet you, too, teacher!
+
+191
+00:13:00,915 --> 00:13:02,581
+This is not gonna be easy.
+
+192
+00:13:09,430 --> 00:13:11,322
+Ha... ha...! She fell for it!
+
+193
+00:13:11,788 --> 00:13:13,379
+We got the Teacher! We got the Teacher!
+
+194
+00:13:13,404 --> 00:13:14,604
+Hey, you two!
+
+195
+00:13:14,847 --> 00:13:16,669
+Are you okay Miss Kiyama?
+
+196
+00:13:16,980 --> 00:13:20,512
+Yeah... It's a sunny day. This
+shouldn't take long to dry outside.
+
+197
+00:13:22,726 --> 00:13:24,726
+You can't change your clothes out here!
+
+198
+00:13:24,751 --> 00:13:26,799
+Boys! Look away, right now!
+
+199
+00:13:26,916 --> 00:13:27,771
+Seriously, you can't do that in the middle of a classroom!
+
+200
+00:13:27,796 --> 00:13:29,046
+Aw, gimme a break.
+
+201
+00:13:29,071 --> 00:13:31,765
+It's not like we'd be interested
+in a flat chest like that anyway.
+
+202
+00:13:33,069 --> 00:13:34,672
+Me...? Flat-chested?
+
+203
+00:13:35,421 --> 00:13:36,571
+I hate children.
+
+204
+00:13:36,780 --> 00:13:38,097
+They have no decency.
+
+205
+00:13:38,736 --> 00:13:40,711
+You're not really very pretty, Teacher...
+
+206
+00:13:40,886 --> 00:13:42,117
+Do you have a boyfriend?
+
+207
+00:13:42,309 --> 00:13:43,633
+Wh... what was that?
+
+208
+00:13:43,937 --> 00:13:46,591
+Didn't think so. But I'll be your boyfriend if you want.
+
+209
+00:13:47,692 --> 00:13:49,062
+They have no manners.
+
+210
+00:13:50,126 --> 00:13:51,747
+And if you'll just look at your books...
+
+211
+00:13:56,399 --> 00:13:57,977
+They play stupid pranks.
+
+212
+00:13:59,339 --> 00:14:00,543
+I see that you're sad...
+
+213
+00:14:00,921 --> 00:14:03,713
+If there's something bothering
+you, I'd be happy to listen.
+
+214
+00:14:06,631 --> 00:14:08,058
+They're far too emotional.
+
+215
+00:14:10,794 --> 00:14:13,674
+Hey...! You can't be fussy. Eat it all!
+
+216
+00:14:16,248 --> 00:14:19,212
+They're overly familiar, and
+they become attached too quickly.
+
+217
+00:14:23,488 --> 00:14:25,155
+I really hate children.
+
+218
+00:14:32,004 --> 00:14:33,441
+Edasaki. What's wrong?
+
+219
+00:14:33,713 --> 00:14:35,254
+Oh, Miss Kiyama!
+
+220
+00:14:37,060 --> 00:14:38,915
+I slipped in the rain and fell.
+
+221
+00:14:41,891 --> 00:14:43,555
+My apartment isn't far from here...
+
+222
+00:14:43,956 --> 00:14:44,968
+Would you like to wash up?
+
+223
+00:14:45,524 --> 00:14:46,524
+You mean it?!
+
+224
+00:14:49,736 --> 00:14:51,611
+Wow! A bathtub!
+
+225
+00:14:51,759 --> 00:14:53,447
+Is taking a bath that exciting?
+
+226
+00:14:53,851 --> 00:14:57,499
+Yeah. At my facility, we only get two showers a week.
+
+227
+00:14:59,407 --> 00:15:01,248
+So... can I really use it?
+
+228
+00:15:02,504 --> 00:15:02,933
+Yeah.
+
+229
+00:15:03,357 --> 00:15:06,324
+Hooray...! I'm gonna brag to all the others!
+
+230
+00:15:20,683 --> 00:15:21,475
+Teacher?
+
+231
+00:15:23,158 --> 00:15:28,062
+Do you think if I tried really hard, I
+could make it to Level 4 or even 5 someday?
+
+232
+00:15:29,071 --> 00:15:31,805
+At this stage it's too early to know one way or the other.
+
+233
+00:15:32,715 --> 00:15:34,942
+Do you want to be a high-level Esper when you get older?
+
+234
+00:15:37,111 --> 00:15:39,191
+Well, of course. I mean, who wouldn't?
+
+235
+00:15:39,487 --> 00:15:42,766
+But Academy City's going to all this trouble to raise me.
+
+236
+00:15:43,858 --> 00:15:47,278
+I'd like an ability that would
+help the city in return, you know?
+
+237
+00:16:02,937 --> 00:16:05,958
+With all this work, I have no
+time for my research anymore...
+
+238
+00:16:07,295 --> 00:16:09,064
+Teaching is a real pain in the neck.
+
+239
+00:16:15,463 --> 00:16:16,588
+On top of which...
+
+240
+00:16:19,296 --> 00:16:20,500
+I hate children.
+
+241
+00:16:23,603 --> 00:16:25,728
+They're indelicate, annoying, and loud.
+
+242
+00:16:26,305 --> 00:16:29,104
+Hey, Teacher... will you be my girlfriend, please?
+
+243
+00:16:29,129 --> 00:16:30,055
+Yeah, whatever.
+
+244
+00:16:31,120 --> 00:16:32,375
+They have no manners.
+
+245
+00:16:32,570 --> 00:16:33,612
+Yay!
+
+246
+00:16:33,637 --> 00:16:35,173
+They play stupid pranks.
+
+247
+00:16:35,649 --> 00:16:37,251
+Oh... is that me?
+
+248
+00:16:37,389 --> 00:16:37,842
+Mhm!
+
+249
+00:16:38,201 --> 00:16:39,606
+They're far too emotional.
+
+250
+00:16:40,153 --> 00:16:42,236
+It's a surprise party just for you!
+
+251
+00:16:42,284 --> 00:16:43,728
+Happy birthday, Teacher!
+
+252
+00:16:43,811 --> 00:16:44,734
+How old are you now?
+
+253
+00:16:44,759 --> 00:16:45,353
+Aren't you surprised?
+
+254
+00:16:45,588 --> 00:16:47,066
+Do you like the decorations?
+
+255
+00:16:55,254 --> 00:16:56,488
+What did we say?
+
+256
+00:16:57,421 --> 00:16:58,578
+You have to eat it all.
+
+257
+00:16:58,603 --> 00:16:59,189
+Right.
+
+258
+00:17:07,541 --> 00:17:09,027
+I knew you could do it!
+
+259
+00:17:10,150 --> 00:17:11,109
+Children are...
+
+260
+00:17:20,034 --> 00:17:21,286
+You'll feel a slight prick.
+
+261
+00:17:24,964 --> 00:17:26,188
+Anything unusual here?
+
+262
+00:17:26,304 --> 00:17:27,705
+No, no problems so far.
+
+263
+00:17:28,046 --> 00:17:28,864
+We're fine, too.
+
+264
+00:17:29,067 --> 00:17:30,213
+Okay, great.
+
+265
+00:17:34,588 --> 00:17:35,468
+Are you frightened?
+
+266
+00:17:35,925 --> 00:17:39,422
+Not one bit. After all, you're in
+charge of this experiment, aren't you?
+
+267
+00:17:39,572 --> 00:17:41,417
+I completely trust you, Teacher.
+
+268
+00:17:45,703 --> 00:17:48,296
+Do I finally get to stop playing teacher now?
+
+269
+00:17:51,619 --> 00:17:52,978
+Dopamine levels are dropping!
+
+270
+00:17:53,065 --> 00:17:55,219
+Anticholinergics are having no effect!
+
+271
+00:17:55,437 --> 00:17:57,722
+Hypovolemic shock is setting in from the burns.
+
+272
+00:17:58,068 --> 00:18:00,448
+Lactated Ringer's solution. Transfusion, stat!
+
+273
+00:18:00,473 --> 00:18:02,050
+There's nothing more we can do.
+
+274
+00:18:02,574 --> 00:18:04,013
+Uh... Hurry and contact the hospital!
+
+275
+00:18:04,144 --> 00:18:06,330
+No... we won't do anything of the sort.
+
+276
+00:18:06,605 --> 00:18:08,192
+But if we don't do something right now...
+
+277
+00:18:08,217 --> 00:18:12,013
+Are you a scientist or not? Don't get
+frantic, just gather all the data you can.
+
+278
+00:18:12,844 --> 00:18:15,583
+I'm ordering you to keep this
+experiment strictly in-house.
+
+279
+00:18:16,945 --> 00:18:19,450
+Everything was completed here without any incident.
+
+280
+00:18:19,934 --> 00:18:22,110
+Nobody saw anything out of the ordinary...
+
+281
+00:18:22,772 --> 00:18:23,499
+Understood?
+
+282
+00:18:24,058 --> 00:18:25,144
+Y... Yes, sir.
+
+283
+00:18:28,311 --> 00:18:30,660
+Don't worry you did your job and you did it well...
+
+284
+00:18:31,004 --> 00:18:32,948
+It is a pity this had to happen to them.
+
+285
+00:18:34,215 --> 00:18:37,157
+But that's how scientific progress is made, after all.
+
+286
+00:18:39,749 --> 00:18:42,768
+You don't need to worry yourself
+about this little accident.
+
+287
+00:18:43,471 --> 00:18:46,304
+I'm still expecting great things from you in the future.
+
+288
+00:19:09,956 --> 00:19:10,782
+What was that?
+
+289
+00:19:12,338 --> 00:19:14,531
+You saw what they... we did?
+
+290
+00:19:21,109 --> 00:19:22,970
+Half the street's been blown away.
+
+291
+00:19:30,750 --> 00:19:31,791
+It's Misaka!
+
+292
+00:19:32,775 --> 00:19:33,179
+What...
+
+293
+00:19:34,043 --> 00:19:35,108
+What were they doing?
+
+294
+00:19:39,907 --> 00:19:41,545
+On the record or off of it?
+
+295
+00:19:42,010 --> 00:19:46,152
+Officially, it was designed as a test
+in controlling AIM diffusion fields.
+
+296
+00:19:46,615 --> 00:19:48,464
+but... the real study...
+
+297
+00:19:49,086 --> 00:19:52,651
+was on the effects of pushing an
+ability beyond its natural limit.
+
+298
+00:19:53,365 --> 00:19:59,428
+They over-stimulated the children's AIM diffusion
+fields in order to study runaway abilities first-hand.
+
+299
+00:19:59,838 --> 00:20:00,261
+Then...
+
+300
+00:20:00,683 --> 00:20:03,647
+They were intentionally manipulated to run out of control.
+
+301
+00:20:04,293 --> 00:20:07,134
+but I didn't realize what was
+going on until after it happened.
+
+302
+00:20:08,671 --> 00:20:11,122
+Experiments... on the children.
+
+303
+00:20:11,713 --> 00:20:13,030
+Innocent little kids...
+
+304
+00:20:13,674 --> 00:20:15,310
+And even after all this time...
+
+305
+00:20:15,672 --> 00:20:17,241
+they still haven't woken up.
+
+306
+00:20:17,756 --> 00:20:20,165
+We stole their youth from them, and for what?
+
+307
+00:20:20,506 --> 00:20:22,620
+To turn them into laboratory rats?!
+
+308
+00:20:24,065 --> 00:20:24,461
+But...
+
+309
+00:20:25,140 --> 00:20:28,671
+If something that terrible happened,
+why didn't you report it to Antiskill?
+
+310
+00:20:28,812 --> 00:20:29,949
+23 times.
+
+311
+00:20:30,921 --> 00:20:33,675
+That's how many times I requested to use Tree Diagram...
+
+312
+00:20:34,219 --> 00:20:38,204
+If I could just get access to it, I
+could use it to find a way to revive them...
+
+313
+00:20:38,546 --> 00:20:42,009
+I could run simulations to uncover
+the true cause of the accident.
+
+314
+00:20:42,549 --> 00:20:45,868
+Tree Diagram is the greatest
+supercomputer in Academy City...
+
+315
+00:20:46,194 --> 00:20:48,571
+If I'd had it, I could have brought those children back...
+
+316
+00:20:48,844 --> 00:20:53,306
+I could've set them free to laugh and run and
+play in the park like children are supposed to.
+
+317
+00:20:53,838 --> 00:20:57,088
+But I was always turned down!
+Twenty-three times, they said "no"!
+
+318
+00:20:58,088 --> 00:20:59,003
+Don't you get it?
+
+319
+00:20:59,121 --> 00:21:00,974
+The board of directors was in on it!
+
+320
+00:21:01,088 --> 00:21:03,016
+There's no way Antiskill would act!
+
+321
+00:21:03,495 --> 00:21:05,420
+There must have been a better solution than this!
+
+322
+00:21:05,454 --> 00:21:06,749
+You understand nothing!
+
+323
+00:21:08,075 --> 00:21:09,912
+I would do anything to save them.
+
+324
+00:21:10,124 --> 00:21:12,283
+Anything in the entire world!
+
+325
+00:21:12,308 --> 00:21:17,235
+The whole city can hate and revile me. I don't
+care! I'm not going to let anything stop me now!
+
+326
+00:21:22,350 --> 00:21:23,776
+Hey... what's wrong?
+
+327
+00:21:25,064 --> 00:21:27,550
+The network... it's out of control.
+
+328
+00:21:43,093 --> 00:21:44,672
+Oh, gosh... what's that?!
+
+329
+00:21:45,418 --> 00:21:46,368
+A fetus?
+
+330
+00:23:30,674 --> 00:23:32,606
+I'm putting a stop to Kiyama's scheme...
+
+331
+00:23:32,726 --> 00:23:35,045
+I will find a way to save Saten and the others...
+
+332
+00:23:35,254 --> 00:23:36,521
+But what is that thing?!
+
+333
+00:23:36,633 --> 00:23:39,325
+Nobody said anything about fighting a monster!
+

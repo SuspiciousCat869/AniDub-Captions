@@ -1,0 +1,352 @@
+﻿[Script Info]
+Title: English Uncut (English Closed Captions, FUNimation)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour,OutlineColour, BackColour, Bold, Italic, Underline,StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle,Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Arial,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,200,200,45,1
+Style: MainTop,Arial,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,3,1.5,8,200,200,45,1
+Style: Italics,Arial,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,200,200,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.29,0:00:10.46,Main,,0,0,0,,Cease what you are\Ndoing and gaze at me.
+Dialogue: 0,0:00:10.55,0:00:14.18,Main,,0,0,0,,Stop everything, save for\Nthe thrumming of your heart.
+Dialogue: 0,0:00:14.26,0:00:17.39,Main,,0,0,0,,Theft. It is an\Nespecially sweet vice,
+Dialogue: 0,0:00:17.47,0:00:19.06,Main,,0,0,0,,more elegant than vandalism
+Dialogue: 0,0:00:19.14,0:00:21.93,Main,,0,0,0,,and more complex\Nthan simple robbery.
+Dialogue: 0,0:00:22.02,0:00:25.90,Main,,0,0,0,,A beautiful blend of secrets\Nand crime and mischief and fear.
+Dialogue: 0,0:00:25.98,0:00:27.69,Main,,0,0,0,,Like dear Heathcliff,
+Dialogue: 0,0:00:27.77,0:00:30.61,Main,,0,0,0,,I am defined by my\Nall-consuming passion.
+Dialogue: 0,0:00:30.69,0:00:33.28,Main,,0,0,0,,Stealing is my greatest\Ncarnal pleasure,
+Dialogue: 0,0:00:33.36,0:00:35.74,Main,,0,0,0,,a pleasure for which\NI will risk my life,
+Dialogue: 0,0:00:35.82,0:00:38.58,Main,,0,0,0,,a sexy prison from\Nwhich there is no escape.
+Dialogue: 0,0:00:38.66,0:00:41.58,Main,,0,0,0,,Why am I this way?\NWho can know?
+Dialogue: 0,0:00:41.66,0:00:44.29,Main,,0,0,0,,Who is the slave and\Nwho's the master?
+Dialogue: 0,0:00:44.37,0:00:47.08,Main,,0,0,0,,Do divine eyes fall\Nupon me any longer,
+Dialogue: 0,0:00:47.17,0:00:48.84,Main,,0,0,0,,or have the given up?
+Dialogue: 0,0:00:48.92,0:00:51.84,Main,,0,0,0,,The rush of a theft\Nallows me to forget all,
+Dialogue: 0,0:00:51.92,0:00:55.05,Main,,0,0,0,,and yet to distantly\Nremember all, as well.
+Dialogue: 0,0:00:59.43,0:01:03.27,Main,,0,0,0,,Run and speak not.\NHide and run not.
+Dialogue: 0,0:01:03.35,0:01:05.64,Main,,0,0,0,,When you've found\Nme, punish me.
+Dialogue: 0,0:01:05.73,0:01:09.52,Main,,0,0,0,,When you've punished\Nme, kill me. Save me.
+Dialogue: 0,0:01:11.19,0:01:15.28,Main,,0,0,0,,Little boy, there is nothing\Nleft to steal from you.
+Dialogue: 0,0:01:15.36,0:01:21.08,Main,,0,0,0,,You have long been an\Nempty shell. Just as I have.
+Dialogue: 0,0:01:21.16,0:01:25.04,Main,,0,0,0,,And so, if you would gaze at\Nme, cease what you are doing.
+Dialogue: 0,0:01:25.12,0:01:29.92,Main,,0,0,0,,Stop everything save for the\Nthrumming of your heart.
+Dialogue: 0,0:01:37.51,0:01:38.13,Main,,0,0,0,,No!
+Dialogue: 0,0:01:38.22,0:01:39.84,Main,,0,0,0,,Please!
+Dialogue: 0,0:01:39.93,0:01:41.26,Main,,0,0,0,,That's my bear!
+Dialogue: 0,0:01:41.35,0:01:43.81,Main,,0,0,0,,It was a special\Nbirthday present!
+Dialogue: 0,0:01:43.89,0:01:46.02,Main,,0,0,0,,My Papa and Mama\Ngave it to me!
+Dialogue: 0,0:01:46.10,0:01:47.77,Main,,0,0,0,,I love it so much!
+Dialogue: 0,0:01:47.85,0:01:50.23,Main,,0,0,0,,You know that's wrong.
+Dialogue: 0,0:01:50.31,0:01:52.07,Main,,0,0,0,,I am your papa.
+Dialogue: 0,0:01:52.15,0:01:54.98,Main,,0,0,0,,You know that.
+Dialogue: 0,0:01:55.07,0:01:58.53,Main,,0,0,0,,This is what happens\Nwhen you do bad things.
+Dialogue: 0,0:02:02.24,0:02:07.04,Main,,0,0,0,,Your special treasures will be\Nburned until only ashes remain
+Dialogue: 0,0:02:07.12,0:02:12.50,Main,,0,0,0,,and then your soft flesh\Nwill be burned, as well.
+Dialogue: 0,0:02:27.43,0:02:30.23,Main,,0,0,0,,I'm betting the kidnapper is\Nafter the Belize family fortune.
+Dialogue: 0,0:02:30.31,0:02:33.06,Main,,0,0,0,,He'll be making a ransom\Ndemand soon, I'm sure.
+Dialogue: 0,0:02:33.15,0:02:34.07,Main,,0,0,0,,Maybe, but--
+Dialogue: 0,0:02:34.15,0:02:36.28,Main,,0,0,0,,'Scuse me, boys.
+Dialogue: 0,0:02:36.36,0:02:38.61,Main,,0,0,0,,Ah here it is.
+Dialogue: 0,0:02:44.33,0:02:46.04,Main,,0,0,0,,Glad I'm not him.
+Dialogue: 0,0:02:46.12,0:02:48.91,Main,,0,0,0,,Fujiko got away;\Nhis lieutenant's gone
+Dialogue: 0,0:02:49.00,0:02:52.58,Main,,0,0,0,,and what's worse\Nhe's off the Lupin case.
+Dialogue: 0,0:02:52.67,0:02:55.25,Main,,0,0,0,,It's over for him.
+Dialogue: 0,0:02:55.34,0:02:56.38,Main,,0,0,0,,I'm hungry.
+Dialogue: 0,0:02:56.46,0:02:57.88,Main,,0,0,0,,I'm gonna grab some food.
+Dialogue: 0,0:02:57.96,0:02:59.13,Main,,0,0,0,,Sir?
+Dialogue: 0,0:02:59.22,0:03:01.89,Main,,0,0,0,,And when I'm done,\Nthere'll be nothing left.
+Dialogue: 0,0:03:08.48,0:03:09.93,Main,,0,0,0,,Dining alone?
+Dialogue: 0,0:03:10.02,0:03:11.23,Main,,0,0,0,,Oh, yes.
+Dialogue: 0,0:03:11.31,0:03:13.81,Main,,0,0,0,,No, she's not.
+Dialogue: 0,0:03:13.90,0:03:16.15,Main,,0,0,0,,This broad's with me.
+Dialogue: 0,0:03:20.40,0:03:21.99,Main,,0,0,0,,What was he doing?
+Dialogue: 0,0:03:22.07,0:03:23.87,Main,,0,0,0,,Why was he\Npretending to be you?
+Dialogue: 0,0:03:23.95,0:03:24.70,Main,,0,0,0,,Sorry.
+Dialogue: 0,0:03:24.78,0:03:26.33,Main,,0,0,0,,I really couldn't say.
+Dialogue: 0,0:03:26.41,0:03:28.16,Main,,0,0,0,,Don't play dumb.
+Dialogue: 0,0:03:28.24,0:03:30.91,Main,,0,0,0,,Oscar's body was\Nnever recovered.
+Dialogue: 0,0:03:31.00,0:03:32.62,Main,,0,0,0,,You know what I think?
+Dialogue: 0,0:03:32.71,0:03:35.00,Main,,0,0,0,,You disposed of it somehow.
+Dialogue: 0,0:03:35.09,0:03:37.05,Main,,0,0,0,,You believe that?
+Dialogue: 0,0:03:38.25,0:03:42.22,Main,,0,0,0,,Look, what you really want\Nis to avenge that boy's death,
+Dialogue: 0,0:03:42.30,0:03:45.76,Main,,0,0,0,,isn't it? Then why\Nnot work with me?
+Dialogue: 0,0:03:45.85,0:03:49.31,Main,,0,0,0,,Sending you to the\Nhangman will avenge him.
+Dialogue: 0,0:03:49.39,0:03:50.98,Main,,0,0,0,,That's enough for me.
+Dialogue: 0,0:03:51.06,0:03:53.27,Main,,0,0,0,,I see.
+Dialogue: 0,0:03:53.35,0:03:56.90,Main,,0,0,0,,Everybody is talking about\Nthe recent kidnapping or,
+Dialogue: 0,0:03:56.98,0:04:00.44,Main,,0,0,0,,rather the recent\Nseries of kidnappings.
+Dialogue: 0,0:04:00.53,0:04:01.65,Main,,0,0,0,,Give me a break.
+Dialogue: 0,0:04:01.74,0:04:04.66,Main,,0,0,0,,A "series?" I'll grant\Nyou, there have been
+Dialogue: 0,0:04:04.74,0:04:07.74,Main,,0,0,0,,a lot of girls taken\Nworldwide recently.
+Dialogue: 0,0:04:07.83,0:04:10.62,Main,,0,0,0,,But the locations and\Ncircumstances are different.
+Dialogue: 0,0:04:10.70,0:04:13.08,Main,,0,0,0,,There's no reason\Nto think they're all related.
+Dialogue: 0,0:04:13.16,0:04:14.58,Main,,0,0,0,,There's a pattern, though.
+Dialogue: 0,0:04:14.67,0:04:15.58,Main,,0,0,0,,What?
+Dialogue: 0,0:04:15.67,0:04:17.59,Main,,0,0,0,,In each kidnapped\Ngirl's bedroom,
+Dialogue: 0,0:04:17.67,0:04:21.09,Main,,0,0,0,,there was a curio or painting.\NDifferent things each time
+Dialogue: 0,0:04:21.17,0:04:24.09,Main,,0,0,0,,but always something\Nto do with owls.
+Dialogue: 0,0:04:24.18,0:04:25.14,Main,,0,0,0,,With Owls?
+Dialogue: 0,0:04:25.22,0:04:26.97,Main,,0,0,0,,That means 
+Dialogue: 0,0:04:27.05,0:04:30.52,Main,,0,0,0,,Luís Yu Almeida?
+Dialogue: 0,0:04:30.60,0:04:32.14,Main,,0,0,0,,So perceptive.
+Dialogue: 0,0:04:32.23,0:04:33.89,Main,,0,0,0,,As always.
+Dialogue: 0,0:04:40.90,0:04:44.90,Main,,0,0,0,,We should try\Nto play nice, agreed?
+Dialogue: 0,0:04:44.99,0:04:48.20,Main,,0,0,0,,You're just planning\Nto use me as cannon fodder.
+Dialogue: 0,0:04:48.28,0:04:50.83,Main,,0,0,0,,That's just the\Nkinda woman you are.
+Dialogue: 0,0:04:53.12,0:04:55.17,Main,,0,0,0,,Yeah, I think I'm gonna pass.
+Dialogue: 0,0:04:55.25,0:04:57.17,Main,,0,0,0,,Aren't you being hasty?
+Dialogue: 0,0:04:57.25,0:05:00.17,Main,,0,0,0,,This is Glaucus Pharmaceuticals\Nwe're talking about.
+Dialogue: 0,0:05:00.25,0:05:02.55,Main,,0,0,0,,A company that big has\Ngotta have enough assets
+Dialogue: 0,0:05:02.63,0:05:05.01,Main,,0,0,0,,to tempt even the most\Njaded of criminals.
+Dialogue: 0,0:05:05.09,0:05:06.55,Main,,0,0,0,,Hmph!
+Dialogue: 0,0:05:06.63,0:05:09.26,Main,,0,0,0,,Besides, I'm only after one\Nthing and once I've got that,
+Dialogue: 0,0:05:09.35,0:05:11.43,Main,,0,0,0,,everything else there is yours.
+Dialogue: 0,0:05:11.51,0:05:13.56,Main,,0,0,0,,Fujiko Mine, again?
+Dialogue: 0,0:05:16.85,0:05:19.65,Main,,0,0,0,,I don't get why you're so\Nhung up on that woman.
+Dialogue: 0,0:05:19.73,0:05:22.07,Main,,0,0,0,,You know she's crazy,\Ndon't you?
+Dialogue: 0,0:05:22.15,0:05:24.24,Main,,0,0,0,,Do those eyes\Nof yours work, man?
+Dialogue: 0,0:05:24.32,0:05:27.07,Main,,0,0,0,,That woman is a whole\Nother class of treasure.
+Dialogue: 0,0:05:27.16,0:05:30.20,Main,,0,0,0,,Really, she's one of a kind.
+Dialogue: 0,0:05:30.28,0:05:32.83,Main,,0,0,0,,A fine porcelain marionette.
+Dialogue: 0,0:05:39.54,0:05:41.71,Main,,0,0,0,,This is it, right?
+Dialogue: 0,0:05:41.80,0:05:43.51,Main,,0,0,0,,Yes.
+Dialogue: 0,0:05:47.09,0:05:50.10,Main,,0,0,0,,Glaucus Park, hmm.
+Dialogue: 0,0:05:52.72,0:05:55.64,Main,,0,0,0,,May I see your tickets?
+Dialogue: 0,0:05:55.73,0:05:57.56,Main,,0,0,0,,Tickets, uhh?
+Dialogue: 0,0:06:01.06,0:06:02.48,Main,,0,0,0,,What, my coat?
+Dialogue: 0,0:06:02.57,0:06:04.94,Main,,0,0,0,,There's nothing in my-
+Dialogue: 0,0:06:05.03,0:06:07.65,Main,,0,0,0,,How did these?
+Dialogue: 0,0:06:14.58,0:06:17.16,Main,,0,0,0,,Someone sure\Nhas horrible taste.
+Dialogue: 0,0:06:19.92,0:06:21.75,Main,,0,0,0,,What's the matter?
+Dialogue: 0,0:06:25.84,0:06:29.26,Main,,0,0,0,,The sign says House of Fujiko.
+Dialogue: 0,0:06:51.11,0:06:52.99,Main,,0,0,0,,What is this?
+Dialogue: 0,0:07:01.62,0:07:03.59,Main,,0,0,0,,I know this place.
+Dialogue: 0,0:07:03.67,0:07:09.38,Main,,0,0,0,,Yeah, it's what's left\Nof that town, Eulenspiegel.
+Dialogue: 0,0:07:09.47,0:07:13.01,Main,,0,0,0,,I was born and raised here.
+Dialogue: 0,0:07:13.09,0:07:15.01,Main,,0,0,0,,In the town\NGlaucus Pharmaceuticals
+Dialogue: 0,0:07:15.10,0:07:18.02,Main,,0,0,0,,was based out of.
+Dialogue: 0,0:07:18.10,0:07:19.60,Main,,0,0,0,,That's right.
+Dialogue: 0,0:07:19.68,0:07:24.27,Main,,0,0,0,,My father was a scientist, doing\Nexperiments in their laboratory.
+Dialogue: 0,0:07:24.36,0:07:26.40,Main,,0,0,0,,He said his work was\Ngoing to make the world
+Dialogue: 0,0:07:26.48,0:07:29.15,Main,,0,0,0,,a happier place and then-
+Dialogue: 0,0:07:30.99,0:07:32.16,Main,,0,0,0,,Hey!
+Dialogue: 0,0:07:39.16,0:07:40.66,Main,,0,0,0,,What the?
+Dialogue: 0,0:07:49.26,0:07:50.72,Main,,0,0,0,,♪ Everyone... ♪
+Dialogue: 0,0:07:50.80,0:07:54.59,Main,,0,0,0,,I remember in the place\Nthat Papa took me there
+Dialogue: 0,0:07:54.68,0:07:58.97,Main,,0,0,0,,were lots of other girls.
+Dialogue: 0,0:07:59.06,0:08:00.73,Main,,0,0,0,,Are you okay?
+Dialogue: 0,0:08:00.81,0:08:04.44,Main,,0,0,0,,♪ ...Fujiko Mine ♪
+Dialogue: 0,0:08:04.52,0:08:08.27,Main,,0,0,0,,♪ Everyone loves\Nher oh so much ♪
+Dialogue: 0,0:08:08.36,0:08:12.03,Main,,0,0,0,,♪ Everyone loves to\Nfeel her touch ♪
+Dialogue: 0,0:08:12.11,0:08:15.28,Main,,0,0,0,,♪ Everyone knows\Nthat her name... ♪
+Dialogue: 0,0:08:15.37,0:08:18.66,Main,,0,0,0,,Papa took me to that place,\Nand before I knew it,
+Dialogue: 0,0:08:18.74,0:08:32.05,Main,,0,0,0,,he just disappeared and I...\Nwent to the castle in the sky.
+Dialogue: 0,0:08:33.59,0:08:35.39,Main,,0,0,0,,Fujiko.
+Dialogue: 0,0:08:35.47,0:08:36.51,Main,,0,0,0,,What's that?
+Dialogue: 0,0:08:36.59,0:08:39.35,Main,,0,0,0,,Who's there?
+Dialogue: 0,0:08:39.43,0:08:40.22,Main,,0,0,0,,Fujiko!
+Dialogue: 0,0:08:40.31,0:08:41.85,Main,,0,0,0,,What's going on?
+Dialogue: 0,0:08:45.73,0:08:50.40,Main,,0,0,0,,This is your tale\Nand no one else's.
+Dialogue: 0,0:08:50.48,0:08:52.82,Main,,0,0,0,,Fujiko.
+Dialogue: 0,0:08:52.90,0:08:56.53,Main,,0,0,0,,I've waited for you so long.
+Dialogue: 0,0:08:56.61,0:09:00.04,Main,,0,0,0,,All these many\Nyears of yearning.
+Dialogue: 0,0:09:00.12,0:09:02.08,Main,,0,0,0,,Can you hear me?
+Dialogue: 0,0:09:06.12,0:09:07.67,Main,,0,0,0,,Are we in a lab?
+Dialogue: 0,0:09:07.75,0:09:09.09,Main,,0,0,0,,We are.
+Dialogue: 0,0:09:09.17,0:09:12.63,Main,,0,0,0,,I was taken away to\Nthe castle in the sky
+Dialogue: 0,0:09:12.71,0:09:16.59,Main,,0,0,0,,and they did experiments.
+Dialogue: 0,0:09:25.39,0:09:26.23,Main,,0,0,0,,No!
+Dialogue: 0,0:09:26.31,0:09:28.81,Main,,0,0,0,,Stop it!
+Dialogue: 0,0:09:28.90,0:09:31.65,Main,,0,0,0,,Stop it, you bastards!
+Dialogue: 0,0:09:32.78,0:09:33.86,Main,,0,0,0,,Stop it!
+Dialogue: 0,0:09:35.78,0:09:37.24,Main,,0,0,0,,Hey, snap out of it!
+Dialogue: 0,0:09:38.49,0:09:39.91,Main,,0,0,0,,Let me go!
+Dialogue: 0,0:09:42.54,0:09:43.37,Main,,0,0,0,,This way!
+Dialogue: 0,0:09:43.45,0:09:44.95,Main,,0,0,0,,Come on!
+Dialogue: 0,0:09:48.38,0:09:50.25,Main,,0,0,0,,Tickets please.
+Dialogue: 0,0:09:53.17,0:09:54.51,Main,,0,0,0,,Tickets, huh?
+Dialogue: 0,0:09:54.59,0:09:55.92,Main,,0,0,0,,Let's see.
+Dialogue: 0,0:09:57.72,0:09:59.30,Main,,0,0,0,,Just as I suspected.
+Dialogue: 0,0:09:59.39,0:10:01.93,Main,,0,0,0,,How'd those get in there?
+Dialogue: 0,0:10:02.01,0:10:04.27,Main,,0,0,0,,Even you must have figured out\Nby now that we're walking
+Dialogue: 0,0:10:04.35,0:10:05.77,Main,,0,0,0,,into a trap.
+Dialogue: 0,0:10:05.85,0:10:07.85,Main,,0,0,0,,If we're gonna turn back,\Nnow's the time.
+Dialogue: 0,0:10:07.94,0:10:08.44,Main,,0,0,0,,Ooh!
+Dialogue: 0,0:10:08.52,0:10:10.23,Main,,0,0,0,,Look, ice cream!
+Dialogue: 0,0:10:21.74,0:10:23.20,Main,,0,0,0,,It's the wrong flavor.
+Dialogue: 0,0:10:28.12,0:10:30.42,Main,,0,0,0,,The Order of Fraulein Eule\Nwas established so that
+Dialogue: 0,0:10:30.50,0:10:32.79,Main,,0,0,0,,Glaucus Pharmaceuticals--the\Ncompany controlled
+Dialogue: 0,0:10:32.88,0:10:35.01,Main,,0,0,0,,by Count Almeida--would\Nhave a secret means
+Dialogue: 0,0:10:35.09,0:10:37.30,Main,,0,0,0,,of testing their new drug.
+Dialogue: 0,0:10:40.22,0:10:42.97,Main,,0,0,0,,Count Almeida offered me\Nthe job of stealing Fujiko,
+Dialogue: 0,0:10:43.05,0:10:46.10,Main,,0,0,0,,who'd infiltrated the cult.
+Dialogue: 0,0:10:46.18,0:10:48.18,Main,,0,0,0,,I got a little curious\Nabout this mystery woman
+Dialogue: 0,0:10:48.27,0:10:50.94,Main,,0,0,0,,the count was so\Nfreakishly fixated on.
+Dialogue: 0,0:10:51.02,0:10:54.61,Main,,0,0,0,,So I decided to look into her\Nbut it turned out there was
+Dialogue: 0,0:10:54.69,0:10:59.99,Main,,0,0,0,,no woman anywhere in the\Nworld called Fujiko Mine.
+Dialogue: 0,0:11:00.07,0:11:01.87,Main,,0,0,0,,She's a thief by trade.
+Dialogue: 0,0:11:01.95,0:11:04.78,Main,,0,0,0,,It's no surprise\Nshe'd use an alias.
+Dialogue: 0,0:11:04.87,0:11:06.12,Main,,0,0,0,,You don't get it.
+Dialogue: 0,0:11:06.20,0:11:08.71,Main,,0,0,0,,There was no one who even\Nmatched her description.
+Dialogue: 0,0:11:08.79,0:11:11.37,Main,,0,0,0,,So, what does that means?
+Dialogue: 0,0:11:11.46,0:11:14.92,Main,,0,0,0,,It means Fujiko Mine,\Nincomparable lady looter
+Dialogue: 0,0:11:15.00,0:11:17.09,Main,,0,0,0,,had her life stolen from her.
+Dialogue: 0,0:11:17.17,0:11:19.13,Main,,0,0,0,,Someone took her tale\Nand replaced it
+Dialogue: 0,0:11:19.22,0:11:21.30,Main,,0,0,0,,with one of their own.
+Dialogue: 0,0:11:21.38,0:11:24.05,Main,,0,0,0,,You saw it yourself:\NHow badly she wanted to kill
+Dialogue: 0,0:11:24.14,0:11:26.60,Main,,0,0,0,,the Painted Lady--a woman\Nwhose life had been
+Dialogue: 0,0:11:26.68,0:11:28.60,Main,,0,0,0,,manipulated by strangers.
+Dialogue: 0,0:11:30.81,0:11:33.15,Main,,0,0,0,,She looked at that helpless\Nwoman who was bound by somebody
+Dialogue: 0,0:11:33.23,0:11:38.90,Main,,0,0,0,,else's agenda and it was like\Nshe saw her own reflection.
+Dialogue: 0,0:11:38.99,0:11:41.07,Main,,0,0,0,,She thought that by\Nkilling the other woman,
+Dialogue: 0,0:11:41.15,0:11:43.53,Main,,0,0,0,,she could kill her\Nown past, as well.
+Dialogue: 0,0:11:46.37,0:11:47.70,Main,,0,0,0,,Good story.
+Dialogue: 0,0:11:47.79,0:11:50.33,Main,,0,0,0,,I don't see what any of it\Nhas to do with me, though.
+Dialogue: 0,0:11:50.41,0:11:53.29,Main,,0,0,0,,I hate to break it\Nto you, friend.
+Dialogue: 0,0:11:53.38,0:11:56.88,Main,,0,0,0,,But this is the tale of the\Nwoman called "Fujiko Mine".
+Dialogue: 0,0:11:56.96,0:11:59.92,Main,,0,0,0,,And you and I are members\Nof the supporting cast
+Dialogue: 0,0:12:00.01,0:12:02.34,Main,,0,0,0,,whether we like it or not.
+Dialogue: 0,0:12:02.43,0:12:03.43,Main,,0,0,0,,What?
+Dialogue: 0,0:12:03.51,0:12:06.22,Main,,0,0,0,,Oh look they've sent someone.
+Dialogue: 0,0:12:21.11,0:12:23.20,Main,,0,0,0,,Thanks for the invitation.
+Dialogue: 0,0:12:23.28,0:12:25.82,Main,,0,0,0,,You're the one who gave us\Nthe tickets, right?
+Dialogue: 0,0:12:25.91,0:12:27.16,Main,,0,0,0,,Yes.
+Dialogue: 0,0:12:27.24,0:12:28.74,Main,,0,0,0,,Once again, there is a job\Nfor which I would like
+Dialogue: 0,0:12:28.83,0:12:30.66,Main,,0,0,0,,to enlist your services.
+Dialogue: 0,0:12:30.75,0:12:34.04,Main,,0,0,0,,Oh, I'll steal Fujiko Mine,\Nall right but I'm the one
+Dialogue: 0,0:12:34.12,0:12:36.50,Main,,0,0,0,,who gets to decide\Nwhat happens next.
+Dialogue: 0,0:12:36.58,0:12:39.50,Main,,0,0,0,,Today's job is something\Ndifferent, actually.
+Dialogue: 0,0:12:39.59,0:12:40.84,Main,,0,0,0,,What is it?
+Dialogue: 0,0:12:40.92,0:12:45.97,Main,,0,0,0,,The task I have for you\Nis this; Kill Fujiko Mine.
+Dialogue: 0,0:12:47.26,0:12:50.43,Main,,0,0,0,,If you refuse to take the job-
+Dialogue: 0,0:12:53.48,0:12:54.60,Main,,0,0,0,,Hold it!
+Dialogue: 0,0:13:17.33,0:13:18.08,Main,,0,0,0,,Whoa!
+Dialogue: 0,0:13:18.17,0:13:20.13,Main,,0,0,0,,Some rollercoaster.
+Dialogue: 0,0:13:27.51,0:13:29.01,Main,,0,0,0,,Hey, tell me something.
+Dialogue: 0,0:13:29.10,0:13:31.68,Main,,0,0,0,,Why did I get dragged\Ninto all this?
+Dialogue: 0,0:13:31.77,0:13:34.52,Main,,0,0,0,,Wherever Fujiko went,\Nwhatever she did.
+Dialogue: 0,0:13:34.60,0:13:37.19,Main,,0,0,0,,Count Almeida had eyes on her.
+Dialogue: 0,0:13:37.27,0:13:41.19,Main,,0,0,0,,He was always in control of\Nwhat happened in her life.
+Dialogue: 0,0:13:41.27,0:13:44.24,Main,,0,0,0,,He's the reason we met\Nher in the first place.
+Dialogue: 0,0:13:52.29,0:13:54.66,Main,,0,0,0,,W-w-whoa!
+Dialogue: 0,0:14:00.88,0:14:02.96,Main,,0,0,0,,It might not even stop with us.
+Dialogue: 0,0:14:03.05,0:14:05.34,Main,,0,0,0,,Who knows how many other\Npoor shmucks he's got in
+Dialogue: 0,0:14:05.42,0:14:07.68,Main,,0,0,0,,his little cast of fools?
+Dialogue: 0,0:14:11.60,0:14:13.93,Main,,0,0,0,,Where am I?
+Dialogue: 0,0:14:14.02,0:14:15.43,Main,,0,0,0,,I remember.
+Dialogue: 0,0:14:15.52,0:14:18.31,Main,,0,0,0,,I was surrounded by owl men.
+Dialogue: 0,0:14:18.40,0:14:19.94,Main,,0,0,0,,And one of them-
+Dialogue: 0,0:14:28.07,0:14:29.45,Main,,0,0,0,,Is this it?
+Dialogue: 0,0:14:29.53,0:14:31.28,Main,,0,0,0,,Is this my end?
+Dialogue: 0,0:14:31.37,0:14:33.79,Main,,0,0,0,,Will I die here, without\Never learning the truth
+Dialogue: 0,0:14:33.87,0:14:36.16,Main,,0,0,0,,about Fujiko Mine?
+Dialogue: 0,0:14:46.84,0:14:48.80,Main,,0,0,0,,Hold on, this makes no sense.
+Dialogue: 0,0:14:48.88,0:14:50.68,Main,,0,0,0,,What's Count Almeida after?
+Dialogue: 0,0:14:50.76,0:14:52.10,Main,,0,0,0,,Yeah, good question.
+Dialogue: 0,0:14:52.18,0:14:53.26,Main,,0,0,0,,Let's see.
+Dialogue: 0,0:14:53.35,0:14:54.97,Main,,0,0,0,,--How 'bout-\N--Hey!
+Dialogue: 0,0:15:06.11,0:15:08.57,Main,,0,0,0,,-we ask this guy to tell us?
+Dialogue: 0,0:15:11.20,0:15:13.66,Main,,0,0,0,,You want to know\Nwhat I'm after?
+Dialogue: 0,0:15:13.74,0:15:15.04,Main,,0,0,0,,Simple.
+Dialogue: 0,0:15:15.12,0:15:16.75,Main,,0,0,0,,Love.
+Dialogue: 0,0:15:20.33,0:15:21.08,Main,,0,0,0,,Damn it!
+Dialogue: 0,0:15:21.17,0:15:23.17,Main,,0,0,0,,How do we get out of here?
+Dialogue: 0,0:15:38.22,0:15:40.48,Main,,0,0,0,,Don't stop!
+Dialogue: 0,0:15:40.56,0:15:41.31,Main,,0,0,0,,More!
+Dialogue: 0,0:15:41.39,0:15:42.40,Main,,0,0,0,,More!
+Dialogue: 0,0:15:46.78,0:15:48.49,Main,,0,0,0,,They're just a bunch of dolls.
+Dialogue: 0,0:15:48.57,0:15:49.44,Main,,0,0,0,,Please!
+Dialogue: 0,0:15:49.53,0:15:50.49,Main,,0,0,0,,Let's go!
+Dialogue: 0,0:15:50.57,0:15:54.07,Main,,0,0,0,,Please get me\Nout of this place!
+Dialogue: 0,0:15:54.16,0:15:57.79,Main,,0,0,0,,Get me out of here.
+Dialogue: 0,0:15:59.50,0:16:01.58,Main,,0,0,0,,Fujiko Mine.
+Dialogue: 0,0:16:02.79,0:16:05.71,Main,,0,0,0,,That's all I wanted.
+Dialogue: 0,0:16:05.79,0:16:07.67,Main,,0,0,0,,Just to escape.
+Dialogue: 0,0:16:10.92,0:16:15.26,Main,,0,0,0,,To leave behind my\Ndefiled cursed self.
+Dialogue: 0,0:16:15.35,0:16:17.18,Main,,0,0,0,,For good.
+Dialogue: 0,0:16:21.48,0:16:23.85,Main,,0,0,0,,I needed to hide the past.
+Dialogue: 0,0:16:23.94,0:16:26.90,Main,,0,0,0,,To cover up all\Nthe wounds they gave me.
+Dialogue: 0,0:16:26.98,0:16:30.03,Main,,0,0,0,,So I adorned myself in finery.
+Dialogue: 0,0:16:30.11,0:16:32.65,Main,,0,0,0,,Eventually,\NI locked it all away.
+Dialogue: 0,0:16:32.74,0:16:35.99,Main,,0,0,0,,Safe inside a treasure chest.
+Dialogue: 0,0:16:36.07,0:16:39.49,Main,,0,0,0,,Yes, your will\Nwas strong, indeed.
+Dialogue: 0,0:16:39.58,0:16:41.62,Main,,0,0,0,,You were able to lock\Naway all your memories
+Dialogue: 0,0:16:41.71,0:16:44.50,Main,,0,0,0,,of the past one by one.
+Dialogue: 0,0:16:44.58,0:16:47.59,Main,,0,0,0,,All memories of\Nour days of love.
+Dialogue: 0,0:16:47.67,0:16:49.92,Main,,0,0,0,,But I couldn't allow that.
+Dialogue: 0,0:16:50.01,0:16:52.34,Main,,0,0,0,,So I created the keys\Nthat were necessary
+Dialogue: 0,0:16:52.42,0:16:53.88,Main,,0,0,0,,to open your heart to me again.
+Dialogue: 0,0:16:53.97,0:16:56.93,Main,,0,0,0,,I knew that by using them,\NI could make sure our tales
+Dialogue: 0,0:16:57.01,0:17:01.47,Main,,0,0,0,,would mingle once more,\Nas they were always meant to do.
+Dialogue: 0,0:17:01.56,0:17:03.94,Main,,0,0,0,,Now those keys that\NI so carefully molded
+Dialogue: 0,0:17:04.02,0:17:06.65,Main,,0,0,0,,have completed their job.
+Dialogue: 0,0:17:06.73,0:17:09.86,Main,,0,0,0,,Fujiko Mine's memories\Nhave returned which means
+Dialogue: 0,0:17:09.94,0:17:12.74,Main,,0,0,0,,you are no longer\Nof any use to us.
+Dialogue: 0,0:17:12.82,0:17:14.07,Main,,0,0,0,,Oh, yeah?
+Dialogue: 0,0:17:14.15,0:17:17.41,Main,,0,0,0,,Then why did you bother\Ntelling me about her past?
+Dialogue: 0,0:17:17.49,0:17:19.37,Main,,0,0,0,,It was you, wasn't it?
+Dialogue: 0,0:17:19.45,0:17:21.16,Main,,0,0,0,,You're the one who\Nshowed me those illusions
+Dialogue: 0,0:17:21.24,0:17:23.20,Main,,0,0,0,,in the deserted town.
+Dialogue: 0,0:17:23.29,0:17:25.42,Main,,0,0,0,,What are you talking about?
+Dialogue: 0,0:17:25.50,0:17:29.54,Main,,0,0,0,,I had this hallucination about\Na bald scientist guy in a lab.
+Dialogue: 0,0:17:29.63,0:17:32.55,Main,,0,0,0,,He told me he wanted me\Nto save his daughter.
+Dialogue: 0,0:17:36.93,0:17:38.01,Main,,0,0,0,,I see.
+Dialogue: 0,0:17:38.09,0:17:40.18,Main,,0,0,0,,That's what\Nhe said to you, is it?
+Dialogue: 0,0:17:44.02,0:17:46.73,Main,,0,0,0,,It seems you aren't\Nleaving me much choice.
+Dialogue: 0,0:17:46.81,0:17:49.94,Main,,0,0,0,,If the two of you will not\Nkill Fujiko Mine, then-
+Dialogue: 0,0:17:51.52,0:17:52.15,Main,,0,0,0,,Damn!
+Dialogue: 0,0:17:52.23,0:17:53.57,Main,,0,0,0,,Hold on!
+Dialogue: 0,0:17:59.95,0:18:00.95,Main,,0,0,0,,You should know.
+Dialogue: 0,0:18:01.03,0:18:03.50,Main,,0,0,0,,This isn't just\Nthe tale of Fujiko Mine.
+Dialogue: 0,0:18:05.79,0:18:08.71,Main,,0,0,0,,No, this is our tale.
+Dialogue: 0,0:18:11.29,0:18:14.21,Main,,0,0,0,,How many characters\Nare in this tale?
+Dialogue: 0,0:18:14.30,0:18:16.76,Main,,0,0,0,,And how the hell's\Nit going to end?
+Dialogue: 0,0:18:20.30,0:18:21.47,Main,,0,0,0,,Now, Fujiko!
+Dialogue: 0,0:18:21.55,0:18:23.22,Main,,0,0,0,,Hear your dying day!
+Dialogue: 0,0:18:23.31,0:18:24.35,Main,,0,0,0,,The fifteenth!
+Dialogue: 0,0:18:24.43,0:18:26.35,Main,,0,0,0,,Three months hence!
+Dialogue: 0,0:18:27.56,0:18:28.73,Main,,0,0,0,,What's the date?
+Dialogue: 0,0:18:28.81,0:18:29.52,Main,,0,0,0,,Hmm?
+Dialogue: 0,0:18:29.60,0:18:31.48,Main,,0,0,0,,It's the fifteenth, right?
+Dialogue: 0,0:18:31.56,0:18:33.61,Main,,0,0,0,,It's Fujiko Mine's dying day.
+Dialogue: 0,0:18:33.69,0:18:35.82,Main,,0,0,0,,Do what now?
+Dialogue: 0,0:18:35.90,0:18:37.86,Main,,0,0,0,,Fujiko, snap out of it!
+Dialogue: 0,0:18:47.00,0:18:48.08,Main,,0,0,0,,Move it!
+Dialogue: 0,0:18:51.63,0:18:52.38,Main,,0,0,0,,Stop!
+Dialogue: 0,0:18:52.46,0:18:54.13,Main,,0,0,0,,These aren't dolls anymore!
+Dialogue: 0,0:19:00.93,0:19:02.43,Main,,0,0,0,,Look closely.
+Dialogue: 0,0:19:02.51,0:19:04.64,Main,,0,0,0,,No one is exactly like you.
+Dialogue: 0,0:19:04.72,0:19:06.77,Main,,0,0,0,,They're all botched jobs.
+Dialogue: 0,0:19:24.12,0:19:26.20,Main,,0,0,0,,What is this?
+Dialogue: 0,0:19:30.83,0:19:32.63,Main,,0,0,0,,Hey get off!
+Dialogue: 0,0:19:35.30,0:19:36.13,Main,,0,0,0,,Go!
+Dialogue: 0,0:19:36.21,0:19:37.38,Main,,0,0,0,,Get out of here!
+Dialogue: 0,0:19:37.46,0:19:38.80,Main,,0,0,0,,Huh?!
+Dialogue: 0,0:19:38.88,0:19:41.43,Main,,0,0,0,,I'll deal with\Nthis one personally.
+Dialogue: 0,0:19:56.11,0:19:57.40,Main,,0,0,0,,Who cut the power?
+Dialogue: 0,0:19:57.48,0:19:58.99,Main,,0,0,0,,You think it was Fujiko?
+Dialogue: 0,0:19:59.07,0:19:59.69,Main,,0,0,0,,Come on.
+Dialogue: 0,0:19:59.78,0:20:01.24,Main,,0,0,0,,We've got work to do.
+Dialogue: 0,0:20:19.26,0:20:21.51,Main,,0,0,0,,That's you, isn't it?
+Dialogue: 0,0:20:21.59,0:20:23.80,Main,,0,0,0,,Oscar.
+Dialogue: 0,0:20:36.06,0:20:37.94,Main,,0,0,0,,I remember everything.
+Dialogue: 0,0:20:39.94,0:20:42.03,Main,,0,0,0,,You go up this staircase.
+Dialogue: 0,0:20:43.74,0:20:46.20,Main,,0,0,0,,Through the door at the top.
+Dialogue: 0,0:20:46.28,0:20:47.95,Main,,0,0,0,,And then-
+Dialogue: 0,0:20:54.54,0:20:56.71,Main,,0,0,0,,I've missed you, Fujiko.
+Dialogue: 0,0:20:56.79,0:20:58.55,Main,,0,0,0,,So much.
+Dialogue: 0,0:21:00.42,0:21:04.43,Main,,0,0,0,,Now then, come here\Nand sit on my lap.
+Dialogue: 0,0:21:07.30,0:21:10.02,Main,,0,0,0,,Come here and sit on my lap.
+Dialogue: 0,0:21:13.48,0:21:18.52,Main,,0,0,0,,If you don't do as I say,\NI'll have to punish you again.
+Dialogue: 0,0:21:18.61,0:21:21.99,Main,,0,0,0,,I'll burn you\Nto ashes, Fujiko.
+Dialogue: 0,0:21:24.49,0:21:27.91,Main,,0,0,0,,Forgive me, Papa.
+Dialogue: 0,0:21:27.99,0:21:31.12,Main,,0,0,0,,Papa!
