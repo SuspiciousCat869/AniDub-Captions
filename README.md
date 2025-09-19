@@ -1,9 +1,1061 @@
-## Welcome!
+# List of English-Dubbed Anime with Matching Subtitles
 
-This is my first time using GitHub, and while I didn’t follow any tutorials, I managed to upload all the files. I think that’s what matters!
+## Movies
+- 009 ReCyborg
+- 3D2Y Overcome Ace's Death! Luffy's Vow to his Friends
+- 5 Centimeters per Second
+- A Certain Magical Index The Movie – The Miracle of Endymion
+- A KITE
+- A Silent Voice
+- A Wind Named Amnesia
+- AKIRA
+- ARMITAGE DUAL-MATRIX
+- ARMITAGE III POLY-MATRIX
+- Accel World Infinite Burst
+- Afro Samurai Resurrection
+- Appleseed
+- Arcadia of My Youth
+- Assassination Classroom the Movie 365 Days Time
+- BAYONETTA Bloody Fate
+- BELLE
+- BLOOD-C Movie
+- Big Fish & Begonia
+- Birthday Wonderland
+- Black Butler Book of the Atlantic
+- Black Jack The Movie
+- Bleach Memories of Nobody
+- Boruto Naruto the Movie
+- Bungo Stray Dogs Dead Apple
+- Cardcaptor Sakura The Movie
+- Case Closed Episode One - The Great Detective Turned Small
+- Case Closed Sunflowers of Inferno
+- Case Closed The Crimson Love Letter
+- Case Closed The Darkest Nightmare
+- Case Closed The Fist of Blue Sapphire
+- Case Closed Zero the Enforcer
+- Child of Kamiari Month
+- Children Who Chase Lost Voices
+- Children of the Sea
+- City Hunter .357 Magnum
+- City Hunter Bay City Wars
+- City Hunter Million Dollar Conspiracy
+- Code Geass Lelouch of the Re surrection
+- Demon Slayer the Movie Mugen Train
+- Digimon Adventure Last Evolution Kizuna
+- Digimon Adventure tri. 1 Reunion
+- Digimon Adventure tri. 2 Determination
+- Digimon Adventure tri. 3 Confession
+- Digimon Adventure tri. 4 Loss
+- Digimon Adventure tri. 5 Coexistence
+- Digimon Adventure tri. 6 Future
+- Dragon Age Dawn of the Seeker
+- Dragon Ball Super Broly
+- Dragon Ball Z Bojack Unbound
+- Dragon Ball Z Cooler's Revenge
+- Dragon Ball Z Resurrection F
+- Dragon Ball Z Super Android 13
+- Dragon Ball Z Wrath of the Dragon
+- Eden of the East Air Communication
+- Eden of the East King of Eden
+- Eureka Seven Good Night, Sleep Tight, Young Lovers
+- Evangelion 1.0 You Are  Alone
+- Evangelion 2.0 You Can  Advance
+- Evangelion 3.0 You Can  Redo
+- Evangelion 3.0+1.01 Thrice Upon a Time
+- Fafner Heaven and Earth
+- Fairy Tail Dragon Cry
+- Fairy Tail Phoenix Priestess
+- Fantastic Adventures of Unico
+- Fate/stay night [Heaven's Feel] Ⅰ
+- Fate/stay night [Heaven's Feel] Ⅱ
+- Fate/stay night [Heaven's Feel] Ⅲ
+- Fist of the North Star
+- Free! -Timeless Medley- The Bond
+- Free! -Timeless Medley- The Promise
+- From Up on Poppy Hill
+- Ghost in the Shell 2 Innocence
+- Ghost in the Shell SAC 2045 Sustainable War
+- Ghost in the Shell Solid State Society
+- Ghost in the Shell The Laughing Man
+- Ghost in the Shell The New Movie
+- Gintama The Very Final
+- GoShogun The Time Stranger
+- Goblinslayer Goblin's Crown
+- Grave of the Fireflies
+- Hal
+- Heaven‘s Lost Property The Angeloid of Clockwork
+- Hells
+- Hetalia - Movie
+- High Speed! -Free! Starting Days
+- Howl's Moving Castle
+- In This Corner of the World
+- Infini-T Force
+- Initial D Third Stage
+- Inu-oh
+- Inuyasha Movie 2 The Castle Beyond the Looking Glass
+- Inuyasha the Movie Affections Touching Across Time
+- Jujutsu Kaisen 0
+- K-On! The Movie
+- Kiki's Delivery Service
+- Kite Liberator
+- Knights of Sidonia Love Woven in the Stars
+- Laputa Castle in the Sky
+- Laughing Under the Clouds Gaiden Movie 1
+- Laughing Under the Clouds Gaiden Movie 2
+- Laughing Under the Clouds Gaiden Movie 3
+- Legend of Deification
+- Lily C.A.T
+- Love Live! Sunshine!! The School Idol Movie Over the Rainbow
+- Lupin III Legend of Golden Babylon
+- Lupin III VS Detective Conan The Movie
+- Lupin the 3rd The Castle of Cagliostro
+- Made in Abyss Dawn of the Deep Soul
+- Made in Abyss Journey's Dawn
+- Made in Abyss Wandering Twilight
+- Maquia When the Promised Flower Blooms
+- Martian Successor Nadesico The Prince of Darkness
+- Mary and The Witch's Flower
+- Mass Effect Paragon Lost
+- Mazinger Z Infinity
+- Megazone 23
+- Megazone 23 Part II
+- Mirai
+- Modest Heroes Ponoc Short Films Theatre
+- Monkey King Hero is Back
+- My Hero Academia Two Heroes
+- My Neighbor Totoro
+- My Neighbors the Yamadas
+- Naruto Movie 2 Legend of the Stone
+- Naruto Movie 3 Guardians Of The Crescent Moon Kingdom
+- Naruto Shippuden Movie 2 Bonds
+- Naruto Shippuden Movie 3 The Will Of Fire
+- Naruto Shippuden Movie 4 The Lost Tower
+- Naruto Shippuden Movie 5 Blood Prison
+- Naruto Shippuden Movie 6 Road To Ninja
+- Naruto Shippuden Movie 7 The Last
+- Naruto Shippuden The Movie
+- Naruto the Movie Ninja Clash in the Land of Snow
+- Nausicaa of the Valley of the Wind
+- Ne Zha
+- New Gods Nezha Reborn
+- New Gods Yang Jian
+- No Game No Life Zero
+- Oblivion Island Haruka and the Magic Mirror
+- One Piece Adventure of Nebulandia
+- One Piece Episode of Alabasta
+- One Piece Episode of East Blue
+- One Piece Episode of Sabo
+- One Piece Episode of Skypiea
+- One Piece Film Red
+- One Piece Film Strong World
+- One Piece Film Z
+- One Piece Heart of Gold
+- One Piece Stampede
+- Only Yesterday
+- PROMARE
+- Patema Inverted
+- Pom Poko
+- Pompo The Cinephile
+- Ponyo on the Cliff by the Sea
+- Porco Rosso
+- Pretty Guardian Sailor Moon Eternal The Movie 1
+- Pretty Guardian Sailor Moon Eternal The Movie 2
+- Princess Mononoke
+- Project A-Ko
+- Project Itoh Harmony
+- Psychic School Wars
+- Psycho-Pass The Movie
+- Puella Magi Madoka Magica the Movie Rebellion
+- Resident Evil Damnation
+- Ride your wave
+- Robin Hood II and the Invincible Knight
+- Robin Hood III Enemies Forever
+- Robot Carnival
+- Sailor Moon R The Movie
+- Sakura Wars the Movie
+- Sea Prince and the Fire Child
+- Sengoku Basara Samurai Kings - The Last Party
+- Sound! Euphonium the Movie - Our Promise A Brand New Day
+- Spirited Away
+- Storm Rider Clash of the Evils
+- Street Fighter Alpha Generations
+- Street Fighter II The Animated Movie
+- Strike Witches the Movie
+- Summer Ghost
+- Swan Lake
+- Sword Art Online Extra Edition
+- Sword Art Online Ordinal Scale
+- Sword Art Online Progressive Aria of a Starless Night
+- Sword Art Online Progressive Scherzo of Deep Night
+- Sword of the Stranger
+- Tales from Earthsea
+- Tales of Vesperia The First Strike
+- The Boy and the Beast
+- The Cat Returns
+- The Deer King
+- The Disappearance of Haruhi Suzumiya
+- The Garden of Words
+- The Girl Who Leapt Through Time
+- The House of the Lost on the Cape
+- The Legend of Hei
+- The Movie - Shakugan no Shana
+- The Place Promised in Our Early Days
+- The Princess and the Pilot
+- The Secret World of Arrietty
+- The Tale of The Princess Kaguya
+- The Vision of EscaFlowne - Movie
+- The Wind Rises
+- The Witcher Nightmare of the Wolf
+- Tiger and Bunny The Movie The Rising
+- Tiger and Bunny the Movie The Beginning
+- Tokyo Godfathers
+- Trigun Badlands Rumble
+- Unico in the Island of Magic
+- Urusei Yatsura Beautiful Dreamer
+- Vampire Hunter D Bloodlust
+- Vexille
+- Violet Evergarden Eternity and the Auto Memory Doll
+- Weathering with You
+- When Marnie Was There
+- Whisper of the Heart
+- White Snake
+- Your Name
+- Yu-Gi-Oh! Bonds Beyond Time
+- Yu-Gi-Oh! The Dark Side of Dimensions
+- Yu-Gi-Oh! The Movie
 
-## What’s here?
+## Tv Series
+- 18if
+- 2.43 Seiin High School Boys Volleyball Team
+- A Centaur's Life
+- A Certain Magical Index
+- A Certain Magical Index II
+- A Certain Magical Index III
+- A Certain Scientific Accelerator
+- A Certain Scientific Railgun
+- A Certain Scientific Railgun S
+- A Certain Scientific Railgun T
+- A Sister's All You Need
+- A3! Season Autumn & Winter
+- A3! Season Spring & Summer
+- ACCA13-Territory Inspection Dept
+- AFTERLOST
+- ALL OUT
+- APPARE-RANMAN
+- ASTRA LOST IN SPACE
+- Absolute Duo
+- Accel World
+- Ace Attorney S2
+- Actors Songs Connection
+- Aesthetica of a Rogue Hero
+- Africa Salaryman
+- Afro Samurai
+- After School Dice Club
+- Ah! My Goddess Flights of Fancy
+- Ai Tenchi Muyou
+- Ai Yori Aoshi
+- Ai Yori Aoshi ~Enishi
+- Air Gear
+- Ajin
+- Ajin S2
+- Akame ga Kill
+- Akashic Records of Bastard Magic Instructor
+- Akebi's Sailor Uniform
+- Akiba's Trip The Animation
+- Akudama Drive
+- Alice & Zoroku
+- Amagi Brilliant Park
+- And you thought there is never a girl online
+- Angel Links
+- Angels of Death
+- Anime-Gataris
+- Appleseed XIII
+- Aquarion
+- Aquarion EVOL
+- Aquarion Logos
+- Arcane League of Legends
+- Aria the Scarlet Ammo
+- Aria the Scarlet Ammo AA
+- Arifureta From Commonplace to World's Strongest
+- Arifureta From Commonplace to World's Strongest S2
+- Armitage III
+- Arte
+- Assassination Classroom
+- Assassination Classroom S2
+- Asteroid in Love
+- Astro Boy
+- Attack on Titan
+- Attack on Titan Junior High
+- Attack on Titan S2
+- Attack on Titan S3
+- Azur Lane
+- B Gata H Kei Yamada's First Time
+- B The Beginning
+- B The Beginning Succession
+- BACK ARROW
+- BASTARD‼.-Heavy.Metal,.Dark.Fantasy
+- BEM
+- BLOOD-C
+- BOFURI I Don’t Want to Get Hurt, so I’ll Max Out My Defense
+- BOFURI_ I Don't Want to Get Hurt, so I'll Max Out My Defense. S2
+- BUBBLEGUM CRISIS
+- Baka & Test - Summon the Beasts
+- Baka & Test - Summon the Beasts - S2
+- Baki Hanma
+- Bakugan Battle Brawlers
+- Bakugan Battle Brawlers Gundalian Invaders
+- Bakugan Battle Brawlers Mechtanium Surge
+- Bakugan Battle Brawlers New Vestroia
+- Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside
+- Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2
+- Banner of the Stars
+- Banner of the Stars Season 2
+- Barakamon
+- Basilisk
+- Basilisk The Ouka Ninja Scrolls
+- Beast Tamer
+- Ben-To
+- Bikini Warriors
+- Black Blood Brothers
+- Black Butler
+- Black Butler Book of Circus
+- Black Butler II
+- Black Clover
+- Black Lagoon
+- Black Lagoon Roberta's Blood Trail
+- Black Lagoon The Second Barrage
+- Black Rock Shooter Dawn Fall
+- BlazBlue Alter Memory
+- Bleach
+- Bleach Thousand-Year Blood War
+- Bleach Thousand-Year Blood War S2
+- Blood Blockade Battlefront
+- Blood Blockade Battlefront & Beyond
+- Blood Lad
+- Blood of Zeus
+- Blue Exorcist
+- Blue Exorcist Kyoto Saga
+- Blue Seed
+- Blue Seed 2
+- Brothers Conflict
+- Bubblegum Crisis Tokyo 2040
+- Bungo Stray Dogs
+- Bungo Stray Dogs Season 2
+- Bungo Stray Dogs Season 3
+- Bungo Stray Dogs Season 4
+- Burn the Witch
+- Burst Angel
+- Buso Renkin
+- By the Grace of the Gods
+- By the Grace of the Gods S2
+- C - Control
+- CLANNAD
+- CLANNAD～AFTER STORY
+- Captain Tsubasa
+- Cardcaptor Sakura Clear Card
+- Cardfight!! Vanguard
+- Case Closed Zero's Tea Time
+- Case file n°221 Kabukicho
+- Casshern Sins
+- Castle Town Dandelion
+- Castlevania
+- Castlevania S2
+- Castlevania S3
+- Castlevania S4
+- Cat Planet Cuties
+- Cautious Hero The Hero Is Overpowered but Overly Cautious
+- Chainsaw Man
+- Chaos Dragon
+- Chaos;HEAd
+- Charlotte
+- Cheer Boys
+- Chio's School Road
+- Chivalry of a Failed Knight
+- Chobits
+- Chrome Shelled Regios
+- Chrono Crusade
+- Classroom of the Elite
+- Classroom of the Elite  S2
+- Claymore
+- Clockwork Planet
+- Code Geass - Akito the Exiled
+- Code Geass Lelouch of the Rebellion
+- Code Geass Lelouch of the Rebellion R2
+- CodeBreaker
+- CodeRealize ~Guardian of Rebirth
+- Combatants Will Be Dispatched
+- Conception
+- Concrete Revolutio
+- Concrete Revolutio Season 2
+- Convenience Store Boy Friends
+- Cop Craft
+- Coppelion
+- Corpse Princess
+- Corpse Princess Shikabane Hime
+- Cowboy Bebop
+- Coyote Ragtime Show
+- Crest of the Stars
+- Cyberpunk - Edgerunners
+- Cyborg 009 Call of Justice
+- D-Frag
+- D.Gray-man
+- D.Gray-man HALLOW
+- DAIMIDALER PRINCE VS. PENGUIN EMPIRE
+- DARLING in the FRANXX
+- DEATH NOTE
+- DECA-DENCE
+- DOTA Dragon's Blood
+- DOTA Dragon's Blood S2
+- DOTA Dragon's Blood S3
+- DOUBLE DECKER! DOUG & KIRILL
+- DRAGON QUEST The Adventure of Dai
+- Dagashi Kashi
+- Dance in the Vampire Bund
+- Dance with Devils
+- Dances with the Dragons
+- Danganronpa 3 The End of Hope’s Peak High School - Despair Arc
+- Danganronpa 3 The End of Hope’s Peak High School - Future Arc
+- Danganronpa The Animation
+- Darwin Game
+- Date A Live
+- Date A Live Ⅱ
+- Date A Live Ⅲ
+- Date A Live Ⅳ
+- Deadman Wonderland
+- Death March to the Parallel World Rhapsody
+- Death Parade
+- Deep Insanity THE LOST CHILD
+- Demon Lord, Retry
+- Demon Slayer
+- Demon Slayer Entertainment District Arc
+- Demon Slayer Kimetsu No Yaiba Swordsmith Village Arc
+- Desert Punk
+- Devil May Cry
+- Devils' Line
+- Dies Irae
+- Digimon Adventure
+- Digimon Adventure 02
+- Digimon Adventure_
+- Digimon Frontier
+- Digimon Tamers
+- Dimension W
+- Dino Girl Gauko
+- Dino Girl Gauko S2
+- Divine Gate
+- Dr. STONE
+- Dr.STONE STONE WARS
+- Dragon Ball
+- Dragon Ball GT
+- Dragon Ball Super
+- Dragon Ball Z
+- Dragon Ball Z Kai
+- Dragon Ball Z Kai The Final Chapters
+- Dragon Goes House-Hunting
+- Dragon's Dogma
+- Dragonar Academy
+- Dragonaut -THE RESONANCE
+- Drifters
+- Dropout Idol Fruit Tart
+- Durarara
+- Durarara!!x2
+- EDENS ZERO
+- ENDRO
+- Eden of the East
+- El Cazador de la Bruja
+- Endride
+- Ensemble Stars
+- Erased
+- Ergo Proxy
+- Eureka Seven
+- Eureka Seven AO
+- Everyday Life With Monster Girls
+- FENA Pirate Princess
+- FLCL
+- Fafner
+- Fairy Tail
+- Fairy gone
+- Fate/Zero
+- Fate/Zero S2
+- Fate/Stay Night: Unlimited Blade Works
+- Fire Force
+- Fire Force S2
+- First Love Monster
+- Flying Witch
+- Food Wars
+- Food Wars S4
+- Food Wars! Season2
+- Fractale
+- Free!-Dive to the Future
+- Free!-Eternal Summer
+- Freezing
+- Fruits Basket
+- Fruits Basket  S2
+- Fruits Basket  S3
+- Fruits Basket (2019)
+- Full Dive This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life
+- Full Metal Panic
+- Full Metal Panic Fumoffu
+- Full Metal Panic! Invisible Victory
+- Full Metal Panic! The Second Raid
+- Fullmetal Alchemist Brotherhood
+- Future Card Buddyfight
+- Fuuka
+- GANGSTA
+- GANTZ
+- GARO -VANISHING LINE
+- GARO CRIMSON MOON
+- GARO THE ANIMATION
+- GOBLIN SLAYER
+- Ga-Rei-Zero
+- Gal & Dino
+- Galaxy Angel
+- Gamers
+- Gargantia on the Verdurous Planet
+- Gate
+- Ghost Hunt
+- Ghost Stories
+- Girls Bravo
+- Girls' Frontline
+- God of High School
+- Golden Kamuy
+- Golden Kamuy S3
+- Golden Kamuy S4
+- Golden Kamuy Season 2
+- Gonna be the Twin-Tail
+- Good Luck Girl
+- Gosick
+- Grimgar Ashes and Illusions
+- Guilty Crown
+- Gungrave
+- Gunslinger Girl
+- Gunslinger Girl - IL Teatrino
+- Gurren Lagann
+- Guyver The Bioboosted Armor
+- HAKYU HOSHIN ENGI
+- HANEBADO
+- HINAMATSURI
+- HUNTER×HUNTER
+- Haganai
+- Haganai NEXT
+- Haibane Renmei
+- Haikyu
+- Haikyu!! 2nd Season
+- Hakata Tonkotsu Ramens
+- Handa-kun
+- Hatena Illusion
+- Heaven's Lost Property
+- Heaven's Lost Property Forte
+- Heavy Object
+- Hellsing
+- Hellsing Ultimate
+- Hensuki Are you willing to fall in love with a pervert, as long as she's a cutie
+- Hero Tales
+- Heroic Age
+- High School DxD
+- High School DxD BorN
+- High School DxD HERO
+- High School DxD NEW
+- High School of the Dead
+- High-Rise Invasion
+- Higurashi When They Cry - GOU
+- Higurashi When They Cry - GOU S2
+- Hikaru no Go
+- Hina Logic - from Luck & Logic
+- Hinomaru Sumo
+- Holy Knight
+- HoriMiya S2
+- Horimiya
+- Hortensia SAGA
+- How Heavy Are the Dumbbells You Lift
+- How Not to Summon a Demon Lord
+- How Not to Summon a Demon Lord Omega
+- How a Realist Hero Rebuilt the Kingdom
+- Hyouka
+- Hyperdimension Neptunia
+- I'm the Villainess, So I'm Taming the Final Boss
+- ID INVADED
+- ISEKAI QUARTET
+- ISEKAI QUARTET S2
+- If My Favorite Pop Idol Made It to the Budokan, I Would Die
+- Ikebukuro West Gate Park
+- Ikki Tousen Great Guardians
+- Ikki Tousen XTREME XECUTOR
+- In Another World With My Smartphone
+- In Spectre
+- Infinite Dendrogram
+- Infinite Stratos
+- Infinite Stratos 2
+- Initial D First Stage
+- Initial D Fourth Stage
+- Initial D Second Stage
+- Inuyasha
+- Inuyasha - The Final Act
+- Irina The Vampire Cosmonaut
+- Is It Wrong to Try to Pick Up Girls in a Dungeon
+- Is It Wrong to Try to Pick Up Girls in a Dungeon S2
+- Is It Wrong to Try to Pick Up Girls in a Dungeon S3
+- Is It Wrong to Try to Pick Up Girls in a Dungeon S4
+- Is this a Zombie
+- JUNI TAISEN ZODIAC WAR
+- JoJo's Bizarre Adventure
+- JoJo's Bizarre Adventure Diamond is Unbreakable
+- JoJo's Bizarre Adventure Stardust Crusaders
+- JoJo's Bizarre Adventure Stardust Crusaders - Battle in Egypt
+- JoJo's Bizarre Adventure Stone Ocean
+- Jormungand
+- Jormungand Perfect Order
+- Jujutsu Kaisen
+- Junji Ito Collection
+- K
+- K RETURN OF KINGS
+- K-On
+- K-On!!
+- KONOHANA KITAN
+- Kageki Shojo
+- Kaguya-sama Love Is War
+- Kaguya-sama Love is War Season 2
+- Kakuriyo -Bed & Breakfast for Spirits
+- Kakushigoto
+- Kaleido Star
+- Kamisama Kiss
+- Kamisama Kiss 2
+- Karneval
+- Kaze no Stigma
+- Keijo
+- Kemono Jihen
+- Kemono Michi Rise Up
+- Kenichi
+- Kenka Bancho Otome -Girl Beats Boys
+- Kiddy Grade
+- Kill la Kill
+- King's Game
+- Kingdom
+- Kingdom Season 2
+- Kino's Journey -the Beautiful World- the Animated Series
+- Kiss Him, Not Me
+- Knight's & Magic
+- Kochoki
+- Kono Oto Tomare! Sounds of Life
+- KonoSuba_ God's Blessing on This Wonderful World
+- Koro Sensei Quest
+- Kotaro Lives Alone
+- Kuma Kuma Kuma Bear
+- LASTEXILE -Fam, the Silver Wing
+- Laughing Under the Clouds
+- Legend of the Galactic Heroes The New Thesis - Encounter
+- Legend of the Galactic Heroes The New Thesis - Stellar War
+- Level E
+- Liar Liar
+- Life Lessons with Uramichi Oniisan
+- Listeners
+- Log Horizon
+- Log Horizon Season 2
+- Lord Marksman and Vanadis
+- Lord of Vermilion The Crimson King
+- Love Live! Nijigasaki High School Idol Club
+- Love Live! Nijigasaki High School Idol Club S2
+- Love Live! Sunshine
+- Love Live! Sunshine!! Season 2
+- Luck & Logic
+- Lucky Star
+- Lupin III Part V
+- Lupin the Third ~ The Woman Called Fujiko Mine
+- MAGATSU WAHRHEIT
+- MARS RED
+- MEGALOBOX S2
+- MIX
+- Maesetsu! Opening Act
+- Magic Knight Rayearth
+- Maid-sama
+- Martian Successor Nadesico
+- Megalobox
+- Michiko & Hatchin
+- Midnight occult civil servants
+- Mieruko-chan
+- Mikagura School Suite
+- Miss Caretaker of Sunohara-sou
+- Miss Kobayashi's Dragon Maid
+- Miss Kobayashi's Dragon Maid S
+- Mob Psycho 100
+- Mob Psycho 100 II
+- Mobile Suit Gundam 00
+- Mobile Suit Gundam 00 Season 2
+- Mobile Suit Gundam Iron Blooded Orphans - 2nd Season
+- Mobile Suit Gundam Iron-Blooded Orphans
+- Mobile Suit Gundam The 08th MS Team
+- Mobile Suit Gundam The Origin
+- Mobile Suit Gundam UC
+- Mobile Suit Gundam Wing
+- Monster Hunter Stories Ride On
+- Monster Rancher
+- Monster Rancher Season 2
+- MoonPhase
+- More than a Married Couple, but Not Lovers
+- Moriarty the Patriot
+- Mushi-shi
+- Mushoku Tensei Jobless Reincarnation
+- Mushoku Tensei Jobless Reincarnation S2
+- My Bride is a Mermaid
+- My Dress-Up Darling
+- My First Girlfriend is a Gal
+- My Hero Academia
+- My Hero Academia S4
+- My Hero Academia S5
+- My Hero Academia S6
+- My Hero Academia Season 2
+- My Hero Academia Season 3
+- My Love Story
+- My Roommate is a Cat
+- My Senpai Is Annoying
+- My Teen Romantic Comedy SNAFU
+- My Teen Romantic Comedy SNAFU Too
+- My Tiny Senpai
+- My Unique Skill Makes Me OP even at Level 1
+- My-HiME
+- My-Otome
+- NADIA The Secret Of Blue Water
+- NO GAME NO LIFE
+- Nana
+- Naruto
+- Naruto Shippuuden
+- Naruto Spin-Off Rock Lee & His Ninja Pals
+- Nekopara
+- Nichijou My Ordinary Life
+- No Guns Life
+- No Guns Life S2
+- No-Rin
+- Nobunagun
+- Noein To Your Other Self
+- Noir
+- Noragami
+- Noragami S2
+- Number 24
+- Nura Rise of the Yokai Clan
+- Nura Rise of the Yokai Clan Season 2
+- Okami-san and Her Seven Companions
+- One-Punch Man
+- One-Punch Man II
+- Our Last Crusade or the Rise of a New World
+- Ouran High School Host Club
+- Outlaw Star
+- Overlord
+- Overlord IV
+- Overlord Season 2
+- Overlord Season 3
+- Pandora in the Crimson Shell Ghost Urn
+- Panty & Stocking with Garterbelt
+- Parasyte The Maxim
+- Peach Girl
+- Phantom Requiem for the Phantom
+- Ping Pong the Animation
+- Planetarian
+- Platinum End
+- Please Twins
+- Plunderer
+- Pokémon the Series XY
+- Pokémon the Series XY Kalos Quest
+- Pokémon the Series XYZ
+- Pop Team Epic
+- Pop Team Epic S2
+- Pretty Boy Detective Club
+- Prince of Stride Alternative
+- Princess Jellyfish
+- Princess Tutu
+- Prison School
+- Psycho-Pass
+- Psycho-Pass Season 2
+- Puella Magi Madoka Magica
+- Puzzle & Dragons X
+- RADIANT
+- RADIANT Season 2
+- RE-MAIN
+- RESIDENT EVIL Infinite Darkness
+- RErideD – Derrida, who leaps through time
+- RUMBLE GARANNDOLL
+- Rage of Bahamut Genesis
+- Rampo Kitan Game of Laplace
+- Ranking of Kings
+- Ranma 12
+- Re Zero - Starting Life in Another World
+- Re Zero - Starting Life in Another World Season 2
+- Record of Ragnarok
+- Red Data Girl
+- Regalia The Three Sacred Stars
+- Requiem of the Rose King
+- Riddle Story of Devil
+- RideBack
+- RobiHachi
+- Robotics;Notes
+- Ronja, the Robber's Daughter
+- Rosario + Vampire
+- Rosario + Vampire CAPU2
+- Rumbling Hearts
+- Rurouni Kenshin
+- Rurouni Kenshin Season 2
+- Rurouni Kenshin Season 3
+- SAINT SEIYA Knights of the Zodiac
+- SAIYUKI RELOAD BLAST
+- SENRAN KAGURA
+- SERVAMP
+- SHIMONETA A Boring World Where the Concept of Dirty Jokes Doesn’t Exist
+- SHY
+- SK8 the Infinity
+- SPRIGGAN
+- SPY x FAMILY
+- SSSS.DYNAZENON
+- SSSS.GRIDMAN
+- STRAIN Strategic Armored Infantry
+- SUPER HXEROS
+- Sabikui Bisco
+- Sailor Moon
+- Sailor Moon Crystal
+- Sailor Moon R
+- Sailor Moon S
+- Sailor Moon Sailor Stars
+- Sailor Moon Super S
+- Saiyuki
+- Sakura Quest
+- Sakura Wars the Animation
+- Samurai 7
+- Samurai Champloo
+- Samurai Warriors
+- Sands of Destruction
+- Sankarea
+- Sarazanmai
+- Sasaki and Miyano
+- Save Me! Lollipop
+- Say I Love You
+- Scar on the Praeter
+- Scarlet Nexus
+- School Rumble
+- School Rumble 2nd Semester
+- Scrapped Princess
+- Seis Manos
+- Sengoku BASARA - End of Judgement
+- Sengoku BASARA Samurai Kings
+- Senran Kagura Shinovi Master - Tokyo Youma Chapter
+- Seraph of the End Battle in Nagoya
+- Seraph of the End Vampire Reign
+- Serial Experiments Lain
+- Seven Mortal Sins
+- Shadows House
+- Shakugan No Shana
+- Shakugan no Shana Final
+- Shakugan no Shana S
+- Shakugan no Shana Second
+- Shangri-la
+- She Professed Herself Pupil of the Wise Man
+- Shigurui Death Frenzy
+- Shironeko Project ZERO CHRONICLE
+- Shomin Sample
+- Shonen Maid
+- Show by Rock
+- Show by Rock!! Short
+- Show by Rock!!#
+- Shrine of the Morning Mist
+- Shuffle
+- Skate-Leading Stars
+- Sky Wizards Academy
+- Sleepy Princess in the Demon Castle
+- Smile Down the Runway
+- Snow White with the Red Hair
+- Snow White with the Red Hair Season 2
+- Solty Rei
+- Sonic X
+- Sonny Boy
+- Sorcerous Stabber Orphen
+- Sorcerous Stabber Orphen S2
+- Soul Eater
+- Soul Eater Not
+- Space Battleship TIRAMISU
+- Space Battleship Tiramisu Zwei
+- Space Battleship Yamato 2199
+- Space Battleship Yamato 2202
+- Space Dandy
+- Special 7 Special Crime Investigation Unit
+- Speed Grapher
+- Speed Racer
+- Spice and Wolf
+- Spice and Wolf Ⅱ
+- Stand My Heroes Piece of Truth
+- Stars Align
+- Steins;Gate
+- Steins;Gate 0
+- Strike Witches
+- Strike Witches 2
+- Strike Witches 501st JOINT FIGHTER WING Take Off
+- Strike Witches Road to Berlin
+- Summer Time Rendering
+- Super Cub
+- Suppose a Kid from the Last Dungeon Boonies moved to a starter town
+- Suzuka
+- Sweet Reincarnation
+- Sword Art Online
+- Sword Art Online Alicization
+- Sword Art Online Alicization War of Underworld
+- Sword Art Online Alternative Gun Gale Online
+- Sword Art Online S2
+- TIGER&BUNNY
+- TO Movie
+- TRIGUN STAMPEDE
+- Taisho Otome Fairy Tale
+- Tales of Zestiria the X
+- Teasing Master Takagi san
+- TenPuru No One Can Live on Loneliness
+- Tenchi Muyo! OVA Series
+- Tenchi Muyo! Tenchi Universe
+- Tenchi Muyo! Tenchi in Tokyo
+- Tenchi Muyo! War on Geminar
+- Tenjho Tenge
+- Terra Formars
+- Terra Formars - Revenge
+- Terror in Resonance
+- Texhnolyze
+- That Time I Got Reincarnated as a Slime
+- That Time I Got Reincarnated as a Slime S2
+- The Asterisk War
+- The Case Study of Vanitas
+- The Count of Monte Cristo Gankutsuou
+- The Daily Life of the Immortal King S2
+- The Day I Became a God
+- The Detective Is Already Dead
+- The Devil is a Part-Timer
+- The Devil is a Part-Timer! S2
+- The Disappearance of Nagato Yuki-Chan
+- The Disastrous Life of Saiki K
+- The Duke of Death and His Maid
+- The Dungeon of Black Company
+- The Eminence in Shadow
+- The Future Diary
+- The Galaxy Railways
+- The Genius Prince's Guide to Raising a Nation Out of Debt
+- The Gymnastics Samurai
+- The Heike Story
+- The Helpful Fox Senko-san
+- The Heroic Legend of Arslan
+- The Heroic Legend of Arslan Dust Storm Dance
+- The Honor at Magic High School
+- The Idhun Chronicles
+- The Irregular at Magic High School
+- The Irregular at Magic High School S2
+- The Legend of the Legendary Heroes
+- The Master of Ragnarok & Blesser of Einherjar
+- The Melancholy of Haruhi Suzumiya
+- The Millionaire Detective - Balance UNLIMITED
+- The Morose Mononokean
+- The Morose Mononokean Season 2
+- The Ones Within
+- The Orbital Children
+- The Promised Neverland
+- The Promised Neverland S2
+- The Quintessential Quintuplets
+- The Quintessential Quintuplets S2
+- The Record of Lodoss War
+- The Rising of the Shield Hero
+- The Rising of the Shield Hero S2
+- The Rolling Girls
+- The Sacred Blacksmith
+- The Saint's Magic Power is Omnipotent
+- The Silver Guardian
+- The Silver Guardian Season 2
+- The Story of Saiunkoku
+- The Vampire Dies in No Time
+- The Vision of EscaFlowne
+- The Wallflower
+- The Way of the Househusband
+- The World Ends with You The Animation
+- Thermae Romae Novae
+- Three Leaves, Three Colors
+- Thus Spoke Kishibe Rohan
+- Tiger & Bunny
+- To Your Eternity
+- Toilet-bound Hanako-kun
+- Tokyo 24th Ward
+- Tokyo ESP
+- Tokyo Ghoul
+- Tokyo Ghoul Root A
+- Tokyo GhoulRe
+- Tokyo Magnitude 8.0
+- Tokyo Majin
+- Tokyo Ravens
+- Tokyo Revengers
+- Touken Ranbu Hanamaru
+- Touken Ranbu Hanamaru 2
+- Tower of God
+- Transformers War for Cybertron Earthrise
+- Transformers War for Cybertron Kingdom
+- Transformers War for Cybertron Siege
+- Trese
+- Tribe Nine
+- Trickster
+- Trigun
+- Trinity Blood
+- Tsugumomo
+- Tsukigakirei
+- Tsuredure Children
+- Ultimate Otaku Teacher
+- Ulysses Jeanne d'Arc and the Alchemist Knight
+- Unbreakable Machine-Doll
+- Uzaki-chan Wants to Hang Out
+- Uzaki-chan Wants to Hang Out! S2
+- Valkyrie Drive -Mermaid
+- Vampire Knight
+- Vampire Knight Guilty
+- Vivy -Fluorite Eye's Song
+- WONDER EGG PRIORITY
+- Wandering Witch The Journey of Elaina
+- Wanna be the Strongest in the World
+- Warlords of Sigrdrifa
+- We Without Wings
+- Welcome to Demon School! Iruma-kun
+- Wise Man's Grandchild
+- Witch Hunter Robin
+- Witchblade
+- Wolf's Rain
+- World Break Aria of Curse for a Holy Swordsman
+- World End What Do You Do at the End of the World Are You Busy Will You Save Us
+- YU-NO A Girl Who Chants Love at the Bound of This World
+- Yashahime Princess Half-Demon
+- Yashahime Princess Half-Demon S2
+- Yasuke
+- Yona of the Dawn
+- Your Lie in April
+- Yu Yu Hakusho
+- Yu-Gi-Oh
+- Yu-Gi-Oh! ARC-V
+- Yu-Gi-Oh! ARC-V S2
+- Yu-Gi-Oh! ARC-V S3
+- Yu-Gi-Oh! GX
+- Yu-Gi-Oh! GX S2
+- Yu-Gi-Oh! GX S3
+- Yu-Gi-Oh! S2
+- Yu-Gi-Oh! S3
+- Yu-Gi-Oh! S4
+- Yu-Gi-Oh! S5
+- Yu-Gi-Oh! VRAINS
+- Yu-Gi-Oh! ZEXAL
+- Yuri!!! on ICE
+- Yurikuma Arashi
+- ZOMBIE LAND SAGA
+- ZOMBIE LAND SAGA S2
+- Zom 100 Bucket List of the Dead
+- citrus
+- elDLIVE
+- hackLegend of the Twilight
+- hackQuantum
+- hackRoots
+- selector
 
-This repository contains Subtitle files for English dubbed animes. I hope you find it useful!
-
-### Enjoy!
+## Tv Series(Incomplete)
+- Boruto Naruto Next Generations
+- FateGrand Order Absolute Demonic Front Babylonia
+- Food Wars S3
+- GINTAMA
+- Hetalia
+- KING's RAID Successors of the Will
+- Lupin III Part Ⅱ
+- Maria the Virgin Witch
+- One Piece
+- Tengoku Daimakyo
+- The Prince of Tennis
+- Yu-Gi-Oh! 5D's
