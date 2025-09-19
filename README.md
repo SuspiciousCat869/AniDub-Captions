@@ -1,5 +1,8 @@
 # List of English-Dubbed Anime with Matching Subtitles
-
+## Table of Contents
+- [Movies](#movies)
+- [TV Series](#tv-series)
+- [TV Series (Incomplete)](#tv-seriesincomplete)
 ## Movies
 - 009 ReCyborg
 - 3D2Y Overcome Ace's Death! Luffy's Vow to his Friends
