@@ -21,6 +21,7 @@
 - Assassination Classroom the Movie 365 Days Time
 - BAYONETTA Bloody Fate
 - BELLE
+- Black Clover - Sword of the Wizard King
 - BLOOD-C Movie
 - Big Fish & Begonia
 - Birthday Wonderland
