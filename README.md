@@ -3,6 +3,7 @@
 - [Movies](#movies)
 - [TV Series](#tv-series)
 - [TV Series (Incomplete)](#tv-seriesincomplete)
+- [How to Sync Most of the Subtitles (Tutorial)](#how-to-sync-most-of-the-subtitles)
 ## Movies
 - 009 ReCyborg
 - 3D2Y Overcome Ace's Death! Luffy's Vow to his Friends
@@ -1063,3 +1064,27 @@
 - Tengoku Daimakyo
 - The Prince of Tennis
 - Yu-Gi-Oh! 5D's
+
+
+
+# How to Sync Most of the Subtitles
+
+Some subtitles may be out of sync. You can sync **most** of them using **[Subsync](https://github.com/sc0ty/subsync)** program
+
+### Single file
+1. Open Subsync  
+2. Select the reference file  
+3. Select the subtitle file  
+4. Set **subtitle language**  
+5. If using the video as reference, set the correct **audio track**  
+6. Hit **Start Sync**
+
+### Batch (multiple files)
+1. Hit the **three dots (⋮)** → **Batch Process**  
+2. Drag and drop references into the video column  
+3. Drag and drop subtitles into the subtitle column  
+4. Set the **subtitle language**  
+5. Set the correct **audio track**  
+6. Hit **Start Sync**
+
+> Note: Not all subtitles can be perfected synced. Results may vary.
