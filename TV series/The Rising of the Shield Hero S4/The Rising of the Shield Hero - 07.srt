@@ -1,0 +1,2616 @@
+﻿1
+00:00:00,500 --> 00:00:02,476
+<Default><b>[stirring music]</b></Default>
+
+2
+00:00:02,500 --> 00:00:03,866
+<Default><b>[GAELION] According
+to the Water Dragon</b></Default>
+
+3
+00:00:03,890 --> 00:00:06,655
+<Default><b>the barrier is controlled
+from that lighthouse.</b></Default>
+
+4
+00:00:06,679 --> 00:00:09,196
+<Default><b>If we're going to regroup
+with those on the ship</b></Default>
+
+5
+00:00:09,220 --> 00:00:11,255
+<Default><b>we'll have to disable
+the barrier.</b></Default>
+
+6
+00:00:11,279 --> 00:00:13,956
+<Default><b>I'd like to get them
+in port as fast as we can.</b></Default>
+
+7
+00:00:13,980 --> 00:00:18,875
+<Default><b>[sighs] Well, for the time
+being, their stats seem OK.</b></Default>
+
+8
+00:00:18,899 --> 00:00:21,715
+<Default><b>♪♪</b></Default>
+
+9
+00:00:21,739 --> 00:00:23,236
+<Default><b>[ELHART] Feels like
+no matter what we do</b></Default>
+
+10
+00:00:23,260 --> 00:00:24,776
+<Default><b>we can't get any
+closer to land.</b></Default>
+
+11
+00:00:24,800 --> 00:00:25,986
+<Default><b>No kidding.</b></Default>
+
+12
+00:00:26,010 --> 00:00:28,456
+<Default><b>I hope that the others
+are OK out there.</b></Default>
+
+13
+00:00:28,480 --> 00:00:30,256
+<Default><b>Master Naofumi.</b></Default>
+
+14
+00:00:30,280 --> 00:00:32,055
+<Default><b>Raphy says they're fine</b></Default>
+
+15
+00:00:32,079 --> 00:00:35,235
+<Default><b>Ugh! I don't have to worry
+about Master Naofumi</b></Default>
+
+16
+00:00:35,259 --> 00:00:37,076
+<Default><b>but that doesn't mean that
+I still can't miss him!</b></Default>
+
+17
+00:00:37,100 --> 00:00:38,076
+<Default><b>Huh?</b></Default>
+
+18
+00:00:38,100 --> 00:00:39,077
+<Default><b>Huh?</b></Default>
+
+19
+00:00:39,101 --> 00:00:40,341
+<Default><b>[shimmering]</b></Default>
+
+20
+00:00:42,439 --> 00:00:44,479
+<Default><b>(distorted) Where
+did Naofumi go?</b></Default>
+
+21
+00:00:47,619 --> 00:00:49,020
+<Default><b>[grunts]</b></Default>
+
+22
+00:00:50,020 --> 00:00:51,655
+<Default><b>[SADEENA]
+Here we are!</b></Default>
+
+23
+00:00:51,679 --> 00:00:53,536
+<Default><b>I don't know about this.</b></Default>
+
+24
+00:00:53,560 --> 00:00:54,875
+<Default><b>[NAOFUMI]
+I think it looks great.</b></Default>
+
+25
+00:00:54,899 --> 00:00:56,216
+<Default><b>[gasps]</b></Default>
+
+26
+00:00:56,240 --> 00:00:58,455
+<Default><b>Not to mention
+it hides your face.</b></Default>
+
+27
+00:00:58,479 --> 00:01:00,716
+<Default><b>- [chuckles awkwardly]
+- Oh, and Raphtalia</b></Default>
+
+28
+00:01:00,740 --> 00:01:03,426
+<Default><b>make sure that you don't
+let your tail and ears show.</b></Default>
+
+29
+00:01:03,450 --> 00:01:05,346
+<Default><b>Right. Oh.</b></Default>
+
+30
+00:01:05,370 --> 00:01:06,945
+<Default><b>What is this?</b></Default>
+
+31
+00:01:06,969 --> 00:01:08,736
+<Default><b>It's proof that
+the Water Dragon</b></Default>
+
+32
+00:01:08,760 --> 00:01:10,665
+<Default><b>has vowed to protect us.</b></Default>
+
+33
+00:01:10,689 --> 00:01:14,146
+<Default><b>It's actually an object
+of worship in this country.</b></Default>
+
+34
+00:01:14,170 --> 00:01:15,850
+<Default><b>So it's something holy?</b></Default>
+
+35
+00:01:16,969 --> 00:01:19,695
+<Default><b>Well, if we're all
+done changing, let's go.</b></Default>
+
+36
+00:01:19,719 --> 00:01:21,025
+<Default><b>[ALL] Mm.</b></Default>
+
+37
+00:01:21,049 --> 00:01:22,346
+<Default><b>[NAOFUMI] Our top
+priority right</b></Default>
+
+38
+00:01:22,370 --> 00:01:24,760
+<Default><b>now is to break
+that barrier.</b></Default>
+
+39
+00:01:25,450 --> 00:01:28,426
+<Default><b>[theme music]</b></Default>
+
+40
+00:01:28,450 --> 00:01:30,385
+<Default><b>♪♪</b></Default>
+
+41
+00:01:30,409 --> 00:01:31,715
+<Default><b>THE RISING OF
+THE SHIELD HERO</b></Default>
+
+42
+00:01:31,739 --> 00:01:34,045
+<Default><b>♪ Hey, no need
+for hesitation ♪</b></Default>
+
+43
+00:01:34,069 --> 00:01:35,495
+<Default><b>♪ Nothing standing
+in our way ♪</b></Default>
+
+44
+00:01:35,519 --> 00:01:36,496
+<Default><b>♪ Fight it right now ♪</b></Default>
+
+45
+00:01:36,520 --> 00:01:39,495
+<Default><b>[singing in Japanese]</b></Default>
+
+46
+00:01:39,519 --> 00:01:46,519
+<Default><b>♪♪</b></Default>
+
+47
+00:02:03,180 --> 00:02:04,766
+<Default><b>♪ Don't let it go ♪</b></Default>
+
+48
+00:02:04,790 --> 00:02:06,025
+<Default><b>♪ Don't let it go ♪</b></Default>
+
+49
+00:02:06,049 --> 00:02:09,365
+<Default><b>♪ Don't tell me
+nor anyone else ♪</b></Default>
+
+50
+00:02:09,389 --> 00:02:13,186
+<Default><b>[singing in Japanese]</b></Default>
+
+51
+00:02:13,210 --> 00:02:16,286
+<Default><b>♪ I will protect
+your resolution ♪</b></Default>
+
+52
+00:02:16,310 --> 00:02:19,066
+<Default><b>♪ No matter
+what comes next ♪</b></Default>
+
+53
+00:02:19,090 --> 00:02:22,485
+<Default><b>♪ 'Cause every time
+again I stand my ground ♪</b></Default>
+
+54
+00:02:22,509 --> 00:02:24,665
+<Default><b>♪ We'll never
+lose and cry ♪</b></Default>
+
+55
+00:02:24,689 --> 00:02:28,336
+<Default><b>♪ Now nobody can
+stop us, no way ♪</b></Default>
+
+56
+00:02:28,360 --> 00:02:31,385
+<Default><b>[singing in Japanese]</b></Default>
+
+57
+00:02:31,409 --> 00:02:37,506
+<Default><b>♪♪</b></Default>
+
+58
+00:02:37,530 --> 00:02:42,075
+<Default><b>♪ We protect
+our resolution, yeah ♪</b></Default>
+
+59
+00:02:42,099 --> 00:02:44,466
+<Default><b>♪ Hey, no need
+for hesitation ♪</b></Default>
+
+60
+00:02:44,490 --> 00:02:46,385
+<Default><b>♪ Nothing standing
+in our way ♪</b></Default>
+
+61
+00:02:46,409 --> 00:02:48,096
+<Default><b>♪ Fight it right now ♪</b></Default>
+
+62
+00:02:48,120 --> 00:02:51,026
+<Default><b>♪ Hey, no need
+for hesitation ♪</b></Default>
+
+63
+00:02:51,050 --> 00:02:53,990
+<Default><b>[singing in Japanese]</b></Default>
+
+64
+00:02:55,479 --> 00:02:56,906
+<Default><b>EPISODE 7:
+"ARRIVING IN Q'TEN LO"</b></Default>
+
+65
+00:02:56,930 --> 00:02:59,115
+<Default><b>[RAPHTALIA]
+It really is beautiful here.</b></Default>
+
+66
+00:02:59,139 --> 00:03:02,536
+<Default><b>[SADEENA] Come nightfall, the
+Sakura Lumina begin to shine.</b></Default>
+
+67
+00:03:02,560 --> 00:03:06,276
+<Default><b>They're also used as an energy
+source for a lot of tools.</b></Default>
+
+68
+00:03:06,300 --> 00:03:07,635
+<Default><b>[NAOFUMI] Why don't
+we take some home</b></Default>
+
+69
+00:03:07,659 --> 00:03:09,235
+<Default><b>and grow them
+in our village?</b></Default>
+
+70
+00:03:09,259 --> 00:03:11,276
+<Default><b>[SADEENA] The thing is</b></Default>
+
+71
+00:03:11,300 --> 00:03:12,746
+<Default><b>properly in
+this country.</b></Default>
+
+72
+00:03:12,770 --> 00:03:13,890
+<Default><b>[NAOFUMI]</b></Default>
+
+73
+00:03:15,340 --> 00:03:17,235
+<Default><b>I see.
+Are they fishing out there?</b></Default>
+
+74
+00:03:17,259 --> 00:03:19,915
+<Default><b>[SADEENA] Looks like
+they're gathering seaweed.</b></Default>
+
+75
+00:03:19,939 --> 00:03:21,316
+<Default><b>[GAELION]
+It would be a lot easier</b></Default>
+
+76
+00:03:21,340 --> 00:03:22,836
+<Default><b>if we could
+just fly there.</b></Default>
+
+77
+00:03:22,860 --> 00:03:25,195
+<Default><b>Until we get ourselves
+shot out of the sky</b></Default>
+
+78
+00:03:25,219 --> 00:03:27,855
+<Default><b>it's better to play it
+safe and travel by land.</b></Default>
+
+79
+00:03:27,879 --> 00:03:29,806
+<Default><b>♪♪</b></Default>
+
+80
+00:03:29,830 --> 00:03:33,716
+<Default><b>[waves lapping gently]</b></Default>
+
+81
+00:03:33,740 --> 00:03:35,276
+<Default><b>This place is bizarre.</b></Default>
+
+82
+00:03:35,300 --> 00:03:38,075
+<Default><b>It's like Japanese
+Raphtalia land.</b></Default>
+
+83
+00:03:38,099 --> 00:03:39,816
+<Default><b>[RAPHTALIA]
+Why all the decorations?</b></Default>
+
+84
+00:03:39,840 --> 00:03:42,436
+<Default><b>[SADEENA] They're put there
+in honor of the emperor's clan.</b></Default>
+
+85
+00:03:42,460 --> 00:03:45,476
+<Default><b>[NAOFUMI] So the emperor's
+clan is loved by the people?</b></Default>
+
+86
+00:03:45,500 --> 00:03:46,836
+<Default><b>I don't understand.</b></Default>
+
+87
+00:03:46,860 --> 00:03:48,195
+<Default><b>If the emperor is adored</b></Default>
+
+88
+00:03:48,219 --> 00:03:49,596
+<Default><b>then why did
+my mom and dad</b></Default>
+
+89
+00:03:49,620 --> 00:03:51,566
+<Default><b>have to leave Q'ten Lo?</b></Default>
+
+90
+00:03:51,590 --> 00:03:53,009
+<Default><b>[sighs]</b></Default>
+
+91
+00:03:55,379 --> 00:03:56,776
+<Default><b>[boy screaming]</b></Default>
+
+92
+00:03:56,800 --> 00:03:57,985
+<Default><b>What's going on?</b></Default>
+
+93
+00:03:58,009 --> 00:03:59,240
+<Default><b>[grunts]</b></Default>
+
+94
+00:04:00,240 --> 00:04:02,006
+<Default><b>[whimpers]</b></Default>
+
+95
+00:04:02,030 --> 00:04:03,226
+<Default><b>- Master Naofumi.
+- On it.</b></Default>
+
+96
+00:04:03,250 --> 00:04:04,226
+<Default><b>Hold on.</b></Default>
+
+97
+00:04:04,250 --> 00:04:05,227
+<Default><b>Huh?</b></Default>
+
+98
+00:04:05,251 --> 00:04:06,586
+<Default><b>Do your thing, Gaelion.</b></Default>
+
+99
+00:04:06,610 --> 00:04:07,746
+<Default><b>[chirrups]</b></Default>
+
+100
+00:04:07,770 --> 00:04:10,246
+<Default><b>It's best you two
+stay out of this.</b></Default>
+
+101
+00:04:10,270 --> 00:04:12,115
+<Default><b>[yelling]</b></Default>
+
+102
+00:04:12,139 --> 00:04:15,015
+<Default><b>[whimpers]</b></Default>
+
+103
+00:04:15,039 --> 00:04:16,719
+<Default><b>[NAOFUMI]
+Can you stand?</b></Default>
+
+104
+00:04:18,180 --> 00:04:20,430
+<Default><b>[screams]</b></Default>
+
+105
+00:04:21,430 --> 00:04:22,846
+<Default><b>Hey, wait!</b></Default>
+
+106
+00:04:22,870 --> 00:04:24,966
+<Default><b>What was that about?</b></Default>
+
+107
+00:04:24,990 --> 00:04:26,365
+<Default><b>How could you?</b></Default>
+
+108
+00:04:26,389 --> 00:04:27,886
+<Default><b>Why do such a thing?</b></Default>
+
+109
+00:04:27,910 --> 00:04:30,346
+<Default><b>Aren't you scared what
+the magistrates will do?</b></Default>
+
+110
+00:04:30,370 --> 00:04:32,815
+<Default><b>[footsteps approaching]</b></Default>
+
+111
+00:04:32,839 --> 00:04:34,286
+<Default><b>[staffs clanging]</b></Default>
+
+112
+00:04:34,310 --> 00:04:36,766
+<Default><b>[tense music]</b></Default>
+
+113
+00:04:36,790 --> 00:04:39,545
+<Default><b>Am I correct to assume
+that you killed that monster?</b></Default>
+
+114
+00:04:39,569 --> 00:04:41,706
+<Default><b>Is it really so wrong
+to save a helpless kid?</b></Default>
+
+115
+00:04:41,730 --> 00:04:44,245
+<Default><b>I'm afraid you're mistaken
+because all that happened here</b></Default>
+
+116
+00:04:44,269 --> 00:04:46,586
+<Default><b>was one monster
+devouring another one.</b></Default>
+
+117
+00:04:46,610 --> 00:04:47,646
+<Default><b>[crowd gasping]</b></Default>
+
+118
+00:04:47,670 --> 00:04:49,365
+<Default><b>Enough of the lies.</b></Default>
+
+119
+00:04:49,389 --> 00:04:51,305
+<Default><b>Would you disobey
+the emperor?</b></Default>
+
+120
+00:04:51,329 --> 00:04:52,805
+<Default><b>Of course not.</b></Default>
+
+121
+00:04:52,829 --> 00:04:54,745
+<Default><b>You seem like a smart
+enough fellow</b></Default>
+
+122
+00:04:54,769 --> 00:04:57,735
+<Default><b>which means you know what this
+monster here is, don't you?</b></Default>
+
+123
+00:04:57,759 --> 00:04:59,435
+<Default><b>A servant
+of the Water Dragon?</b></Default>
+
+124
+00:04:59,459 --> 00:05:00,855
+<Default><b>[gasping]</b></Default>
+
+125
+00:05:00,879 --> 00:05:02,359
+<Default><b>Please forgive us!</b></Default>
+
+126
+00:05:04,100 --> 00:05:06,536
+<Default><b>[PEASANT 1] Are they
+messengers of the Water Dragon?</b></Default>
+
+127
+00:05:06,560 --> 00:05:08,536
+<Default><b>[PEASANT 2] They must be
+if they have that orb.</b></Default>
+
+128
+00:05:08,560 --> 00:05:10,406
+<Default><b>I can't believe
+it's gotten this bad.</b></Default>
+
+129
+00:05:10,430 --> 00:05:11,696
+<Default><b>Huh?</b></Default>
+
+130
+00:05:11,720 --> 00:05:13,146
+<Default><b>[MURAMASA] Splendidly
+done, young lady.</b></Default>
+
+131
+00:05:13,170 --> 00:05:14,147
+<Default><b>Huh?</b></Default>
+
+132
+00:05:14,171 --> 00:05:16,295
+<Default><b>[crowd murmuring]</b></Default>
+
+133
+00:05:16,319 --> 00:05:18,875
+<Default><b>[MURAMASA] While everyone else
+was too scared to speak up</b></Default>
+
+134
+00:05:18,899 --> 00:05:21,935
+<Default><b>you went and took action
+to save that child's life.</b></Default>
+
+135
+00:05:21,959 --> 00:05:23,456
+<Default><b>I think anyone
+with a conscience</b></Default>
+
+136
+00:05:23,480 --> 00:05:25,055
+<Default><b>would have done
+the same thing.</b></Default>
+
+137
+00:05:25,079 --> 00:05:27,675
+<Default><b>Your actions have
+moved me, young lady.</b></Default>
+
+138
+00:05:27,699 --> 00:05:28,735
+<Default><b>You've won my heart.</b></Default>
+
+139
+00:05:28,759 --> 00:05:29,736
+<Default><b>Huh?</b></Default>
+
+140
+00:05:29,760 --> 00:05:31,355
+<Default><b>My name's Muramasa.</b></Default>
+
+141
+00:05:31,379 --> 00:05:34,136
+<Default><b>It'd be my pleasure
+to buy you a cup of tea.</b></Default>
+
+142
+00:05:34,160 --> 00:05:36,836
+<Default><b>Sorry, but what is
+it you think I did?</b></Default>
+
+143
+00:05:36,860 --> 00:05:39,636
+<Default><b>That's very kind of you</b></Default>
+
+144
+00:05:39,660 --> 00:05:42,615
+<Default><b>Oh, you're unbelievably
+beautiful, too!</b></Default>
+
+145
+00:05:42,639 --> 00:05:45,855
+<Default><b>Please, I beg of you</b></Default>
+
+146
+00:05:45,879 --> 00:05:47,795
+<Default><b>[NAOFUMI] He's going
+after every girl he sees</b></Default>
+
+147
+00:05:47,819 --> 00:05:49,415
+<Default><b>like Motoyasu.</b></Default>
+
+148
+00:05:49,439 --> 00:05:52,196
+<Default><b>How very kind.
+But I am taken.</b></Default>
+
+149
+00:05:52,220 --> 00:05:55,235
+<Default><b>And like I said before, we
+are in a bit of a hurry here.</b></Default>
+
+150
+00:05:55,259 --> 00:05:56,236
+<Default><b>Oh, come on.</b></Default>
+
+151
+00:05:56,260 --> 00:05:57,865
+<Default><b>Don't say that to me.</b></Default>
+
+152
+00:05:57,889 --> 00:05:58,866
+<Default><b>[SADEENA]
+Zweit Thunderbolt!</b></Default>
+
+153
+00:05:58,890 --> 00:06:00,680
+<Default><b>[screaming]</b></Default>
+
+154
+00:06:01,680 --> 00:06:04,076
+<Default><b>You've got some
+kick to you, huh?</b></Default>
+
+155
+00:06:04,100 --> 00:06:05,456
+<Default><b>[gasps]</b></Default>
+
+156
+00:06:05,480 --> 00:06:07,696
+<Default><b>Looks like we've
+attracted a crowd.</b></Default>
+
+157
+00:06:07,720 --> 00:06:09,115
+<Default><b>We should get a move on.</b></Default>
+
+158
+00:06:09,139 --> 00:06:10,576
+<Default><b>Yeah, no kidding.</b></Default>
+
+159
+00:06:10,600 --> 00:06:11,915
+<Default><b>Let's hurry
+up and leave.</b></Default>
+
+160
+00:06:11,939 --> 00:06:13,216
+<Default><b>[SADEENA] Agreed.</b></Default>
+
+161
+00:06:13,240 --> 00:06:14,755
+<Default><b>[RAPHTALIA]
+What a strange old man.</b></Default>
+
+162
+00:06:14,779 --> 00:06:17,040
+<Default><b>[crowd murmuring]</b></Default>
+
+163
+00:06:18,040 --> 00:06:21,696
+<Default><b>[sighs] What the hell
+was all that about?</b></Default>
+
+164
+00:06:21,720 --> 00:06:24,615
+<Default><b>The magistrates were
+upset because the emperor</b></Default>
+
+165
+00:06:24,639 --> 00:06:28,355
+<Default><b>forbids killing all living
+things, even big monsters.</b></Default>
+
+166
+00:06:28,379 --> 00:06:29,735
+<Default><b>[gasps]</b></Default>
+
+167
+00:06:29,759 --> 00:06:32,735
+<Default><b>Sounds like the beliefs
+of one of the old shoguns.</b></Default>
+
+168
+00:06:32,759 --> 00:06:35,295
+<Default><b>Do you mind explaining
+what a shogun is?</b></Default>
+
+169
+00:06:35,319 --> 00:06:37,786
+<Default><b>In any case, I'm
+glad Gaelion was here.</b></Default>
+
+170
+00:06:37,810 --> 00:06:38,896
+<Default><b>[chirrups]</b></Default>
+
+171
+00:06:38,920 --> 00:06:40,175
+<Default><b>So what you're
+saying is they can't</b></Default>
+
+172
+00:06:40,199 --> 00:06:42,266
+<Default><b>punish a monster for the
+killing of another</b></Default>
+
+173
+00:06:42,290 --> 00:06:43,656
+<Default><b>monster, huh?</b></Default>
+
+174
+00:06:43,680 --> 00:06:45,855
+<Default><b>Well, if the monster's
+owner made them do it</b></Default>
+
+175
+00:06:45,879 --> 00:06:47,776
+<Default><b>I'm sure the owner
+would be punished.</b></Default>
+
+176
+00:06:47,800 --> 00:06:49,696
+<Default><b>But they can't do
+anything if it's</b></Default>
+
+177
+00:06:49,720 --> 00:06:51,396
+<Default><b>a servant of the
+Water Dragon.</b></Default>
+
+178
+00:06:51,420 --> 00:06:53,295
+<Default><b>It sounds like we made
+the best use of what</b></Default>
+
+179
+00:06:53,319 --> 00:06:54,935
+<Default><b>the Water
+Dragon gave us.</b></Default>
+
+180
+00:06:54,959 --> 00:06:55,959
+<Default><b>Hmm.</b></Default>
+
+181
+00:06:57,290 --> 00:07:01,206
+<Default><b>Which means it's illegal
+to even fish in this country.</b></Default>
+
+182
+00:07:01,230 --> 00:07:03,065
+<Default><b>That is exactly correct.</b></Default>
+
+183
+00:07:03,089 --> 00:07:05,776
+<Default><b>That's why those fishermen
+were gathering seaweed.</b></Default>
+
+184
+00:07:05,800 --> 00:07:07,226
+<Default><b>[FISHERMAN]
+Please don't!</b></Default>
+
+185
+00:07:07,250 --> 00:07:09,065
+<Default><b>If you take that</b></Default>
+
+186
+00:07:09,089 --> 00:07:11,065
+<Default><b>Those who don't
+pay their taxes</b></Default>
+
+187
+00:07:11,089 --> 00:07:12,966
+<Default><b>are no different
+than mere traitors!</b></Default>
+
+188
+00:07:12,990 --> 00:07:16,565
+<Default><b>[grunts] But, sir</b></Default>
+
+189
+00:07:16,589 --> 00:07:19,985
+<Default><b>Do you mean to say that you
+would disobey the emperor?</b></Default>
+
+190
+00:07:20,009 --> 00:07:21,485
+<Default><b>[sighs]</b></Default>
+
+191
+00:07:21,509 --> 00:07:24,509
+<Default><b>[somber music]</b></Default>
+
+192
+00:07:25,930 --> 00:07:27,090
+<Default><b>Raphtalia.</b></Default>
+
+193
+00:07:28,689 --> 00:07:31,295
+<Default><b>We might just be able
+to use this to our advantage.</b></Default>
+
+194
+00:07:31,319 --> 00:07:32,636
+<Default><b>Huh?</b></Default>
+
+195
+00:07:32,660 --> 00:07:34,706
+<Default><b>I can't imagine that
+too many of the citizens</b></Default>
+
+196
+00:07:34,730 --> 00:07:37,036
+<Default><b>are very happy
+about this law.</b></Default>
+
+197
+00:07:37,060 --> 00:07:38,037
+<Default><b>Hmm.</b></Default>
+
+198
+00:07:38,061 --> 00:07:39,425
+<Default><b>Hmm, what's wrong?</b></Default>
+
+199
+00:07:39,449 --> 00:07:40,985
+<Default><b>We're not alone.</b></Default>
+
+200
+00:07:41,009 --> 00:07:45,586
+<Default><b>♪♪</b></Default>
+
+201
+00:07:45,610 --> 00:07:46,906
+<Default><b>A magistrate?</b></Default>
+
+202
+00:07:46,930 --> 00:07:48,665
+<Default><b>I couldn't say.</b></Default>
+
+203
+00:07:48,689 --> 00:07:50,545
+<Default><b>[NAOFUMI]
+We'll use invisibility magic.</b></Default>
+
+204
+00:07:50,569 --> 00:07:51,969
+<Default><b>[SADEENA] Right.</b></Default>
+
+205
+00:07:52,800 --> 00:07:54,675
+<Default><b>[gasps]</b></Default>
+
+206
+00:07:54,699 --> 00:07:57,560
+<Default><b>[mysterious music]</b></Default>
+
+207
+00:08:00,769 --> 00:08:02,206
+<Default><b>Forgive me!</b></Default>
+
+208
+00:08:02,230 --> 00:08:05,076
+<Default><b>Wherever you are, please
+know I am not your enemy.</b></Default>
+
+209
+00:08:05,100 --> 00:08:06,555
+<Default><b>The sea people
+have shared with me</b></Default>
+
+210
+00:08:06,579 --> 00:08:08,755
+<Default><b>the words of the
+Water Dragon.</b></Default>
+
+211
+00:08:08,779 --> 00:08:12,755
+<Default><b>I've sought you out to welcome
+you here with open arms.</b></Default>
+
+212
+00:08:12,779 --> 00:08:15,795
+<Default><b>If you are still here</b></Default>
+
+213
+00:08:15,819 --> 00:08:17,795
+<Default><b>- [NAOFUMI] Raphtalia.
+- Huh?</b></Default>
+
+214
+00:08:17,819 --> 00:08:19,435
+<Default><b>[SADEENA] He must
+be telling the truth.</b></Default>
+
+215
+00:08:19,459 --> 00:08:21,375
+<Default><b>The timing would be
+far too convenient.</b></Default>
+
+216
+00:08:21,399 --> 00:08:22,376
+<Default><b>[NAOFUMI] Hey.</b></Default>
+
+217
+00:08:22,400 --> 00:08:23,516
+<Default><b>[grunts]</b></Default>
+
+218
+00:08:23,540 --> 00:08:25,500
+<Default><b>Get off your knees
+and face us.</b></Default>
+
+219
+00:08:27,060 --> 00:08:28,036
+<Default><b>Mm.</b></Default>
+
+220
+00:08:28,060 --> 00:08:29,037
+<Default><b>So, um...</b></Default>
+
+221
+00:08:29,061 --> 00:08:30,336
+<Default><b>You have our attention.</b></Default>
+
+222
+00:08:30,360 --> 00:08:32,696
+<Default><b>So let's hear who you
+are and what you want.</b></Default>
+
+223
+00:08:32,720 --> 00:08:34,196
+<Default><b>My name is Luminus.</b></Default>
+
+224
+00:08:34,220 --> 00:08:36,296
+<Default><b>My father is Raluva</b></Default>
+
+225
+00:08:36,320 --> 00:08:37,916
+<Default><b>[NAOFUMI]
+Just get to the point!</b></Default>
+
+226
+00:08:37,940 --> 00:08:39,235
+<Default><b>But, sir...</b></Default>
+
+227
+00:08:39,259 --> 00:08:40,495
+<Default><b>You can relax.</b></Default>
+
+228
+00:08:40,519 --> 00:08:42,316
+<Default><b>There's no need for all
+the formalities.</b></Default>
+
+229
+00:08:42,340 --> 00:08:44,395
+<Default><b>Then so be it.</b></Default>
+
+230
+00:08:44,419 --> 00:08:46,436
+<Default><b>In that case, the people
+here in this city</b></Default>
+
+231
+00:08:46,460 --> 00:08:48,476
+<Default><b>are in desperate
+need of your help.</b></Default>
+
+232
+00:08:48,500 --> 00:08:50,436
+<Default><b>But why seek
+us for help?</b></Default>
+
+233
+00:08:50,460 --> 00:08:51,775
+<Default><b>Take a look around.</b></Default>
+
+234
+00:08:51,799 --> 00:08:53,166
+<Default><b>It doesn't take
+much to see</b></Default>
+
+235
+00:08:53,190 --> 00:08:54,806
+<Default><b>what's been
+happening here.</b></Default>
+
+236
+00:08:54,830 --> 00:08:57,285
+<Default><b>You mean the "no killing
+living things" law?</b></Default>
+
+237
+00:08:57,309 --> 00:08:59,326
+<Default><b>And the taxes
+are horrible.</b></Default>
+
+238
+00:08:59,350 --> 00:09:01,846
+<Default><b>Some of the people
+are even starving.</b></Default>
+
+239
+00:09:01,870 --> 00:09:03,285
+<Default><b>This can't continue.</b></Default>
+
+240
+00:09:03,309 --> 00:09:06,046
+<Default><b>This tyranny must
+come to an end!</b></Default>
+
+241
+00:09:06,070 --> 00:09:08,245
+<Default><b>So the people aren't
+happy with the emperor.</b></Default>
+
+242
+00:09:08,269 --> 00:09:09,365
+<Default><b>Is that it?</b></Default>
+
+243
+00:09:09,389 --> 00:09:10,605
+<Default><b>And there's more.</b></Default>
+
+244
+00:09:10,629 --> 00:09:12,966
+<Default><b>Allow me to explain
+back at the mansion.</b></Default>
+
+245
+00:09:12,990 --> 00:09:15,605
+<Default><b>Would you be willing
+to come with us right now?</b></Default>
+
+246
+00:09:15,629 --> 00:09:18,025
+<Default><b>I suppose it couldn't
+hurt to hear him out.</b></Default>
+
+247
+00:09:18,049 --> 00:09:19,686
+<Default><b>I don't see why not.</b></Default>
+
+248
+00:09:19,710 --> 00:09:22,456
+<Default><b>Don't get any ideas about
+setting us up for a trap.</b></Default>
+
+249
+00:09:22,480 --> 00:09:24,726
+<Default><b>Look, I would
+never do that!</b></Default>
+
+250
+00:09:24,750 --> 00:09:26,265
+<Default><b>If I somehow
+offended you</b></Default>
+
+251
+00:09:26,289 --> 00:09:28,289
+<Default><b>I'll happily strike
+myself down.</b></Default>
+
+252
+00:09:33,350 --> 00:09:34,625
+<Default><b>My name is Raluva.</b></Default>
+
+253
+00:09:34,649 --> 00:09:36,365
+<Default><b>I'm the city mayor.</b></Default>
+
+254
+00:09:36,389 --> 00:09:40,005
+<Default><b>If it's not too
+much trouble</b></Default>
+
+255
+00:09:40,029 --> 00:09:42,495
+<Default><b>of looking
+upon your face?</b></Default>
+
+256
+00:09:42,519 --> 00:09:44,476
+<Default><b>[men gasp]</b></Default>
+
+257
+00:09:44,500 --> 00:09:47,985
+<Default><b>Ah. I see now you resemble
+that of your father.</b></Default>
+
+258
+00:09:48,009 --> 00:09:51,046
+<Default><b>So wait. Then does that
+mean you knew him?</b></Default>
+
+259
+00:09:51,070 --> 00:09:53,395
+<Default><b>Your father was
+very kind to me.</b></Default>
+
+260
+00:09:53,419 --> 00:09:55,596
+<Default><b>I'm starting
+to remember things now.</b></Default>
+
+261
+00:09:55,620 --> 00:09:57,476
+<Default><b>You were close with
+him, weren't you?</b></Default>
+
+262
+00:09:57,500 --> 00:09:59,755
+<Default><b>You're the former miko
+of the Water Dragon.</b></Default>
+
+263
+00:09:59,779 --> 00:10:01,265
+<Default><b>It's been a while.</b></Default>
+
+264
+00:10:01,289 --> 00:10:04,416
+<Default><b>My name is
+Naofumi Iwatani</b></Default>
+
+265
+00:10:04,440 --> 00:10:06,176
+<Default><b>I'm familiar with you.</b></Default>
+
+266
+00:10:06,200 --> 00:10:08,936
+<Default><b>Though we haven't met</b></Default>
+
+267
+00:10:08,960 --> 00:10:12,296
+<Default><b>You have my eternal thanks
+for keeping Raphtalia safe.</b></Default>
+
+268
+00:10:12,320 --> 00:10:14,316
+<Default><b>I thought this
+place was cut off</b></Default>
+
+269
+00:10:14,340 --> 00:10:16,155
+<Default><b>but you know about
+the outside world.</b></Default>
+
+270
+00:10:16,179 --> 00:10:19,416
+<Default><b>Why, yes. After all</b></Default>
+
+271
+00:10:19,440 --> 00:10:20,775
+<Default><b>That makes sense.</b></Default>
+
+272
+00:10:20,799 --> 00:10:22,596
+<Default><b>Well, let's cut
+the chit-chat.</b></Default>
+
+273
+00:10:22,620 --> 00:10:24,836
+<Default><b>What exactly do you
+mean you want our help?</b></Default>
+
+274
+00:10:24,860 --> 00:10:26,456
+<Default><b>Mm.</b></Default>
+
+275
+00:10:26,480 --> 00:10:28,576
+<Default><b>What we want</b></Default>
+
+276
+00:10:28,600 --> 00:10:30,255
+<Default><b>for Raphtalia
+to take the throne</b></Default>
+
+277
+00:10:30,279 --> 00:10:32,076
+<Default><b>and put an end
+to this government.</b></Default>
+
+278
+00:10:32,100 --> 00:10:33,155
+<Default><b>Take the throne?</b></Default>
+
+279
+00:10:33,179 --> 00:10:35,096
+<Default><b>Do... do you
+really mean...</b></Default>
+
+280
+00:10:35,120 --> 00:10:37,416
+<Default><b>We came to this country
+to work things out</b></Default>
+
+281
+00:10:37,440 --> 00:10:39,135
+<Default><b>with whoever it
+was that's sending</b></Default>
+
+282
+00:10:39,159 --> 00:10:41,176
+<Default><b>assassins
+after Raphtalia.</b></Default>
+
+283
+00:10:41,200 --> 00:10:44,495
+<Default><b>Once things have been
+settled, we'll be leaving.</b></Default>
+
+284
+00:10:44,519 --> 00:10:46,676
+<Default><b>I am aware
+of your intentions.</b></Default>
+
+285
+00:10:46,700 --> 00:10:48,316
+<Default><b>And you're not
+opposed to that?</b></Default>
+
+286
+00:10:48,340 --> 00:10:50,416
+<Default><b>If she would become
+a puppet emperor</b></Default>
+
+287
+00:10:50,440 --> 00:10:52,635
+<Default><b>she would be no different
+than the current one</b></Default>
+
+288
+00:10:52,659 --> 00:10:55,056
+<Default><b>and all the people would
+still be suffering.</b></Default>
+
+289
+00:10:55,080 --> 00:10:58,196
+<Default><b>For the sake
+of the world</b></Default>
+
+290
+00:10:58,220 --> 00:11:00,495
+<Default><b>They should be
+a driving force of good.</b></Default>
+
+291
+00:11:00,519 --> 00:11:04,155
+<Default><b>Even Raphtalia's father
+felt the same way.</b></Default>
+
+292
+00:11:04,179 --> 00:11:07,485
+<Default><b>[gasps] Is that
+the reason he left?</b></Default>
+
+293
+00:11:07,509 --> 00:11:10,235
+<Default><b>I had no idea it had
+to do with all of this.</b></Default>
+
+294
+00:11:10,259 --> 00:11:12,296
+<Default><b>That isn't the
+only reason.</b></Default>
+
+295
+00:11:12,320 --> 00:11:15,375
+<Default><b>In that time, there was an ugly
+fight over who was to be</b></Default>
+
+296
+00:11:15,399 --> 00:11:17,476
+<Default><b>crowned the
+next emperor.</b></Default>
+
+297
+00:11:17,500 --> 00:11:19,885
+<Default><b>[clattering,
+woman screaming]</b></Default>
+
+298
+00:11:19,909 --> 00:11:22,789
+<Default><b>[woman sobbing]</b></Default>
+
+299
+00:11:26,639 --> 00:11:28,816
+<Default><b>If he stayed
+in this country, it</b></Default>
+
+300
+00:11:28,840 --> 00:11:31,735
+<Default><b>would have meant accepting
+a most horrible death.</b></Default>
+
+301
+00:11:31,759 --> 00:11:33,535
+<Default><b>So that's it.</b></Default>
+
+302
+00:11:33,559 --> 00:11:36,936
+<Default><b>We've waited up until
+this very moment, the moment</b></Default>
+
+303
+00:11:36,960 --> 00:11:40,535
+<Default><b>the true emperor finally
+returned and put an end, once</b></Default>
+
+304
+00:11:40,559 --> 00:11:43,655
+<Default><b>and for all, to the tyranny
+we've been facing.</b></Default>
+
+305
+00:11:43,679 --> 00:11:46,135
+<Default><b>So what is your plan
+going forward?</b></Default>
+
+306
+00:11:46,159 --> 00:11:48,296
+<Default><b>First, eliminate
+the magistrates</b></Default>
+
+307
+00:11:48,320 --> 00:11:49,696
+<Default><b>guarding the lighthouse.</b></Default>
+
+308
+00:11:49,720 --> 00:11:52,265
+<Default><b>That will likely
+start a revolution.</b></Default>
+
+309
+00:11:52,289 --> 00:11:55,166
+<Default><b>If I'm not mistaken</b></Default>
+
+310
+00:11:55,190 --> 00:11:56,926
+<Default><b>Do you have all
+your troops ready?</b></Default>
+
+311
+00:11:56,950 --> 00:12:00,586
+<Default><b>I have my clan, also
+the people of the town</b></Default>
+
+312
+00:12:00,610 --> 00:12:02,125
+<Default><b>all of which are
+ready to rise up.</b></Default>
+
+313
+00:12:02,149 --> 00:12:03,149
+<Default><b>Good.</b></Default>
+
+314
+00:12:06,570 --> 00:12:08,265
+<Default><b>Master Naofumi.</b></Default>
+
+315
+00:12:08,289 --> 00:12:10,635
+<Default><b>Raphtalia, get
+the miko outfit.</b></Default>
+
+316
+00:12:10,659 --> 00:12:11,745
+<Default><b>[men gasping]</b></Default>
+
+317
+00:12:11,769 --> 00:12:13,226
+<Default><b>Are you positive?</b></Default>
+
+318
+00:12:13,250 --> 00:12:15,290
+<Default><b>If I wear it, then
+that means...</b></Default>
+
+319
+00:12:16,889 --> 00:12:18,209
+<Default><b>[RALUVA] Here.</b></Default>
+
+320
+00:12:19,210 --> 00:12:22,005
+<Default><b>The second I wear
+this, we'll be attacked.</b></Default>
+
+321
+00:12:22,029 --> 00:12:24,365
+<Default><b>Well, they're going to be
+coming after us anyway.</b></Default>
+
+322
+00:12:24,389 --> 00:12:26,645
+<Default><b>And it's always better
+to have more allies.</b></Default>
+
+323
+00:12:26,669 --> 00:12:28,226
+<Default><b>I understand, but...</b></Default>
+
+324
+00:12:28,250 --> 00:12:29,946
+<Default><b>I want to get
+that barrier down</b></Default>
+
+325
+00:12:29,970 --> 00:12:33,226
+<Default><b>fast so we can finally regroup
+with those on the ship.</b></Default>
+
+326
+00:12:33,250 --> 00:12:35,865
+<Default><b>And besides, just look.</b></Default>
+
+327
+00:12:35,889 --> 00:12:38,226
+<Default><b>Judging from their eyes</b></Default>
+
+328
+00:12:38,250 --> 00:12:40,960
+<Default><b>a long time
+for a sign of hope to appear.</b></Default>
+
+329
+00:12:42,850 --> 00:12:44,570
+<Default><b>I'll help you put it on.</b></Default>
+
+330
+00:12:49,899 --> 00:12:51,179
+<Default><b>[men gasping]</b></Default>
+
+331
+00:12:52,169 --> 00:12:53,495
+<Default><b>[men grunting in unison]</b></Default>
+
+332
+00:12:53,519 --> 00:12:55,416
+<Default><b>Oh, don't do that.</b></Default>
+
+333
+00:12:55,440 --> 00:12:57,690
+<Default><b>WATER DRAGON'S
+MIKO DRESS - CRUDE</b></Default>
+
+334
+00:12:58,659 --> 00:13:02,196
+<Default><b>Please, Emperor, we ask
+that you guide us to victory.</b></Default>
+
+335
+00:13:02,220 --> 00:13:03,456
+<Default><b>Just say the word.</b></Default>
+
+336
+00:13:03,480 --> 00:13:05,840
+<Default><b>We're ready to follow
+your every command.</b></Default>
+
+337
+00:13:06,860 --> 00:13:09,885
+<Default><b>Proud citizens
+of Q'ten Lo, hear me now!</b></Default>
+
+338
+00:13:09,909 --> 00:13:11,155
+<Default><b>[MEN] Huh?</b></Default>
+
+339
+00:13:11,179 --> 00:13:13,716
+<Default><b>The true emperor
+has returned to you!</b></Default>
+
+340
+00:13:13,740 --> 00:13:16,895
+<Default><b>Now is your chance to finally
+put an end to this government.</b></Default>
+
+341
+00:13:16,919 --> 00:13:20,436
+<Default><b>Offer up your hearts, and the
+true emperor will lead you.</b></Default>
+
+342
+00:13:20,460 --> 00:13:21,615
+<Default><b>For Q'ten Lo!</b></Default>
+
+343
+00:13:21,639 --> 00:13:22,995
+<Default><b>For the people!</b></Default>
+
+344
+00:13:23,019 --> 00:13:25,216
+<Default><b>Come with us if you
+want to fight back!</b></Default>
+
+345
+00:13:25,240 --> 00:13:26,696
+<Default><b>[men yelling in unison]</b></Default>
+
+346
+00:13:26,720 --> 00:13:29,485
+<Default><b>[soft music]</b></Default>
+
+347
+00:13:29,509 --> 00:13:31,015
+<Default><b>♪♪</b></Default>
+
+348
+00:13:31,039 --> 00:13:34,816
+<Default><b>Master Naofumi, you imitated
+Atla to get them fired up.</b></Default>
+
+349
+00:13:34,840 --> 00:13:36,596
+<Default><b>And it worked
+brilliantly.</b></Default>
+
+350
+00:13:36,620 --> 00:13:39,135
+<Default><b>I'm getting excited
+just thinking about it!</b></Default>
+
+351
+00:13:39,159 --> 00:13:41,076
+<Default><b>It's better if we
+take the lead.</b></Default>
+
+352
+00:13:41,100 --> 00:13:43,615
+<Default><b>I don't want any
+unnecessary casualties.</b></Default>
+
+353
+00:13:43,639 --> 00:13:46,596
+<Default><b>[sighs] I understand.</b></Default>
+
+354
+00:13:46,620 --> 00:13:50,056
+<Default><b>We can't avoid this</b></Default>
+
+355
+00:13:50,080 --> 00:13:52,865
+<Default><b>[tense music]</b></Default>
+
+356
+00:13:52,889 --> 00:13:55,686
+<Default><b>[footsteps marching]</b></Default>
+
+357
+00:13:55,710 --> 00:13:56,985
+<Default><b>Halt right there!</b></Default>
+
+358
+00:13:57,009 --> 00:13:58,765
+<Default><b>You approach holy
+ground belonging</b></Default>
+
+359
+00:13:58,789 --> 00:14:00,306
+<Default><b>to the emperor himself.</b></Default>
+
+360
+00:14:00,330 --> 00:14:03,446
+<Default><b>Go and tell your leader
+that the true emperor requests</b></Default>
+
+361
+00:14:03,470 --> 00:14:04,806
+<Default><b>an audience with them.</b></Default>
+
+362
+00:14:04,830 --> 00:14:07,365
+<Default><b>You must be the false
+emperor and the holders</b></Default>
+
+363
+00:14:07,389 --> 00:14:09,645
+<Default><b>of the evil spirit
+implements!</b></Default>
+
+364
+00:14:09,669 --> 00:14:11,666
+<Default><b>We don't negotiate
+with traitors!</b></Default>
+
+365
+00:14:11,690 --> 00:14:13,306
+<Default><b>Eliminate them!</b></Default>
+
+366
+00:14:13,330 --> 00:14:15,086
+<Default><b>[dramatic music]</b></Default>
+
+367
+00:14:15,110 --> 00:14:17,466
+<Default><b>[NAOFUMI]
+Can't say I didn't expect this.</b></Default>
+
+368
+00:14:17,490 --> 00:14:18,467
+<Default><b>Attack!</b></Default>
+
+369
+00:14:18,491 --> 00:14:21,765
+<Default><b>[yelling]</b></Default>
+
+370
+00:14:21,789 --> 00:14:23,046
+<Default><b>[yells]</b></Default>
+
+371
+00:14:23,070 --> 00:14:24,765
+<Default><b>Meteor shield!</b></Default>
+
+372
+00:14:24,789 --> 00:14:28,405
+<Default><b>If you think
+that'll work</b></Default>
+
+373
+00:14:28,429 --> 00:14:30,735
+<Default><b>[sword clanging</b></Default>
+
+374
+00:14:30,759 --> 00:14:32,265
+<Default><b>Gah! Damn it!</b></Default>
+
+375
+00:14:32,289 --> 00:14:33,706
+<Default><b>The bastard blinded me!</b></Default>
+
+376
+00:14:33,730 --> 00:14:36,145
+<Default><b>You weren't the only ones
+getting ready for this!</b></Default>
+
+377
+00:14:36,169 --> 00:14:38,446
+<Default><b>All Zweit Aura!</b></Default>
+
+378
+00:14:38,470 --> 00:14:39,447
+<Default><b>Raphtalia.</b></Default>
+
+379
+00:14:39,471 --> 00:14:40,466
+<Default><b>Right!</b></Default>
+
+380
+00:14:40,490 --> 00:14:41,990
+<Default><b>[blasting]</b></Default>
+
+381
+00:14:42,990 --> 00:14:44,070
+<Default><b>[grunts]</b></Default>
+
+382
+00:14:44,990 --> 00:14:46,946
+<Default><b>Follow the true
+emperor into battle!</b></Default>
+
+383
+00:14:46,970 --> 00:14:48,385
+<Default><b>Yes, Father!</b></Default>
+
+384
+00:14:48,409 --> 00:14:50,796
+<Default><b>[men yelling]</b></Default>
+
+385
+00:14:50,820 --> 00:14:52,230
+<Default><b>[chirrups]</b></Default>
+
+386
+00:14:53,230 --> 00:14:54,265
+<Default><b>Now's our chance!</b></Default>
+
+387
+00:14:54,289 --> 00:14:55,266
+<Default><b>Let's go!</b></Default>
+
+388
+00:14:55,290 --> 00:14:56,466
+<Default><b>Right!</b></Default>
+
+389
+00:14:56,490 --> 00:15:01,005
+<Default><b>♪♪</b></Default>
+
+390
+00:15:01,029 --> 00:15:02,645
+<Default><b>This is the lighthouse.</b></Default>
+
+391
+00:15:02,669 --> 00:15:04,966
+<Default><b>[RAPHTALIA]
+If we can put out that fire...</b></Default>
+
+392
+00:15:04,990 --> 00:15:06,446
+<Default><b>[staff clanging]</b></Default>
+
+393
+00:15:06,470 --> 00:15:08,206
+<Default><b>What are you lot doing?</b></Default>
+
+394
+00:15:08,230 --> 00:15:10,166
+<Default><b>Stop dawdling
+around like fools</b></Default>
+
+395
+00:15:10,190 --> 00:15:12,765
+<Default><b>and strike down
+the false emperor!</b></Default>
+
+396
+00:15:12,789 --> 00:15:14,566
+<Default><b>This guy must
+be the boss.</b></Default>
+
+397
+00:15:14,590 --> 00:15:16,030
+<Default><b>It would seem so.</b></Default>
+
+398
+00:15:17,259 --> 00:15:19,645
+<Default><b>[BEARGA] Coward who
+claims to be the emperor</b></Default>
+
+399
+00:15:19,669 --> 00:15:21,995
+<Default><b>you shall soon feel
+the mighty wrath of I</b></Default>
+
+400
+00:15:22,019 --> 00:15:25,155
+<Default><b>Bearga, he who has been blessed
+by the one true emperor!</b></Default>
+
+401
+00:15:25,179 --> 00:15:26,579
+<Default><b>[staff clanging]</b></Default>
+
+402
+00:15:29,570 --> 00:15:31,566
+<Default><b>- What the hell?
+- What happened?</b></Default>
+
+403
+00:15:31,590 --> 00:15:34,850
+<Default><b>The protection Naofumi gave
+us, he somehow disabled it.</b></Default>
+
+404
+00:15:36,549 --> 00:15:37,765
+<Default><b>That stone!</b></Default>
+
+405
+00:15:37,789 --> 00:15:39,605
+<Default><b>A Sakura emperor stone!</b></Default>
+
+406
+00:15:39,629 --> 00:15:41,586
+<Default><b>That weapon weakens
+the power of spirit</b></Default>
+
+407
+00:15:41,610 --> 00:15:43,846
+<Default><b>implements and increases
+the power of anyone</b></Default>
+
+408
+00:15:43,870 --> 00:15:45,605
+<Default><b>blessed by the emperor.</b></Default>
+
+409
+00:15:45,629 --> 00:15:47,096
+<Default><b>Sounds like
+the perfect weapon</b></Default>
+
+410
+00:15:47,120 --> 00:15:49,076
+<Default><b>for stopping
+cardinal heroes.</b></Default>
+
+411
+00:15:49,100 --> 00:15:50,706
+<Default><b>Here I come!</b></Default>
+
+412
+00:15:50,730 --> 00:15:51,706
+<Default><b>[gasps]</b></Default>
+
+413
+00:15:51,730 --> 00:15:52,810
+<Default><b>[grunts]</b></Default>
+
+414
+00:15:55,909 --> 00:15:57,109
+<Default><b>Zweit aura!</b></Default>
+
+415
+00:15:58,360 --> 00:16:00,456
+<Default><b>It's able to block
+hero magic, too?</b></Default>
+
+416
+00:16:00,480 --> 00:16:02,936
+<Default><b>Kill the traitors
+at all costs!</b></Default>
+
+417
+00:16:02,960 --> 00:16:05,056
+<Default><b>[men yelling]</b></Default>
+
+418
+00:16:05,080 --> 00:16:07,576
+<Default><b>A source of thy
+power, I order thee</b></Default>
+
+419
+00:16:07,600 --> 00:16:10,596
+<Default><b>decipher the
+laws of nature</b></Default>
+
+420
+00:16:10,620 --> 00:16:13,735
+<Default><b>and strike down my foes
+where they stand.</b></Default>
+
+421
+00:16:13,759 --> 00:16:15,995
+<Default><b>All Drifa Chain
+Lightning!</b></Default>
+
+422
+00:16:16,019 --> 00:16:18,679
+<Default><b>[lightning crackling</b></Default>
+
+423
+00:16:19,679 --> 00:16:22,875
+<Default><b>Whatever happens, I won't
+let any harm come your way</b></Default>
+
+424
+00:16:22,899 --> 00:16:24,816
+<Default><b>so rest easy
+knowing that!</b></Default>
+
+425
+00:16:24,840 --> 00:16:28,285
+<Default><b>She's not the only one
+who can lend a hand here!</b></Default>
+
+426
+00:16:28,309 --> 00:16:29,349
+<Default><b>[roars]</b></Default>
+
+427
+00:16:31,679 --> 00:16:32,926
+<Default><b>[grunts]</b></Default>
+
+428
+00:16:32,950 --> 00:16:34,916
+<Default><b>[groans] I know you.</b></Default>
+
+429
+00:16:34,940 --> 00:16:36,515
+<Default><b>You're the miko
+of slaughter.</b></Default>
+
+430
+00:16:36,539 --> 00:16:39,735
+<Default><b>And yet, you would oppose
+us, despite your wickedness?</b></Default>
+
+431
+00:16:39,759 --> 00:16:45,176
+<Default><b>Why, yes. Now, let's get this
+slaughter started, shall we?</b></Default>
+
+432
+00:16:45,200 --> 00:16:46,306
+<Default><b>[NAOFUMI]
+What do we do?</b></Default>
+
+433
+00:16:46,330 --> 00:16:48,306
+<Default><b>- [MAN] Get them!
+- [gasps]</b></Default>
+
+434
+00:16:48,330 --> 00:16:50,755
+<Default><b>Kill the false emperor
+and holder of the evil</b></Default>
+
+435
+00:16:50,779 --> 00:16:52,066
+<Default><b>spirit implements!</b></Default>
+
+436
+00:16:52,090 --> 00:16:54,265
+<Default><b>Drifa aqua slash!</b></Default>
+
+437
+00:16:54,289 --> 00:16:55,729
+<Default><b>Drifa rock blast!</b></Default>
+
+438
+00:16:57,370 --> 00:17:00,655
+<Default><b>- [groans] Sadeena!
+- [MEN] Ah!</b></Default>
+
+439
+00:17:00,679 --> 00:17:03,700
+<Default><b>[laughs] That was pretty
+clever, even for you, Naofumi!</b></Default>
+
+440
+00:17:05,440 --> 00:17:06,835
+<Default><b>[grumbles]</b></Default>
+
+441
+00:17:06,859 --> 00:17:09,765
+<Default><b>[laughs] You're
+actually not half bad</b></Default>
+
+442
+00:17:09,789 --> 00:17:11,646
+<Default><b>but this fight
+ends here!</b></Default>
+
+443
+00:17:11,670 --> 00:17:13,666
+<Default><b>[MEN] (chanting) We carry
+out this secret act on behalf</b></Default>
+
+444
+00:17:13,690 --> 00:17:16,065
+<Default><b>of the emperor,
+the Pacifier.</b></Default>
+
+445
+00:17:16,089 --> 00:17:18,525
+<Default><b>We turn our whole
+selves into blades</b></Default>
+
+446
+00:17:18,549 --> 00:17:21,626
+<Default><b>combining power of thine
+eye and bringing a destiny</b></Default>
+
+447
+00:17:21,650 --> 00:17:24,186
+<Default><b>of destruction
+to these fools.</b></Default>
+
+448
+00:17:24,210 --> 00:17:25,345
+<Default><b>Don't tell me...</b></Default>
+
+449
+00:17:25,369 --> 00:17:27,440
+<Default><b>Astral Enchant</b></Default>
+
+450
+00:17:33,369 --> 00:17:34,866
+<Default><b>What is this?</b></Default>
+
+451
+00:17:34,890 --> 00:17:37,785
+<Default><b>Now, then, it's
+time to end this!</b></Default>
+
+452
+00:17:37,809 --> 00:17:41,166
+<Default><b>[growls] Is that
+all you've got?</b></Default>
+
+453
+00:17:41,190 --> 00:17:45,416
+<Default><b>[grunts] The hell
+kind of power is that?</b></Default>
+
+454
+00:17:45,440 --> 00:17:48,196
+<Default><b>The power of Astral
+Enchant, an enchantment</b></Default>
+
+455
+00:17:48,220 --> 00:17:50,436
+<Default><b>that allows those
+blessed by the emperor</b></Default>
+
+456
+00:17:50,460 --> 00:17:53,295
+<Default><b>to gather the powers
+of others who've been blessed.</b></Default>
+
+457
+00:17:53,319 --> 00:17:54,565
+<Default><b>And as you can see</b></Default>
+
+458
+00:17:54,589 --> 00:17:55,589
+<Default><b>Ha!</b></Default>
+
+459
+00:17:57,000 --> 00:17:58,106
+<Default><b>[coughs]</b></Default>
+
+460
+00:17:58,130 --> 00:18:00,466
+<Default><b>They're sharing
+life energy, too?</b></Default>
+
+461
+00:18:00,490 --> 00:18:02,416
+<Default><b>- [laughs sinisterly, yells]
+- Ah!</b></Default>
+
+462
+00:18:02,440 --> 00:18:03,416
+<Default><b>[grunts]</b></Default>
+
+463
+00:18:03,440 --> 00:18:04,417
+<Default><b>[RAPHTALIA]
+Sadeena!</b></Default>
+
+464
+00:18:04,441 --> 00:18:06,005
+<Default><b>Gaelion!</b></Default>
+
+465
+00:18:06,029 --> 00:18:07,876
+<Default><b>[roars]</b></Default>
+
+466
+00:18:07,900 --> 00:18:09,240
+<Default><b>[gasps]</b></Default>
+
+467
+00:18:10,240 --> 00:18:12,795
+<Default><b>[laughs] Is this
+pathetic display all</b></Default>
+
+468
+00:18:12,819 --> 00:18:15,515
+<Default><b>the false emperor
+can manage?</b></Default>
+
+469
+00:18:15,539 --> 00:18:18,716
+<Default><b>Say what you will</b></Default>
+
+470
+00:18:18,740 --> 00:18:21,075
+<Default><b>Let's see you win
+when you're dead!</b></Default>
+
+471
+00:18:21,099 --> 00:18:22,295
+<Default><b>[MURAMASA]
+Try using this!</b></Default>
+
+472
+00:18:22,319 --> 00:18:24,456
+<Default><b>[grunts] Huh?</b></Default>
+
+473
+00:18:24,480 --> 00:18:25,600
+<Default><b>What the?</b></Default>
+
+474
+00:18:26,000 --> 00:18:28,000
+<Default><b>SAKURA EMPEROR'S
+STONE SHIELD</b></Default>
+
+475
+00:18:29,460 --> 00:18:31,755
+<Default><b>Sakura Emperor
+Stone Shield?</b></Default>
+
+476
+00:18:31,779 --> 00:18:33,356
+<Default><b>[MURAMASA] That should
+help boost your abilities</b></Default>
+
+477
+00:18:33,380 --> 00:18:35,716
+<Default><b>a little more, even
+when inside the Sakura</b></Default>
+
+478
+00:18:35,740 --> 00:18:37,636
+<Default><b>Emperor's Stone barrier.</b></Default>
+
+479
+00:18:37,660 --> 00:18:39,075
+<Default><b>It's you again!</b></Default>
+
+480
+00:18:39,099 --> 00:18:41,396
+<Default><b>Traitor! How dare you?</b></Default>
+
+481
+00:18:41,420 --> 00:18:44,456
+<Default><b>Why would you help
+the false emperor like this?</b></Default>
+
+482
+00:18:44,480 --> 00:18:45,835
+<Default><b>I'm no traitor!</b></Default>
+
+483
+00:18:45,859 --> 00:18:47,795
+<Default><b>In case you forgot</b></Default>
+
+484
+00:18:47,819 --> 00:18:50,616
+<Default><b>lies with the side who
+has the hot chicks!</b></Default>
+
+485
+00:18:50,640 --> 00:18:51,916
+<Default><b>Oh, oh!</b></Default>
+
+486
+00:18:51,940 --> 00:18:53,896
+<Default><b>I have no idea
+what's happening</b></Default>
+
+487
+00:18:53,920 --> 00:18:55,495
+<Default><b>but I'm gonna use this!</b></Default>
+
+488
+00:18:55,519 --> 00:18:57,039
+<Default><b>APPLY SKILL POINTS?</b></Default>
+
+489
+00:18:58,099 --> 00:18:59,916
+<Default><b>I feel my power
+coming back.</b></Default>
+
+490
+00:18:59,940 --> 00:19:00,917
+<Default><b>Hmm.</b></Default>
+
+491
+00:19:00,941 --> 00:19:02,136
+<Default><b>Now we can fight back.</b></Default>
+
+492
+00:19:02,160 --> 00:19:03,416
+<Default><b>You got that right!</b></Default>
+
+493
+00:19:03,440 --> 00:19:05,235
+<Default><b>Give 'em hell, girls!</b></Default>
+
+494
+00:19:05,259 --> 00:19:07,995
+<Default><b>I'm gonna tear you
+all limb from limb!</b></Default>
+
+495
+00:19:08,019 --> 00:19:11,210
+<Default><b>Sakura Sphere
+of Influence, Attack Support!</b></Default>
+
+496
+00:19:12,579 --> 00:19:15,436
+<Default><b>[groans]</b></Default>
+
+497
+00:19:15,460 --> 00:19:17,476
+<Default><b>- Raphtalia!
+- Right!</b></Default>
+
+498
+00:19:17,500 --> 00:19:19,500
+<Default><b>Kagura Dance
+of Sakura, Blossom!</b></Default>
+
+499
+00:19:23,460 --> 00:19:24,795
+<Default><b>You ready, Gaelion?</b></Default>
+
+500
+00:19:24,819 --> 00:19:26,396
+<Default><b>Touch the Sakura Lumina!</b></Default>
+
+501
+00:19:26,420 --> 00:19:27,396
+<Default><b>Hey!</b></Default>
+
+502
+00:19:27,420 --> 00:19:28,580
+<Default><b>Be gentle!</b></Default>
+
+503
+00:19:33,259 --> 00:19:34,916
+<Default><b>[groans] Crap!</b></Default>
+
+504
+00:19:34,940 --> 00:19:36,956
+<Default><b>This is really bad!</b></Default>
+
+505
+00:19:36,980 --> 00:19:38,515
+<Default><b>The barrier is
+under my control!</b></Default>
+
+506
+00:19:38,539 --> 00:19:40,515
+<Default><b>OK. Sadeena!</b></Default>
+
+507
+00:19:40,539 --> 00:19:42,735
+<Default><b>In the sealed land
+of the heavenly emperor</b></Default>
+
+508
+00:19:42,759 --> 00:19:46,485
+<Default><b>the feelings of its people
+washes away the tyranny of old.</b></Default>
+
+509
+00:19:46,509 --> 00:19:49,406
+<Default><b>Once stagnant water
+becomes a stream.</b></Default>
+
+510
+00:19:49,430 --> 00:19:51,599
+<Default><b>Dragon vein</b></Default>
+
+511
+00:19:52,990 --> 00:19:57,005
+<Default><b>I, Gaelion, give my orders
+to the heavens and the Earth.</b></Default>
+
+512
+00:19:57,029 --> 00:20:00,406
+<Default><b>Sever the laws of reality
+and bind them together.</b></Default>
+
+513
+00:20:00,430 --> 00:20:02,206
+<Default><b>Lend me your strength</b></Default>
+
+514
+00:20:02,230 --> 00:20:04,525
+<Default><b>the power to destroy
+the foolish disciple</b></Default>
+
+515
+00:20:04,549 --> 00:20:06,525
+<Default><b>standing before me!</b></Default>
+
+516
+00:20:06,549 --> 00:20:08,706
+<Default><b>[GAELION, SADEENA]
+Water Dragon, Sakura Lumina</b></Default>
+
+517
+00:20:08,730 --> 00:20:10,176
+<Default><b>Destroying Wave!</b></Default>
+
+518
+00:20:10,200 --> 00:20:11,890
+<Default><b>[screams]</b></Default>
+
+519
+00:20:12,890 --> 00:20:16,686
+<Default><b>Supreme Ultimate</b></Default>
+
+520
+00:20:16,710 --> 00:20:17,687
+<Default><b>Ah!</b></Default>
+
+521
+00:20:17,711 --> 00:20:19,085
+<Default><b>I'm not done!</b></Default>
+
+522
+00:20:19,109 --> 00:20:20,245
+<Default><b>No.</b></Default>
+
+523
+00:20:20,269 --> 00:20:22,045
+<Default><b>It's over.</b></Default>
+
+524
+00:20:22,069 --> 00:20:25,069
+<Default><b>[screams]</b></Default>
+
+525
+00:20:27,910 --> 00:20:29,265
+<Default><b>[men cheering]</b></Default>
+
+526
+00:20:29,289 --> 00:20:30,849
+<Default><b>[MURAMASA]
+We did it!</b></Default>
+
+527
+00:20:34,289 --> 00:20:35,729
+<Default><b>[chuckles softly]</b></Default>
+
+528
+00:20:36,720 --> 00:20:40,079
+<Default><b>[waves lapping gently]</b></Default>
+
+529
+00:20:41,079 --> 00:20:43,966
+<Default><b>[serene music]</b></Default>
+
+530
+00:20:43,990 --> 00:20:46,416
+<Default><b>♪♪</b></Default>
+
+531
+00:20:46,440 --> 00:20:48,616
+<Default><b>Master, I always
+knew you were safe!</b></Default>
+
+532
+00:20:48,640 --> 00:20:49,896
+<Default><b>Raphy!</b></Default>
+
+533
+00:20:49,920 --> 00:20:51,335
+<Default><b>Master Naofumi!</b></Default>
+
+534
+00:20:51,359 --> 00:20:53,495
+<Default><b>Looks like
+everyone is OK.</b></Default>
+
+535
+00:20:53,519 --> 00:20:55,025
+<Default><b>It feels like
+it's been forever.</b></Default>
+
+536
+00:20:55,049 --> 00:20:56,129
+<Default><b>It does.</b></Default>
+
+537
+00:20:58,109 --> 00:21:01,495
+<Default><b>[grunts] Master</b></Default>
+
+538
+00:21:01,519 --> 00:21:03,176
+<Default><b>Sorry for getting here
+late, Master Naofumi!</b></Default>
+
+539
+00:21:03,200 --> 00:21:04,916
+<Default><b>Oh! [Grunting]</b></Default>
+
+540
+00:21:04,940 --> 00:21:05,916
+<Default><b>Oh.</b></Default>
+
+541
+00:21:05,940 --> 00:21:06,917
+<Default><b>[grunts]</b></Default>
+
+542
+00:21:06,941 --> 00:21:08,055
+<Default><b>S'yne's here?</b></Default>
+
+543
+00:21:08,079 --> 00:21:09,896
+<Default><b>She must
+have teleported.</b></Default>
+
+544
+00:21:09,920 --> 00:21:12,840
+<Default><b>She says she couldn't bear
+to wait for you to get back.</b></Default>
+
+545
+00:21:13,519 --> 00:21:15,136
+<Default><b>(distorted) I'm
+glad you're OK.</b></Default>
+
+546
+00:21:15,160 --> 00:21:16,755
+<Default><b>Who said you could
+hug him before me?</b></Default>
+
+547
+00:21:16,779 --> 00:21:18,795
+<Default><b>Get off! It's my turn!</b></Default>
+
+548
+00:21:18,819 --> 00:21:20,595
+<Default><b>Would it kill you
+to behave for once?</b></Default>
+
+549
+00:21:20,619 --> 00:21:21,716
+<Default><b>What is all this?</b></Default>
+
+550
+00:21:21,740 --> 00:21:23,116
+<Default><b>Some kind of harem?</b></Default>
+
+551
+00:21:23,140 --> 00:21:25,095
+<Default><b>No way.</b></Default>
+
+552
+00:21:25,119 --> 00:21:26,995
+<Default><b>I'm glad to see
+that you're safe.</b></Default>
+
+553
+00:21:27,019 --> 00:21:27,995
+<Default><b>Wait.</b></Default>
+
+554
+00:21:28,019 --> 00:21:29,059
+<Default><b>Master?</b></Default>
+
+555
+00:21:30,019 --> 00:21:30,995
+<Default><b>Huh?</b></Default>
+
+556
+00:21:31,019 --> 00:21:31,996
+<Default><b>Hmm?</b></Default>
+
+557
+00:21:32,020 --> 00:21:33,456
+<Default><b>Is that you, Elhart?</b></Default>
+
+558
+00:21:33,480 --> 00:21:35,456
+<Default><b>How have you been?</b></Default>
+
+559
+00:21:35,480 --> 00:21:36,535
+<Default><b>Seriously?</b></Default>
+
+560
+00:21:36,559 --> 00:21:37,765
+<Default><b>This guy is your...</b></Default>
+
+561
+00:21:37,789 --> 00:21:39,186
+<Default><b>Yeah.</b></Default>
+
+562
+00:21:39,210 --> 00:21:41,396
+<Default><b>You must be tired from
+being stuck on that ship.</b></Default>
+
+563
+00:21:41,420 --> 00:21:43,095
+<Default><b>How's about we have
+us a little tea?</b></Default>
+
+564
+00:21:43,119 --> 00:21:45,376
+<Default><b>- I respectfully decline!
+- Oof!</b></Default>
+
+565
+00:21:45,400 --> 00:21:47,176
+<Default><b>[RAPHTALIA] I guess he's
+even more of a ladies' man</b></Default>
+
+566
+00:21:47,200 --> 00:21:48,616
+<Default><b>than we were told.</b></Default>
+
+567
+00:21:48,640 --> 00:21:49,856
+<Default><b>[NAOFUMI]
+Now it makes sense why</b></Default>
+
+568
+00:21:49,880 --> 00:21:51,976
+<Default><b>he agreed to
+help us earlier.</b></Default>
+
+569
+00:21:52,000 --> 00:21:53,656
+<Default><b>Well, now that
+everyone's here</b></Default>
+
+570
+00:21:53,680 --> 00:21:55,476
+<Default><b>we should have
+a victory party!</b></Default>
+
+571
+00:21:55,500 --> 00:21:56,785
+<Default><b>[yells]</b></Default>
+
+572
+00:21:56,809 --> 00:21:59,156
+<Default><b>- [excited chatter]
+- Huh? Wait.</b></Default>
+
+573
+00:21:59,180 --> 00:22:00,696
+<Default><b>Don't just
+leave me here.</b></Default>
+
+574
+00:22:00,720 --> 00:22:03,710
+<Default><b>Hey, wait for me!</b></Default>
+
+575
+00:22:05,089 --> 00:22:06,066
+<Default><b>[theme music]</b></Default>
+
+576
+00:22:06,090 --> 00:22:09,065
+<Default><b>[singing in Japanese]</b></Default>
+
+577
+00:22:09,089 --> 00:22:16,089
+<Default><b>♪♪</b></Default>
+
+578
+00:23:36,440 --> 00:23:39,599
+<Default><b>EPISODE 8: "OROCHI"</b></Default>
+

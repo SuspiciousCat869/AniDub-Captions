@@ -1,0 +1,2344 @@
+﻿1
+00:00:00,940 --> 00:00:04,259
+<Default><b>[dramatic music]</b></Default>
+
+2
+00:00:04,320 --> 00:00:05,796
+<Default><b>[yells]</b></Default>
+
+3
+00:00:05,820 --> 00:00:07,820
+<Default><b>[moans]</b></Default>
+
+4
+00:00:09,820 --> 00:00:11,800
+<Default><b>[thuds]</b></Default>
+
+5
+00:00:13,779 --> 00:00:15,245
+<Default><b>[exhales]</b></Default>
+
+6
+00:00:15,269 --> 00:00:16,726
+<Default><b>[growls]</b></Default>
+
+7
+00:00:16,750 --> 00:00:17,727
+<Default><b>[whooshes]</b></Default>
+
+8
+00:00:17,751 --> 00:00:19,215
+<Default><b>[yells]</b></Default>
+
+9
+00:00:19,239 --> 00:00:20,719
+<Default><b>[thuds]</b></Default>
+
+10
+00:00:21,550 --> 00:00:23,055
+<Default><b>[grunts]</b></Default>
+
+11
+00:00:23,079 --> 00:00:27,015
+<Default><b>Go Lightning, and pierce
+the foes that stand before me.</b></Default>
+
+12
+00:00:27,039 --> 00:00:30,636
+<Default><b>All Drifa Chain
+Lightning!</b></Default>
+
+13
+00:00:30,660 --> 00:00:34,055
+<Default><b>[yells]</b></Default>
+
+14
+00:00:34,079 --> 00:00:35,356
+<Default><b>Well, that's
+most of them.</b></Default>
+
+15
+00:00:35,380 --> 00:00:36,357
+<Default><b>Yeah.</b></Default>
+
+16
+00:00:36,381 --> 00:00:38,396
+<Default><b>Aw, are we
+finished already?</b></Default>
+
+17
+00:00:38,420 --> 00:00:39,896
+<Default><b>That's no fun.</b></Default>
+
+18
+00:00:39,920 --> 00:00:41,616
+<Default><b>So what's the
+plan, Naofumi?</b></Default>
+
+19
+00:00:41,640 --> 00:00:43,316
+<Default><b>Do you think we
+should help those two?</b></Default>
+
+20
+00:00:43,340 --> 00:00:46,095
+<Default><b>No. This is their battle
+to fight for now.</b></Default>
+
+21
+00:00:46,119 --> 00:00:47,096
+<Default><b>[grunts]</b></Default>
+
+22
+00:00:47,120 --> 00:00:48,805
+<Default><b>[booms]</b></Default>
+
+23
+00:00:48,829 --> 00:00:49,845
+<Default><b>[growls]</b></Default>
+
+24
+00:00:49,869 --> 00:00:51,515
+<Default><b>My father fought bravely</b></Default>
+
+25
+00:00:51,539 --> 00:00:54,036
+<Default><b>believing in those
+who stood by his side.</b></Default>
+
+26
+00:00:54,060 --> 00:00:56,000
+<Default><b>[whooshes]</b></Default>
+
+27
+00:00:57,939 --> 00:00:59,856
+<Default><b>[growls]</b></Default>
+
+28
+00:00:59,880 --> 00:01:01,296
+<Default><b>And I'm never
+going to forgive you</b></Default>
+
+29
+00:01:01,320 --> 00:01:03,746
+<Default><b>for the cowardly
+thing you did to him!</b></Default>
+
+30
+00:01:03,770 --> 00:01:04,896
+<Default><b>[booms]</b></Default>
+
+31
+00:01:04,920 --> 00:01:06,476
+<Default><b>You insolent wretch!</b></Default>
+
+32
+00:01:06,500 --> 00:01:08,860
+<Default><b>I'll send you to hell
+with him right now!</b></Default>
+
+33
+00:01:10,140 --> 00:01:11,599
+<Default><b>[thuds]</b></Default>
+
+34
+00:01:12,599 --> 00:01:15,536
+<Default><b>There's still
+something I must do.</b></Default>
+
+35
+00:01:15,560 --> 00:01:17,290
+<Default><b>I have to kill a god!</b></Default>
+
+36
+00:01:19,700 --> 00:01:22,099
+<Default><b>[roars]</b></Default>
+
+37
+00:01:24,459 --> 00:01:25,435
+<Default><b>[gasps]</b></Default>
+
+38
+00:01:25,459 --> 00:01:26,459
+<Default><b>Huh?</b></Default>
+
+39
+00:01:28,840 --> 00:01:30,135
+<Default><b>Master Naofumi!</b></Default>
+
+40
+00:01:30,159 --> 00:01:31,136
+<Default><b>Oh, my.</b></Default>
+
+41
+00:01:31,160 --> 00:01:32,736
+<Default><b>They're better already?</b></Default>
+
+42
+00:01:32,760 --> 00:01:34,745
+<Default><b>There's no way!</b></Default>
+
+43
+00:01:34,769 --> 00:01:38,215
+<Default><b>[groaning]</b></Default>
+
+44
+00:01:38,239 --> 00:01:41,215
+<Default><b>[theme music]</b></Default>
+
+45
+00:01:41,239 --> 00:01:44,176
+<Default><b>♪♪</b></Default>
+
+46
+00:01:44,200 --> 00:01:47,146
+<Default><b>♪ Hey no need
+for hesitation ♪</b></Default>
+
+47
+00:01:47,170 --> 00:01:48,545
+<Default><b>THE RISING OF
+THE SHIELD HERO</b></Default>
+
+48
+00:01:48,569 --> 00:01:49,715
+<Default><b>♪ Fight it right now ♪</b></Default>
+
+49
+00:01:49,739 --> 00:01:52,105
+<Default><b>♪ A will to face it</b></Default>
+
+50
+00:01:52,129 --> 00:01:55,536
+<Default><b>♪ Gangster girl
+stop that pass ♪</b></Default>
+
+51
+00:01:55,560 --> 00:01:58,116
+<Default><b>♪ The reason that I choose
+to fight when I travel ♪</b></Default>
+
+52
+00:01:58,140 --> 00:02:01,366
+<Default><b>♪ Proof that I accept ♪</b></Default>
+
+53
+00:02:01,390 --> 00:02:04,775
+<Default><b>♪ Leaving no regrets ♪</b></Default>
+
+54
+00:02:04,799 --> 00:02:07,486
+<Default><b>♪ It seems like a never
+ending genocide ♪</b></Default>
+
+55
+00:02:07,510 --> 00:02:13,765
+<Default><b>♪ No need for hesitation</b></Default>
+
+56
+00:02:13,789 --> 00:02:16,415
+<Default><b>♪ the pieces
+of the story ♪</b></Default>
+
+57
+00:02:16,439 --> 00:02:19,015
+<Default><b>♪ Don't let it go</b></Default>
+
+58
+00:02:19,039 --> 00:02:22,395
+<Default><b>♪ 'Cause you're telling
+me nor anyone else ♪</b></Default>
+
+59
+00:02:22,419 --> 00:02:26,216
+<Default><b>♪ No limit to
+where we go ♪</b></Default>
+
+60
+00:02:26,240 --> 00:02:29,776
+<Default><b>♪ I will protect
+your resolution ♪</b></Default>
+
+61
+00:02:29,800 --> 00:02:32,096
+<Default><b>♪ No matter
+what comes next ♪</b></Default>
+
+62
+00:02:32,120 --> 00:02:35,566
+<Default><b>♪ 'Cause they'll
+tell again ♪</b></Default>
+
+63
+00:02:35,590 --> 00:02:37,526
+<Default><b>♪ We'll never
+lose and cry ♪</b></Default>
+
+64
+00:02:37,550 --> 00:02:40,966
+<Default><b>♪ Now nobody can
+stop us, no way ♪</b></Default>
+
+65
+00:02:40,990 --> 00:02:42,976
+<Default><b>♪ Protect you
+every time ♪</b></Default>
+
+66
+00:02:43,000 --> 00:02:46,945
+<Default><b>♪ Push it push it
+until you break ♪</b></Default>
+
+67
+00:02:46,969 --> 00:02:49,915
+<Default><b>♪ Even if there's
+nowhere to go ♪</b></Default>
+
+68
+00:02:49,939 --> 00:02:54,355
+<Default><b>♪ We protect
+our resolution ♪</b></Default>
+
+69
+00:02:54,379 --> 00:02:55,855
+<Default><b>♪ Yeah, hey ♪</b></Default>
+
+70
+00:02:55,879 --> 00:02:57,336
+<Default><b>♪ No need
+for hesitation ♪</b></Default>
+
+71
+00:02:57,360 --> 00:02:59,186
+<Default><b>♪ Nothing standing
+in our way ♪</b></Default>
+
+72
+00:02:59,210 --> 00:03:01,105
+<Default><b>♪ Fight it right now ♪</b></Default>
+
+73
+00:03:01,129 --> 00:03:03,605
+<Default><b>♪ Hey, no need
+for hesitation ♪</b></Default>
+
+74
+00:03:03,629 --> 00:03:10,105
+<Default><b>♪ Don't let it
+cry go now ♪</b></Default>
+
+75
+00:03:10,129 --> 00:03:11,476
+<Default><b>[groans]</b></Default>
+
+76
+00:03:11,500 --> 00:03:12,476
+<Default><b>[gasps]</b></Default>
+
+77
+00:03:12,500 --> 00:03:13,477
+<Default><b>[buzzing]</b></Default>
+
+78
+00:03:13,501 --> 00:03:15,569
+<Default><b>[grunts]</b></Default>
+
+79
+00:03:17,409 --> 00:03:19,476
+<Default><b>[groans]</b></Default>
+
+80
+00:03:19,500 --> 00:03:22,365
+<Default><b>EPISODE 5: WHITE TIGER</b></Default>
+
+81
+00:03:22,389 --> 00:03:23,366
+<Default><b>Wait a minute.</b></Default>
+
+82
+00:03:23,390 --> 00:03:24,566
+<Default><b>What's going on here?</b></Default>
+
+83
+00:03:24,590 --> 00:03:25,567
+<Default><b>[grunts]</b></Default>
+
+84
+00:03:25,591 --> 00:03:27,069
+<Default><b>[groans]</b></Default>
+
+85
+00:03:29,449 --> 00:03:32,265
+<Default><b>Ooh, Master, I keep kicking
+them, but it isn't helping.</b></Default>
+
+86
+00:03:32,289 --> 00:03:33,266
+<Default><b>I know.</b></Default>
+
+87
+00:03:33,290 --> 00:03:35,026
+<Default><b>They're acting
+like zombies.</b></Default>
+
+88
+00:03:35,050 --> 00:03:36,626
+<Default><b>They're zombies?</b></Default>
+
+89
+00:03:36,650 --> 00:03:38,226
+<Default><b>It looks like
+Jaralis must have</b></Default>
+
+90
+00:03:38,250 --> 00:03:42,226
+<Default><b>done the same modifications
+to his men that Kyo did.</b></Default>
+
+91
+00:03:42,250 --> 00:03:44,409
+<Default><b>[groans]</b></Default>
+
+92
+00:03:45,409 --> 00:03:48,265
+<Default><b>[growls]</b></Default>
+
+93
+00:03:48,289 --> 00:03:50,186
+<Default><b>[yells]</b></Default>
+
+94
+00:03:50,210 --> 00:03:51,265
+<Default><b>He's so fast.</b></Default>
+
+95
+00:03:51,289 --> 00:03:53,289
+<Default><b>[booms]</b></Default>
+
+96
+00:03:54,789 --> 00:03:56,770
+<Default><b>[yells]</b></Default>
+
+97
+00:04:00,639 --> 00:04:03,165
+<Default><b>Ah, my eyes!</b></Default>
+
+98
+00:04:03,189 --> 00:04:05,586
+<Default><b>[thuds]</b></Default>
+
+99
+00:04:05,610 --> 00:04:06,596
+<Default><b>Brother, way to go.</b></Default>
+
+100
+00:04:06,620 --> 00:04:08,060
+<Default><b>That was amazing.</b></Default>
+
+101
+00:04:09,800 --> 00:04:10,777
+<Default><b>[gasps]</b></Default>
+
+102
+00:04:10,801 --> 00:04:12,145
+<Default><b>[low growl]</b></Default>
+
+103
+00:04:12,169 --> 00:04:14,756
+<Default><b>Blood, more blood.</b></Default>
+
+104
+00:04:14,780 --> 00:04:15,780
+<Default><b>No.</b></Default>
+
+105
+00:04:17,089 --> 00:04:18,369
+<Default><b>I need power!</b></Default>
+
+106
+00:04:19,449 --> 00:04:20,426
+<Default><b>[thuds]</b></Default>
+
+107
+00:04:20,450 --> 00:04:22,449
+<Default><b>[groans]</b></Default>
+
+108
+00:04:23,449 --> 00:04:25,336
+<Default><b>[gasps]</b></Default>
+
+109
+00:04:25,360 --> 00:04:27,750
+<Default><b>[chomping]</b></Default>
+
+110
+00:04:30,860 --> 00:04:32,026
+<Default><b>[evil chuckle]</b></Default>
+
+111
+00:04:32,050 --> 00:04:33,706
+<Default><b>What is he doing?</b></Default>
+
+112
+00:04:33,730 --> 00:04:36,315
+<Default><b>He's devouring
+his own men.</b></Default>
+
+113
+00:04:36,339 --> 00:04:38,656
+<Default><b>[gurgling]</b></Default>
+
+114
+00:04:38,680 --> 00:04:40,526
+<Default><b>[booms]</b></Default>
+
+115
+00:04:40,550 --> 00:04:43,490
+<Default><b>[groans, yells]</b></Default>
+
+116
+00:04:45,490 --> 00:04:47,959
+<Default><b>[groaning]</b></Default>
+
+117
+00:04:53,350 --> 00:04:55,766
+<Default><b>[NAOFUMI] This isn't just
+a duel anymore, Fohl.</b></Default>
+
+118
+00:04:55,790 --> 00:04:57,346
+<Default><b>[gasps]</b></Default>
+
+119
+00:04:57,370 --> 00:04:59,706
+<Default><b>It's time for us
+to join you in this fight.</b></Default>
+
+120
+00:04:59,730 --> 00:05:01,146
+<Default><b>You understand?</b></Default>
+
+121
+00:05:01,170 --> 00:05:02,586
+<Default><b>[sighs]</b></Default>
+
+122
+00:05:02,610 --> 00:05:03,966
+<Default><b>- Let's go.
+- Right.</b></Default>
+
+123
+00:05:03,990 --> 00:05:04,990
+<Default><b>Yeah!</b></Default>
+
+124
+00:05:08,649 --> 00:05:09,649
+<Default><b>Ah!</b></Default>
+
+125
+00:05:13,290 --> 00:05:14,346
+<Default><b>High Quick!</b></Default>
+
+126
+00:05:14,370 --> 00:05:16,149
+<Default><b>[grunts]</b></Default>
+
+127
+00:05:17,149 --> 00:05:18,985
+<Default><b>Ew, ew, ew, ew, ew!</b></Default>
+
+128
+00:05:19,009 --> 00:05:21,516
+<Default><b>Master, that was
+icky, squishy, yucky.</b></Default>
+
+129
+00:05:21,540 --> 00:05:22,826
+<Default><b>[chuckles]</b></Default>
+
+130
+00:05:22,850 --> 00:05:25,399
+<Default><b>The more I eat, the more
+powerful I become!</b></Default>
+
+131
+00:05:27,300 --> 00:05:28,406
+<Default><b>Hurry, everyone.</b></Default>
+
+132
+00:05:28,430 --> 00:05:30,065
+<Default><b>We must protect
+the Shield Hero</b></Default>
+
+133
+00:05:30,089 --> 00:05:31,929
+<Default><b>and neutralize
+the traitor.</b></Default>
+
+134
+00:05:33,250 --> 00:05:34,526
+<Default><b>What is that thing?</b></Default>
+
+135
+00:05:34,550 --> 00:05:36,529
+<Default><b>[gurgling]</b></Default>
+
+136
+00:05:39,490 --> 00:05:43,326
+<Default><b>It is Jaralis, but he's
+transformed into a monster.</b></Default>
+
+137
+00:05:43,350 --> 00:05:45,226
+<Default><b>Atla, Raphtalia, Fohl!</b></Default>
+
+138
+00:05:45,250 --> 00:05:48,146
+<Default><b>Get back or he might try
+to absorb you guys as well.</b></Default>
+
+139
+00:05:48,170 --> 00:05:49,505
+<Default><b>We'll stand back then.</b></Default>
+
+140
+00:05:49,529 --> 00:05:51,786
+<Default><b>Understood,
+Master Naofumi.</b></Default>
+
+141
+00:05:51,810 --> 00:05:53,226
+<Default><b>And the rest
+of you, too.</b></Default>
+
+142
+00:05:53,250 --> 00:05:54,970
+<Default><b>Don't take another step.</b></Default>
+
+143
+00:05:59,079 --> 00:06:00,519
+<Default><b>Careful, Brother.</b></Default>
+
+144
+00:06:01,079 --> 00:06:02,159
+<Default><b>[roars].</b></Default>
+
+145
+00:06:03,769 --> 00:06:05,226
+<Default><b>I'm supreme.</b></Default>
+
+146
+00:06:05,250 --> 00:06:07,766
+<Default><b>My power
+surpasses a god's!</b></Default>
+
+147
+00:06:07,790 --> 00:06:09,906
+<Default><b>And with it, I will
+become strong enough</b></Default>
+
+148
+00:06:09,930 --> 00:06:11,586
+<Default><b>to conquer the world!</b></Default>
+
+149
+00:06:11,610 --> 00:06:12,706
+<Default><b>Jaralis!</b></Default>
+
+150
+00:06:12,730 --> 00:06:14,745
+<Default><b>This is where I avenge
+my father...</b></Default>
+
+151
+00:06:14,769 --> 00:06:17,346
+<Default><b>By taking you down!</b></Default>
+
+152
+00:06:17,370 --> 00:06:19,846
+<Default><b>[whooshes]</b></Default>
+
+153
+00:06:19,870 --> 00:06:22,815
+<Default><b>[blasts]</b></Default>
+
+154
+00:06:22,839 --> 00:06:24,286
+<Default><b>[gasps]</b></Default>
+
+155
+00:06:24,310 --> 00:06:25,755
+<Default><b>[dramatic music]</b></Default>
+
+156
+00:06:25,779 --> 00:06:28,230
+<Default><b>[groans]</b></Default>
+
+157
+00:06:30,170 --> 00:06:31,146
+<Default><b>[thuds]</b></Default>
+
+158
+00:06:31,170 --> 00:06:32,147
+<Default><b>[gasps]</b></Default>
+
+159
+00:06:32,171 --> 00:06:33,795
+<Default><b>That's not good.</b></Default>
+
+160
+00:06:33,819 --> 00:06:37,596
+<Default><b>♪♪</b></Default>
+
+161
+00:06:37,620 --> 00:06:39,040
+<Default><b>[grunts]</b></Default>
+
+162
+00:06:40,750 --> 00:06:41,750
+<Default><b>What?</b></Default>
+
+163
+00:06:42,560 --> 00:06:45,440
+<Default><b>GRANT YOUR POWER TO THE TARGET
+TO MAKE THEM TRANSFORM?</b></Default>
+
+164
+00:06:46,069 --> 00:06:48,560
+<Default><b>[beeping]</b></Default>
+
+165
+00:06:50,060 --> 00:06:52,550
+<Default><b>[thuds]</b></Default>
+
+166
+00:06:57,529 --> 00:06:58,865
+<Default><b>[NAOFUMI] Fohl.</b></Default>
+
+167
+00:06:58,889 --> 00:07:00,076
+<Default><b>You ready?</b></Default>
+
+168
+00:07:00,100 --> 00:07:02,380
+<Default><b>It's time for you
+to get even stronger.</b></Default>
+
+169
+00:07:03,410 --> 00:07:04,466
+<Default><b>Yes.</b></Default>
+
+170
+00:07:04,490 --> 00:07:05,650
+<Default><b>I'm ready.</b></Default>
+
+171
+00:07:06,569 --> 00:07:10,065
+<Default><b>For Atla's sake, and more
+than anything, for my own.</b></Default>
+
+172
+00:07:10,089 --> 00:07:12,910
+<Default><b>I want to be strong
+enough to beat him!</b></Default>
+
+173
+00:07:14,350 --> 00:07:15,430
+<Default><b>That so?</b></Default>
+
+174
+00:07:17,889 --> 00:07:19,435
+<Default><b>Then let's do this!</b></Default>
+
+175
+00:07:19,459 --> 00:07:21,976
+<Default><b>GRANT YOUR POWER TO THE TARGET
+TO MAKE THEM TRANSFORM?</b></Default>
+
+176
+00:07:22,000 --> 00:07:24,425
+<Default><b>[heroic music]</b></Default>
+
+177
+00:07:24,449 --> 00:07:26,875
+<Default><b>[blasting]</b></Default>
+
+178
+00:07:26,899 --> 00:07:32,266
+<Default><b>♪♪</b></Default>
+
+179
+00:07:32,290 --> 00:07:33,786
+<Default><b>What is this?</b></Default>
+
+180
+00:07:33,810 --> 00:07:35,266
+<Default><b>What's happening?</b></Default>
+
+181
+00:07:35,290 --> 00:07:37,466
+<Default><b>Master Naofumi</b></Default>
+
+182
+00:07:37,490 --> 00:07:40,185
+<Default><b>This is truly
+a divine miracle.</b></Default>
+
+183
+00:07:40,209 --> 00:07:41,946
+<Default><b>Then they were true.</b></Default>
+
+184
+00:07:41,970 --> 00:07:44,576
+<Default><b>The legends
+were all true.</b></Default>
+
+185
+00:07:44,600 --> 00:07:47,466
+<Default><b>[uplifting music]</b></Default>
+
+186
+00:07:47,490 --> 00:07:53,755
+<Default><b>♪♪</b></Default>
+
+187
+00:07:53,779 --> 00:07:54,956
+<Default><b>This power.</b></Default>
+
+188
+00:07:54,980 --> 00:07:56,476
+<Default><b>Incredible.</b></Default>
+
+189
+00:07:56,500 --> 00:07:59,755
+<Default><b>Could it really be me?</b></Default>
+
+190
+00:07:59,779 --> 00:08:02,435
+<Default><b>This is impossible!</b></Default>
+
+191
+00:08:02,459 --> 00:08:04,716
+<Default><b>That's quite
+impressive, Naofumi.</b></Default>
+
+192
+00:08:04,740 --> 00:08:07,675
+<Default><b>Your skill transformed
+full into a beast too.</b></Default>
+
+193
+00:08:07,699 --> 00:08:09,355
+<Default><b>So it seems.</b></Default>
+
+194
+00:08:09,379 --> 00:08:13,755
+<Default><b>This form, it's giving
+a buff to all his statuses.</b></Default>
+
+195
+00:08:13,779 --> 00:08:16,600
+<Default><b>He's stronger than Filo
+and Raphtalia like this.</b></Default>
+
+196
+00:08:18,870 --> 00:08:21,115
+<Default><b>[beeping]</b></Default>
+
+197
+00:08:21,139 --> 00:08:24,115
+<Default><b>Although it looks like this
+power comes with a time limit.</b></Default>
+
+198
+00:08:24,139 --> 00:08:25,116
+<Default><b>Hey, Fohl!</b></Default>
+
+199
+00:08:25,140 --> 00:08:26,820
+<Default><b>Hurry up and crush him!</b></Default>
+
+200
+00:08:28,740 --> 00:08:30,216
+<Default><b>[evil chuckle]</b></Default>
+
+201
+00:08:30,240 --> 00:08:33,135
+<Default><b>No matter what blessings
+the Shield Hero gives you</b></Default>
+
+202
+00:08:33,159 --> 00:08:34,426
+<Default><b>it won't help!</b></Default>
+
+203
+00:08:34,450 --> 00:08:37,235
+<Default><b>I will destroy the remnants
+of the old god.</b></Default>
+
+204
+00:08:37,259 --> 00:08:39,919
+<Default><b>And I will build
+a new divine myth!</b></Default>
+
+205
+00:08:42,019 --> 00:08:43,846
+<Default><b>[thuds] What?</b></Default>
+
+206
+00:08:43,870 --> 00:08:44,846
+<Default><b>[grunts]</b></Default>
+
+207
+00:08:44,870 --> 00:08:45,950
+<Default><b>[groans]</b></Default>
+
+208
+00:08:47,220 --> 00:08:48,796
+<Default><b>You're kind of slow.</b></Default>
+
+209
+00:08:48,820 --> 00:08:50,476
+<Default><b>Is this a joke?</b></Default>
+
+210
+00:08:50,500 --> 00:08:53,316
+<Default><b>You cheated in order
+to get stronger</b></Default>
+
+211
+00:08:53,340 --> 00:08:55,635
+<Default><b>and you think that
+makes you special.</b></Default>
+
+212
+00:08:55,659 --> 00:08:57,495
+<Default><b>You don't have
+the right to say that</b></Default>
+
+213
+00:08:57,519 --> 00:08:59,476
+<Default><b>you disgusting monster.</b></Default>
+
+214
+00:08:59,500 --> 00:09:00,635
+<Default><b>A monster?</b></Default>
+
+215
+00:09:00,659 --> 00:09:03,316
+<Default><b>You're really
+calling me a monster?</b></Default>
+
+216
+00:09:03,340 --> 00:09:04,716
+<Default><b>That's impossible.</b></Default>
+
+217
+00:09:04,740 --> 00:09:07,309
+<Default><b>In this form, I
+am like a god!</b></Default>
+
+218
+00:09:09,820 --> 00:09:11,395
+<Default><b>[groans]</b></Default>
+
+219
+00:09:11,419 --> 00:09:12,635
+<Default><b>No.</b></Default>
+
+220
+00:09:12,659 --> 00:09:15,676
+<Default><b>I'm the monster?</b></Default>
+
+221
+00:09:15,700 --> 00:09:16,836
+<Default><b>No!</b></Default>
+
+222
+00:09:16,860 --> 00:09:18,476
+<Default><b>No!</b></Default>
+
+223
+00:09:18,500 --> 00:09:21,395
+<Default><b>This... this can't be.</b></Default>
+
+224
+00:09:21,419 --> 00:09:23,056
+<Default><b>It just can't be!</b></Default>
+
+225
+00:09:23,080 --> 00:09:25,049
+<Default><b>[yells]</b></Default>
+
+226
+00:09:27,019 --> 00:09:28,980
+<Default><b>[thuds]</b></Default>
+
+227
+00:09:29,980 --> 00:09:31,155
+<Default><b>Atla?</b></Default>
+
+228
+00:09:31,179 --> 00:09:32,375
+<Default><b>Listen to me.</b></Default>
+
+229
+00:09:32,399 --> 00:09:34,155
+<Default><b>Focus all your power
+on a single point</b></Default>
+
+230
+00:09:34,179 --> 00:09:35,916
+<Default><b>and then break through.</b></Default>
+
+231
+00:09:35,940 --> 00:09:37,905
+<Default><b>All right, you got it.</b></Default>
+
+232
+00:09:37,929 --> 00:09:40,326
+<Default><b>[determined music]</b></Default>
+
+233
+00:09:40,350 --> 00:09:42,755
+<Default><b>♪♪</b></Default>
+
+234
+00:09:42,779 --> 00:09:45,279
+<Default><b>Now, whatever you
+do, don't let go!</b></Default>
+
+235
+00:09:47,299 --> 00:09:48,276
+<Default><b>I see.</b></Default>
+
+236
+00:09:48,300 --> 00:09:49,515
+<Default><b>If I'm not mistaken</b></Default>
+
+237
+00:09:49,539 --> 00:09:50,836
+<Default><b>there is an
+ancient white tiger</b></Default>
+
+238
+00:09:50,860 --> 00:09:52,196
+<Default><b>battle technique.</b></Default>
+
+239
+00:09:52,220 --> 00:09:54,635
+<Default><b>They call it Tyrant
+Tiger Strike.</b></Default>
+
+240
+00:09:54,659 --> 00:09:56,395
+<Default><b>Tyran and Lucia.</b></Default>
+
+241
+00:09:56,419 --> 00:09:59,226
+<Default><b>Are you both
+watching this?</b></Default>
+
+242
+00:09:59,250 --> 00:10:02,155
+<Default><b>[grunts]</b></Default>
+
+243
+00:10:02,179 --> 00:10:04,620
+<Default><b>[yelling]</b></Default>
+
+244
+00:10:13,889 --> 00:10:16,330
+<Default><b>[roars]</b></Default>
+
+245
+00:10:19,779 --> 00:10:20,875
+<Default><b>No!</b></Default>
+
+246
+00:10:20,899 --> 00:10:23,316
+<Default><b>It wasn't supposed
+to be this way!</b></Default>
+
+247
+00:10:23,340 --> 00:10:26,540
+<Default><b>That drug was supposed to make
+me the most powerful beast man!</b></Default>
+
+248
+00:10:28,139 --> 00:10:30,676
+<Default><b>How could they do this?</b></Default>
+
+249
+00:10:30,700 --> 00:10:32,260
+<Default><b>They all tricked me!</b></Default>
+
+250
+00:10:34,480 --> 00:10:35,926
+<Default><b>[blasts]</b></Default>
+
+251
+00:10:35,950 --> 00:10:37,909
+<Default><b>[yells]</b></Default>
+
+252
+00:10:40,850 --> 00:10:42,809
+<Default><b>[booms]</b></Default>
+
+253
+00:10:46,740 --> 00:10:48,260
+<Default><b>What the... [yells]</b></Default>
+
+254
+00:10:49,179 --> 00:10:50,375
+<Default><b>We did it, Brother.</b></Default>
+
+255
+00:10:50,399 --> 00:10:52,319
+<Default><b>We defeated
+that old traitor.</b></Default>
+
+256
+00:10:54,379 --> 00:10:56,196
+<Default><b>Wait, your body.</b></Default>
+
+257
+00:10:56,220 --> 00:10:58,066
+<Default><b>It's back to normal.</b></Default>
+
+258
+00:10:58,090 --> 00:10:59,067
+<Default><b>[sighs]</b></Default>
+
+259
+00:10:59,091 --> 00:11:01,556
+<Default><b>[gentle music]</b></Default>
+
+260
+00:11:01,580 --> 00:11:02,716
+<Default><b>[ETHAN] Fohl!</b></Default>
+
+261
+00:11:02,740 --> 00:11:04,145
+<Default><b>Atla!</b></Default>
+
+262
+00:11:04,169 --> 00:11:05,645
+<Default><b>You did it.</b></Default>
+
+263
+00:11:05,669 --> 00:11:07,865
+<Default><b>You were able to get revenge
+for your father's death.</b></Default>
+
+264
+00:11:07,889 --> 00:11:10,019
+<Default><b>[gasping]</b></Default>
+
+265
+00:11:11,419 --> 00:11:16,905
+<Default><b>Father, I finally
+avenged you.</b></Default>
+
+266
+00:11:16,929 --> 00:11:18,235
+<Default><b>[gasps]</b></Default>
+
+267
+00:11:18,259 --> 00:11:19,436
+<Default><b>Oh no, Brother.</b></Default>
+
+268
+00:11:19,460 --> 00:11:20,515
+<Default><b>Is something wrong?</b></Default>
+
+269
+00:11:20,539 --> 00:11:22,155
+<Default><b>You're not
+hurt, are you?</b></Default>
+
+270
+00:11:22,179 --> 00:11:25,076
+<Default><b>Atla, you should
+probably get off him now.</b></Default>
+
+271
+00:11:25,100 --> 00:11:26,615
+<Default><b>Why would I do that?</b></Default>
+
+272
+00:11:26,639 --> 00:11:29,615
+<Default><b>[RAPHTALIA] Because I'm pretty
+sure you're crushing him.</b></Default>
+
+273
+00:11:29,639 --> 00:11:31,995
+<Default><b>[ATLA] There's no way
+my brother is that weak.</b></Default>
+
+274
+00:11:32,019 --> 00:11:34,806
+<Default><b>[FILO]
+Wow. Fohl's all squished!</b></Default>
+
+275
+00:11:34,830 --> 00:11:36,270
+<Default><b>[SADEENA] Oh, my.</b></Default>
+
+276
+00:11:39,659 --> 00:11:42,316
+<Default><b>[NAOFUMI]
+The following day, a search</b></Default>
+
+277
+00:11:42,340 --> 00:11:45,755
+<Default><b>began for whoever it was that
+gave that drug to Jaralis</b></Default>
+
+278
+00:11:45,779 --> 00:11:48,596
+<Default><b>and talked him
+into committing treason.</b></Default>
+
+279
+00:11:48,620 --> 00:11:50,765
+<Default><b>But they seemed to have
+completely vanished</b></Default>
+
+280
+00:11:50,789 --> 00:11:53,166
+<Default><b>when Jaralis
+was defeated.</b></Default>
+
+281
+00:11:53,190 --> 00:11:56,566
+<Default><b>Instead, it was decided that
+we'd investigate the drug.</b></Default>
+
+282
+00:11:56,590 --> 00:11:58,919
+<Default><b>So I called
+on Rat to help.</b></Default>
+
+283
+00:12:01,269 --> 00:12:02,645
+<Default><b>It seems like
+this will certainly</b></Default>
+
+284
+00:12:02,669 --> 00:12:04,309
+<Default><b>be worth looking into.</b></Default>
+
+285
+00:12:05,389 --> 00:12:08,765
+<Default><b>[WERNER] I apologize once
+again for our harsh words</b></Default>
+
+286
+00:12:08,789 --> 00:12:10,549
+<Default><b>towards the
+white tigers.</b></Default>
+
+287
+00:12:11,350 --> 00:12:14,785
+<Default><b>You are true people of
+Siltvelt, and because of that</b></Default>
+
+288
+00:12:14,809 --> 00:12:17,346
+<Default><b>we will give you the respect
+you both deserve.</b></Default>
+
+289
+00:12:17,370 --> 00:12:19,830
+<Default><b>[relieved sighs]</b></Default>
+
+290
+00:12:22,789 --> 00:12:25,306
+<Default><b>That said, since
+we won the duel</b></Default>
+
+291
+00:12:25,330 --> 00:12:27,326
+<Default><b>will you finally
+honor our arrangement?</b></Default>
+
+292
+00:12:27,350 --> 00:12:30,885
+<Default><b>[WERNER] Yes. But I must inform
+you that the duel doesn't</b></Default>
+
+293
+00:12:30,909 --> 00:12:32,226
+<Default><b>actually matter anymore.</b></Default>
+
+294
+00:12:32,250 --> 00:12:33,365
+<Default><b>Huh?</b></Default>
+
+295
+00:12:33,389 --> 00:12:35,365
+<Default><b>[ELDER]
+There's an ancient legend.</b></Default>
+
+296
+00:12:35,389 --> 00:12:38,326
+<Default><b>It says that the one who is
+able to reveal the true form</b></Default>
+
+297
+00:12:38,350 --> 00:12:40,605
+<Default><b>of the people
+of Siltelt will be known</b></Default>
+
+298
+00:12:40,629 --> 00:12:43,846
+<Default><b>as "The Hero
+of the Time to Come."</b></Default>
+
+299
+00:12:43,870 --> 00:12:45,186
+<Default><b>[WERNER]
+All will be arranged for you</b></Default>
+
+300
+00:12:45,210 --> 00:12:47,285
+<Default><b>as you have requested</b></Default>
+
+301
+00:12:47,309 --> 00:12:49,846
+<Default><b>The ship to Q'ten Lo
+is being prepared</b></Default>
+
+302
+00:12:49,870 --> 00:12:51,826
+<Default><b>and it will be
+ready in two days.</b></Default>
+
+303
+00:12:51,850 --> 00:12:54,686
+<Default><b>[stammers]</b></Default>
+
+304
+00:12:54,710 --> 00:12:57,566
+<Default><b>And all we dare ask is
+that you enjoy your time</b></Default>
+
+305
+00:12:57,590 --> 00:12:59,285
+<Default><b>in Siltvelt until then.</b></Default>
+
+306
+00:12:59,309 --> 00:13:02,485
+<Default><b>Now, may I suggest that
+perhaps you take a tour</b></Default>
+
+307
+00:13:02,509 --> 00:13:04,389
+<Default><b>of the castle
+town together?</b></Default>
+
+308
+00:13:05,200 --> 00:13:07,190
+<Default><b>[village chatter]</b></Default>
+
+309
+00:13:09,669 --> 00:13:11,806
+<Default><b>[SADEENA]
+I'm so happy for both of you.</b></Default>
+
+310
+00:13:11,830 --> 00:13:13,846
+<Default><b>[FOHL] Yeah, thanks.</b></Default>
+
+311
+00:13:13,870 --> 00:13:16,005
+<Default><b>But I'm just happy I was
+able to restore my father's</b></Default>
+
+312
+00:13:16,029 --> 00:13:17,686
+<Default><b>good name, you know?</b></Default>
+
+313
+00:13:17,710 --> 00:13:20,005
+<Default><b>And I'm just happy that
+I was finally able to get</b></Default>
+
+314
+00:13:20,029 --> 00:13:21,355
+<Default><b>out of that damn castle.</b></Default>
+
+315
+00:13:21,379 --> 00:13:22,625
+<Default><b>Hero!</b></Default>
+
+316
+00:13:22,649 --> 00:13:24,926
+<Default><b>[giggles]</b></Default>
+
+317
+00:13:24,950 --> 00:13:26,405
+<Default><b>Werner and the others
+were saying</b></Default>
+
+318
+00:13:26,429 --> 00:13:28,806
+<Default><b>something about
+a big parade.</b></Default>
+
+319
+00:13:28,830 --> 00:13:30,485
+<Default><b>We can look
+into things like that</b></Default>
+
+320
+00:13:30,509 --> 00:13:33,926
+<Default><b>once our business with Q'ten
+Lo and the Phoenix are settled.</b></Default>
+
+321
+00:13:33,950 --> 00:13:36,076
+<Default><b>But more
+importantly, Fohl.</b></Default>
+
+322
+00:13:36,100 --> 00:13:37,405
+<Default><b>Huh?</b></Default>
+
+323
+00:13:37,429 --> 00:13:39,686
+<Default><b>There's somewhere you
+wanted to go, right?</b></Default>
+
+324
+00:13:39,710 --> 00:13:40,806
+<Default><b>Is that OK?</b></Default>
+
+325
+00:13:40,830 --> 00:13:43,296
+<Default><b>Where do you want
+to go, Brother?</b></Default>
+
+326
+00:13:43,320 --> 00:13:46,296
+<Default><b>[somber music]</b></Default>
+
+327
+00:13:46,320 --> 00:13:48,245
+<Default><b>♪♪</b></Default>
+
+328
+00:13:48,269 --> 00:13:52,409
+<Default><b>This grave, it belongs
+to our parents, doesn't it?</b></Default>
+
+329
+00:13:54,429 --> 00:13:56,605
+<Default><b>[NAOFUMI] Now that Fohl
+and Atla's parents' honor</b></Default>
+
+330
+00:13:56,629 --> 00:14:00,285
+<Default><b>was finally restored
+upon Jaralis's defeat</b></Default>
+
+331
+00:14:00,309 --> 00:14:03,446
+<Default><b>their graves were
+scheduled to be moved.</b></Default>
+
+332
+00:14:03,470 --> 00:14:05,926
+<Default><b>But Fohl refused.</b></Default>
+
+333
+00:14:05,950 --> 00:14:07,765
+<Default><b>He said he knew
+that they both would</b></Default>
+
+334
+00:14:07,789 --> 00:14:10,446
+<Default><b>have wanted
+to remain here.</b></Default>
+
+335
+00:14:10,470 --> 00:14:12,726
+<Default><b>Fohl's sudden growth is
+just something that happens</b></Default>
+
+336
+00:14:12,750 --> 00:14:15,125
+<Default><b>to Demi-humans, I think.</b></Default>
+
+337
+00:14:15,149 --> 00:14:19,086
+<Default><b>Becoming a beast man and then a
+beast, but more than anything</b></Default>
+
+338
+00:14:19,110 --> 00:14:21,645
+<Default><b>defeating the powerful foe
+that killed his parents</b></Default>
+
+339
+00:14:21,669 --> 00:14:24,009
+<Default><b>was the greatest
+catalyst for it.</b></Default>
+
+340
+00:14:25,789 --> 00:14:28,659
+<Default><b>Atla was extremely
+jealous of him.</b></Default>
+
+341
+00:14:31,389 --> 00:14:34,466
+<Default><b>Now, Fohl and Atla</b></Default>
+
+342
+00:14:34,490 --> 00:14:36,346
+<Default><b>There's another place
+I need to show you two.</b></Default>
+
+343
+00:14:36,370 --> 00:14:38,210
+<Default><b>[gasps]</b></Default>
+
+344
+00:14:40,509 --> 00:14:43,485
+<Default><b>You're showing us
+their parents' home?</b></Default>
+
+345
+00:14:43,509 --> 00:14:45,446
+<Default><b>Fohl decided
+to sell it in order</b></Default>
+
+346
+00:14:45,470 --> 00:14:47,605
+<Default><b>to pay for all of Atla's
+medical treatments</b></Default>
+
+347
+00:14:47,629 --> 00:14:49,966
+<Default><b>shortly after
+their parents passed away.</b></Default>
+
+348
+00:14:49,990 --> 00:14:52,005
+<Default><b>I'm so sorry, Atla.</b></Default>
+
+349
+00:14:52,029 --> 00:14:53,166
+<Default><b>It's OK, Brother.</b></Default>
+
+350
+00:14:53,190 --> 00:14:55,686
+<Default><b>You don't need
+to apologize to me.</b></Default>
+
+351
+00:14:55,710 --> 00:14:59,005
+<Default><b>But the new owner heard
+what happened and would</b></Default>
+
+352
+00:14:59,029 --> 00:15:00,476
+<Default><b>like to return
+it to you.</b></Default>
+
+353
+00:15:00,500 --> 00:15:01,477
+<Default><b>[SADEENA] Really?</b></Default>
+
+354
+00:15:01,501 --> 00:15:04,046
+<Default><b>What a generous person.</b></Default>
+
+355
+00:15:04,070 --> 00:15:07,226
+<Default><b>Yeah, it was someone close to
+my father who bought the house.</b></Default>
+
+356
+00:15:07,250 --> 00:15:09,525
+<Default><b>And they paid
+a lot for it, too.</b></Default>
+
+357
+00:15:09,549 --> 00:15:11,309
+<Default><b>That's very
+kind of them.</b></Default>
+
+358
+00:15:12,509 --> 00:15:13,905
+<Default><b>[thuds]</b></Default>
+
+359
+00:15:13,929 --> 00:15:15,209
+<Default><b>[FILO groans]</b></Default>
+
+360
+00:15:15,929 --> 00:15:18,326
+<Default><b>The road was all
+bumpy, wasn't it?</b></Default>
+
+361
+00:15:18,350 --> 00:15:19,966
+<Default><b>[FOHL] We made it.</b></Default>
+
+362
+00:15:19,990 --> 00:15:21,176
+<Default><b>All right.</b></Default>
+
+363
+00:15:21,200 --> 00:15:23,686
+<Default><b>So which one of these
+is your house?</b></Default>
+
+364
+00:15:23,710 --> 00:15:27,645
+<Default><b>That big one, that couldn't
+possibly be it, could it?</b></Default>
+
+365
+00:15:27,669 --> 00:15:30,265
+<Default><b>[FOHL]
+Actually, it is.</b></Default>
+
+366
+00:15:30,289 --> 00:15:31,809
+<Default><b>[NAOFUMI]
+Seriously?</b></Default>
+
+367
+00:15:33,639 --> 00:15:35,485
+<Default><b>[RAPHTALIA]
+It's huge.</b></Default>
+
+368
+00:15:35,509 --> 00:15:38,446
+<Default><b>Somebody put a lot
+of thought into these details.</b></Default>
+
+369
+00:15:38,470 --> 00:15:41,245
+<Default><b>Those windows
+remind me of shoji.</b></Default>
+
+370
+00:15:41,269 --> 00:15:42,726
+<Default><b>[RAPHTALIA] Shoji?</b></Default>
+
+371
+00:15:42,750 --> 00:15:45,806
+<Default><b>It seems similar
+to Chinese decor.</b></Default>
+
+372
+00:15:45,830 --> 00:15:47,346
+<Default><b>[FILO] Master, look!</b></Default>
+
+373
+00:15:47,370 --> 00:15:48,686
+<Default><b>Huh?</b></Default>
+
+374
+00:15:48,710 --> 00:15:51,645
+<Default><b>This tiger's eyes
+are both missing.</b></Default>
+
+375
+00:15:51,669 --> 00:15:53,446
+<Default><b>[FOHL]
+Yeah, that's right.</b></Default>
+
+376
+00:15:53,470 --> 00:15:55,726
+<Default><b>We sold anything
+worth money.</b></Default>
+
+377
+00:15:55,750 --> 00:15:57,346
+<Default><b>Even though you
+were a rich kid</b></Default>
+
+378
+00:15:57,370 --> 00:15:58,826
+<Default><b>you still had
+it rough, huh?</b></Default>
+
+379
+00:15:58,850 --> 00:16:00,645
+<Default><b>Would you shut up?</b></Default>
+
+380
+00:16:00,669 --> 00:16:02,726
+<Default><b>This is my
+father's study.</b></Default>
+
+381
+00:16:02,750 --> 00:16:05,346
+<Default><b>And they actually left
+it exactly like it was.</b></Default>
+
+382
+00:16:05,370 --> 00:16:07,290
+<Default><b>Brings back so
+many memories.</b></Default>
+
+383
+00:16:08,909 --> 00:16:09,966
+<Default><b>[gasps]</b></Default>
+
+384
+00:16:09,990 --> 00:16:11,826
+<Default><b>It looks like
+a changing room.</b></Default>
+
+385
+00:16:11,850 --> 00:16:14,770
+<Default><b>There used to be traditional
+white tiger clothing here.</b></Default>
+
+386
+00:16:16,590 --> 00:16:18,056
+<Default><b>But this is.</b></Default>
+
+387
+00:16:18,080 --> 00:16:19,436
+<Default><b>That's weird.</b></Default>
+
+388
+00:16:19,460 --> 00:16:21,785
+<Default><b>Didn't you say before
+that you sold everything?</b></Default>
+
+389
+00:16:21,809 --> 00:16:23,365
+<Default><b>Yeah, so why?</b></Default>
+
+390
+00:16:23,389 --> 00:16:25,726
+<Default><b>You don't think they
+returned it, do you?</b></Default>
+
+391
+00:16:25,750 --> 00:16:30,806
+<Default><b>I mean, from
+my perspective</b></Default>
+
+392
+00:16:30,830 --> 00:16:32,926
+<Default><b>I had eventually planned
+to make enough money</b></Default>
+
+393
+00:16:32,950 --> 00:16:34,885
+<Default><b>to be able to
+buy it all back.</b></Default>
+
+394
+00:16:34,909 --> 00:16:36,405
+<Default><b>[NAOFUMI]
+That's good, but...</b></Default>
+
+395
+00:16:36,429 --> 00:16:39,125
+<Default><b>Remember, you still owe me
+quite a bit of money, too.</b></Default>
+
+396
+00:16:39,149 --> 00:16:40,126
+<Default><b>[grimaces]</b></Default>
+
+397
+00:16:40,150 --> 00:16:42,046
+<Default><b>Seriously,
+Master Naofumi?</b></Default>
+
+398
+00:16:42,070 --> 00:16:43,047
+<Default><b>I know, Atla.</b></Default>
+
+399
+00:16:43,071 --> 00:16:44,296
+<Default><b>Want to try it on?</b></Default>
+
+400
+00:16:44,320 --> 00:16:47,176
+<Default><b>Huh? Raphtalia, do you
+think it'll make</b></Default>
+
+401
+00:16:47,200 --> 00:16:50,635
+<Default><b>me as attractive as you were
+when you wore your miko outfit?</b></Default>
+
+402
+00:16:50,659 --> 00:16:54,816
+<Default><b>Hmm. Is that really the only
+time I've been attractive?</b></Default>
+
+403
+00:16:54,840 --> 00:16:55,976
+<Default><b>Who cares.</b></Default>
+
+404
+00:16:56,000 --> 00:16:57,976
+<Default><b>I'm going to check
+out the kitchen.</b></Default>
+
+405
+00:16:58,000 --> 00:17:00,836
+<Default><b>If we're staying here</b></Default>
+
+406
+00:17:00,860 --> 00:17:02,836
+<Default><b>Come on. I'm
+going to change.</b></Default>
+
+407
+00:17:02,860 --> 00:17:05,085
+<Default><b>So you need to leave
+the room, Brother.</b></Default>
+
+408
+00:17:05,109 --> 00:17:06,545
+<Default><b>But Atla!</b></Default>
+
+409
+00:17:06,569 --> 00:17:09,456
+<Default><b>[NAOFUMI] Raphtalia, you stay
+and help her change.</b></Default>
+
+410
+00:17:09,480 --> 00:17:11,136
+<Default><b>- Atla!
+[RAPHTALIA] All right.</b></Default>
+
+411
+00:17:11,160 --> 00:17:13,116
+<Default><b>I'll come by so I can show
+off my fancy outfit later.</b></Default>
+
+412
+00:17:13,140 --> 00:17:14,116
+<Default><b>Bye!</b></Default>
+
+413
+00:17:14,140 --> 00:17:15,117
+<Default><b>See you soon.</b></Default>
+
+414
+00:17:15,141 --> 00:17:16,255
+<Default><b>Whee!</b></Default>
+
+415
+00:17:16,279 --> 00:17:17,376
+<Default><b>[NAOFUMI]
+Everything in the kitchen</b></Default>
+
+416
+00:17:17,400 --> 00:17:19,176
+<Default><b>has been well
+maintained.</b></Default>
+
+417
+00:17:19,200 --> 00:17:21,376
+<Default><b>We can work with this.</b></Default>
+
+418
+00:17:21,400 --> 00:17:22,956
+<Default><b>Now we just
+need ingredients.</b></Default>
+
+419
+00:17:22,980 --> 00:17:23,957
+<Default><b>[NAOFUMI]
+Shield Hero.</b></Default>
+
+420
+00:17:23,981 --> 00:17:25,456
+<Default><b>Hmm?</b></Default>
+
+421
+00:17:25,480 --> 00:17:28,156
+<Default><b>If you'd allow me, I'd like
+to make tonight's dinner.</b></Default>
+
+422
+00:17:28,180 --> 00:17:29,180
+<Default><b>Wha...</b></Default>
+
+423
+00:17:30,799 --> 00:17:32,696
+<Default><b>[FOHL] Unfortunately</b></Default>
+
+424
+00:17:32,720 --> 00:17:35,495
+<Default><b>remember much about her
+life here or anything</b></Default>
+
+425
+00:17:35,519 --> 00:17:37,495
+<Default><b>about our mom and dad.</b></Default>
+
+426
+00:17:37,519 --> 00:17:40,335
+<Default><b>So if possible</b></Default>
+
+427
+00:17:40,359 --> 00:17:42,936
+<Default><b>I want to at least let
+her try some of the meals</b></Default>
+
+428
+00:17:42,960 --> 00:17:44,936
+<Default><b>that Mom used to make.</b></Default>
+
+429
+00:17:44,960 --> 00:17:47,040
+<Default><b>[NAOFUMI]
+Mom's home cooking, huh?</b></Default>
+
+430
+00:17:47,750 --> 00:17:50,726
+<Default><b>[gentle music]</b></Default>
+
+431
+00:17:50,750 --> 00:17:57,750
+<Default><b>♪♪</b></Default>
+
+432
+00:18:21,519 --> 00:18:23,240
+<Default><b>[sighs]</b></Default>
+
+433
+00:18:27,890 --> 00:18:29,206
+<Default><b>Oh, wow.</b></Default>
+
+434
+00:18:29,230 --> 00:18:31,456
+<Default><b>I've never tasted
+anything like this before.</b></Default>
+
+435
+00:18:31,480 --> 00:18:32,535
+<Default><b>But it's good.</b></Default>
+
+436
+00:18:32,559 --> 00:18:33,696
+<Default><b>I see.</b></Default>
+
+437
+00:18:33,720 --> 00:18:35,936
+<Default><b>Are you going
+to keep that on, Atla?</b></Default>
+
+438
+00:18:35,960 --> 00:18:38,216
+<Default><b>Do you like it</b></Default>
+
+439
+00:18:38,240 --> 00:18:39,456
+<Default><b>There were some
+for Brother, too</b></Default>
+
+440
+00:18:39,480 --> 00:18:41,400
+<Default><b>that I can get
+ready for him.</b></Default>
+
+441
+00:18:43,960 --> 00:18:45,416
+<Default><b>Hey, Fohl.</b></Default>
+
+442
+00:18:45,440 --> 00:18:46,916
+<Default><b>Mind if I try something?</b></Default>
+
+443
+00:18:46,940 --> 00:18:48,406
+<Default><b>Hmm?</b></Default>
+
+444
+00:18:48,430 --> 00:18:50,900
+<Default><b>[sizzling]</b></Default>
+
+445
+00:18:52,630 --> 00:18:54,470
+<Default><b>[NAOFUMI]
+What do you think?</b></Default>
+
+446
+00:18:57,279 --> 00:18:58,256
+<Default><b>Hmm.</b></Default>
+
+447
+00:18:58,280 --> 00:18:59,815
+<Default><b>[NAOFUMI]
+What's missing?</b></Default>
+
+448
+00:18:59,839 --> 00:19:02,735
+<Default><b>Not enough sweetness
+or tang, I think.</b></Default>
+
+449
+00:19:02,759 --> 00:19:05,396
+<Default><b>The flavoring is off</b></Default>
+
+450
+00:19:05,420 --> 00:19:07,735
+<Default><b>It was more of a gentle scent
+that you could feel right</b></Default>
+
+451
+00:19:07,759 --> 00:19:09,616
+<Default><b>in the back
+of your nose.</b></Default>
+
+452
+00:19:09,640 --> 00:19:11,896
+<Default><b>Well, if we're going
+to replicate flavors like that</b></Default>
+
+453
+00:19:11,920 --> 00:19:13,880
+<Default><b>with these
+seasonings, then...</b></Default>
+
+454
+00:19:16,160 --> 00:19:18,660
+<Default><b>[sizzling]</b></Default>
+
+455
+00:19:19,660 --> 00:19:21,136
+<Default><b>[chomping]</b></Default>
+
+456
+00:19:21,160 --> 00:19:22,137
+<Default><b>[gasps]</b></Default>
+
+457
+00:19:22,161 --> 00:19:23,196
+<Default><b>It's amazing.</b></Default>
+
+458
+00:19:23,220 --> 00:19:25,495
+<Default><b>[satisfied sigh]</b></Default>
+
+459
+00:19:25,519 --> 00:19:26,535
+<Default><b>[FILO] Wow!</b></Default>
+
+460
+00:19:26,559 --> 00:19:28,075
+<Default><b>It looks delicious!</b></Default>
+
+461
+00:19:28,099 --> 00:19:29,815
+<Default><b>[squealing]</b></Default>
+
+462
+00:19:29,839 --> 00:19:32,976
+<Default><b>It's a little unusual</b></Default>
+
+463
+00:19:33,000 --> 00:19:35,495
+<Default><b>This is really
+Siltvelt home cooking.</b></Default>
+
+464
+00:19:35,519 --> 00:19:37,436
+<Default><b>All we need
+is local booze.</b></Default>
+
+465
+00:19:37,460 --> 00:19:39,575
+<Default><b>That's all you
+think about, isn't it?</b></Default>
+
+466
+00:19:39,599 --> 00:19:42,095
+<Default><b>Atla, Fohl worked
+real hard to make</b></Default>
+
+467
+00:19:42,119 --> 00:19:44,055
+<Default><b>this meal just
+right for you.</b></Default>
+
+468
+00:19:44,079 --> 00:19:45,176
+<Default><b>Better eat it all up.</b></Default>
+
+469
+00:19:45,200 --> 00:19:46,177
+<Default><b>Whoa, hey.</b></Default>
+
+470
+00:19:46,201 --> 00:19:47,755
+<Default><b>I can't take
+all the credit.</b></Default>
+
+471
+00:19:47,779 --> 00:19:48,916
+<Default><b>You helped a lot, too.</b></Default>
+
+472
+00:19:48,940 --> 00:19:50,315
+<Default><b>That's not
+important now.</b></Default>
+
+473
+00:19:50,339 --> 00:19:51,616
+<Default><b>I'm really grateful
+for everything</b></Default>
+
+474
+00:19:51,640 --> 00:19:52,755
+<Default><b>you've done, Brother.</b></Default>
+
+475
+00:19:52,779 --> 00:19:55,055
+<Default><b>But let's just eat, OK?</b></Default>
+
+476
+00:19:55,079 --> 00:19:57,035
+<Default><b>It's time to eat!</b></Default>
+
+477
+00:19:57,059 --> 00:19:58,656
+<Default><b>[murmurs excitedly]</b></Default>
+
+478
+00:19:58,680 --> 00:20:00,795
+<Default><b>[RAPHTALIA] It has
+an interesting flavor profile.</b></Default>
+
+479
+00:20:00,819 --> 00:20:02,366
+<Default><b>[FILO] It's better than
+the food at the castle!</b></Default>
+
+480
+00:20:02,390 --> 00:20:04,216
+<Default><b>Atla, will you try
+the potatoes</b></Default>
+
+481
+00:20:04,240 --> 00:20:06,815
+<Default><b>just one more
+time, please?</b></Default>
+
+482
+00:20:06,839 --> 00:20:07,839
+<Default><b>OK.</b></Default>
+
+483
+00:20:14,009 --> 00:20:16,255
+<Default><b>[FOHL]
+So, what do you think?</b></Default>
+
+484
+00:20:16,279 --> 00:20:17,896
+<Default><b>It's good.</b></Default>
+
+485
+00:20:17,920 --> 00:20:19,815
+<Default><b>This flavor.</b></Default>
+
+486
+00:20:19,839 --> 00:20:21,446
+<Default><b>I like the
+way it tastes.</b></Default>
+
+487
+00:20:21,470 --> 00:20:22,510
+<Default><b>[sighs]</b></Default>
+
+488
+00:20:23,799 --> 00:20:25,055
+<Default><b>Makes me happy.</b></Default>
+
+489
+00:20:25,079 --> 00:20:27,176
+<Default><b>Mom used to make
+it all the time.</b></Default>
+
+490
+00:20:27,200 --> 00:20:28,896
+<Default><b>It smells a
+little different.</b></Default>
+
+491
+00:20:28,920 --> 00:20:31,436
+<Default><b>Did you change it from
+the first time I tasted it?</b></Default>
+
+492
+00:20:31,460 --> 00:20:32,595
+<Default><b>[NAOFUMI]
+Not too much.</b></Default>
+
+493
+00:20:32,619 --> 00:20:35,295
+<Default><b>I just used a few
+Melromarc spices.</b></Default>
+
+494
+00:20:35,319 --> 00:20:37,916
+<Default><b>That's all it takes
+to change the flavor this much?</b></Default>
+
+495
+00:20:37,940 --> 00:20:40,206
+<Default><b>I just figured that if
+your mother was a human</b></Default>
+
+496
+00:20:40,230 --> 00:20:43,216
+<Default><b>then these are some of the
+spices that she would've used.</b></Default>
+
+497
+00:20:43,240 --> 00:20:44,735
+<Default><b>It's still hard
+for me to believe</b></Default>
+
+498
+00:20:44,759 --> 00:20:47,156
+<Default><b>that she was able to figure
+it out so quickly.</b></Default>
+
+499
+00:20:47,180 --> 00:20:48,565
+<Default><b>It's a combination.</b></Default>
+
+500
+00:20:48,589 --> 00:20:50,775
+<Default><b>It's a dish that blends
+parts of both Demi-human</b></Default>
+
+501
+00:20:50,799 --> 00:20:55,216
+<Default><b>and human cultures</b></Default>
+
+502
+00:20:55,240 --> 00:20:57,295
+<Default><b>I see.</b></Default>
+
+503
+00:20:57,319 --> 00:21:00,095
+<Default><b>This just makes me
+miss them even more.</b></Default>
+
+504
+00:21:00,119 --> 00:21:02,896
+<Default><b>Master Naofumi
+and Brother</b></Default>
+
+505
+00:21:02,920 --> 00:21:05,136
+<Default><b>would the two of you
+please teach me how</b></Default>
+
+506
+00:21:05,160 --> 00:21:06,716
+<Default><b>to cook food
+like this too?</b></Default>
+
+507
+00:21:06,740 --> 00:21:08,025
+<Default><b>Huh?</b></Default>
+
+508
+00:21:08,049 --> 00:21:10,856
+<Default><b>I want to learn so I
+can be as good as you.</b></Default>
+
+509
+00:21:10,880 --> 00:21:11,857
+<Default><b>[laughs]</b></Default>
+
+510
+00:21:11,881 --> 00:21:13,095
+<Default><b>Yeah!</b></Default>
+
+511
+00:21:13,119 --> 00:21:14,456
+<Default><b>Of course we can.</b></Default>
+
+512
+00:21:14,480 --> 00:21:16,280
+<Default><b>Mom would
+have loved that.</b></Default>
+
+513
+00:21:17,559 --> 00:21:20,015
+<Default><b>[NAOFUMI] And so we
+spent some time at Fohl</b></Default>
+
+514
+00:21:20,039 --> 00:21:21,755
+<Default><b>and Atla's family home.</b></Default>
+
+515
+00:21:21,779 --> 00:21:24,186
+<Default><b>[gentle music]</b></Default>
+
+516
+00:21:24,210 --> 00:21:30,480
+<Default><b>♪♪</b></Default>
+
+517
+00:21:31,480 --> 00:21:32,920
+<Default><b>Come on, Brother!</b></Default>
+
+518
+00:21:38,640 --> 00:21:41,866
+<Default><b>[NAOFUMI]
+Eventually, we set out</b></Default>
+
+519
+00:21:41,890 --> 00:21:45,666
+<Default><b>because preparations with
+the ship were almost complete.</b></Default>
+
+520
+00:21:45,690 --> 00:21:48,156
+<Default><b>Make sure that's
+taken care of, too!</b></Default>
+
+521
+00:21:48,180 --> 00:21:49,180
+<Default><b>Huh?</b></Default>
+
+522
+00:21:53,089 --> 00:21:54,366
+<Default><b>Master Naofumi?</b></Default>
+
+523
+00:21:54,390 --> 00:21:58,065
+<Default><b>Yeah, we need to head
+back to the village.</b></Default>
+
+524
+00:21:58,089 --> 00:22:01,289
+<Default><b>There, we'll decide
+who's going to Q'ten Lo.</b></Default>
+
+525
+00:22:05,190 --> 00:22:07,265
+<Default><b>[non-English singing]</b></Default>
+
+526
+00:22:07,289 --> 00:22:14,289
+<Default><b>♪♪</b></Default>
+
+527
+00:23:36,650 --> 00:23:39,190
+<Default><b>EPISODE 6: LEAVING PORT</b></Default>
+

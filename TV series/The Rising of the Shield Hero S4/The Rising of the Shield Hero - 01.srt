@@ -1,0 +1,2385 @@
+﻿1
+00:00:01,960 --> 00:00:03,880
+<Default><b>[♪ Dramatic
+orchestral music]</b></Default>
+
+2
+00:00:12,750 --> 00:00:14,750
+<Default><b>{\i1}My name is
+Naofumi Iwatani.{\i0}</b></Default>
+
+3
+00:00:15,419 --> 00:00:17,396
+<Default><b>{\i1}Before I was summoned{\i0}
+{\i1}into this world</b></Default>
+
+4
+00:00:17,420 --> 00:00:19,670
+<Default><b>{\i1}I was like any other{\i0}
+{\i1}college student.{\i0}</b></Default>
+
+5
+00:00:19,750 --> 00:00:22,350
+<Default><b>{\i1}But here I am, one{\i0}
+{\i1}of the four Cardinal heroes.{\i0}</b></Default>
+
+6
+00:00:22,420 --> 00:00:23,820
+<Default><b>{\i1}The Shield Hero.{\i0}</b></Default>
+
+7
+00:00:24,289 --> 00:00:26,609
+<Default><b>{\i1}The four heroes have never{\i0}
+{\i1}gotten along.{\i0}</b></Default>
+
+8
+00:00:26,670 --> 00:00:29,510
+<Default><b>{\i1}But as of late, it seems like{\i0}
+{\i1}that might be changing.{\i0}</b></Default>
+
+9
+00:00:29,789 --> 00:00:31,989
+<Default><b>{\i1}Not that we can{\i0}
+{\i1}take advantage of it.{\i0}</b></Default>
+
+10
+00:00:32,039 --> 00:00:34,515
+<Default><b>{\i1}Because just when things{\i0}
+{\i1}were looking up for once</b></Default>
+
+11
+00:00:34,539 --> 00:00:37,170
+<Default><b>{\i1}Raphtalia's
+parents' homeland</b></Default>
+
+12
+00:00:37,250 --> 00:00:39,329
+<Default><b>{\i1}sent assassins
+into my lands.{\i0}</b></Default>
+
+13
+00:00:40,039 --> 00:00:41,759
+<Default><b>{\i1}It all happened so fast.{\i0}</b></Default>
+
+14
+00:00:41,829 --> 00:00:44,015
+<Default><b>{\i1}The second Raphtalia{\i0}
+{\i1}put on the miko outfit{\i0}</b></Default>
+
+15
+00:00:44,039 --> 00:00:46,515
+<Default><b>{\i1}that resembled the clothes{\i0}
+{\i1}worn by their emperor</b></Default>
+
+16
+00:00:46,539 --> 00:00:47,859
+<Default><b>{\i1}they attacked.{\i0}</b></Default>
+
+17
+00:00:49,250 --> 00:00:52,130
+<Default><b>[♪ Dramatic,
+triumphant music]</b></Default>
+
+18
+00:00:55,170 --> 00:00:57,936
+<Default><b>{\i1}Now I'm on my way to Siltvelt{\i0}
+{\i1}to try and catch a ship{\i0}</b></Default>
+
+19
+00:00:57,960 --> 00:01:00,515
+<Default><b>{\i1}to Q'ten Lo, where hopefully{\i0}
+{\i1}I can talk some sense{\i0}</b></Default>
+
+20
+00:01:00,539 --> 00:01:03,299
+<Default><b>{\i1}into these fools and get{\i0}
+{\i1}to the bottom of all this.{\i0}</b></Default>
+
+21
+00:01:05,540 --> 00:01:08,420
+<Default><b>{\i1}On top of all that</b></Default>
+
+22
+00:01:09,209 --> 00:01:10,646
+<Default><b>{\i1}But before it does</b></Default>
+
+23
+00:01:10,670 --> 00:01:13,390
+<Default><b>{\i1}I need to deal with Q'ten Lo{\i0}
+{\i1}for Raphtalia's sake.{\i0}</b></Default>
+
+24
+00:01:13,540 --> 00:01:15,300
+<Default><b>{\i1}Her future
+depends on it.{\i0}</b></Default>
+
+25
+00:01:15,959 --> 00:01:17,079
+<Default><b>[panting]</b></Default>
+
+26
+00:01:17,670 --> 00:01:18,710
+<Default><b>[growl]</b></Default>
+
+27
+00:01:20,170 --> 00:01:21,570
+<Default><b>Yeah. All right.</b></Default>
+
+28
+00:01:21,879 --> 00:01:23,959
+<Default><b>I think it's time
+we take a break.</b></Default>
+
+29
+00:01:28,459 --> 00:01:30,920
+<Default><b>[birds chirping]</b></Default>
+
+30
+00:01:37,040 --> 00:01:38,080
+<Default><b>[growl]</b></Default>
+
+31
+00:01:39,170 --> 00:01:41,879
+<Default><b>Thanks for
+checking on me</b></Default>
+
+32
+00:01:42,170 --> 00:01:43,250
+<Default><b>[sneeze]</b></Default>
+
+33
+00:01:44,500 --> 00:01:46,935
+<Default><b>Seeing as we'll be approaching
+the border soon</b></Default>
+
+34
+00:01:46,959 --> 00:01:49,016
+<Default><b>it's probably best
+I head back to my land</b></Default>
+
+35
+00:01:49,040 --> 00:01:50,680
+<Default><b>and regroup my forces.</b></Default>
+
+36
+00:01:50,750 --> 00:01:51,790
+<Default><b>[growl]</b></Default>
+
+37
+00:01:52,129 --> 00:01:53,209
+<Default><b>Gaelion?</b></Default>
+
+38
+00:01:53,290 --> 00:01:54,490
+<Default><b>What is it?</b></Default>
+
+39
+00:01:55,209 --> 00:01:57,170
+<Default><b>¡Drifa Aqua Blast!</b></Default>
+
+40
+00:01:57,250 --> 00:01:58,790
+<Default><b>[water rushing]</b></Default>
+
+41
+00:01:59,329 --> 00:02:00,449
+<Default><b>[panting]</b></Default>
+
+42
+00:02:03,329 --> 00:02:04,369
+<Default><b>[growl]</b></Default>
+
+43
+00:02:06,500 --> 00:02:08,220
+<Default><b>Did you miss me, Master?</b></Default>
+
+44
+00:02:08,289 --> 00:02:09,329
+<Default><b>¡Raphy!</b></Default>
+
+45
+00:02:09,379 --> 00:02:09,919
+<Default><b>Huh?</b></Default>
+
+46
+00:02:10,080 --> 00:02:10,960
+<Default><b>What the hell?</b></Default>
+
+47
+00:02:11,039 --> 00:02:12,056
+<Default><b>Why are you here?</b></Default>
+
+48
+00:02:12,080 --> 00:02:12,879
+<Default><b>[giggles]</b></Default>
+
+49
+00:02:12,960 --> 00:02:15,240
+<Default><b>At least pretend
+to be happy to see us.</b></Default>
+
+50
+00:02:15,289 --> 00:02:17,265
+<Default><b>How did you
+expect me to react?</b></Default>
+
+51
+00:02:17,289 --> 00:02:19,976
+<Default><b>You three are supposed to be
+off training right now.</b></Default>
+
+52
+00:02:20,000 --> 00:02:22,515
+<Default><b>Why, yes, and that's exactly
+what we were doing.</b></Default>
+
+53
+00:02:22,539 --> 00:02:24,855
+<Default><b>So you're telling me
+it was just a coincidence</b></Default>
+
+54
+00:02:24,879 --> 00:02:26,265
+<Default><b>that you ran
+into me here?</b></Default>
+
+55
+00:02:26,289 --> 00:02:27,539
+<Default><b>Well, um.</b></Default>
+
+56
+00:02:27,710 --> 00:02:29,169
+<Default><b>So you see</b></Default>
+
+57
+00:02:29,250 --> 00:02:30,806
+<Default><b>we were busy training</b></Default>
+
+58
+00:02:30,830 --> 00:02:32,390
+<Default><b>when we met Fitoria.</b></Default>
+
+59
+00:02:32,500 --> 00:02:33,765
+<Default><b>Wait. Fitoria?</b></Default>
+
+60
+00:02:33,789 --> 00:02:35,556
+<Default><b>She told us
+if we headed this way</b></Default>
+
+61
+00:02:35,580 --> 00:02:37,556
+<Default><b>that we would eventually
+run into you.</b></Default>
+
+62
+00:02:37,580 --> 00:02:39,765
+<Default><b>She also mentioned
+she had a request for us</b></Default>
+
+63
+00:02:39,789 --> 00:02:41,556
+<Default><b>she wanted me
+to tell you about.</b></Default>
+
+64
+00:02:41,580 --> 00:02:42,645
+<Default><b>Tell me later.</b></Default>
+
+65
+00:02:42,669 --> 00:02:44,515
+<Default><b>I've got my hands full
+at the moment</b></Default>
+
+66
+00:02:44,539 --> 00:02:47,056
+<Default><b>dealing with something
+that can't be ignored.</b></Default>
+
+67
+00:02:47,080 --> 00:02:48,080
+<Default><b>Raphy?</b></Default>
+
+68
+00:02:48,330 --> 00:02:48,919
+<Default><b>Huh?</b></Default>
+
+69
+00:02:49,169 --> 00:02:50,806
+<Default><b>Can't you at
+least hear her out?</b></Default>
+
+70
+00:02:50,830 --> 00:02:52,855
+<Default><b>Not only did she already pay
+in advance</b></Default>
+
+71
+00:02:52,879 --> 00:02:54,895
+<Default><b>but she also did
+a lot to help us.</b></Default>
+
+72
+00:02:54,919 --> 00:02:55,976
+<Default><b>Oh, really?</b></Default>
+
+73
+00:02:56,000 --> 00:02:58,015
+<Default><b>And how exactly
+did she do that?</b></Default>
+
+74
+00:02:58,039 --> 00:02:59,105
+<Default><b>Just look.</b></Default>
+
+75
+00:02:59,129 --> 00:03:02,015
+<Default><b>In exchange for lowering
+our levels a bit here and there</b></Default>
+
+76
+00:03:02,039 --> 00:03:04,080
+<Default><b>she gave our
+stats a huge boost.</b></Default>
+
+77
+00:03:05,419 --> 00:03:06,899
+<Default><b>{\i1}She isn't kidding.{\i0}</b></Default>
+
+78
+00:03:07,000 --> 00:03:08,105
+<Default><b>{\i1}From the looks of it</b></Default>
+
+79
+00:03:08,129 --> 00:03:10,529
+<Default><b>{\i1}all of their stats{\i0}
+{\i1}have more than doubled.{\i0}</b></Default>
+
+80
+00:03:11,419 --> 00:03:12,899
+<Default><b>It doesn't matter.</b></Default>
+
+81
+00:03:16,210 --> 00:03:17,976
+<Default><b>Will you hold
+on a second?</b></Default>
+
+82
+00:03:18,000 --> 00:03:20,560
+<Default><b>She also helped us with
+acquiring a new class.</b></Default>
+
+83
+00:03:20,629 --> 00:03:23,039
+<Default><b>If you want
+to help her out</b></Default>
+
+84
+00:03:23,129 --> 00:03:25,009
+<Default><b>It's not something
+I can do!</b></Default>
+
+85
+00:03:25,080 --> 00:03:26,240
+<Default><b>Let's see.</b></Default>
+
+86
+00:03:26,379 --> 00:03:29,419
+<Default><b>It sounds like it has to be you
+and me to help Master.</b></Default>
+
+87
+00:03:31,289 --> 00:03:33,249
+<Default><b>Are you two
+talking right now?</b></Default>
+
+88
+00:03:33,289 --> 00:03:34,289
+<Default><b>Yep.</b></Default>
+
+89
+00:03:35,580 --> 00:03:36,580
+<Default><b>I see.</b></Default>
+
+90
+00:03:36,750 --> 00:03:38,550
+<Default><b>So you're off
+to Q'ten Lo.</b></Default>
+
+91
+00:03:38,629 --> 00:03:40,919
+<Default><b>[FILO]
+{\i1}Um, Master has a question.{\i0}</b></Default>
+
+92
+00:03:41,000 --> 00:03:44,186
+<Default><b>{\i1}He wants to know if you're going{\i0}
+{\i1}to kill off the Cardinal heroes{\i0}</b></Default>
+
+93
+00:03:44,210 --> 00:03:47,000
+<Default><b>{\i1}if he decides to ignore{\i0}
+{\i1}the request you have.{\i0}</b></Default>
+
+94
+00:03:48,210 --> 00:03:50,170
+<Default><b>I suppose my
+request can wait.</b></Default>
+
+95
+00:03:50,669 --> 00:03:53,509
+<Default><b>But don't blame me if you
+end up regretting it later.</b></Default>
+
+96
+00:03:53,879 --> 00:03:55,599
+<Default><b>[FILO] {\i1}Whatever he says.{\i0}</b></Default>
+
+97
+00:04:06,419 --> 00:04:08,039
+<Default><b>[♪ Dramatic music]</b></Default>
+
+98
+00:04:10,669 --> 00:04:12,189
+<Default><b>[NAOFUMI] Siltvelt.</b></Default>
+
+99
+00:04:18,329 --> 00:04:20,629
+<Default><b>[♪ Opening music begins]</b></Default>
+
+100
+00:04:25,379 --> 00:04:29,170
+<Default><b>THE RISING OF
+THE SHIELD HERO</b></Default>
+
+101
+00:05:45,079 --> 00:05:47,209
+<Default><b>[♪ opening music ends]</b></Default>
+
+102
+00:05:49,329 --> 00:05:52,579
+<Default><b>EPISODE 1: SILTVELT</b></Default>
+
+103
+00:05:52,709 --> 00:05:54,459
+<Default><b>[♪ tranquil music]</b></Default>
+
+104
+00:05:57,629 --> 00:06:00,709
+<Default><b>My imitation of the Hangen
+Musou Secret Technique.</b></Default>
+
+105
+00:06:00,920 --> 00:06:02,790
+<Default><b>First dance, sun!</b></Default>
+
+106
+00:06:08,829 --> 00:06:10,726
+<Default><b>How in the world
+is someone like Atla</b></Default>
+
+107
+00:06:10,750 --> 00:06:12,105
+<Default><b>able to fight like that?</b></Default>
+
+108
+00:06:12,129 --> 00:06:13,849
+<Default><b>That's incredible, Atla!</b></Default>
+
+109
+00:06:14,170 --> 00:06:15,976
+<Default><b>I guess Claire
+was right then.</b></Default>
+
+110
+00:06:16,000 --> 00:06:18,516
+<Default><b>She really does have a talent
+for Hengen Musou.</b></Default>
+
+111
+00:06:18,540 --> 00:06:20,660
+<Default><b>I have to train harder
+from now on.</b></Default>
+
+112
+00:06:20,709 --> 00:06:23,909
+<Default><b>[WOMEN] The Shield Hero and his
+party have returned, everyone!</b></Default>
+
+113
+00:06:28,629 --> 00:06:31,726
+<Default><b>The plan is for us to reach
+the Siltvelt border by tomorrow.</b></Default>
+
+114
+00:06:31,750 --> 00:06:34,170
+<Default><b>Once we're past it</b></Default>
+
+115
+00:06:34,290 --> 00:06:36,766
+<Default><b>Does that mean I get to pull
+the carriage again?</b></Default>
+
+116
+00:06:36,790 --> 00:06:37,709
+<Default><b>Sure does.</b></Default>
+
+117
+00:06:37,790 --> 00:06:40,805
+<Default><b>But we're not going to be able
+to take it through the portal.</b></Default>
+
+118
+00:06:40,829 --> 00:06:41,896
+<Default><b>Hey, Melty.</b></Default>
+
+119
+00:06:41,920 --> 00:06:44,226
+<Default><b>Can you contact the Queen
+and have her prepare</b></Default>
+
+120
+00:06:44,250 --> 00:06:46,185
+<Default><b>a carriage near
+the border checkpoint?</b></Default>
+
+121
+00:06:46,209 --> 00:06:48,649
+<Default><b>You make it sound like
+an easy thing to do.</b></Default>
+
+122
+00:06:48,920 --> 00:06:51,160
+<Default><b>I suppose it couldn't hurt
+to ask her.</b></Default>
+
+123
+00:06:52,250 --> 00:06:53,930
+<Default><b>Understood. I dare say.</b></Default>
+
+124
+00:06:54,750 --> 00:06:56,670
+<Default><b>So. I know that
+Filo's coming.</b></Default>
+
+125
+00:06:56,709 --> 00:06:57,726
+<Default><b>But who else?</b></Default>
+
+126
+00:06:57,750 --> 00:06:59,750
+<Default><b>Well, it's a
+Demi-human country</b></Default>
+
+127
+00:06:59,790 --> 00:07:01,959
+<Default><b>so taking a royal
+like Melty with us</b></Default>
+
+128
+00:07:02,040 --> 00:07:03,840
+<Default><b>probably
+wouldn't be wise.</b></Default>
+
+129
+00:07:03,920 --> 00:07:05,600
+<Default><b>I'm well aware of that.</b></Default>
+
+130
+00:07:05,920 --> 00:07:08,840
+<Default><b>Besides, someone has to stay
+here and watch your lands.</b></Default>
+
+131
+00:07:08,879 --> 00:07:10,055
+<Default><b>Appreciate it.</b></Default>
+
+132
+00:07:10,079 --> 00:07:12,119
+<Default><b>How about bringing
+Fohl and Atla?</b></Default>
+
+133
+00:07:13,129 --> 00:07:15,609
+<Default><b>The two of them
+have been training every day</b></Default>
+
+134
+00:07:15,709 --> 00:07:17,949
+<Default><b>and pushing each other
+to be stronger.</b></Default>
+
+135
+00:07:35,250 --> 00:07:37,855
+<Default><b>They've come a long way
+from when you picked them up</b></Default>
+
+136
+00:07:37,879 --> 00:07:39,685
+<Default><b>in the arena,
+haven't they?</b></Default>
+
+137
+00:07:39,709 --> 00:07:40,420
+<Default><b>No kidding.</b></Default>
+
+138
+00:07:40,500 --> 00:07:43,579
+<Default><b>And their rate of improvement
+has been quite unbelievable.</b></Default>
+
+139
+00:07:43,670 --> 00:07:45,305
+<Default><b>Seeing as they're
+from Siltvelt</b></Default>
+
+140
+00:07:45,329 --> 00:07:47,435
+<Default><b>they might be useful
+in this scenario.</b></Default>
+
+141
+00:07:47,459 --> 00:07:48,379
+<Default><b>[REN] Now, for me.</b></Default>
+
+142
+00:07:48,459 --> 00:07:49,935
+<Default><b>What about
+the two of us?</b></Default>
+
+143
+00:07:49,959 --> 00:07:52,516
+<Default><b>[NAOFUMI] I'd love for you
+to come along with us</b></Default>
+
+144
+00:07:52,540 --> 00:07:55,226
+<Default><b>but not when your curses
+haven't fully healed yet.</b></Default>
+
+145
+00:07:55,250 --> 00:07:57,185
+<Default><b>But they've both gone
+out of their way</b></Default>
+
+146
+00:07:57,209 --> 00:07:59,055
+<Default><b>to bathe in the Carmina
+hot springs</b></Default>
+
+147
+00:07:59,079 --> 00:08:01,055
+<Default><b>so shouldn't their curses
+be lifted?</b></Default>
+
+148
+00:08:01,079 --> 00:08:02,976
+<Default><b>Well, the hot springs
+are helping</b></Default>
+
+149
+00:08:03,000 --> 00:08:04,976
+<Default><b>but it's still going
+to take some time.</b></Default>
+
+150
+00:08:05,000 --> 00:08:05,790
+<Default><b>Exactly.</b></Default>
+
+151
+00:08:05,879 --> 00:08:07,185
+<Default><b>Just focus on recovering</b></Default>
+
+152
+00:08:07,209 --> 00:08:09,766
+<Default><b>so you're ready to go
+when the Phoenix revives.</b></Default>
+
+153
+00:08:09,790 --> 00:08:10,990
+<Default><b>Understood.</b></Default>
+
+154
+00:08:11,079 --> 00:08:13,555
+<Default><b>I'll stay and help with
+the recovery process</b></Default>
+
+155
+00:08:13,579 --> 00:08:14,939
+<Default><b>if that's okay.</b></Default>
+
+156
+00:08:15,420 --> 00:08:17,629
+<Default><b>So our party
+going will be me</b></Default>
+
+157
+00:08:17,709 --> 00:08:18,805
+<Default><b>Raphtalia</b></Default>
+
+158
+00:08:18,829 --> 00:08:19,829
+<Default><b>Filo</b></Default>
+
+159
+00:08:19,879 --> 00:08:22,209
+<Default><b>Sadeena, Fohl, and Atla.</b></Default>
+
+160
+00:08:22,329 --> 00:08:23,489
+<Default><b>[RAPH] Ra…</b></Default>
+
+161
+00:08:24,040 --> 00:08:26,000
+<Default><b>And of course,
+you too, Raffy.</b></Default>
+
+162
+00:08:26,129 --> 00:08:27,129
+<Default><b>Raffy.</b></Default>
+
+163
+00:08:27,920 --> 00:08:28,629
+<Default><b>So</b></Default>
+
+164
+00:08:28,709 --> 00:08:31,579
+<Default><b>did any Q'ten Lo assassins
+attack while I was away?</b></Default>
+
+165
+00:08:31,670 --> 00:08:33,556
+<Default><b>It's actually been
+rather quiet here.</b></Default>
+
+166
+00:08:33,580 --> 00:08:35,645
+<Default><b>There hasn't been
+any sign of them since</b></Default>
+
+167
+00:08:35,669 --> 00:08:37,105
+<Default><b>that first attack
+happened.</b></Default>
+
+168
+00:08:37,129 --> 00:08:37,629
+<Default><b>What?</b></Default>
+
+169
+00:08:37,710 --> 00:08:39,039
+<Default><b>The people...</b></Default>
+
+170
+00:08:39,129 --> 00:08:40,855
+<Default><b>The people from
+my master's world</b></Default>
+
+171
+00:08:40,879 --> 00:08:42,556
+<Default><b>should be after
+this village too</b></Default>
+
+172
+00:08:42,580 --> 00:08:45,556
+<Default><b>but there is no sign of them
+either. Think what you want.</b></Default>
+
+173
+00:08:45,580 --> 00:08:47,265
+<Default><b>What the hell is
+going on here?</b></Default>
+
+174
+00:08:47,289 --> 00:08:50,265
+<Default><b>Are they being cautious since
+their scouts were eliminated?</b></Default>
+
+175
+00:08:50,289 --> 00:08:52,105
+<Default><b>I hope that's
+what this means.</b></Default>
+
+176
+00:08:52,129 --> 00:08:54,689
+<Default><b>I was looking forward
+to helping fend them off</b></Default>
+
+177
+00:08:54,960 --> 00:08:56,806
+<Default><b>but things here
+have been peaceful.</b></Default>
+
+178
+00:08:56,830 --> 00:08:59,186
+<Default><b>I guess I'll have to be useful
+in other ways.</b></Default>
+
+179
+00:08:59,210 --> 00:09:01,515
+<Default><b>We just have to be ready
+when they attack.</b></Default>
+
+180
+00:09:01,539 --> 00:09:02,895
+<Default><b>Um, by the way.</b></Default>
+
+181
+00:09:02,919 --> 00:09:04,726
+<Default><b>Does anyone know
+where Motoyasu</b></Default>
+
+182
+00:09:04,750 --> 00:09:06,686
+<Default><b>could be or what
+he might be doing?</b></Default>
+
+183
+00:09:06,710 --> 00:09:07,936
+<Default><b>As weird as he is</b></Default>
+
+184
+00:09:07,960 --> 00:09:10,015
+<Default><b>he'd be useful to have
+here right now.</b></Default>
+
+185
+00:09:10,039 --> 00:09:11,159
+<Default><b>[screams]</b></Default>
+
+186
+00:09:12,710 --> 00:09:14,306
+<Default><b>[MOTOYASU] You
+have some nerve</b></Default>
+
+187
+00:09:14,330 --> 00:09:16,730
+<Default><b>thinking you can invade
+my father's lands.</b></Default>
+
+188
+00:09:17,210 --> 00:09:18,855
+<Default><b>You're not
+the first, either.</b></Default>
+
+189
+00:09:18,879 --> 00:09:21,799
+<Default><b>There were also some dudes
+dressed like ninjas earlier.</b></Default>
+
+190
+00:09:22,039 --> 00:09:23,710
+<Default><b>For my father and</b></Default>
+
+191
+00:09:23,879 --> 00:09:26,330
+<Default><b>for my beloved Filo</b></Default>
+
+192
+00:09:26,419 --> 00:09:29,500
+<Default><b>I will destroy you
+and obliterate your souls.</b></Default>
+
+193
+00:09:29,750 --> 00:09:30,210
+<Default><b>[screams]</b></Default>
+
+194
+00:09:30,289 --> 00:09:31,000
+<Default><b>Please stop.</b></Default>
+
+195
+00:09:31,039 --> 00:09:33,476
+<Default><b>I don't want to die
+at the hands of some weirdo.</b></Default>
+
+196
+00:09:33,500 --> 00:09:34,780
+<Default><b>Bye, bye now.</b></Default>
+
+197
+00:09:35,210 --> 00:09:36,610
+<Default><b>[♪ Heroic music]</b></Default>
+
+198
+00:09:37,330 --> 00:09:38,500
+<Default><b>Onward!</b></Default>
+
+199
+00:09:38,580 --> 00:09:41,629
+<Default><b>The next group of evil doers
+demands my retribution.</b></Default>
+
+200
+00:09:41,919 --> 00:09:43,210
+<Default><b>[evil laugh]</b></Default>
+
+201
+00:09:50,039 --> 00:09:52,460
+<Default><b>Well, how do you like
+the carriage, Filo?</b></Default>
+
+202
+00:09:52,580 --> 00:09:54,940
+<Default><b>It feels like they used
+a different wood.</b></Default>
+
+203
+00:09:55,289 --> 00:09:57,809
+<Default><b>Does it really make that big
+of a difference?</b></Default>
+
+204
+00:09:57,879 --> 00:09:58,789
+<Default><b>Mmm…</b></Default>
+
+205
+00:09:58,879 --> 00:10:00,395
+<Default><b>Maybe a little bit.</b></Default>
+
+206
+00:10:00,419 --> 00:10:02,145
+<Default><b>Not sure what
+that means.</b></Default>
+
+207
+00:10:02,169 --> 00:10:03,645
+<Default><b>[GIRL] It's the
+shield hero!</b></Default>
+
+208
+00:10:03,669 --> 00:10:06,395
+<Default><b>[RAPHTALIA] Looks like a
+crowd starting to gather here.</b></Default>
+
+209
+00:10:06,419 --> 00:10:09,605
+<Default><b>I'm guessing that when the Queen
+arranged this carriage for us</b></Default>
+
+210
+00:10:09,629 --> 00:10:12,515
+<Default><b>rumor must have spread through
+town that we were coming.</b></Default>
+
+211
+00:10:12,539 --> 00:10:14,765
+<Default><b>Make sure to stay
+on your guard, everyone.</b></Default>
+
+212
+00:10:14,789 --> 00:10:15,379
+<Default><b>Right.</b></Default>
+
+213
+00:10:15,580 --> 00:10:17,145
+<Default><b>Why don't we
+take a break?</b></Default>
+
+214
+00:10:17,169 --> 00:10:18,039
+<Default><b>I think all of us</b></Default>
+
+215
+00:10:18,129 --> 00:10:20,729
+<Default><b>would be in better spirits
+with a little drink.</b></Default>
+
+216
+00:10:28,000 --> 00:10:31,580
+<Default><b>Pardon me, Your Majesty</b></Default>
+
+217
+00:10:32,169 --> 00:10:34,105
+<Default><b>The false Empress
+and her companions</b></Default>
+
+218
+00:10:34,129 --> 00:10:36,015
+<Default><b>have just
+arrived in Siltvelt.</b></Default>
+
+219
+00:10:36,039 --> 00:10:38,639
+<Default><b>I understand that this news
+might be worrisome.</b></Default>
+
+220
+00:10:40,379 --> 00:10:42,765
+<Default><b>But I assure you, I'll take
+care of everything.</b></Default>
+
+221
+00:10:42,789 --> 00:10:45,710
+<Default><b>I shall cut down the Shield Hero
+and this traitor</b></Default>
+
+222
+00:10:45,789 --> 00:10:47,726
+<Default><b>who seeks to rob you
+of your throne.</b></Default>
+
+223
+00:10:47,750 --> 00:10:49,190
+<Default><b>You have my word.</b></Default>
+
+224
+00:10:49,250 --> 00:10:51,556
+<Default><b>The two of them won't live
+to see Q'ten Lo.</b></Default>
+
+225
+00:10:51,580 --> 00:10:54,789
+<Default><b>You put your trust in me</b></Default>
+
+226
+00:10:54,879 --> 00:10:56,169
+<Default><b>[thunder]</b></Default>
+
+227
+00:10:56,669 --> 00:10:57,909
+<Default><b>[evil smirk]</b></Default>
+
+228
+00:10:59,789 --> 00:11:01,250
+<Default><b>[♪ Joyful music]</b></Default>
+
+229
+00:11:01,330 --> 00:11:03,056
+<Default><b>[NAOFUMI]
+What do you think, Fohl?</b></Default>
+
+230
+00:11:03,080 --> 00:11:04,600
+<Default><b>Feel like home yet?</b></Default>
+
+231
+00:11:04,919 --> 00:11:05,976
+<Default><b>Not exactly.</b></Default>
+
+232
+00:11:06,000 --> 00:11:08,355
+<Default><b>I've never been to this part
+of the country.</b></Default>
+
+233
+00:11:08,379 --> 00:11:10,899
+<Default><b>I don't remember being here
+very much either.</b></Default>
+
+234
+00:11:12,129 --> 00:11:13,686
+<Default><b>Something
+isn't right here.</b></Default>
+
+235
+00:11:13,710 --> 00:11:16,390
+<Default><b>We made it through
+the checkpoint way too easily.</b></Default>
+
+236
+00:11:16,710 --> 00:11:18,630
+<Default><b>Wonder what
+that's all about?</b></Default>
+
+237
+00:11:19,919 --> 00:11:21,855
+<Default><b>[RAPHTALIA]
+What does that banner say?</b></Default>
+
+238
+00:11:21,879 --> 00:11:22,976
+<Default><b>Can anyone read that?</b></Default>
+
+239
+00:11:23,000 --> 00:11:25,436
+<Default><b>[SADEENA] You don't need to know
+how to read it.</b></Default>
+
+240
+00:11:25,460 --> 00:11:27,355
+<Default><b>Just look around
+at everyone's faces.</b></Default>
+
+241
+00:11:27,379 --> 00:11:28,806
+<Default><b>[FOHL] Oh,
+that big banner.</b></Default>
+
+242
+00:11:28,830 --> 00:11:31,789
+<Default><b>It looks like someone's written
+welcome Shield Hero.</b></Default>
+
+243
+00:11:31,919 --> 00:11:33,789
+<Default><b>Oh, interesting.</b></Default>
+
+244
+00:11:34,169 --> 00:11:35,355
+<Default><b>So you can read it?</b></Default>
+
+245
+00:11:35,379 --> 00:11:37,265
+<Default><b>Being able to read
+stuff like that</b></Default>
+
+246
+00:11:37,289 --> 00:11:39,436
+<Default><b>is the one useful skill
+my brother has.</b></Default>
+
+247
+00:11:39,460 --> 00:11:40,250
+<Default><b>Not true.</b></Default>
+
+248
+00:11:40,330 --> 00:11:41,410
+<Default><b>[laughs]</b></Default>
+
+249
+00:11:50,080 --> 00:11:51,720
+<Default><b>Just keep going, Filo.</b></Default>
+
+250
+00:11:51,830 --> 00:11:52,830
+<Default><b>Okay.</b></Default>
+
+251
+00:11:54,000 --> 00:11:55,726
+<Default><b>[GUARD] If you
+don't mind, sir.</b></Default>
+
+252
+00:11:55,750 --> 00:11:58,250
+<Default><b>The Royal Guard would be
+honored to escort</b></Default>
+
+253
+00:11:58,330 --> 00:12:00,960
+<Default><b>the Shield Hero and his party
+to the palace.</b></Default>
+
+254
+00:12:01,039 --> 00:12:02,199
+<Default><b>Follow me!</b></Default>
+
+255
+00:12:02,539 --> 00:12:04,259
+<Default><b>[cheering and galloping]</b></Default>
+
+256
+00:12:05,629 --> 00:12:08,750
+<Default><b>Even though I expect to see this
+kind of thing from Siltvelt</b></Default>
+
+257
+00:12:08,830 --> 00:12:11,750
+<Default><b>it's nice to see them treating
+Master Naofumi this way.</b></Default>
+
+258
+00:12:11,789 --> 00:12:13,806
+<Default><b>He deserves this
+kind of treatment.</b></Default>
+
+259
+00:12:13,830 --> 00:12:15,030
+<Default><b>Easy there.</b></Default>
+
+260
+00:12:16,250 --> 00:12:19,370
+<Default><b>[NAOFUMI] I feel like I'm the
+star of a parade or something.</b></Default>
+
+261
+00:12:20,129 --> 00:12:23,080
+<Default><b>Even I'm surprised to see
+a turnout for you like this.</b></Default>
+
+262
+00:12:23,669 --> 00:12:26,000
+<Default><b>You've become quite
+a revered hero, huh?</b></Default>
+
+263
+00:12:26,250 --> 00:12:27,726
+<Default><b>You know, I
+just remembered</b></Default>
+
+264
+00:12:27,750 --> 00:12:30,645
+<Default><b>what the Queen of Melromarc
+once told me about Siltvelt.</b></Default>
+
+265
+00:12:30,669 --> 00:12:31,289
+<Default><b>Oh dear.</b></Default>
+
+266
+00:12:31,379 --> 00:12:33,419
+<Default><b>What did she
+say about Siltvelt?</b></Default>
+
+267
+00:12:33,669 --> 00:12:34,829
+<Default><b>First off…</b></Default>
+
+268
+00:12:35,039 --> 00:12:35,919
+<Default><b>{\i1}First off</b></Default>
+
+269
+00:12:36,000 --> 00:12:37,476
+<Default><b>{\i1}You're going
+to be welcomed{\i0}</b></Default>
+
+270
+00:12:37,500 --> 00:12:39,919
+<Default><b>{\i1}and then approached{\i0}
+{\i1}by noble women.{\i0}</b></Default>
+
+271
+00:12:40,080 --> 00:12:43,160
+<Default><b>{\i1}After that, they'll attempt to{\i0}
+{\i1}form a type of harem for you{\i0}</b></Default>
+
+272
+00:12:43,500 --> 00:12:45,879
+<Default><b>{\i1}with women from any{\i0}
+{\i1}number of species.{\i0}</b></Default>
+
+273
+00:12:46,830 --> 00:12:47,910
+<Default><b>{\i1}A harem?{\i0}</b></Default>
+
+274
+00:12:48,210 --> 00:12:49,879
+<Default><b>{\i1}After that</b></Default>
+
+275
+00:12:49,919 --> 00:12:52,080
+<Default><b>{\i1}fall victim to{\i0}
+{\i1}an unknown disease.{\i0}</b></Default>
+
+276
+00:12:52,460 --> 00:12:54,710
+<Default><b>{\i1}And once it becomes{\i0}
+{\i1}too much, you'll…{\i0}</b></Default>
+
+277
+00:12:55,210 --> 00:12:55,789
+<Default><b>What?</b></Default>
+
+278
+00:12:55,879 --> 00:12:57,726
+<Default><b>Something like that
+is impossible.</b></Default>
+
+279
+00:12:57,750 --> 00:12:59,306
+<Default><b>If it isn't
+obvious already</b></Default>
+
+280
+00:12:59,330 --> 00:13:02,580
+<Default><b>the people of Siltvelt worship
+the Shield Hero as a god.</b></Default>
+
+281
+00:13:02,669 --> 00:13:04,605
+<Default><b>I would never do something
+like that.</b></Default>
+
+282
+00:13:04,629 --> 00:13:06,556
+<Default><b>Yeah, well, I sure hope
+you're right.</b></Default>
+
+283
+00:13:06,580 --> 00:13:07,629
+<Default><b>Raphy.</b></Default>
+
+284
+00:13:09,830 --> 00:13:11,265
+<Default><b>[NAOFUMI]
+Well, either way</b></Default>
+
+285
+00:13:11,289 --> 00:13:13,476
+<Default><b>we need to try and get
+through this country</b></Default>
+
+286
+00:13:13,500 --> 00:13:15,180
+<Default><b>as quickly as possible.</b></Default>
+
+287
+00:13:21,330 --> 00:13:24,330
+<Default><b>[♪ Soft music]</b></Default>
+
+288
+00:13:30,500 --> 00:13:33,100
+<Default><b>[MAN] It's a pleasure to
+meet you, Shield Hero.</b></Default>
+
+289
+00:13:33,330 --> 00:13:33,960
+<Default><b>Welcome.</b></Default>
+
+290
+00:13:34,289 --> 00:13:37,419
+<Default><b>On behalf of Siltvelt</b></Default>
+
+291
+00:13:37,879 --> 00:13:39,799
+<Default><b>Allow me to
+introduce myself.</b></Default>
+
+292
+00:13:41,710 --> 00:13:44,629
+<Default><b>My name is Werner</b></Default>
+
+293
+00:13:44,710 --> 00:13:46,910
+<Default><b>of the Shusaku race
+here in Siltvelt.</b></Default>
+
+294
+00:13:46,960 --> 00:13:49,379
+<Default><b>I'm happy to help
+however I can.</b></Default>
+
+295
+00:13:49,460 --> 00:13:50,580
+<Default><b>{\i1}Shusaku?{\i0}</b></Default>
+
+296
+00:13:50,669 --> 00:13:53,210
+<Default><b>Well, then, my name is
+Naofumi Iwatani.</b></Default>
+
+297
+00:13:54,039 --> 00:13:54,789
+<Default><b>And this is.</b></Default>
+
+298
+00:13:55,000 --> 00:13:57,419
+<Default><b>I am Raphtalia</b></Default>
+
+299
+00:13:58,000 --> 00:14:00,379
+<Default><b>Oh, and my name's Filo.
+Nice to meet you.</b></Default>
+
+300
+00:14:00,539 --> 00:14:01,580
+<Default><b>Raphy!</b></Default>
+
+301
+00:14:01,830 --> 00:14:03,056
+<Default><b>My name's Sadeena.</b></Default>
+
+302
+00:14:03,080 --> 00:14:04,539
+<Default><b>My name is Atla.</b></Default>
+
+303
+00:14:04,629 --> 00:14:05,909
+<Default><b>And I'm Fohl.</b></Default>
+
+304
+00:14:06,539 --> 00:14:08,395
+<Default><b>Know that you are
+all welcome here.</b></Default>
+
+305
+00:14:08,419 --> 00:14:09,726
+<Default><b>Believe it or not</b></Default>
+
+306
+00:14:09,750 --> 00:14:13,000
+<Default><b>I purchased those two back when
+they were slaves in Zeltoble.</b></Default>
+
+307
+00:14:13,250 --> 00:14:15,530
+<Default><b>But they're not pure
+blood Demi humans.</b></Default>
+
+308
+00:14:15,629 --> 00:14:18,436
+<Default><b>I don't plan on getting involved
+in any power struggles</b></Default>
+
+309
+00:14:18,460 --> 00:14:20,976
+<Default><b>in your country, or letting
+them get involved.</b></Default>
+
+310
+00:14:21,000 --> 00:14:22,960
+<Default><b>I appreciate
+your reassurance.</b></Default>
+
+311
+00:14:23,000 --> 00:14:25,720
+<Default><b>Please, I'd like you to join me
+inside the palace.</b></Default>
+
+312
+00:14:27,710 --> 00:14:30,436
+<Default><b>I'm sure you must be exhausted
+from your long journey</b></Default>
+
+313
+00:14:30,460 --> 00:14:31,169
+<Default><b>Shield Hero</b></Default>
+
+314
+00:14:31,250 --> 00:14:33,145
+<Default><b>but if you wouldn't
+mind me doing so</b></Default>
+
+315
+00:14:33,169 --> 00:14:35,750
+<Default><b>I'd like to request
+an audience.</b></Default>
+
+316
+00:14:36,129 --> 00:14:37,369
+<Default><b>An audience?</b></Default>
+
+317
+00:14:37,629 --> 00:14:39,229
+<Default><b>Between who, exactly?</b></Default>
+
+318
+00:14:53,039 --> 00:14:54,056
+<Default><b>[WERNER] I'm afraid</b></Default>
+
+319
+00:14:54,080 --> 00:14:56,600
+<Default><b>your servants
+aren't allowed past this point.</b></Default>
+
+320
+00:15:18,919 --> 00:15:20,645
+<Default><b>[WERNER]
+As you see, Shield Hero</b></Default>
+
+321
+00:15:20,669 --> 00:15:23,580
+<Default><b>the races that have ruled
+over Siltvelt until now</b></Default>
+
+322
+00:15:23,750 --> 00:15:26,210
+<Default><b>have gathered here
+before you in order to</b></Default>
+
+323
+00:15:26,289 --> 00:15:28,409
+<Default><b>properly welcome you
+into our city.</b></Default>
+
+324
+00:15:29,289 --> 00:15:32,080
+<Default><b>I'm Solea of the Genmu race.
+Honored to meet you.</b></Default>
+
+325
+00:15:32,879 --> 00:15:34,629
+<Default><b>And my name is Tsualon.</b></Default>
+
+326
+00:15:34,710 --> 00:15:37,789
+<Default><b>I represent the Aotatsu.
+It is a privilege to meet you.</b></Default>
+
+327
+00:15:40,669 --> 00:15:41,669
+<Default><b>Right.</b></Default>
+
+328
+00:15:42,379 --> 00:15:44,460
+<Default><b>Thank you for
+that, I guess.</b></Default>
+
+329
+00:15:45,539 --> 00:15:47,099
+<Default><b>Your words honor me.</b></Default>
+
+330
+00:15:47,460 --> 00:15:50,260
+<Default><b>So is this how an audience
+is supposed to work here?</b></Default>
+
+331
+00:15:50,460 --> 00:15:50,919
+<Default><b>Yes.</b></Default>
+
+332
+00:15:51,080 --> 00:15:54,120
+<Default><b>You must understand we're
+overwhelmed with joy to see you.</b></Default>
+
+333
+00:15:54,669 --> 00:15:56,265
+<Default><b>Then… I'll just come out</b></Default>
+
+334
+00:15:56,289 --> 00:15:58,645
+<Default><b>and say exactly what I need
+from you all.</b></Default>
+
+335
+00:15:58,669 --> 00:15:59,789
+<Default><b>Yes, Sir.</b></Default>
+
+336
+00:16:01,789 --> 00:16:04,509
+<Default><b>I don't have any interest
+in taking over Siltvelt.</b></Default>
+
+337
+00:16:04,539 --> 00:16:06,299
+<Default><b>So rest easy
+knowing that</b></Default>
+
+338
+00:16:06,879 --> 00:16:09,830
+<Default><b>I'm merely passing through
+on my way to Q'ten Lo.</b></Default>
+
+339
+00:16:10,419 --> 00:16:12,265
+<Default><b>I don't intend on getting
+in the way</b></Default>
+
+340
+00:16:12,289 --> 00:16:13,806
+<Default><b>of how you
+do things here</b></Default>
+
+341
+00:16:13,830 --> 00:16:15,750
+<Default><b>or how you
+rule this country.</b></Default>
+
+342
+00:16:16,129 --> 00:16:17,186
+<Default><b>On that note</b></Default>
+
+343
+00:16:17,210 --> 00:16:19,895
+<Default><b>I'd like you to prepare
+a ship to Q'ten Lo for me.</b></Default>
+
+344
+00:16:19,919 --> 00:16:22,039
+<Default><b>And as soon as possible</b></Default>
+
+345
+00:16:23,330 --> 00:16:24,395
+<Default><b>I see now.</b></Default>
+
+346
+00:16:24,419 --> 00:16:26,015
+<Default><b>You seem to be
+misunderstanding</b></Default>
+
+347
+00:16:26,039 --> 00:16:27,919
+<Default><b>the situation before you</b></Default>
+
+348
+00:16:28,500 --> 00:16:29,540
+<Default><b>How so?</b></Default>
+
+349
+00:16:29,710 --> 00:16:32,726
+<Default><b>First, I would like you to rest
+from your long journey here.</b></Default>
+
+350
+00:16:32,750 --> 00:16:34,476
+<Default><b>After you've gotten
+enough rest</b></Default>
+
+351
+00:16:34,500 --> 00:16:36,355
+<Default><b>and participate
+in tonight's banquet</b></Default>
+
+352
+00:16:36,379 --> 00:16:38,765
+<Default><b>we'd be more than happy
+to hear any requests</b></Default>
+
+353
+00:16:38,789 --> 00:16:40,226
+<Default><b>that you might
+have for us.</b></Default>
+
+354
+00:16:40,250 --> 00:16:42,056
+<Default><b>I don't have time
+for any of that.</b></Default>
+
+355
+00:16:42,080 --> 00:16:45,306
+<Default><b>And I'm sure it's safe to assume
+some of you want me out of here</b></Default>
+
+356
+00:16:45,330 --> 00:16:46,726
+<Default><b>as soon as
+possible, right?</b></Default>
+
+357
+00:16:46,750 --> 00:16:48,145
+<Default><b>[WERNER] I
+can't deny that.</b></Default>
+
+358
+00:16:48,169 --> 00:16:50,936
+<Default><b>But please know we don't share
+in that way of thinking.</b></Default>
+
+359
+00:16:50,960 --> 00:16:53,840
+<Default><b>That is a sickness in our
+country that must be purged.</b></Default>
+
+360
+00:16:54,039 --> 00:16:56,265
+<Default><b>Anyone who doesn't want
+Master Naofumi here</b></Default>
+
+361
+00:16:56,289 --> 00:16:58,169
+<Default><b>is a traitor to
+his country.</b></Default>
+
+362
+00:16:58,210 --> 00:17:01,210
+<Default><b>We should round them up
+and execute them all.</b></Default>
+
+363
+00:17:02,669 --> 00:17:04,726
+<Default><b>While your name evokes
+discourse in some</b></Default>
+
+364
+00:17:04,750 --> 00:17:08,039
+<Default><b>please know our undying loyalty
+to you remains unaltered.</b></Default>
+
+365
+00:17:08,289 --> 00:17:10,569
+<Default><b>It's important to us
+you remember that.</b></Default>
+
+366
+00:17:10,920 --> 00:17:12,396
+<Default><b>What a pleasant thought</b></Default>
+
+367
+00:17:12,420 --> 00:17:15,079
+<Default><b>to swear my loyalty
+to Master Naofumi.</b></Default>
+
+368
+00:17:15,170 --> 00:17:16,436
+<Default><b>If you're loyal, then</b></Default>
+
+369
+00:17:16,460 --> 00:17:19,515
+<Default><b>shouldn't you be trying to grant
+my wish as soon as possible?</b></Default>
+
+370
+00:17:19,539 --> 00:17:22,106
+<Default><b>We'd be more than happy
+to prepare a ship for you.</b></Default>
+
+371
+00:17:22,130 --> 00:17:23,265
+<Default><b>But please.</b></Default>
+
+372
+00:17:23,289 --> 00:17:25,515
+<Default><b>You must understand
+that we'd be heartbroken</b></Default>
+
+373
+00:17:25,539 --> 00:17:28,000
+<Default><b>if the God we worship
+left in a hurry.</b></Default>
+
+374
+00:17:28,079 --> 00:17:30,759
+<Default><b>I mean, after all, you've only
+just arrived here.</b></Default>
+
+375
+00:17:30,920 --> 00:17:33,680
+<Default><b>Is this country really just
+a stop on your journey?</b></Default>
+
+376
+00:17:33,920 --> 00:17:36,976
+<Default><b>You saw how the people in the
+streets worshipped you, right?</b></Default>
+
+377
+00:17:37,000 --> 00:17:39,106
+<Default><b>If you were to leave us
+so suddenly</b></Default>
+
+378
+00:17:39,130 --> 00:17:41,896
+<Default><b>our city and all of its people
+would be left thinking</b></Default>
+
+379
+00:17:41,920 --> 00:17:45,160
+<Default><b>that you abandoned Siltvelt. Is
+that really something you want?</b></Default>
+
+380
+00:17:45,789 --> 00:17:47,976
+<Default><b>Of course not. But I don't
+have time for...</b></Default>
+
+381
+00:17:48,000 --> 00:17:50,789
+<Default><b>I'd go so far as to say there
+may even be riots</b></Default>
+
+382
+00:17:50,880 --> 00:17:53,280
+<Default><b>and a military {\i1}coup{\i0}
+{\i1}d'état{\i0} if you left us.</b></Default>
+
+383
+00:17:53,829 --> 00:17:55,646
+<Default><b>I hope that helps you
+to understand</b></Default>
+
+384
+00:17:55,670 --> 00:17:58,289
+<Default><b>just how much you mean
+to this nation of ours.</b></Default>
+
+385
+00:17:58,380 --> 00:18:00,630
+<Default><b>So please, I beg you</b></Default>
+
+386
+00:18:00,710 --> 00:18:03,710
+<Default><b>please be the Shield Hero that
+all of us have waited for.</b></Default>
+
+387
+00:18:11,880 --> 00:18:13,289
+<Default><b>All right, fine.</b></Default>
+
+388
+00:18:13,380 --> 00:18:16,540
+<Default><b>I will attend this banquet of
+yours, if that's what you want.</b></Default>
+
+389
+00:18:17,670 --> 00:18:18,289
+<Default><b>Thank you.</b></Default>
+
+390
+00:18:18,460 --> 00:18:21,555
+<Default><b>You'll be delighted to know that
+we've planned a room for you</b></Default>
+
+391
+00:18:21,579 --> 00:18:23,936
+<Default><b>and a room for each one
+of your followers.</b></Default>
+
+392
+00:18:23,960 --> 00:18:27,120
+<Default><b>We ask that you please remain
+there until the banquet begins.</b></Default>
+
+393
+00:18:27,579 --> 00:18:29,920
+<Default><b>I don't want us
+in separate rooms.</b></Default>
+
+394
+00:18:30,000 --> 00:18:30,920
+<Default><b>{\i1}I can't imagine{\i0}</b></Default>
+
+395
+00:18:31,000 --> 00:18:33,436
+<Default><b>{\i1}they'll try anything on me{\i0}
+{\i1}at this very moment</b></Default>
+
+396
+00:18:33,460 --> 00:18:35,976
+<Default><b>{\i1}but I don't want to be alone{\i0}
+{\i1}just in case they do.{\i0}</b></Default>
+
+397
+00:18:36,000 --> 00:18:37,646
+<Default><b>I understand
+your concern, sir.</b></Default>
+
+398
+00:18:37,670 --> 00:18:39,936
+<Default><b>But we cannot treat others
+in the same manner</b></Default>
+
+399
+00:18:39,960 --> 00:18:41,765
+<Default><b>we would treat
+the Shield Hero.</b></Default>
+
+400
+00:18:41,789 --> 00:18:45,079
+<Default><b>Doing so would be a mockery
+to the faith we believe in.</b></Default>
+
+401
+00:18:45,630 --> 00:18:46,790
+<Default><b>[ATLA] Um…</b></Default>
+
+402
+00:18:47,880 --> 00:18:50,710
+<Default><b>If it isn't too
+much trouble</b></Default>
+
+403
+00:18:50,789 --> 00:18:52,976
+<Default><b>a room next to Master
+Naofumi for me?</b></Default>
+
+404
+00:18:53,000 --> 00:18:55,356
+<Default><b>Who gave that white tiger
+permission to talk?</b></Default>
+
+405
+00:18:55,380 --> 00:18:57,380
+<Default><b>What an absurd
+request to make.</b></Default>
+
+406
+00:19:02,789 --> 00:19:04,476
+<Default><b>[WERNER] Very
+well, Shield Hero.</b></Default>
+
+407
+00:19:04,500 --> 00:19:06,580
+<Default><b>I'll have it prepared
+immediately.</b></Default>
+
+408
+00:19:07,130 --> 00:19:09,476
+<Default><b>While there's still time
+before the banquet</b></Default>
+
+409
+00:19:09,500 --> 00:19:11,265
+<Default><b>I'd much rather go out
+and explore</b></Default>
+
+410
+00:19:11,289 --> 00:19:13,849
+<Default><b>the town than stay cooped up
+inside of a room.</b></Default>
+
+411
+00:19:13,920 --> 00:19:16,515
+<Default><b>The people of Siltvelt would be
+honored to see you.</b></Default>
+
+412
+00:19:16,539 --> 00:19:17,765
+<Default><b>How wonderful.</b></Default>
+
+413
+00:19:17,789 --> 00:19:19,396
+<Default><b>Okay, then.
+Let's get going.</b></Default>
+
+414
+00:19:19,420 --> 00:19:20,820
+<Default><b>[WERNER] However</b></Default>
+
+415
+00:19:20,920 --> 00:19:23,015
+<Default><b>I'm afraid it will take
+some time to make</b></Default>
+
+416
+00:19:23,039 --> 00:19:25,630
+<Default><b>the necessary arrangements
+for a royal visit.</b></Default>
+
+417
+00:19:26,250 --> 00:19:27,856
+<Default><b>Understand,
+a sudden visit</b></Default>
+
+418
+00:19:27,880 --> 00:19:30,789
+<Default><b>from the Shield Hero might
+catch people off guard.</b></Default>
+
+419
+00:19:30,880 --> 00:19:32,146
+<Default><b>If that happened</b></Default>
+
+420
+00:19:32,170 --> 00:19:34,810
+<Default><b>they'd regret not offering
+you a proper welcome.</b></Default>
+
+421
+00:19:35,000 --> 00:19:38,170
+<Default><b>Such a major event requires
+preparations to be made.</b></Default>
+
+422
+00:19:38,250 --> 00:19:40,976
+<Default><b>The people must be told in
+advance of your arrival.</b></Default>
+
+423
+00:19:41,000 --> 00:19:43,856
+<Default><b>[NAOFUMI] All right, fine.
+I'll stay inside the palace.</b></Default>
+
+424
+00:19:43,880 --> 00:19:46,360
+<Default><b>Am I at least allowed to walk
+around inside?</b></Default>
+
+425
+00:19:46,579 --> 00:19:48,015
+<Default><b>Why, of course you are.</b></Default>
+
+426
+00:19:48,039 --> 00:19:51,079
+<Default><b>I mean, after all, this is
+your palace we're in.</b></Default>
+
+427
+00:19:52,079 --> 00:19:53,646
+<Default><b>[NAOFUMI] Yet
+I'm on a leash.</b></Default>
+
+428
+00:19:53,670 --> 00:19:55,646
+<Default><b>And I'm not allowed in
+any of the rooms</b></Default>
+
+429
+00:19:55,670 --> 00:19:57,510
+<Default><b>as they're
+being renovated.</b></Default>
+
+430
+00:19:57,539 --> 00:19:59,829
+<Default><b>So much for this
+being my palace.</b></Default>
+
+431
+00:20:01,039 --> 00:20:02,555
+<Default><b>You gotta be kidding me.</b></Default>
+
+432
+00:20:02,579 --> 00:20:05,329
+<Default><b>How many days are we gonna
+waste in this place?</b></Default>
+
+433
+00:20:06,579 --> 00:20:08,186
+<Default><b>[SADEENA]
+Seeing how that went</b></Default>
+
+434
+00:20:08,210 --> 00:20:10,930
+<Default><b>we'd be lucky if we weren't
+stuck here for months.</b></Default>
+
+435
+00:20:11,000 --> 00:20:11,789
+<Default><b>If that happens</b></Default>
+
+436
+00:20:11,880 --> 00:20:14,356
+<Default><b>we won't have time to get ready
+for the Phoenix.</b></Default>
+
+437
+00:20:14,380 --> 00:20:15,130
+<Default><b>[laughter]</b></Default>
+
+438
+00:20:15,210 --> 00:20:16,356
+<Default><b>I guess you're right.</b></Default>
+
+439
+00:20:16,380 --> 00:20:18,726
+<Default><b>I respect their loyalty
+to Master Naofumi</b></Default>
+
+440
+00:20:18,750 --> 00:20:20,436
+<Default><b>but they're too
+strict with him.</b></Default>
+
+441
+00:20:20,460 --> 00:20:23,130
+<Default><b>If they really
+do worship him</b></Default>
+
+442
+00:20:24,000 --> 00:20:26,420
+<Default><b>This must be how
+the other heroes felt</b></Default>
+
+443
+00:20:26,500 --> 00:20:28,896
+<Default><b>when they were worshipped
+as gods in Melromarc.</b></Default>
+
+444
+00:20:28,920 --> 00:20:30,710
+<Default><b>But even if that's true</b></Default>
+
+445
+00:20:30,789 --> 00:20:32,606
+<Default><b>they certainly
+didn't act the same.</b></Default>
+
+446
+00:20:32,630 --> 00:20:34,856
+<Default><b>They were a lot more free
+spirited than you.</b></Default>
+
+447
+00:20:34,880 --> 00:20:37,055
+<Default><b>[SADEENA]
+I don't know, you'd have to be a</b></Default>
+
+448
+00:20:37,079 --> 00:20:39,555
+<Default><b>pretty free spirit to ask them
+to give you a ship</b></Default>
+
+449
+00:20:39,579 --> 00:20:42,356
+<Default><b>without first serving your duty
+to them as Shield Hero</b></Default>
+
+450
+00:20:42,380 --> 00:20:43,250
+<Default><b>wouldn't you say?</b></Default>
+
+451
+00:20:43,329 --> 00:20:45,436
+<Default><b>I can't believe you
+were able to say that</b></Default>
+
+452
+00:20:45,460 --> 00:20:46,976
+<Default><b>to them with
+a straight face.</b></Default>
+
+453
+00:20:47,000 --> 00:20:48,805
+<Default><b>Look, I know it sounded
+a bit harsh</b></Default>
+
+454
+00:20:48,829 --> 00:20:51,686
+<Default><b>but we don't have the time
+to waste parading around here.</b></Default>
+
+455
+00:20:51,710 --> 00:20:53,515
+<Default><b>Cut him some slack.
+The only reason</b></Default>
+
+456
+00:20:53,539 --> 00:20:56,015
+<Default><b>Master Naofumi is hurrying
+things along like this</b></Default>
+
+457
+00:20:56,039 --> 00:20:57,896
+<Default><b>is cause he wants
+to help Raphtalia.</b></Default>
+
+458
+00:20:57,920 --> 00:20:59,856
+<Default><b>I know, you don't have
+to tell me.</b></Default>
+
+459
+00:20:59,880 --> 00:21:01,015
+<Default><b>[RAPHTALIA] I'm sorry.</b></Default>
+
+460
+00:21:01,039 --> 00:21:03,106
+<Default><b>I feel like I've caused
+everyone trouble.</b></Default>
+
+461
+00:21:03,130 --> 00:21:05,226
+<Default><b>[ATLA] Has something
+like this happened</b></Default>
+
+462
+00:21:05,250 --> 00:21:07,880
+<Default><b>you would do
+the same for me</b></Default>
+
+463
+00:21:07,920 --> 00:21:09,805
+<Default><b>[RAPHTALIA]
+Where did that come from?</b></Default>
+
+464
+00:21:09,829 --> 00:21:12,309
+<Default><b>[MAN] Well now.
+If it isn't the Shield Hero.</b></Default>
+
+465
+00:21:12,789 --> 00:21:14,229
+<Default><b>Who might you be?</b></Default>
+
+466
+00:21:15,079 --> 00:21:16,896
+<Default><b>My name is
+Jaralis, and I serve</b></Default>
+
+467
+00:21:16,920 --> 00:21:19,460
+<Default><b>as the representative
+of the Lyle race.</b></Default>
+
+468
+00:21:19,539 --> 00:21:21,939
+<Default><b>It's a pleasure
+to make your acquaintance.</b></Default>
+
+469
+00:21:22,039 --> 00:21:23,579
+<Default><b>{\i1}A lion Demi-human?{\i0}</b></Default>
+
+470
+00:21:24,079 --> 00:21:26,555
+<Default><b>I hope you're able to forgive me
+for only now</b></Default>
+
+471
+00:21:26,579 --> 00:21:29,630
+<Default><b>being able to come down here
+and introduce myself to you.</b></Default>
+
+472
+00:21:29,789 --> 00:21:31,305
+<Default><b>No need to mention it.</b></Default>
+
+473
+00:21:31,329 --> 00:21:33,039
+<Default><b>Allow me to be frank</b></Default>
+
+474
+00:21:33,250 --> 00:21:35,606
+<Default><b>Most of us caught wind
+of what you mentioned</b></Default>
+
+475
+00:21:35,630 --> 00:21:37,936
+<Default><b>during your audience
+earlier with Werner.</b></Default>
+
+476
+00:21:37,960 --> 00:21:40,396
+<Default><b>If you wish to have a ship
+arranged to Q'ten Lo</b></Default>
+
+477
+00:21:40,420 --> 00:21:43,015
+<Default><b>please know I'm able and willing
+to do such a thing</b></Default>
+
+478
+00:21:43,039 --> 00:21:45,199
+<Default><b>for you, if that is
+what you desire.</b></Default>
+
+479
+00:21:45,250 --> 00:21:48,476
+<Default><b>I find it troubling you weren't
+present at the audience earlier.</b></Default>
+
+480
+00:21:48,500 --> 00:21:51,436
+<Default><b>I have a hard time believing
+that someone who wasn't there</b></Default>
+
+481
+00:21:51,460 --> 00:21:53,500
+<Default><b>would be capable
+of such a thing.</b></Default>
+
+482
+00:21:53,789 --> 00:21:55,686
+<Default><b>Very well, then.
+I will look forward</b></Default>
+
+483
+00:21:55,710 --> 00:21:58,350
+<Default><b>to seeing you at
+tonight's banquet, Shield Hero.</b></Default>
+
+484
+00:21:58,380 --> 00:22:00,860
+<Default><b>I apologize if I've troubled you
+in any way.</b></Default>
+
+485
+00:22:11,420 --> 00:22:14,329
+<Default><b>Wow, we're so high up.</b></Default>
+
+486
+00:22:18,210 --> 00:22:19,079
+<Default><b>Hey, Fohl</b></Default>
+
+487
+00:22:19,170 --> 00:22:21,930
+<Default><b>do you know anything about
+that Jaralis guy we met?</b></Default>
+
+488
+00:22:22,460 --> 00:22:23,700
+<Default><b>Nope. Sorry.</b></Default>
+
+489
+00:22:24,250 --> 00:22:26,850
+<Default><b>It's my first time seeing
+this Werner guy, too.</b></Default>
+
+490
+00:22:26,960 --> 00:22:29,480
+<Default><b>I did warn you all he's good
+for his reading.</b></Default>
+
+491
+00:22:29,539 --> 00:22:30,539
+<Default><b>Atla!</b></Default>
+
+492
+00:22:30,960 --> 00:22:33,240
+<Default><b>Honestly, I don't trust
+either of them.</b></Default>
+
+493
+00:22:33,460 --> 00:22:36,250
+<Default><b>But if Jarlus is willing
+to prepare a ship for us</b></Default>
+
+494
+00:22:36,329 --> 00:22:38,106
+<Default><b>I think it's pretty safe
+to assume</b></Default>
+
+495
+00:22:38,130 --> 00:22:40,646
+<Default><b>he's probably not
+on the same side as Werner.</b></Default>
+
+496
+00:22:40,670 --> 00:22:43,356
+<Default><b>He may not be important enough
+to serve an audience</b></Default>
+
+497
+00:22:43,380 --> 00:22:45,936
+<Default><b>but I get the feeling that
+he does have some power.</b></Default>
+
+498
+00:22:45,960 --> 00:22:48,320
+<Default><b>So we should probably
+keep an eye on him.</b></Default>
+
+499
+00:22:48,420 --> 00:22:50,900
+<Default><b>That's my impression. But what
+do you think?</b></Default>
+
+500
+00:22:51,000 --> 00:22:54,160
+<Default><b>Well, there's no telling when
+we'll be able to leave Siltvelt</b></Default>
+
+501
+00:22:54,210 --> 00:22:57,370
+<Default><b>if we continue letting the bird
+guy boss us around like this.</b></Default>
+
+502
+00:22:57,500 --> 00:23:00,340
+<Default><b>But the lion's offer almost
+seems too good to be true</b></Default>
+
+503
+00:23:00,380 --> 00:23:01,039
+<Default><b>doesn't it?</b></Default>
+
+504
+00:23:01,130 --> 00:23:03,805
+<Default><b>If we were to side with one
+of them, I have a feeling</b></Default>
+
+505
+00:23:03,829 --> 00:23:06,436
+<Default><b>it would lead to making
+an enemy out of the other.</b></Default>
+
+506
+00:23:06,460 --> 00:23:09,540
+<Default><b>Well, in that case I guess we'll
+just have to wait and see.</b></Default>
+
+507
+00:23:11,000 --> 00:23:13,329
+<Default><b>This is all too
+complicated for me.</b></Default>
+
+508
+00:23:13,420 --> 00:23:15,146
+<Default><b>I'm hungry. When
+are we eating?</b></Default>
+
+509
+00:23:15,170 --> 00:23:16,810
+<Default><b>[NAOFUMI] Soon enough.</b></Default>
+
+510
+00:23:27,130 --> 00:23:30,710
+<Default><b>Q'ten Lo is a
+long way off</b></Default>
+
+511
+00:23:36,250 --> 00:23:39,250
+<Default><b>OFFICIAL WELCOME</b></Default>
+
