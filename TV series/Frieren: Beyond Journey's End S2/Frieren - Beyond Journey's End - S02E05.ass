@@ -1,0 +1,447 @@
+﻿[Script Info]
+Title: CC Subtitle
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.04,0:00:03.30,Default,,0000,0000,0000,,{\b1}[♪ opening theme song playing]{\b0}
+Dialogue: 0,0:00:25.23,0:00:31.70,Default,,0000,0000,0000,,{\b1}BEYOND JOURNEY'S END{\b0}
+Dialogue: 0,0:01:29.84,0:01:31.84,Default,,0000,0000,0000,,{\b1}29 YEARS AFTER THE DEATH\NOF HIMMEL THE HERO,{\b0}
+Dialogue: 0,0:01:31.88,0:01:33.80,Default,,0000,0000,0000,,{\b1}IN THE BIER REGION, LOCATED\NON THE NORTHERN PLATEAU{\b0}
+Dialogue: 0,0:01:33.84,0:01:35.18,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:01:40.18,0:01:42.94,Default,,0000,0000,0000,,{\b1}[STARK] So, there are cities\Non the Northern Plateau.{\b0}
+Dialogue: 0,0:01:43.40,0:01:45.31,Default,,0000,0000,0000,,{\b1}[FERN] Cities full of bars.{\b0}
+Dialogue: 0,0:01:45.36,0:01:46.77,Default,,0000,0000,0000,,{\b1}Across the entire region,{\b0}
+Dialogue: 0,0:01:46.82,0:01:49.53,Default,,0000,0000,0000,,{\b1}this is the only area\Nthat's able to produce grain.{\b0}
+Dialogue: 0,0:01:50.36,0:01:52.53,Default,,0000,0000,0000,,{\b1}Hence the bars and breweries.{\b0}
+Dialogue: 0,0:01:52.91,0:01:54.16,Default,,0000,0000,0000,,{\b1}[STARK] Hm...{\b0}
+Dialogue: 0,0:01:54.49,0:01:57.24,Default,,0000,0000,0000,,{\b1}[MAN 1] Old Man Fass\Nwas spinning quite the yarn.{\b0}
+Dialogue: 0,0:01:57.28,0:01:59.66,Default,,0000,0000,0000,,{\b1}Says he's almost found Boshaft.{\b0}
+Dialogue: 0,0:01:59.70,0:02:01.29,Default,,0000,0000,0000,,{\b1}[MAN 2] Think he means it?{\b0}
+Dialogue: 0,0:02:01.33,0:02:02.41,Default,,0000,0000,0000,,{\b1}He's been digging...{\b0}
+Dialogue: 0,0:02:02.46,0:02:04.29,Default,,0000,0000,0000,,{\b1}Am I supposed to know\Nwhat Boshaft is?{\b0}
+Dialogue: 0,0:02:04.75,0:02:07.13,Default,,0000,0000,0000,,{\b1}Master Heiter told me\Nwhen I was young.{\b0}
+Dialogue: 0,0:02:07.63,0:02:09.96,Default,,0000,0000,0000,,{\b1}Long ago, most of the continent\Nwas ruled{\b0}
+Dialogue: 0,0:02:10.01,0:02:11.47,Default,,0000,0000,0000,,{\b1}by a single great empire.{\b0}
+Dialogue: 0,0:02:11.51,0:02:15.59,Default,,0000,0000,0000,,{\b1}Boshaft was an exquisite liquor\Ncrafted for the emperor.{\b0}
+Dialogue: 0,0:02:15.64,0:02:16.64,Default,,0000,0000,0000,,{\b1}[STARK] Hmm.{\b0}
+Dialogue: 0,0:02:17.01,0:02:18.89,Default,,0000,0000,0000,,{\b1}Because of Mistress Frieren,{\b0}
+Dialogue: 0,0:02:18.93,0:02:20.93,Default,,0000,0000,0000,,{\b1}Master Heiter\Nnever got to partake.{\b0}
+Dialogue: 0,0:02:20.98,0:02:22.10,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:02:23.64,0:02:25.94,Default,,0000,0000,0000,,{\b1}I crushed his dream\Nfor good reason.{\b0}
+Dialogue: 0,0:02:26.56,0:02:28.44,Default,,0000,0000,0000,,{\b1}[door creaks open]{\b0}
+Dialogue: 0,0:02:31.11,0:02:33.57,Default,,0000,0000,0000,,{\b1}I'd like to move in\Nand out of this city quickly.{\b0}
+Dialogue: 0,0:02:33.61,0:02:34.86,Default,,0000,0000,0000,,{\b1}Once we're finished shopping,\Nwe should--{\b0}
+Dialogue: 0,0:02:34.91,0:02:35.95,Default,,0000,0000,0000,,{\b1}[MAN] Frieren?{\b0}
+Dialogue: 0,0:02:36.49,0:02:38.70,Default,,0000,0000,0000,,{\b1}As I live and breathe!{\b0}
+Dialogue: 0,0:02:40.12,0:02:41.41,Default,,0000,0000,0000,,{\b1}[pants]{\b0}
+Dialogue: 0,0:02:41.87,0:02:44.21,Default,,0000,0000,0000,,{\b1}I haven't seen you\Nin a century.{\b0}
+Dialogue: 0,0:02:44.25,0:02:46.42,Default,,0000,0000,0000,,{\b1}[FRIEREN] Just a brief\N80 years, Fass.{\b0}
+Dialogue: 0,0:02:46.46,0:02:48.88,Default,,0000,0000,0000,,{\b1}[FASS] You're a stickler\Nfor details now?{\b0}
+Dialogue: 0,0:02:48.92,0:02:51.17,Default,,0000,0000,0000,,{\b1}Time has changed you. Mmm.{\b0}
+Dialogue: 0,0:02:51.63,0:02:54.13,Default,,0000,0000,0000,,{\b1}And it's changed\Nyour roster, too.{\b0}
+Dialogue: 0,0:02:54.17,0:02:57.51,Default,,0000,0000,0000,,{\b1}Lost the young drunkard\Nsomewhere along the way?{\b0}
+Dialogue: 0,0:02:57.93,0:03:00.10,Default,,0000,0000,0000,,{\b1}The corrupt priest is dead.{\b0}
+Dialogue: 0,0:03:00.14,0:03:01.77,Default,,0000,0000,0000,,{\b1}Heiter went peacefully.{\b0}
+Dialogue: 0,0:03:02.02,0:03:03.27,Default,,0000,0000,0000,,{\b1}[Fass sighs]{\b0}
+Dialogue: 0,0:03:03.93,0:03:05.18,Default,,0000,0000,0000,,{\b1}[FASS] I see.{\b0}
+Dialogue: 0,0:03:05.23,0:03:07.23,Default,,0000,0000,0000,,{\b1}So, I was too late, then.{\b0}
+Dialogue: 0,0:03:09.90,0:03:11.11,Default,,0000,0000,0000,,{\b1}[FASS] I did it.{\b0}
+Dialogue: 0,0:03:11.15,0:03:13.40,Default,,0000,0000,0000,,{\b1}I've finally located Boshaft.{\b0}
+Dialogue: 0,0:03:13.44,0:03:15.45,Default,,0000,0000,0000,,{\b1}I just need a final push.{\b0}
+Dialogue: 0,0:03:15.49,0:03:18.03,Default,,0000,0000,0000,,{\b1}Your magic\Nwould come in very handy.{\b0}
+Dialogue: 0,0:03:18.41,0:03:21.83,Default,,0000,0000,0000,,{\b1}I don't understand how my magic\Nhas anything to do with Boshaft.{\b0}
+Dialogue: 0,0:03:22.45,0:03:24.37,Default,,0000,0000,0000,,{\b1}[FASS] Then let me show you.{\b0}
+Dialogue: 0,0:03:24.41,0:03:25.75,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:03:31.46,0:03:33.13,Default,,0000,0000,0000,,{\b1}[FASS] It's in here.{\b0}
+Dialogue: 0,0:03:33.17,0:03:36.01,Default,,0000,0000,0000,,{\b1}[FERN] How curious.\NIs this a mine?{\b0}
+Dialogue: 0,0:03:36.05,0:03:39.55,Default,,0000,0000,0000,,{\b1}[FASS] Dug it myself.\NThis mine's all mine.{\b0}
+Dialogue: 0,0:03:40.80,0:03:42.93,Default,,0000,0000,0000,,{\b1}Folks assume\Nthat all of us dwarves{\b0}
+Dialogue: 0,0:03:42.97,0:03:44.98,Default,,0000,0000,0000,,{\b1}have mining in our blood.{\b0}
+Dialogue: 0,0:03:45.56,0:03:47.64,Default,,0000,0000,0000,,{\b1}But I grew up in the city.{\b0}
+Dialogue: 0,0:03:48.15,0:03:51.27,Default,,0000,0000,0000,,{\b1}I started my journey\Nfrom scratch.{\b0}
+Dialogue: 0,0:03:52.32,0:03:55.94,Default,,0000,0000,0000,,{\b1}A small price to pay\Nfor that legendary liquor.{\b0}
+Dialogue: 0,0:03:55.99,0:03:57.78,Default,,0000,0000,0000,,{\b1}You want to give us\Na little context{\b0}
+Dialogue: 0,0:03:57.82,0:03:58.82,Default,,0000,0000,0000,,{\b1}on the old guy?{\b0}
+Dialogue: 0,0:03:58.86,0:03:59.91,Default,,0000,0000,0000,,{\b1}That's Fass.{\b0}
+Dialogue: 0,0:03:59.95,0:04:02.24,Default,,0000,0000,0000,,{\b1}No one loves liquor\Nas much as him.{\b0}
+Dialogue: 0,0:04:02.28,0:04:05.66,Default,,0000,0000,0000,,{\b1}He's spent over 200 years\Nsearching for Boshaft.{\b0}
+Dialogue: 0,0:04:06.58,0:04:08.75,Default,,0000,0000,0000,,{\b1}Eighty years ago,\Nhe asked my previous party{\b0}
+Dialogue: 0,0:04:08.79,0:04:11.42,Default,,0000,0000,0000,,{\b1}for assistance as well,\Nbut believe it or not,{\b0}
+Dialogue: 0,0:04:11.46,0:04:13.63,Default,,0000,0000,0000,,{\b1}we had a Demon King\Nto defeat at the time.{\b0}
+Dialogue: 0,0:04:13.67,0:04:15.17,Default,,0000,0000,0000,,{\b1}So we declined.{\b0}
+Dialogue: 0,0:04:15.21,0:04:17.13,Default,,0000,0000,0000,,{\b1}[Heiter exclaims]\NMy precious, Boshaft!{\b0}
+Dialogue: 0,0:04:17.17,0:04:18.26,Default,,0000,0000,0000,,{\b1}[HIMMEL] Let go already!{\b0}
+Dialogue: 0,0:04:18.30,0:04:21.22,Default,,0000,0000,0000,,{\b1}-[Heiter cries]\N-[Himmel grunts]{\b0}
+Dialogue: 0,0:04:21.55,0:04:23.51,Default,,0000,0000,0000,,{\b1}Pulling Heiter\Naway from the search{\b0}
+Dialogue: 0,0:04:23.56,0:04:25.18,Default,,0000,0000,0000,,{\b1}was no mean feat.{\b0}
+Dialogue: 0,0:04:25.22,0:04:27.23,Default,,0000,0000,0000,,{\b1}[FERN]\NYour mine is very impressive.{\b0}
+Dialogue: 0,0:04:27.27,0:04:29.52,Default,,0000,0000,0000,,{\b1}But why would\Nthe liquor be down here?{\b0}
+Dialogue: 0,0:04:30.31,0:04:32.02,Default,,0000,0000,0000,,{\b1}[FASS]\NAccording to local legend,{\b0}
+Dialogue: 0,0:04:32.06,0:04:34.07,Default,,0000,0000,0000,,{\b1}there's a large store of Boshaft{\b0}
+Dialogue: 0,0:04:34.11,0:04:36.32,Default,,0000,0000,0000,,{\b1}locked somewhere\Nin the underground ruins.{\b0}
+Dialogue: 0,0:04:38.90,0:04:41.24,Default,,0000,0000,0000,,{\b1}[FASS] And the legend is true.{\b0}
+Dialogue: 0,0:04:41.28,0:04:43.58,Default,,0000,0000,0000,,{\b1}I confirmed that\Nmuch two centuries ago{\b0}
+Dialogue: 0,0:04:43.62,0:04:46.20,Default,,0000,0000,0000,,{\b1}when I found\Nthis stone monument.{\b0}
+Dialogue: 0,0:04:46.91,0:04:48.66,Default,,0000,0000,0000,,{\b1}It's written in ancient Elvish.{\b0}
+Dialogue: 0,0:04:49.08,0:04:50.79,Default,,0000,0000,0000,,{\b1}The inscription proclaims{\b0}
+Dialogue: 0,0:04:50.83,0:04:54.13,Default,,0000,0000,0000,,{\b1}"Boshaft is the finest spirit\Nof all time.{\b0}
+Dialogue: 0,0:04:54.59,0:04:56.21,Default,,0000,0000,0000,,{\b1}Milliarde."{\b0}
+Dialogue: 0,0:04:57.34,0:04:59.22,Default,,0000,0000,0000,,{\b1}That must be\Nwho engraved the stone.{\b0}
+Dialogue: 0,0:05:01.14,0:05:02.97,Default,,0000,0000,0000,,{\b1}[FASS] You're awfully\Nwell-educated.{\b0}
+Dialogue: 0,0:05:03.01,0:05:06.43,Default,,0000,0000,0000,,{\b1}I've never met a young lady\Nso fluent in ancient Elvish.{\b0}
+Dialogue: 0,0:05:07.31,0:05:08.43,Default,,0000,0000,0000,,{\b1}That's my mistress.{\b0}
+Dialogue: 0,0:05:08.48,0:05:10.89,Default,,0000,0000,0000,,{\b1}She drilled it into me\Nwhen I was young.{\b0}
+Dialogue: 0,0:05:11.52,0:05:13.02,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NMost grimoires are written{\b0}
+Dialogue: 0,0:05:13.06,0:05:14.36,Default,,0000,0000,0000,,{\b1}in ancient Elvish, Fern.{\b0}
+Dialogue: 0,0:05:14.40,0:05:15.69,Default,,0000,0000,0000,,{\b1}If you want to be a mage,{\b0}
+Dialogue: 0,0:05:15.73,0:05:17.40,Default,,0000,0000,0000,,{\b1}you'll have to learn\Nhow to read it.{\b0}
+Dialogue: 0,0:05:17.44,0:05:18.49,Default,,0000,0000,0000,,{\b1}[Fern groans softly]{\b0}
+Dialogue: 0,0:05:22.28,0:05:24.37,Default,,0000,0000,0000,,{\b1}So, it was Milliarde after all.{\b0}
+Dialogue: 0,0:05:24.41,0:05:25.41,Default,,0000,0000,0000,,{\b1}[FERN] Huh?{\b0}
+Dialogue: 0,0:05:25.74,0:05:27.95,Default,,0000,0000,0000,,{\b1}[FASS] Ever since discovering\Nthis inscription,{\b0}
+Dialogue: 0,0:05:28.00,0:05:31.08,Default,,0000,0000,0000,,{\b1}I've dedicated my long life\Nto finding Boshaft.{\b0}
+Dialogue: 0,0:05:31.12,0:05:35.29,Default,,0000,0000,0000,,{\b1}And after all these years,\Nit's almost within my grasp.{\b0}
+Dialogue: 0,0:05:36.00,0:05:37.80,Default,,0000,0000,0000,,{\b1}[FRIEREN] You found the ruins?{\b0}
+Dialogue: 0,0:05:38.26,0:05:41.84,Default,,0000,0000,0000,,{\b1}[FASS] Yes. Locating the store\Nisn't the problem.{\b0}
+Dialogue: 0,0:05:42.88,0:05:44.59,Default,,0000,0000,0000,,{\b1}It's these doors.{\b0}
+Dialogue: 0,0:05:44.64,0:05:46.85,Default,,0000,0000,0000,,{\b1}Someone put up\Na powerful barrier.{\b0}
+Dialogue: 0,0:05:46.89,0:05:49.56,Default,,0000,0000,0000,,{\b1}I suppose they didn't want\Na drunk dwarf like me{\b0}
+Dialogue: 0,0:05:49.60,0:05:51.19,Default,,0000,0000,0000,,{\b1}raiding their liquor cabinet.{\b0}
+Dialogue: 0,0:05:51.23,0:05:52.81,Default,,0000,0000,0000,,{\b1}You on the other hand...{\b0}
+Dialogue: 0,0:05:52.85,0:05:55.44,Default,,0000,0000,0000,,{\b1}you should be able\Nto break through.{\b0}
+Dialogue: 0,0:05:58.11,0:05:59.44,Default,,0000,0000,0000,,{\b1}[FRIEREN] I can't.{\b0}
+Dialogue: 0,0:05:59.48,0:06:01.74,Default,,0000,0000,0000,,{\b1}[FASS] Somehow, I doubt that.{\b0}
+Dialogue: 0,0:06:01.78,0:06:04.74,Default,,0000,0000,0000,,{\b1}Removing the barrier\Nwill be a tedious task.{\b0}
+Dialogue: 0,0:06:04.78,0:06:06.74,Default,,0000,0000,0000,,{\b1}These kids won't appreciate\Nthe wait.{\b0}
+Dialogue: 0,0:06:06.78,0:06:09.24,Default,,0000,0000,0000,,{\b1}[FASS] I'll make it\Nworth your while.{\b0}
+Dialogue: 0,0:06:09.62,0:06:10.66,Default,,0000,0000,0000,,{\b1}With a grimoire?{\b0}
+Dialogue: 0,0:06:10.70,0:06:11.83,Default,,0000,0000,0000,,{\b1}[FASS] With money!{\b0}
+Dialogue: 0,0:06:11.87,0:06:14.12,Default,,0000,0000,0000,,{\b1}I'll pay you\Ntwenty Reich gold coins.{\b0}
+Dialogue: 0,0:06:16.54,0:06:18.46,Default,,0000,0000,0000,,{\b1}It's not worth considering.{\b0}
+Dialogue: 0,0:06:19.21,0:06:20.59,Default,,0000,0000,0000,,{\b1}[FASS] Please, Frieren!{\b0}
+Dialogue: 0,0:06:20.76,0:06:23.47,Default,,0000,0000,0000,,{\b1}Not only is tasting Boshaft\Nmy dream, it's my life's work!{\b0}
+Dialogue: 0,0:06:23.51,0:06:25.18,Default,,0000,0000,0000,,{\b1}I've poured every day\NI've had into this{\b0}
+Dialogue: 0,0:06:25.22,0:06:27.22,Default,,0000,0000,0000,,{\b1}for over two hundred years!{\b0}
+Dialogue: 0,0:06:29.43,0:06:30.56,Default,,0000,0000,0000,,{\b1}I can't.{\b0}
+Dialogue: 0,0:06:30.60,0:06:32.02,Default,,0000,0000,0000,,{\b1}[Fass exclaims softly]{\b0}
+Dialogue: 0,0:06:32.06,0:06:33.60,Default,,0000,0000,0000,,{\b1}[Fass sighs]{\b0}
+Dialogue: 0,0:06:34.31,0:06:37.56,Default,,0000,0000,0000,,{\b1}Mistress Frieren, would it be\Nso wrong to help him?{\b0}
+Dialogue: 0,0:06:37.69,0:06:38.94,Default,,0000,0000,0000,,{\b1}He needs a mage.{\b0}
+Dialogue: 0,0:06:39.07,0:06:41.11,Default,,0000,0000,0000,,{\b1}Don't you wanna make\Nan old man's dream come true?{\b0}
+Dialogue: 0,0:06:41.15,0:06:43.07,Default,,0000,0000,0000,,{\b1}Your change of heart\Nis disturbing.{\b0}
+Dialogue: 0,0:06:43.11,0:06:45.40,Default,,0000,0000,0000,,{\b1}You'd normally object\Nto this sort of thing.{\b0}
+Dialogue: 0,0:06:45.45,0:06:48.28,Default,,0000,0000,0000,,{\b1}Mistress Frieren,\Nhe's offering 20 gold coins.{\b0}
+Dialogue: 0,0:06:48.33,0:06:49.33,Default,,0000,0000,0000,,{\b1}We need money.{\b0}
+Dialogue: 0,0:06:49.53,0:06:50.91,Default,,0000,0000,0000,,{\b1}We'll finally be able\Nto buy food and gear{\b0}
+Dialogue: 0,0:06:50.95,0:06:52.91,Default,,0000,0000,0000,,{\b1}without bleeding\Nour pockets dry!{\b0}
+Dialogue: 0,0:06:52.95,0:06:54.12,Default,,0000,0000,0000,,{\b1}[Frieren groans]{\b0}
+Dialogue: 0,0:06:54.58,0:06:55.62,Default,,0000,0000,0000,,{\b1}Just so you know,{\b0}
+Dialogue: 0,0:06:55.96,0:06:57.79,Default,,0000,0000,0000,,{\b1}this barrier will take me\Nthree months to remove.{\b0}
+Dialogue: 0,0:06:57.83,0:06:59.63,Default,,0000,0000,0000,,{\b1}[FERN] That's hardly\Nany time at all.{\b0}
+Dialogue: 0,0:06:59.67,0:07:00.80,Default,,0000,0000,0000,,{\b1}[FRIEREN] What?{\b0}
+Dialogue: 0,0:07:01.46,0:07:03.13,Default,,0000,0000,0000,,{\b1}Glad to be on board!{\b0}
+Dialogue: 0,0:07:04.01,0:07:06.51,Default,,0000,0000,0000,,{\b1}[FRIEREN] Don't come\Ncrying to me later.{\b0}
+Dialogue: 0,0:07:06.55,0:07:08.10,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:07:24.19,0:07:27.07,Default,,0000,0000,0000,,{\b1}[FERN] We're in the final stages\Nof removing the barrier.{\b0}
+Dialogue: 0,0:07:27.78,0:07:30.20,Default,,0000,0000,0000,,{\b1}Our work here\Nshall be done tomorrow.{\b0}
+Dialogue: 0,0:07:34.20,0:07:37.00,Default,,0000,0000,0000,,{\b1}[FERN] You don't look\Nvery pleased.{\b0}
+Dialogue: 0,0:07:41.34,0:07:43.05,Default,,0000,0000,0000,,{\b1}For I'm not.{\b0}
+Dialogue: 0,0:07:43.09,0:07:45.13,Default,,0000,0000,0000,,{\b1}Boshaft doesn't taste good.{\b0}
+Dialogue: 0,0:07:45.17,0:07:46.80,Default,,0000,0000,0000,,{\b1}It's dreadful.{\b0}
+Dialogue: 0,0:07:46.84,0:07:49.97,Default,,0000,0000,0000,,{\b1}And certainly not worth\N200 years of devotion.{\b0}
+Dialogue: 0,0:07:50.01,0:07:52.39,Default,,0000,0000,0000,,{\b1}But the inscription praised it.{\b0}
+Dialogue: 0,0:07:53.93,0:07:55.85,Default,,0000,0000,0000,,{\b1}Long life comes at a cost.{\b0}
+Dialogue: 0,0:07:56.35,0:07:57.60,Default,,0000,0000,0000,,{\b1}Elves will do anything{\b0}
+Dialogue: 0,0:07:57.69,0:08:00.15,Default,,0000,0000,0000,,{\b1}to avoid being crushed\Nby the weight of boredom.{\b0}
+Dialogue: 0,0:08:00.56,0:08:02.23,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:08:03.28,0:08:05.28,Default,,0000,0000,0000,,{\b1}[footsteps]{\b0}
+Dialogue: 0,0:08:13.74,0:08:15.70,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NAnytime I see you, Milliarde,{\b0}
+Dialogue: 0,0:08:15.75,0:08:17.66,Default,,0000,0000,0000,,{\b1}you're staring off into space.{\b0}
+Dialogue: 0,0:08:18.12,0:08:19.62,Default,,0000,0000,0000,,{\b1}Many of our fellow elves{\b0}
+Dialogue: 0,0:08:19.67,0:08:21.63,Default,,0000,0000,0000,,{\b1}tie themselves\Nto a grand pursuit.{\b0}
+Dialogue: 0,0:08:21.67,0:08:24.25,Default,,0000,0000,0000,,{\b1}Some glorious\Nand lifelong adventure.{\b0}
+Dialogue: 0,0:08:24.55,0:08:26.01,Default,,0000,0000,0000,,{\b1}Know why that is?{\b0}
+Dialogue: 0,0:08:26.47,0:08:27.84,Default,,0000,0000,0000,,{\b1}Go on.{\b0}
+Dialogue: 0,0:08:28.38,0:08:31.05,Default,,0000,0000,0000,,{\b1}So that they don't end up\Nlike me.{\b0}
+Dialogue: 0,0:08:32.39,0:08:33.76,Default,,0000,0000,0000,,{\b1}Frieren...{\b0}
+Dialogue: 0,0:08:33.81,0:08:36.56,Default,,0000,0000,0000,,{\b1}Suppose you spent a lifetime\Nsearching for something{\b0}
+Dialogue: 0,0:08:36.60,0:08:38.77,Default,,0000,0000,0000,,{\b1}only to find it was worthless...{\b0}
+Dialogue: 0,0:08:38.81,0:08:40.27,Default,,0000,0000,0000,,{\b1}Imagine the feeling.{\b0}
+Dialogue: 0,0:08:40.81,0:08:42.11,Default,,0000,0000,0000,,{\b1}I cannot.{\b0}
+Dialogue: 0,0:08:42.15,0:08:44.11,Default,,0000,0000,0000,,{\b1}What is it you're talking about?{\b0}
+Dialogue: 0,0:08:44.15,0:08:46.07,Default,,0000,0000,0000,,{\b1}Oh, nothing interesting.{\b0}
+Dialogue: 0,0:08:46.44,0:08:48.45,Default,,0000,0000,0000,,{\b1}Just my distant past.{\b0}
+Dialogue: 0,0:08:52.03,0:08:53.74,Default,,0000,0000,0000,,{\b1}This liquor is terrible.{\b0}
+Dialogue: 0,0:08:53.78,0:08:54.99,Default,,0000,0000,0000,,{\b1}Disgusting.{\b0}
+Dialogue: 0,0:08:55.41,0:08:57.08,Default,,0000,0000,0000,,{\b1}That's Boshaft, right?{\b0}
+Dialogue: 0,0:08:57.12,0:08:59.12,Default,,0000,0000,0000,,{\b1}They served it to everyone\Nat the coronation{\b0}
+Dialogue: 0,0:08:59.16,0:09:00.96,Default,,0000,0000,0000,,{\b1}because it's\Nexceptionally cheap.{\b0}
+Dialogue: 0,0:09:01.62,0:09:03.54,Default,,0000,0000,0000,,{\b1}[MILLIARDE]\NBefore coming to this village,{\b0}
+Dialogue: 0,0:09:03.58,0:09:05.54,Default,,0000,0000,0000,,{\b1}I carved\Na mysterious inscription{\b0}
+Dialogue: 0,0:09:05.59,0:09:07.01,Default,,0000,0000,0000,,{\b1}into a block of stone.{\b0}
+Dialogue: 0,0:09:07.51,0:09:11.51,Default,,0000,0000,0000,,{\b1}It said, "Boshaft is\Nthe finest spirit of all time."{\b0}
+Dialogue: 0,0:09:11.97,0:09:14.18,Default,,0000,0000,0000,,{\b1}What exactly was the point\Nof doing that?{\b0}
+Dialogue: 0,0:09:15.97,0:09:18.14,Default,,0000,0000,0000,,{\b1}[MILLIARDE]\NThere was no point at all.{\b0}
+Dialogue: 0,0:09:22.69,0:09:24.94,Default,,0000,0000,0000,,{\b1}[FASS] It's finally time.{\b0}
+Dialogue: 0,0:09:38.58,0:09:39.75,Default,,0000,0000,0000,,{\b1}[Fass gasps]{\b0}
+Dialogue: 0,0:09:40.71,0:09:43.29,Default,,0000,0000,0000,,{\b1}[Fass laughs]{\b0}
+Dialogue: 0,0:09:45.42,0:09:47.34,Default,,0000,0000,0000,,{\b1}[FASS] It's perfectly preserved!{\b0}
+Dialogue: 0,0:09:47.38,0:09:49.51,Default,,0000,0000,0000,,{\b1}I can't believe\Nthat after all these years,{\b0}
+Dialogue: 0,0:09:49.55,0:09:51.34,Default,,0000,0000,0000,,{\b1}I get to taste it.{\b0}
+Dialogue: 0,0:09:51.67,0:09:53.43,Default,,0000,0000,0000,,{\b1}Let's have a toast.{\b0}
+Dialogue: 0,0:09:53.47,0:09:55.72,Default,,0000,0000,0000,,{\b1}I'm not drinking alone!{\b0}
+Dialogue: 0,0:10:01.98,0:10:03.56,Default,,0000,0000,0000,,{\b1}[gulping]{\b0}
+Dialogue: 0,0:10:05.81,0:10:07.23,Default,,0000,0000,0000,,{\b1}This is...{\b0}
+Dialogue: 0,0:10:11.07,0:10:13.53,Default,,0000,0000,0000,,{\b1}[HEITER] Frieren,\Nthe Boshaft was so close,{\b0}
+Dialogue: 0,0:10:13.57,0:10:15.95,Default,,0000,0000,0000,,{\b1}I could taste it.\NWhy drag us away?{\b0}
+Dialogue: 0,0:10:18.58,0:10:21.00,Default,,0000,0000,0000,,{\b1}You're a connoisseur\Nof liquor, aren't you?{\b0}
+Dialogue: 0,0:10:21.04,0:10:22.41,Default,,0000,0000,0000,,{\b1}But of course I am.{\b0}
+Dialogue: 0,0:10:22.46,0:10:25.17,Default,,0000,0000,0000,,{\b1}How very priestly of you,\Ncorrupt priest.{\b0}
+Dialogue: 0,0:10:25.58,0:10:27.09,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NLet's say you've found a spirit{\b0}
+Dialogue: 0,0:10:27.13,0:10:29.17,Default,,0000,0000,0000,,{\b1}you've searched for\Nyour entire life.{\b0}
+Dialogue: 0,0:10:29.21,0:10:31.21,Default,,0000,0000,0000,,{\b1}What would you do\Nif it was terrible?{\b0}
+Dialogue: 0,0:10:32.09,0:10:33.22,Default,,0000,0000,0000,,{\b1}Uh?{\b0}
+Dialogue: 0,0:10:33.67,0:10:37.05,Default,,0000,0000,0000,,{\b1}Mmm. You want to know\Nwhat I would do?{\b0}
+Dialogue: 0,0:10:38.01,0:10:39.68,Default,,0000,0000,0000,,{\b1}I would laugh it off.{\b0}
+Dialogue: 0,0:10:39.72,0:10:42.27,Default,,0000,0000,0000,,{\b1}Can't drink it for the taste?\NIt's booze.{\b0}
+Dialogue: 0,0:10:42.31,0:10:44.19,Default,,0000,0000,0000,,{\b1}It's best shared with friends.{\b0}
+Dialogue: 0,0:10:49.11,0:10:50.86,Default,,0000,0000,0000,,{\b1}[FASS] It's so...{\b0}
+Dialogue: 0,0:10:52.78,0:10:53.99,Default,,0000,0000,0000,,{\b1}[FRIEREN] It's terrible.{\b0}
+Dialogue: 0,0:10:54.70,0:10:57.95,Default,,0000,0000,0000,,{\b1}I would go so far as to say\Nit's the worst drink I've had.{\b0}
+Dialogue: 0,0:10:59.03,0:11:00.20,Default,,0000,0000,0000,,{\b1}[both gasp]{\b0}
+Dialogue: 0,0:11:00.70,0:11:02.37,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NDon't sit back and watch.{\b0}
+Dialogue: 0,0:11:02.41,0:11:04.21,Default,,0000,0000,0000,,{\b1}Join in our misery, Stark.{\b0}
+Dialogue: 0,0:11:04.46,0:11:07.13,Default,,0000,0000,0000,,{\b1}Yeah, I think I'm good.\NYou said it's terrible.{\b0}
+Dialogue: 0,0:11:07.17,0:11:09.09,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NFind out for yourself.{\b0}
+Dialogue: 0,0:11:11.92,0:11:14.26,Default,,0000,0000,0000,,{\b1}[gags] This is disgusting.{\b0}
+Dialogue: 0,0:11:14.80,0:11:16.05,Default,,0000,0000,0000,,{\b1}-[coughs]\N-Did you enjoy?{\b0}
+Dialogue: 0,0:11:16.09,0:11:17.64,Default,,0000,0000,0000,,{\b1}-I'll give it to you this time.\N-Have more.{\b0}
+Dialogue: 0,0:11:17.68,0:11:20.18,Default,,0000,0000,0000,,{\b1}We should've left this garbage\Nin the ground!{\b0}
+Dialogue: 0,0:11:21.39,0:11:23.60,Default,,0000,0000,0000,,{\b1}[FASS]\NIt really is terrible.{\b0}
+Dialogue: 0,0:11:23.64,0:11:24.73,Default,,0000,0000,0000,,{\b1}[chuckles]{\b0}
+Dialogue: 0,0:11:24.85,0:11:27.69,Default,,0000,0000,0000,,{\b1}[laughs]\NWe've got plenty to go around.{\b0}
+Dialogue: 0,0:11:27.73,0:11:31.27,Default,,0000,0000,0000,,{\b1}And I'm prepared to make\Nthe whole city suffer with me.{\b0}
+Dialogue: 0,0:11:31.36,0:11:33.07,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:11:34.57,0:11:35.82,Default,,0000,0000,0000,,{\b1}[FASS] Frieren?{\b0}
+Dialogue: 0,0:11:35.90,0:11:38.49,Default,,0000,0000,0000,,{\b1}My search may have ended\Nin disappointment,{\b0}
+Dialogue: 0,0:11:38.53,0:11:41.20,Default,,0000,0000,0000,,{\b1}but I've never had\Nsuch a fun night.{\b0}
+Dialogue: 0,0:11:41.24,0:11:44.62,Default,,0000,0000,0000,,{\b1}I'm glad you three stuck around\Nfor the party.{\b0}
+Dialogue: 0,0:11:46.87,0:11:49.25,Default,,0000,0000,0000,,{\b1}There's nothing that pairs\Nwith bad liquor{\b0}
+Dialogue: 0,0:11:49.29,0:11:51.17,Default,,0000,0000,0000,,{\b1}quite like good times.{\b0}
+Dialogue: 0,0:11:51.21,0:11:52.71,Default,,0000,0000,0000,,{\b1}[Fass laughs]{\b0}
+Dialogue: 0,0:12:02.97,0:12:05.89,Default,,0000,0000,0000,,{\b1}EPISODE 33: LOGISTICS\NIN THE NORTHERN PLATEAU{\b0}
+Dialogue: 0,0:12:05.93,0:12:07.85,Default,,0000,0000,0000,,{\b1}30 YEARS AFTER THE DEATH\NOF HIMMEL THE HERO,{\b0}
+Dialogue: 0,0:12:07.89,0:12:09.98,Default,,0000,0000,0000,,{\b1}IN NORM COMPANY TERRITORY,\NLOCATED ON THE NORTHERN PLATEAU{\b0}
+Dialogue: 0,0:12:12.73,0:12:15.61,Default,,0000,0000,0000,,{\b1}Here. Take your share\Nof today's bread.{\b0}
+Dialogue: 0,0:12:18.91,0:12:20.62,Default,,0000,0000,0000,,{\b1}Is this some kind of sick joke?{\b0}
+Dialogue: 0,0:12:20.66,0:12:22.99,Default,,0000,0000,0000,,{\b1}It clunked.\NYou ever hear bread clunk?{\b0}
+Dialogue: 0,0:12:23.58,0:12:25.91,Default,,0000,0000,0000,,{\b1}If I know anything,\Nit's that bread shouldn't clunk.{\b0}
+Dialogue: 0,0:12:26.29,0:12:27.79,Default,,0000,0000,0000,,{\b1}[FERN]\NIt's been a week of this,{\b0}
+Dialogue: 0,0:12:27.83,0:12:30.79,Default,,0000,0000,0000,,{\b1}and each day,\Nthe bread gets more rock-like.{\b0}
+Dialogue: 0,0:12:30.83,0:12:32.75,Default,,0000,0000,0000,,{\b1}Complaining will\Nget you nowhere.{\b0}
+Dialogue: 0,0:12:33.42,0:12:36.01,Default,,0000,0000,0000,,{\b1}As you saw, the Bier region\Nhas its share of grain,{\b0}
+Dialogue: 0,0:12:36.05,0:12:38.63,Default,,0000,0000,0000,,{\b1}but beyond that,\Nthe Northern Plateau is barren.{\b0}
+Dialogue: 0,0:12:39.26,0:12:40.30,Default,,0000,0000,0000,,{\b1}And from what I can tell,{\b0}
+Dialogue: 0,0:12:40.34,0:12:42.10,Default,,0000,0000,0000,,{\b1}goods aren't circulating\Nright now.{\b0}
+Dialogue: 0,0:12:42.51,0:12:43.56,Default,,0000,0000,0000,,{\b1}While we're on the road,{\b0}
+Dialogue: 0,0:12:43.80,0:12:45.85,Default,,0000,0000,0000,,{\b1}don't expect anything\Nbut this delightful treat.{\b0}
+Dialogue: 0,0:12:45.89,0:12:48.56,Default,,0000,0000,0000,,{\b1}Oh, how depressing.{\b0}
+Dialogue: 0,0:12:49.23,0:12:50.94,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NMuster your zeal, complainers.{\b0}
+Dialogue: 0,0:12:50.98,0:12:53.73,Default,,0000,0000,0000,,{\b1}There should be a decent meal\Nwithin a half day's walk.{\b0}
+Dialogue: 0,0:12:53.77,0:12:55.48,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:13:07.41,0:13:09.96,Default,,0000,0000,0000,,{\b1}[STARK] That's\Nan impressive fortress city.{\b0}
+Dialogue: 0,0:13:10.33,0:13:12.50,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NIt's the Norm Company's estate.{\b0}
+Dialogue: 0,0:13:12.54,0:13:15.17,Default,,0000,0000,0000,,{\b1}The structure in the center\Nis their headquarters.{\b0}
+Dialogue: 0,0:13:15.84,0:13:17.51,Default,,0000,0000,0000,,{\b1}They deal in various goods,{\b0}
+Dialogue: 0,0:13:17.55,0:13:19.76,Default,,0000,0000,0000,,{\b1}primarily wheat\Nfrom the Bier region.{\b0}
+Dialogue: 0,0:13:20.51,0:13:22.59,Default,,0000,0000,0000,,{\b1}Unlike many\Nsmaller trading companies,{\b0}
+Dialogue: 0,0:13:22.64,0:13:23.76,Default,,0000,0000,0000,,{\b1}they're armed.{\b0}
+Dialogue: 0,0:13:24.10,0:13:26.18,Default,,0000,0000,0000,,{\b1}They have the logistical ability\Nand military force{\b0}
+Dialogue: 0,0:13:26.22,0:13:29.06,Default,,0000,0000,0000,,{\b1}to supply the villages\Ndotted across the plateau.{\b0}
+Dialogue: 0,0:13:29.60,0:13:31.65,Default,,0000,0000,0000,,{\b1}Not even the state\Ncan touch them.{\b0}
+Dialogue: 0,0:13:31.69,0:13:34.15,Default,,0000,0000,0000,,{\b1}Practically speaking,\Nthey control all human life{\b0}
+Dialogue: 0,0:13:34.19,0:13:36.23,Default,,0000,0000,0000,,{\b1}that graces\Nthe Northern Plateau.{\b0}
+Dialogue: 0,0:13:36.27,0:13:37.73,Default,,0000,0000,0000,,{\b1}So, they supply the villages?{\b0}
+Dialogue: 0,0:13:37.78,0:13:40.65,Default,,0000,0000,0000,,{\b1}But earlier, you said\Ngoods aren't circulating.{\b0}
+Dialogue: 0,0:13:40.70,0:13:42.45,Default,,0000,0000,0000,,{\b1}[FRIEREN] And that's a problem.{\b0}
+Dialogue: 0,0:13:42.74,0:13:44.28,Default,,0000,0000,0000,,{\b1}I don't know\Nthe specific cause,{\b0}
+Dialogue: 0,0:13:44.32,0:13:46.70,Default,,0000,0000,0000,,{\b1}but I'm sure time\Nhas changed things.{\b0}
+Dialogue: 0,0:13:47.49,0:13:51.08,Default,,0000,0000,0000,,{\b1}Perhaps the Norm Company\Nisn't as mighty as it once was.{\b0}
+Dialogue: 0,0:13:51.67,0:13:54.63,Default,,0000,0000,0000,,{\b1}Regardless, I imagine they still\Nhave a great deal of influence{\b0}
+Dialogue: 0,0:13:54.67,0:13:57.38,Default,,0000,0000,0000,,{\b1}over the goings on\Nand daily life on the plateau.{\b0}
+Dialogue: 0,0:13:57.80,0:14:00.38,Default,,0000,0000,0000,,{\b1}As such, we should avoid\Nmaking waves.{\b0}
+Dialogue: 0,0:14:00.76,0:14:02.80,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:14:09.14,0:14:10.56,Default,,0000,0000,0000,,{\b1}[RECEPTIONIST] Very good.{\b0}
+Dialogue: 0,0:14:10.64,0:14:12.98,Default,,0000,0000,0000,,{\b1}First-class mages\Nare welcome to pass.{\b0}
+Dialogue: 0,0:14:13.98,0:14:15.56,Default,,0000,0000,0000,,{\b1}Travel safe, Miss Fern.{\b0}
+Dialogue: 0,0:14:16.27,0:14:17.44,Default,,0000,0000,0000,,{\b1}Mmm.{\b0}
+Dialogue: 0,0:14:17.77,0:14:19.15,Default,,0000,0000,0000,,{\b1}That elf...{\b0}
+Dialogue: 0,0:14:20.36,0:14:21.53,Default,,0000,0000,0000,,{\b1}[FRIEREN] Mm?{\b0}
+Dialogue: 0,0:14:22.49,0:14:23.74,Default,,0000,0000,0000,,{\b1}[exclaims softly]{\b0}
+Dialogue: 0,0:14:28.49,0:14:30.41,Default,,0000,0000,0000,,{\b1}[RECEPTIONIST]\NOne moment please.{\b0}
+Dialogue: 0,0:14:32.46,0:14:33.91,Default,,0000,0000,0000,,{\b1}[FERN] I wonder what's going on.{\b0}
+Dialogue: 0,0:14:33.96,0:14:35.71,Default,,0000,0000,0000,,{\b1}-[door closes]\N-[FRIEREN] Hm.{\b0}
+Dialogue: 0,0:14:39.92,0:14:42.47,Default,,0000,0000,0000,,{\b1}I am Norm,\Nthe company president.{\b0}
+Dialogue: 0,0:14:42.88,0:14:44.76,Default,,0000,0000,0000,,{\b1}And I take it\Nyou're Miss Frieren{\b0}
+Dialogue: 0,0:14:44.80,0:14:45.93,Default,,0000,0000,0000,,{\b1}from the party of heroes.{\b0}
+Dialogue: 0,0:14:45.97,0:14:48.01,Default,,0000,0000,0000,,{\b1}I'm afraid\Nyou owe me some money.{\b0}
+Dialogue: 0,0:14:48.72,0:14:51.89,Default,,0000,0000,0000,,{\b1}That's eighty years of debt\Nto be paid in full.{\b0}
+Dialogue: 0,0:14:52.35,0:14:53.60,Default,,0000,0000,0000,,{\b1}Have you been carrying debt{\b0}
+Dialogue: 0,0:14:53.64,0:14:56.15,Default,,0000,0000,0000,,{\b1}for our entire journey\Ntogether, Mistress?{\b0}
+Dialogue: 0,0:14:56.19,0:14:57.36,Default,,0000,0000,0000,,{\b1}Just a little.{\b0}
+Dialogue: 0,0:14:57.40,0:14:58.69,Default,,0000,0000,0000,,{\b1}We're doomed, huh?{\b0}
+Dialogue: 0,0:14:58.98,0:15:01.86,Default,,0000,0000,0000,,{\b1}I was told eighty years ago,\NI could pay it back at any time.{\b0}
+Dialogue: 0,0:15:01.94,0:15:04.70,Default,,0000,0000,0000,,{\b1}That is unfortunately\Nnot what the documents say.{\b0}
+Dialogue: 0,0:15:04.74,0:15:07.03,Default,,0000,0000,0000,,{\b1}A verbal agreement\Nwon't hold up.{\b0}
+Dialogue: 0,0:15:07.07,0:15:09.28,Default,,0000,0000,0000,,{\b1}It seems my predecessor's\Npredecessor{\b0}
+Dialogue: 0,0:15:09.33,0:15:10.83,Default,,0000,0000,0000,,{\b1}had a more relaxed approach.{\b0}
+Dialogue: 0,0:15:11.45,0:15:13.75,Default,,0000,0000,0000,,{\b1}But I didn't inherit\Nhis generosity.{\b0}
+Dialogue: 0,0:15:15.83,0:15:18.54,Default,,0000,0000,0000,,{\b1}[NORM] That's three Strahl\Nand twenty Reich gold.{\b0}
+Dialogue: 0,0:15:18.59,0:15:20.63,Default,,0000,0000,0000,,{\b1}Various silvers\Nand coppers, too.{\b0}
+Dialogue: 0,0:15:20.67,0:15:22.30,Default,,0000,0000,0000,,{\b1}Quite the fortune\Nyou've acquired.{\b0}
+Dialogue: 0,0:15:23.17,0:15:25.59,Default,,0000,0000,0000,,{\b1}You're as wealthy\Nas a minor noble.{\b0}
+Dialogue: 0,0:15:25.63,0:15:29.39,Default,,0000,0000,0000,,{\b1}I know. Your dear grandfather\Ndid my party a great favor{\b0}
+Dialogue: 0,0:15:29.43,0:15:32.27,Default,,0000,0000,0000,,{\b1}back in his day. I'll let you\Nkeep the change, sonny.{\b0}
+Dialogue: 0,0:15:34.23,0:15:35.27,Default,,0000,0000,0000,,{\b1}My!{\b0}
+Dialogue: 0,0:15:36.94,0:15:39.23,Default,,0000,0000,0000,,{\b1}I'm afraid\Nthis isn't nearly enough.{\b0}
+Dialogue: 0,0:15:41.02,0:15:43.23,Default,,0000,0000,0000,,{\b1}It seems I'll be working\Nin the company's mines{\b0}
+Dialogue: 0,0:15:43.28,0:15:45.07,Default,,0000,0000,0000,,{\b1}for the next\Nthree hundred years.{\b0}
+Dialogue: 0,0:15:45.11,0:15:47.95,Default,,0000,0000,0000,,{\b1}You may journey forth,\Nbut my journey ends here.{\b0}
+Dialogue: 0,0:15:48.03,0:15:49.53,Default,,0000,0000,0000,,{\b1}[both exclaim softly]{\b0}
+Dialogue: 0,0:15:50.70,0:15:53.20,Default,,0000,0000,0000,,{\b1}[FERN] What are you\Ntalking about, Mistress Frieren?{\b0}
+Dialogue: 0,0:15:53.24,0:15:56.46,Default,,0000,0000,0000,,{\b1}Did you lose your bag in there?\NAnd your clothing?{\b0}
+Dialogue: 0,0:15:56.87,0:15:59.00,Default,,0000,0000,0000,,{\b1}They snapped up all my\Nworldly possessions{\b0}
+Dialogue: 0,0:15:59.04,0:16:00.04,Default,,0000,0000,0000,,{\b1}as collateral.{\b0}
+Dialogue: 0,0:16:00.84,0:16:02.38,Default,,0000,0000,0000,,{\b1}[footsteps]{\b0}
+Dialogue: 0,0:16:03.21,0:16:04.17,Default,,0000,0000,0000,,{\b1}[both gasp]{\b0}
+Dialogue: 0,0:16:04.26,0:16:06.26,Default,,0000,0000,0000,,{\b1}[Frieren whimpers]{\b0}
+Dialogue: 0,0:16:06.93,0:16:08.84,Default,,0000,0000,0000,,{\b1}[inhales and exhales angrily]{\b0}
+Dialogue: 0,0:16:08.97,0:16:10.80,Default,,0000,0000,0000,,{\b1}[inhales and exhales loudly]{\b0}
+Dialogue: 0,0:16:10.89,0:16:12.18,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:16:14.14,0:16:15.68,Default,,0000,0000,0000,,{\b1}[miners grunt]{\b0}
+Dialogue: 0,0:16:17.44,0:16:21.69,Default,,0000,0000,0000,,{\b1}[FRIEREN] Farewell, Fern, Stark.\NLead full lives.{\b0}
+Dialogue: 0,0:16:24.53,0:16:26.78,Default,,0000,0000,0000,,{\b1}[STARK] Uh...{\b0}
+Dialogue: 0,0:16:26.99,0:16:28.95,Default,,0000,0000,0000,,{\b1}-What are we going to do now?\N-[Fern sighs]{\b0}
+Dialogue: 0,0:16:29.36,0:16:32.62,Default,,0000,0000,0000,,{\b1}We have no choice but to\Nbuy back Mistress Frieren.{\b0}
+Dialogue: 0,0:16:32.95,0:16:35.29,Default,,0000,0000,0000,,{\b1}She's not another grimoire,\Nyou know.{\b0}
+Dialogue: 0,0:16:35.33,0:16:37.08,Default,,0000,0000,0000,,{\b1}A very noble pursuit,{\b0}
+Dialogue: 0,0:16:37.12,0:16:39.29,Default,,0000,0000,0000,,{\b1}but unfortunately,\Nthere's nothing you can do.{\b0}
+Dialogue: 0,0:16:39.33,0:16:40.92,Default,,0000,0000,0000,,{\b1}See for yourself.{\b0}
+Dialogue: 0,0:16:43.75,0:16:46.30,Default,,0000,0000,0000,,{\b1}The interest\Nhas really piled up on her.{\b0}
+Dialogue: 0,0:16:46.34,0:16:48.76,Default,,0000,0000,0000,,{\b1}She owes over\Nfive hundred Strahl gold.{\b0}
+Dialogue: 0,0:16:48.88,0:16:51.64,Default,,0000,0000,0000,,{\b1}Convert it into the region's\NReich gold currency,{\b0}
+Dialogue: 0,0:16:51.68,0:16:54.22,Default,,0000,0000,0000,,{\b1}and Frieren still owes me\Nover 300 coins.{\b0}
+Dialogue: 0,0:16:54.31,0:16:57.89,Default,,0000,0000,0000,,{\b1}If you believe you can procure\Nsuch a sum, I'm all ears.{\b0}
+Dialogue: 0,0:16:58.48,0:17:00.19,Default,,0000,0000,0000,,{\b1}That would be impossible.{\b0}
+Dialogue: 0,0:17:00.23,0:17:02.36,Default,,0000,0000,0000,,{\b1}Plan A is out of the question.{\b0}
+Dialogue: 0,0:17:02.94,0:17:06.07,Default,,0000,0000,0000,,{\b1}And we don't have 300 years\Nto wait around.{\b0}
+Dialogue: 0,0:17:11.45,0:17:14.07,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NI thoroughly detest mines.{\b0}
+Dialogue: 0,0:17:14.12,0:17:17.08,Default,,0000,0000,0000,,{\b1}It's like cooking\Nin a dusty clay oven.{\b0}
+Dialogue: 0,0:17:17.12,0:17:18.83,Default,,0000,0000,0000,,{\b1}-[footsteps]\N-[Frieren gasps]{\b0}
+Dialogue: 0,0:17:22.63,0:17:24.00,Default,,0000,0000,0000,,{\b1}[Frieren groans softly]{\b0}
+Dialogue: 0,0:17:27.30,0:17:30.17,Default,,0000,0000,0000,,{\b1}The president told us\Nall about you, Miss Frieren.{\b0}
+Dialogue: 0,0:17:30.22,0:17:31.38,Default,,0000,0000,0000,,{\b1}The pleasure's ours.{\b0}
+Dialogue: 0,0:17:33.14,0:17:34.47,Default,,0000,0000,0000,,{\b1}Indeed.{\b0}
+Dialogue: 0,0:17:35.10,0:17:36.89,Default,,0000,0000,0000,,{\b1}Shall we get started then?{\b0}
+Dialogue: 0,0:17:40.69,0:17:42.81,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:17:49.32,0:17:50.99,Default,,0000,0000,0000,,{\b1}[miners gasp, grunt]{\b0}
+Dialogue: 0,0:18:13.30,0:18:15.30,Default,,0000,0000,0000,,{\b1}[miner exclaims, grunts]{\b0}
+Dialogue: 0,0:18:28.23,0:18:30.69,Default,,0000,0000,0000,,{\b1}Aim your axes\Nat this wall here.{\b0}
+Dialogue: 0,0:18:30.99,0:18:32.53,Default,,0000,0000,0000,,{\b1}You're sure about this?{\b0}
+Dialogue: 0,0:18:33.11,0:18:35.53,Default,,0000,0000,0000,,{\b1}If you know who I am,\Nyou shouldn't have to ask.{\b0}
+Dialogue: 0,0:18:37.49,0:18:38.79,Default,,0000,0000,0000,,{\b1}Well, you heard the lady.{\b0}
+Dialogue: 0,0:18:39.20,0:18:40.58,Default,,0000,0000,0000,,{\b1}Start digging, boys.{\b0}
+Dialogue: 0,0:18:40.62,0:18:42.12,Default,,0000,0000,0000,,{\b1}[MINERS] Sir!{\b0}
+Dialogue: 0,0:18:42.16,0:18:44.04,Default,,0000,0000,0000,,{\b1}[all grunting]{\b0}
+Dialogue: 0,0:18:56.43,0:18:57.68,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NWhen I met your president{\b0}
+Dialogue: 0,0:18:57.80,0:19:00.43,Default,,0000,0000,0000,,{\b1}two generations ago,\Nhe was a cast-out nobleman,{\b0}
+Dialogue: 0,0:19:00.47,0:19:02.52,Default,,0000,0000,0000,,{\b1}driven to the plateau\Nby necessity.{\b0}
+Dialogue: 0,0:19:03.43,0:19:05.52,Default,,0000,0000,0000,,{\b1}He invested in this barren land{\b0}
+Dialogue: 0,0:19:05.56,0:19:07.27,Default,,0000,0000,0000,,{\b1}and created a logistics network.{\b0}
+Dialogue: 0,0:19:07.31,0:19:09.69,Default,,0000,0000,0000,,{\b1}He brought stability\Nto the unstable,{\b0}
+Dialogue: 0,0:19:09.73,0:19:10.94,Default,,0000,0000,0000,,{\b1}making him a savior{\b0}
+Dialogue: 0,0:19:11.11,0:19:13.78,Default,,0000,0000,0000,,{\b1}to the people who call\Nthe Northern Plateau home.{\b0}
+Dialogue: 0,0:19:14.82,0:19:17.45,Default,,0000,0000,0000,,{\b1}At the time, most nobles\Nturned up their noses{\b0}
+Dialogue: 0,0:19:17.49,0:19:19.41,Default,,0000,0000,0000,,{\b1}at our ragtag party of heroes.{\b0}
+Dialogue: 0,0:19:19.45,0:19:22.87,Default,,0000,0000,0000,,{\b1}But he provided us funds\Nwith no repayment deadline.{\b0}
+Dialogue: 0,0:19:25.50,0:19:26.71,Default,,0000,0000,0000,,{\b1}I never would have guessed{\b0}
+Dialogue: 0,0:19:26.87,0:19:29.67,Default,,0000,0000,0000,,{\b1}his grandson would treat me\Nwith such disrespect.{\b0}
+Dialogue: 0,0:19:31.13,0:19:32.42,Default,,0000,0000,0000,,{\b1}But a busy man like you{\b0}
+Dialogue: 0,0:19:32.46,0:19:33.88,Default,,0000,0000,0000,,{\b1}wouldn't trek down\Nto such depths{\b0}
+Dialogue: 0,0:19:33.92,0:19:35.13,Default,,0000,0000,0000,,{\b1}without good reason.{\b0}
+Dialogue: 0,0:19:35.17,0:19:37.14,Default,,0000,0000,0000,,{\b1}If there's something\Nyou wish to ask, ask it.{\b0}
+Dialogue: 0,0:19:38.18,0:19:40.68,Default,,0000,0000,0000,,{\b1}We have lost our grip\Non logistics.{\b0}
+Dialogue: 0,0:19:40.72,0:19:42.60,Default,,0000,0000,0000,,{\b1}You can tell that much, yes?{\b0}
+Dialogue: 0,0:19:42.64,0:19:44.06,Default,,0000,0000,0000,,{\b1}I suppose so.{\b0}
+Dialogue: 0,0:19:44.10,0:19:45.35,Default,,0000,0000,0000,,{\b1}My companions complain{\b0}
+Dialogue: 0,0:19:45.39,0:19:46.77,Default,,0000,0000,0000,,{\b1}they've never had\Nto suffer through{\b0}
+Dialogue: 0,0:19:46.81,0:19:48.35,Default,,0000,0000,0000,,{\b1}such rock-hard bread before.{\b0}
+Dialogue: 0,0:19:48.40,0:19:51.90,Default,,0000,0000,0000,,{\b1}[NORM] I believe it. I'm not\Nparticularly fond myself.{\b0}
+Dialogue: 0,0:19:52.82,0:19:53.99,Default,,0000,0000,0000,,{\b1}When it rains, it pours.{\b0}
+Dialogue: 0,0:19:54.03,0:19:55.82,Default,,0000,0000,0000,,{\b1}And the Norm Company\Nis drowning.{\b0}
+Dialogue: 0,0:19:56.53,0:19:59.03,Default,,0000,0000,0000,,{\b1}We've lost\Na third of our troops,{\b0}
+Dialogue: 0,0:19:59.07,0:20:02.62,Default,,0000,0000,0000,,{\b1}their lives taken and caravans\Ndestroyed by the demons.{\b0}
+Dialogue: 0,0:20:05.25,0:20:07.87,Default,,0000,0000,0000,,{\b1}Our logistics network\Nis in ruins.{\b0}
+Dialogue: 0,0:20:08.50,0:20:10.63,Default,,0000,0000,0000,,{\b1}If the Norm Company\Nwere a nation,{\b0}
+Dialogue: 0,0:20:10.96,0:20:12.67,Default,,0000,0000,0000,,{\b1}we would have fallen by now.{\b0}
+Dialogue: 0,0:20:17.47,0:20:20.68,Default,,0000,0000,0000,,{\b1}But we're not a nation.\NWe're a trading company.{\b0}
+Dialogue: 0,0:20:21.76,0:20:23.76,Default,,0000,0000,0000,,{\b1}As long as we have the funds...{\b0}
+Dialogue: 0,0:20:24.89,0:20:26.43,Default,,0000,0000,0000,,{\b1}we can rebuild.{\b0}
+Dialogue: 0,0:20:27.60,0:20:29.69,Default,,0000,0000,0000,,{\b1}When you arrived in this region,{\b0}
+Dialogue: 0,0:20:29.73,0:20:32.61,Default,,0000,0000,0000,,{\b1}I felt you were hand-delivered\Nby the Goddess herself.{\b0}
+Dialogue: 0,0:20:33.61,0:20:36.65,Default,,0000,0000,0000,,{\b1}What was once a scrap of paper\Nmarked with your party's names,{\b0}
+Dialogue: 0,0:20:37.28,0:20:39.41,Default,,0000,0000,0000,,{\b1}became my ticket out of ruin.{\b0}
+Dialogue: 0,0:20:40.36,0:20:43.49,Default,,0000,0000,0000,,{\b1}This mine is rich,\Nbut still under development.{\b0}
+Dialogue: 0,0:20:43.53,0:20:44.66,Default,,0000,0000,0000,,{\b1}If we strike silver,{\b0}
+Dialogue: 0,0:20:44.70,0:20:46.45,Default,,0000,0000,0000,,{\b1}then we will turn\Na great profit.{\b0}
+Dialogue: 0,0:20:46.50,0:20:48.50,Default,,0000,0000,0000,,{\b1}Enough to rebuild\Nwhat the demons stole,{\b0}
+Dialogue: 0,0:20:48.54,0:20:51.00,Default,,0000,0000,0000,,{\b1}and enough to repay\Nyour party's debt.{\b0}
+Dialogue: 0,0:20:52.09,0:20:54.09,Default,,0000,0000,0000,,{\b1}Finding silver\Nshould be a simple task{\b0}
+Dialogue: 0,0:20:54.13,0:20:55.71,Default,,0000,0000,0000,,{\b1}for the legendary Frieren.{\b0}
+Dialogue: 0,0:20:56.21,0:20:57.59,Default,,0000,0000,0000,,{\b1}"Legendary"?{\b0}
+Dialogue: 0,0:20:57.84,0:20:59.68,Default,,0000,0000,0000,,{\b1}It would take\Nmore than a scrap of paper{\b0}
+Dialogue: 0,0:20:59.72,0:21:02.22,Default,,0000,0000,0000,,{\b1}to bend a legend\Ninto doing your bidding.{\b0}
+Dialogue: 0,0:21:03.18,0:21:05.26,Default,,0000,0000,0000,,{\b1}[NORM] If our logistics network\Nfalls apart,{\b0}
+Dialogue: 0,0:21:05.31,0:21:07.77,Default,,0000,0000,0000,,{\b1}countless people will starve\Nand die.{\b0}
+Dialogue: 0,0:21:08.14,0:21:09.39,Default,,0000,0000,0000,,{\b1}Miss Frieren,{\b0}
+Dialogue: 0,0:21:09.44,0:21:11.94,Default,,0000,0000,0000,,{\b1}please save the people\Nof the Northern Plateau.{\b0}
+Dialogue: 0,0:21:11.98,0:21:13.44,Default,,0000,0000,0000,,{\b1}I beseech you.{\b0}
+Dialogue: 0,0:21:15.86,0:21:18.90,Default,,0000,0000,0000,,{\b1}What's more,\Nif you help us locate silver,{\b0}
+Dialogue: 0,0:21:18.95,0:21:20.70,Default,,0000,0000,0000,,{\b1}I'll ensure\Nthe bread here is soft.{\b0}
+Dialogue: 0,0:21:20.74,0:21:23.32,Default,,0000,0000,0000,,{\b1}Otherwise, days of rocks\Nawait you.{\b0}
+Dialogue: 0,0:21:23.41,0:21:25.45,Default,,0000,0000,0000,,{\b1}If nothing else,\Nyou certainly inherited{\b0}
+Dialogue: 0,0:21:25.49,0:21:27.29,Default,,0000,0000,0000,,{\b1}your grandfather's shrewdness.{\b0}
+Dialogue: 0,0:21:27.54,0:21:30.12,Default,,0000,0000,0000,,{\b1}This is why I avoid\Nworking with merchants.{\b0}
+Dialogue: 0,0:21:30.66,0:21:33.63,Default,,0000,0000,0000,,{\b1}You have a deal.\NNot that you need one.{\b0}
+Dialogue: 0,0:21:34.04,0:21:36.84,Default,,0000,0000,0000,,{\b1}I intended to repay the debt\NI owed your grandfather{\b0}
+Dialogue: 0,0:21:36.88,0:21:38.42,Default,,0000,0000,0000,,{\b1}at one point or another.{\b0}
+Dialogue: 0,0:21:39.17,0:21:40.55,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:21:43.43,0:21:45.35,Default,,0000,0000,0000,,{\b1}[MINER]\NI can't believe we did it.{\b0}
+Dialogue: 0,0:21:45.39,0:21:47.31,Default,,0000,0000,0000,,{\b1}I've never seen so much silver.{\b0}
+Dialogue: 0,0:21:47.35,0:21:48.60,Default,,0000,0000,0000,,{\b1}[Frieren chuckles]{\b0}
+Dialogue: 0,0:21:55.61,0:21:58.19,Default,,0000,0000,0000,,{\b1}I've returned.\NMy journey shall continue.{\b0}
+Dialogue: 0,0:21:59.03,0:22:00.61,Default,,0000,0000,0000,,{\b1}You nailed the timing.{\b0}
+Dialogue: 0,0:22:00.65,0:22:03.70,Default,,0000,0000,0000,,{\b1}We were just coming up\Nwith a way to bust you out.{\b0}
+Dialogue: 0,0:22:03.74,0:22:06.83,Default,,0000,0000,0000,,{\b1}Our plan was to raid the mine\Nonce the sun went down.{\b0}
+Dialogue: 0,0:22:07.20,0:22:09.87,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NGoodness. You're so hot-blooded.{\b0}
+Dialogue: 0,0:22:10.75,0:22:12.96,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NThis detour wasn't for naught.{\b0}
+Dialogue: 0,0:22:13.00,0:22:15.54,Default,,0000,0000,0000,,{\b1}We'll get to eat soft bread\Nfrom now on.{\b0}
+Dialogue: 0,0:22:16.38,0:22:19.38,Default,,0000,0000,0000,,{\b1}[STARK] Huh?\NI'm a little lost here.{\b0}
+Dialogue: 0,0:22:19.96,0:22:22.55,Default,,0000,0000,0000,,{\b1}[♪ closing theme song playing]{\b0}
+Dialogue: 0,0:23:49.97,0:23:51.22,Default,,0000,0000,0000,,{\b1}[METHODE]\NI was worried to death.{\b0}
+Dialogue: 0,0:23:51.26,0:23:52.27,Default,,0000,0000,0000,,{\b1}[STARK]\NI'll help you bury them.{\b0}
+Dialogue: 0,0:23:52.31,0:23:53.43,Default,,0000,0000,0000,,{\b1}[CAPTAIN]\NProtect the villagers!{\b0}
+Dialogue: 0,0:23:53.60,0:23:55.31,Default,,0000,0000,0000,,{\b1}[FRIEREN] It seems\Nwe were one step behind.{\b0}
+Dialogue: 0,0:23:55.35,0:23:56.60,Default,,0000,0000,0000,,{\b1}[FERN]\NThere were so few of them.{\b0}
+Dialogue: 0,0:23:56.64,0:23:58.31,Default,,0000,0000,0000,,{\b1}[METHODE]\NSo, Miss Fern also received{\b0}
+Dialogue: 0,0:23:58.35,0:23:59.94,Default,,0000,0000,0000,,{\b1}a demon-slaying request?{\b0}

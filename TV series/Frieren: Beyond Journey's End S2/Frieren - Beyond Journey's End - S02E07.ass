@@ -1,0 +1,413 @@
+﻿[Script Info]
+Title: CC Subtitle
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.04,0:00:03.30,Default,,0000,0000,0000,,{\b1}[♪ opening theme song playing]{\b0}
+Dialogue: 0,0:01:32.89,0:01:34.72,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:01:37.72,0:01:41.81,Default,,0000,0000,0000,,{\b1}As of late, Genau here\Nhas been without a companion.{\b0}
+Dialogue: 0,0:01:41.94,0:01:44.02,Default,,0000,0000,0000,,{\b1}His partner was killed\Nin battle.{\b0}
+Dialogue: 0,0:01:44.06,0:01:45.23,Default,,0000,0000,0000,,{\b1}You shall replace him,{\b0}
+Dialogue: 0,0:01:45.27,0:01:47.90,Default,,0000,0000,0000,,{\b1}and slay demons\Nwith Genau up north.{\b0}
+Dialogue: 0,0:01:49.32,0:01:52.15,Default,,0000,0000,0000,,{\b1}I'm eager to work with you.\NIt's an honor.{\b0}
+Dialogue: 0,0:01:54.03,0:01:55.82,Default,,0000,0000,0000,,{\b1}The north is deadly.{\b0}
+Dialogue: 0,0:01:55.87,0:01:59.33,Default,,0000,0000,0000,,{\b1}As illustrated by my partner,\Nloss of life is common.{\b0}
+Dialogue: 0,0:01:59.37,0:02:01.00,Default,,0000,0000,0000,,{\b1}Do not cost me mine.{\b0}
+Dialogue: 0,0:02:05.71,0:02:07.17,Default,,0000,0000,0000,,{\b1}Shake her hand.{\b0}
+Dialogue: 0,0:02:15.55,0:02:17.10,Default,,0000,0000,0000,,{\b1}[pigeons cooing]{\b0}
+Dialogue: 0,0:02:20.68,0:02:22.64,Default,,0000,0000,0000,,{\b1}[GENAU]\NMethode, do you believe{\b0}
+Dialogue: 0,0:02:22.68,0:02:25.14,Default,,0000,0000,0000,,{\b1}that you're a good person\Nat your core?{\b0}
+Dialogue: 0,0:02:26.52,0:02:29.44,Default,,0000,0000,0000,,{\b1}[METHODE] I'm not sure\Nthat I understand what you mean.{\b0}
+Dialogue: 0,0:02:30.82,0:02:33.40,Default,,0000,0000,0000,,{\b1}My previous partner\Nwas a good person,{\b0}
+Dialogue: 0,0:02:34.03,0:02:36.07,Default,,0000,0000,0000,,{\b1}and the exact opposite of me.{\b0}
+Dialogue: 0,0:02:37.03,0:02:40.12,Default,,0000,0000,0000,,{\b1}He would risk body and mind\Nfor complete strangers{\b0}
+Dialogue: 0,0:02:40.16,0:02:41.54,Default,,0000,0000,0000,,{\b1}without a second thought.{\b0}
+Dialogue: 0,0:02:41.62,0:02:43.12,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:02:46.33,0:02:49.25,Default,,0000,0000,0000,,{\b1}He was so boisterous,\Nso full of smiles.{\b0}
+Dialogue: 0,0:02:49.96,0:02:52.76,Default,,0000,0000,0000,,{\b1}He treated me as you would\Nan old friend.{\b0}
+Dialogue: 0,0:02:54.22,0:02:55.72,Default,,0000,0000,0000,,{\b1}Wherever we went,{\b0}
+Dialogue: 0,0:02:56.26,0:02:59.51,Default,,0000,0000,0000,,{\b1}people were drawn\Nto his magnetic personality.{\b0}
+Dialogue: 0,0:03:06.10,0:03:07.56,Default,,0000,0000,0000,,{\b1}He was a fool.{\b0}
+Dialogue: 0,0:03:07.60,0:03:08.98,Default,,0000,0000,0000,,{\b1}[exclaims softly]{\b0}
+Dialogue: 0,0:03:09.31,0:03:11.40,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:03:20.41,0:03:23.24,Default,,0000,0000,0000,,{\b1}He rescued a child\Nat the cost of his life.{\b0}
+Dialogue: 0,0:03:25.46,0:03:28.13,Default,,0000,0000,0000,,{\b1}And at the cost\Nof slaying the demon.{\b0}
+Dialogue: 0,0:03:30.59,0:03:32.55,Default,,0000,0000,0000,,{\b1}His decision was foolish\Nand reckless,{\b0}
+Dialogue: 0,0:03:32.59,0:03:34.59,Default,,0000,0000,0000,,{\b1}and I would never have done\Nthe same.{\b0}
+Dialogue: 0,0:03:36.59,0:03:38.89,Default,,0000,0000,0000,,{\b1}What is one more life forsaken?{\b0}
+Dialogue: 0,0:03:40.30,0:03:42.60,Default,,0000,0000,0000,,{\b1}All I can think to say is,\N"Why me?"{\b0}
+Dialogue: 0,0:03:43.97,0:03:45.10,Default,,0000,0000,0000,,{\b1}What do you mean?{\b0}
+Dialogue: 0,0:03:45.60,0:03:47.73,Default,,0000,0000,0000,,{\b1}Why was I chosen\Nto work with you?{\b0}
+Dialogue: 0,0:03:48.81,0:03:50.27,Default,,0000,0000,0000,,{\b1}I have no idea.{\b0}
+Dialogue: 0,0:03:50.31,0:03:52.77,Default,,0000,0000,0000,,{\b1}That was\NMistress Serie's ruling.{\b0}
+Dialogue: 0,0:03:55.90,0:03:57.45,Default,,0000,0000,0000,,{\b1}I've noticed a key similarity{\b0}
+Dialogue: 0,0:03:57.49,0:03:59.82,Default,,0000,0000,0000,,{\b1}in the first-class mages\Nwho get dispatched{\b0}
+Dialogue: 0,0:03:59.87,0:04:01.45,Default,,0000,0000,0000,,{\b1}to the Northern Plateau.{\b0}
+Dialogue: 0,0:04:02.37,0:04:05.45,Default,,0000,0000,0000,,{\b1}Most crave violence\Nlike water or air.{\b0}
+Dialogue: 0,0:04:08.08,0:04:10.17,Default,,0000,0000,0000,,{\b1}I agree, you're an odd choice.{\b0}
+Dialogue: 0,0:04:10.67,0:04:13.80,Default,,0000,0000,0000,,{\b1}Übel would've been a better fit\Nfor the typical mold.{\b0}
+Dialogue: 0,0:04:15.21,0:04:16.63,Default,,0000,0000,0000,,{\b1}It doesn't matter.{\b0}
+Dialogue: 0,0:04:16.67,0:04:19.72,Default,,0000,0000,0000,,{\b1}No decent person\Nharbors desire for bloodshed.{\b0}
+Dialogue: 0,0:04:21.05,0:04:24.22,Default,,0000,0000,0000,,{\b1}Whatever you do,\Ndo not end up like me.{\b0}
+Dialogue: 0,0:04:24.39,0:04:27.73,Default,,0000,0000,0000,,{\b1}[fire crackling]{\b0}
+Dialogue: 0,0:04:30.65,0:04:33.11,Default,,0000,0000,0000,,{\b1}[FRIEREN] Let's go over\Nthe information we've compiled{\b0}
+Dialogue: 0,0:04:33.15,0:04:35.03,Default,,0000,0000,0000,,{\b1}before we begin our search.{\b0}
+Dialogue: 0,0:04:35.65,0:04:36.78,Default,,0000,0000,0000,,{\b1}[METHODE] Very well.{\b0}
+Dialogue: 0,0:04:37.15,0:04:39.99,Default,,0000,0000,0000,,{\b1}Based on traces of mana\Nand the variety of damage dealt,{\b0}
+Dialogue: 0,0:04:40.03,0:04:41.20,Default,,0000,0000,0000,,{\b1}we can conclude{\b0}
+Dialogue: 0,0:04:41.24,0:04:43.41,Default,,0000,0000,0000,,{\b1}four primary demons\Nled the attack.{\b0}
+Dialogue: 0,0:04:43.45,0:04:46.29,Default,,0000,0000,0000,,{\b1}All four of them have vanished\Nfrom the area.{\b0}
+Dialogue: 0,0:04:46.33,0:04:48.54,Default,,0000,0000,0000,,{\b1}That's almost one\Nfor each of us.{\b0}
+Dialogue: 0,0:04:49.41,0:04:52.67,Default,,0000,0000,0000,,{\b1}And the strongest of the unit\Nis a demon general.{\b0}
+Dialogue: 0,0:04:52.71,0:04:54.17,Default,,0000,0000,0000,,{\b1}It wields four swords.{\b0}
+Dialogue: 0,0:04:54.21,0:04:55.88,Default,,0000,0000,0000,,{\b1}That's how\Nit killed the knights.{\b0}
+Dialogue: 0,0:05:00.18,0:05:02.30,Default,,0000,0000,0000,,{\b1}What makes\Na demon general special?{\b0}
+Dialogue: 0,0:05:02.34,0:05:05.06,Default,,0000,0000,0000,,{\b1}They are demon warriors\Nof the highest caliber.{\b0}
+Dialogue: 0,0:05:05.43,0:05:06.68,Default,,0000,0000,0000,,{\b1}Their fighting style involves{\b0}
+Dialogue: 0,0:05:06.72,0:05:08.48,Default,,0000,0000,0000,,{\b1}enhancing their\Nphysical capabilities{\b0}
+Dialogue: 0,0:05:08.52,0:05:09.89,Default,,0000,0000,0000,,{\b1}with powerful magic.{\b0}
+Dialogue: 0,0:05:10.27,0:05:12.40,Default,,0000,0000,0000,,{\b1}They can be quite devoted\Nto their craft,{\b0}
+Dialogue: 0,0:05:12.44,0:05:15.69,Default,,0000,0000,0000,,{\b1}unafraid to spend centuries\Nmastering their martial skills.{\b0}
+Dialogue: 0,0:05:15.73,0:05:18.07,Default,,0000,0000,0000,,{\b1}There were generals\Nin the Demon King's army{\b0}
+Dialogue: 0,0:05:18.11,0:05:19.95,Default,,0000,0000,0000,,{\b1}that made Eisen\Nlook like a beginner.{\b0}
+Dialogue: 0,0:05:19.99,0:05:21.57,Default,,0000,0000,0000,,{\b1}You're kidding me.{\b0}
+Dialogue: 0,0:05:21.91,0:05:24.41,Default,,0000,0000,0000,,{\b1}This is hardly a joking matter.\NKeep in mind,{\b0}
+Dialogue: 0,0:05:24.45,0:05:27.62,Default,,0000,0000,0000,,{\b1}it is likely the beast's\Nappearance is far from human.{\b0}
+Dialogue: 0,0:05:27.66,0:05:30.08,Default,,0000,0000,0000,,{\b1}You say that like it's gonna\Nmake things even worse.{\b0}
+Dialogue: 0,0:05:30.79,0:05:32.29,Default,,0000,0000,0000,,{\b1}Have you ever fought a swordsman{\b0}
+Dialogue: 0,0:05:32.37,0:05:35.38,Default,,0000,0000,0000,,{\b1}who's trained for lifetimes\Nand wields four swords at once?{\b0}
+Dialogue: 0,0:05:35.92,0:05:37.46,Default,,0000,0000,0000,,{\b1}I can't say that I have.{\b0}
+Dialogue: 0,0:05:37.50,0:05:39.46,Default,,0000,0000,0000,,{\b1}The same is true for me.{\b0}
+Dialogue: 0,0:05:39.51,0:05:40.92,Default,,0000,0000,0000,,{\b1}And it was true\Nfor those knights{\b0}
+Dialogue: 0,0:05:40.97,0:05:42.55,Default,,0000,0000,0000,,{\b1}until they met their end.{\b0}
+Dialogue: 0,0:05:42.84,0:05:44.64,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:05:49.81,0:05:51.77,Default,,0000,0000,0000,,{\b1}[JUNG] Lord Revolte.{\b0}
+Dialogue: 0,0:05:52.77,0:05:55.31,Default,,0000,0000,0000,,{\b1}Fresh prey\Nis squirming around in our net.{\b0}
+Dialogue: 0,0:05:55.35,0:05:57.57,Default,,0000,0000,0000,,{\b1}A tasty meal rich in mana.{\b0}
+Dialogue: 0,0:05:58.07,0:06:00.57,Default,,0000,0000,0000,,{\b1}We've got one warrior\Nand four mages,{\b0}
+Dialogue: 0,0:06:00.61,0:06:02.70,Default,,0000,0000,0000,,{\b1}and three of them\Nare first-class.{\b0}
+Dialogue: 0,0:06:04.41,0:06:07.28,Default,,0000,0000,0000,,{\b1}I have no doubt\Nwe can handle that many.{\b0}
+Dialogue: 0,0:06:07.33,0:06:08.95,Default,,0000,0000,0000,,{\b1}Shall we make a move?{\b0}
+Dialogue: 0,0:06:09.49,0:06:10.45,Default,,0000,0000,0000,,{\b1}[REVOLTE] No.{\b0}
+Dialogue: 0,0:06:10.91,0:06:13.25,Default,,0000,0000,0000,,{\b1}They are stronger\Nthan you suggest.{\b0}
+Dialogue: 0,0:06:13.58,0:06:15.83,Default,,0000,0000,0000,,{\b1}We will wait for them\Nto split up.{\b0}
+Dialogue: 0,0:06:15.88,0:06:18.92,Default,,0000,0000,0000,,{\b1}[JUNG] Do you think they would\Ndo that, Lord Revolte?{\b0}
+Dialogue: 0,0:06:18.96,0:06:21.30,Default,,0000,0000,0000,,{\b1}From what I can tell,\Nthey seem rather guarded.{\b0}
+Dialogue: 0,0:06:23.59,0:06:25.59,Default,,0000,0000,0000,,{\b1}[REVOLTE]\NI am certain of it.{\b0}
+Dialogue: 0,0:06:30.47,0:06:32.77,Default,,0000,0000,0000,,{\b1}The time we spent\Nslaughtering the villagers{\b0}
+Dialogue: 0,0:06:32.81,0:06:34.39,Default,,0000,0000,0000,,{\b1}is about to pay off.{\b0}
+Dialogue: 0,0:06:35.48,0:06:37.15,Default,,0000,0000,0000,,{\b1}There is a common theme.{\b0}
+Dialogue: 0,0:06:37.19,0:06:39.32,Default,,0000,0000,0000,,{\b1}A fatal flaw shared by many men{\b0}
+Dialogue: 0,0:06:39.36,0:06:41.99,Default,,0000,0000,0000,,{\b1}we have encountered\Non our path of destruction.{\b0}
+Dialogue: 0,0:06:42.03,0:06:43.28,Default,,0000,0000,0000,,{\b1}Know what it is?{\b0}
+Dialogue: 0,0:06:43.32,0:06:45.49,Default,,0000,0000,0000,,{\b1}Well, now you have to tell me,\Nmy lord.{\b0}
+Dialogue: 0,0:06:45.78,0:06:46.95,Default,,0000,0000,0000,,{\b1}[chuckles]{\b0}
+Dialogue: 0,0:06:49.33,0:06:52.45,Default,,0000,0000,0000,,{\b1}[FRIEREN] Let the hunt begin.\NWe're as ready as we'll ever be.{\b0}
+Dialogue: 0,0:06:53.04,0:06:55.25,Default,,0000,0000,0000,,{\b1}Our first stop should be\Nthe abandoned fort{\b0}
+Dialogue: 0,0:06:55.29,0:06:57.04,Default,,0000,0000,0000,,{\b1}you told us about up north.{\b0}
+Dialogue: 0,0:06:57.33,0:06:58.38,Default,,0000,0000,0000,,{\b1}It's a strong lead.{\b0}
+Dialogue: 0,0:06:58.42,0:06:59.46,Default,,0000,0000,0000,,{\b1}In my experience,{\b0}
+Dialogue: 0,0:06:59.59,0:07:02.17,Default,,0000,0000,0000,,{\b1}demons often hole up\Nin places like that.{\b0}
+Dialogue: 0,0:07:04.22,0:07:05.47,Default,,0000,0000,0000,,{\b1}[GENAU] Wait.{\b0}
+Dialogue: 0,0:07:06.47,0:07:09.18,Default,,0000,0000,0000,,{\b1}The Chivalric Order of Norm\Nwill come for the bodies.{\b0}
+Dialogue: 0,0:07:09.22,0:07:11.39,Default,,0000,0000,0000,,{\b1}Someone should see\Nto their safety.{\b0}
+Dialogue: 0,0:07:13.68,0:07:15.02,Default,,0000,0000,0000,,{\b1}I'll remain behind.{\b0}
+Dialogue: 0,0:07:15.56,0:07:18.36,Default,,0000,0000,0000,,{\b1}Humans have a curious habit\Nof remaining in villages{\b0}
+Dialogue: 0,0:07:18.40,0:07:20.36,Default,,0000,0000,0000,,{\b1}to protect the corpses\Nof their fallen.{\b0}
+Dialogue: 0,0:07:20.40,0:07:21.61,Default,,0000,0000,0000,,{\b1}[gasps]{\b0}
+Dialogue: 0,0:07:21.65,0:07:24.65,Default,,0000,0000,0000,,{\b1}That's curious indeed.\NSo why do they do it?{\b0}
+Dialogue: 0,0:07:25.36,0:07:27.36,Default,,0000,0000,0000,,{\b1}[REVOLTE] We don't need\Nto know the reason.{\b0}
+Dialogue: 0,0:07:27.41,0:07:29.87,Default,,0000,0000,0000,,{\b1}[JUNG]\NHuh. But it's so interesting.{\b0}
+Dialogue: 0,0:07:29.91,0:07:32.29,Default,,0000,0000,0000,,{\b1}I'd love to spend just a moment\Nin their minds.{\b0}
+Dialogue: 0,0:07:32.91,0:07:35.54,Default,,0000,0000,0000,,{\b1}[REVOLTE] Sounds like\Na rather dull place to me.{\b0}
+Dialogue: 0,0:07:36.04,0:07:37.71,Default,,0000,0000,0000,,{\b1}You are very strange.{\b0}
+Dialogue: 0,0:07:38.46,0:07:40.25,Default,,0000,0000,0000,,{\b1}Humans are so volatile.{\b0}
+Dialogue: 0,0:07:40.29,0:07:41.63,Default,,0000,0000,0000,,{\b1}They'll behave\Nwith perfect reason{\b0}
+Dialogue: 0,0:07:41.67,0:07:43.09,Default,,0000,0000,0000,,{\b1}and then toss it all\Nto the wind.{\b0}
+Dialogue: 0,0:07:43.13,0:07:45.76,Default,,0000,0000,0000,,{\b1}Don't you want to know why\Nthey can be so irrational?{\b0}
+Dialogue: 0,0:07:46.22,0:07:48.14,Default,,0000,0000,0000,,{\b1}[REVOLTE]\NThat is simply how they are.{\b0}
+Dialogue: 0,0:07:48.18,0:07:49.93,Default,,0000,0000,0000,,{\b1}There's nothing more to it.{\b0}
+Dialogue: 0,0:07:49.97,0:07:52.64,Default,,0000,0000,0000,,{\b1}I am not interested\Nin questions of "why."{\b0}
+Dialogue: 0,0:07:54.56,0:07:56.27,Default,,0000,0000,0000,,{\b1}Though, there is one.{\b0}
+Dialogue: 0,0:07:56.31,0:07:58.85,Default,,0000,0000,0000,,{\b1}An eccentric demon\Nwho has made it his life's work{\b0}
+Dialogue: 0,0:07:58.90,0:08:01.23,Default,,0000,0000,0000,,{\b1}to study the whims of mankind.{\b0}
+Dialogue: 0,0:08:01.52,0:08:03.36,Default,,0000,0000,0000,,{\b1}There's really\Nsomeone like that?{\b0}
+Dialogue: 0,0:08:03.40,0:08:06.45,Default,,0000,0000,0000,,{\b1}That's amazing! You have\Nto tell me more about them.{\b0}
+Dialogue: 0,0:08:07.15,0:08:09.82,Default,,0000,0000,0000,,{\b1}Only if you\Nmake yourself useful.{\b0}
+Dialogue: 0,0:08:10.62,0:08:11.83,Default,,0000,0000,0000,,{\b1}[JUNG] Is that a yes?{\b0}
+Dialogue: 0,0:08:11.91,0:08:14.83,Default,,0000,0000,0000,,{\b1}You owe me now, Lord Revolte.\NI won't forget!{\b0}
+Dialogue: 0,0:08:16.12,0:08:18.08,Default,,0000,0000,0000,,{\b1}[METHODE]\NYou'll stay here by yourself?{\b0}
+Dialogue: 0,0:08:18.12,0:08:19.67,Default,,0000,0000,0000,,{\b1}[GENAU]\NIt shouldn't be much longer{\b0}
+Dialogue: 0,0:08:19.71,0:08:20.96,Default,,0000,0000,0000,,{\b1}before they arrive.{\b0}
+Dialogue: 0,0:08:21.71,0:08:22.75,Default,,0000,0000,0000,,{\b1}I'll meet up with you{\b0}
+Dialogue: 0,0:08:22.79,0:08:24.34,Default,,0000,0000,0000,,{\b1}once the bodies\Nhave been collected{\b0}
+Dialogue: 0,0:08:24.38,0:08:26.09,Default,,0000,0000,0000,,{\b1}and the Order is on their way.{\b0}
+Dialogue: 0,0:08:26.88,0:08:28.13,Default,,0000,0000,0000,,{\b1}Until then.{\b0}
+Dialogue: 0,0:08:35.18,0:08:36.93,Default,,0000,0000,0000,,{\b1}I should hang back with you.{\b0}
+Dialogue: 0,0:08:37.43,0:08:39.23,Default,,0000,0000,0000,,{\b1}Do you know\Nhow foolish you sound?{\b0}
+Dialogue: 0,0:08:39.73,0:08:42.73,Default,,0000,0000,0000,,{\b1}Your party is on the path\Nto challenge a skilled foe.{\b0}
+Dialogue: 0,0:08:42.77,0:08:44.57,Default,,0000,0000,0000,,{\b1}They will require a frontliner.{\b0}
+Dialogue: 0,0:08:44.61,0:08:46.57,Default,,0000,0000,0000,,{\b1}Maybe, but you'll need one too.{\b0}
+Dialogue: 0,0:08:46.61,0:08:49.36,Default,,0000,0000,0000,,{\b1}What if the demons use this\Nas their chance to return?{\b0}
+Dialogue: 0,0:08:49.74,0:08:50.91,Default,,0000,0000,0000,,{\b1}Not an issue.{\b0}
+Dialogue: 0,0:08:50.95,0:08:53.20,Default,,0000,0000,0000,,{\b1}I am perfectly capable\Nof defending myself{\b0}
+Dialogue: 0,0:08:53.24,0:08:54.58,Default,,0000,0000,0000,,{\b1}without help from you.{\b0}
+Dialogue: 0,0:08:54.62,0:08:57.04,Default,,0000,0000,0000,,{\b1}[STARK] Trust me.\NSo are Frieren than the others.{\b0}
+Dialogue: 0,0:08:57.41,0:08:59.12,Default,,0000,0000,0000,,{\b1}Perhaps, but only to a point.{\b0}
+Dialogue: 0,0:08:59.16,0:09:00.17,Default,,0000,0000,0000,,{\b1}[STARK] Yeah, I hear you.{\b0}
+Dialogue: 0,0:09:00.46,0:09:02.38,Default,,0000,0000,0000,,{\b1}But if things get bad,\Ncan't you just run away?{\b0}
+Dialogue: 0,0:09:02.42,0:09:03.75,Default,,0000,0000,0000,,{\b1}I suppose so.{\b0}
+Dialogue: 0,0:09:04.38,0:09:05.67,Default,,0000,0000,0000,,{\b1}You don't have that choice.{\b0}
+Dialogue: 0,0:09:05.71,0:09:07.96,Default,,0000,0000,0000,,{\b1}There's no shot\Nyou abandon the village.{\b0}
+Dialogue: 0,0:09:08.01,0:09:09.34,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:09:10.22,0:09:13.68,Default,,0000,0000,0000,,{\b1}They are dead.\NThere's no one left to abandon.{\b0}
+Dialogue: 0,0:09:13.72,0:09:15.06,Default,,0000,0000,0000,,{\b1}If you felt that way,{\b0}
+Dialogue: 0,0:09:15.14,0:09:17.22,Default,,0000,0000,0000,,{\b1}then you wouldn't stay here\Nto protect their bodies.{\b0}
+Dialogue: 0,0:09:19.14,0:09:21.56,Default,,0000,0000,0000,,{\b1}[Genau sighs] Suit yourself.{\b0}
+Dialogue: 0,0:09:22.27,0:09:24.27,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:09:24.31,0:09:26.07,Default,,0000,0000,0000,,{\b1}[footsteps]{\b0}
+Dialogue: 0,0:09:36.20,0:09:39.25,Default,,0000,0000,0000,,{\b1}You're a fool,\Nbut you're a good person, Stark.{\b0}
+Dialogue: 0,0:09:39.29,0:09:40.21,Default,,0000,0000,0000,,{\b1}Uh...{\b0}
+Dialogue: 0,0:09:40.75,0:09:42.87,Default,,0000,0000,0000,,{\b1}[GENAU] I've known\Nseveral people like you.{\b0}
+Dialogue: 0,0:09:43.33,0:09:45.38,Default,,0000,0000,0000,,{\b1}They tend to lead short lives.{\b0}
+Dialogue: 0,0:09:47.84,0:09:49.51,Default,,0000,0000,0000,,{\b1}[STARK] For what it's worth,{\b0}
+Dialogue: 0,0:09:49.55,0:09:51.93,Default,,0000,0000,0000,,{\b1}you seem like a good person\Nto me, too.{\b0}
+Dialogue: 0,0:09:52.01,0:09:53.47,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:09:54.22,0:09:56.18,Default,,0000,0000,0000,,{\b1}You're still trying\Nto defend the village{\b0}
+Dialogue: 0,0:09:56.22,0:09:58.18,Default,,0000,0000,0000,,{\b1}even after it's been destroyed.{\b0}
+Dialogue: 0,0:09:59.10,0:10:00.60,Default,,0000,0000,0000,,{\b1}I couldn't do that.{\b0}
+Dialogue: 0,0:10:07.36,0:10:09.86,Default,,0000,0000,0000,,{\b1}[GENAU] I assure you,\NI'm not a good person.{\b0}
+Dialogue: 0,0:10:10.32,0:10:12.03,Default,,0000,0000,0000,,{\b1}Quite the opposite, really.{\b0}
+Dialogue: 0,0:10:14.07,0:10:15.82,Default,,0000,0000,0000,,{\b1}My sole priority for some time{\b0}
+Dialogue: 0,0:10:15.87,0:10:18.41,Default,,0000,0000,0000,,{\b1}has been bringing peace\Nto the northern lands.{\b0}
+Dialogue: 0,0:10:18.91,0:10:21.54,Default,,0000,0000,0000,,{\b1}I've killed and forsaken many\Nin my pursuit,{\b0}
+Dialogue: 0,0:10:21.58,0:10:23.71,Default,,0000,0000,0000,,{\b1}all with a resounding numbness.{\b0}
+Dialogue: 0,0:10:24.79,0:10:27.00,Default,,0000,0000,0000,,{\b1}Perhaps this is what I deserve.{\b0}
+Dialogue: 0,0:10:27.46,0:10:30.21,Default,,0000,0000,0000,,{\b1}Death has become\Na regular part of my day.{\b0}
+Dialogue: 0,0:10:32.51,0:10:35.09,Default,,0000,0000,0000,,{\b1}I feel no tinge of sadness.{\b0}
+Dialogue: 0,0:10:35.68,0:10:38.68,Default,,0000,0000,0000,,{\b1}My hometown is in ruins,\Nyet I cannot shed a tear.{\b0}
+Dialogue: 0,0:10:39.56,0:10:42.35,Default,,0000,0000,0000,,{\b1}There was no tug on my soul\Nto protect the village.{\b0}
+Dialogue: 0,0:10:42.39,0:10:44.98,Default,,0000,0000,0000,,{\b1}Staying back seemed\Nthe proper thing to do.{\b0}
+Dialogue: 0,0:10:46.48,0:10:48.98,Default,,0000,0000,0000,,{\b1}There's no undoing the hurt\NI've caused,{\b0}
+Dialogue: 0,0:10:49.73,0:10:53.07,Default,,0000,0000,0000,,{\b1}yet I am wasting energy\Nin some desperate attempt.{\b0}
+Dialogue: 0,0:10:57.87,0:10:59.49,Default,,0000,0000,0000,,{\b1}Listen, Stark,{\b0}
+Dialogue: 0,0:10:59.99,0:11:01.24,Default,,0000,0000,0000,,{\b1}dangerous as it is,{\b0}
+Dialogue: 0,0:11:01.29,0:11:03.96,Default,,0000,0000,0000,,{\b1}there are many who call\Nthis plateau their home.{\b0}
+Dialogue: 0,0:11:13.76,0:11:14.88,Default,,0000,0000,0000,,{\b1}[FRIEREN] Going forward,{\b0}
+Dialogue: 0,0:11:15.01,0:11:17.64,Default,,0000,0000,0000,,{\b1}we should avoid\Nusing long-range detection.{\b0}
+Dialogue: 0,0:11:17.84,0:11:18.85,Default,,0000,0000,0000,,{\b1}If they're skilled,{\b0}
+Dialogue: 0,0:11:18.89,0:11:20.60,Default,,0000,0000,0000,,{\b1}they'll quickly trace it\Nback to us.{\b0}
+Dialogue: 0,0:11:20.64,0:11:21.81,Default,,0000,0000,0000,,{\b1}[FERN] Right.{\b0}
+Dialogue: 0,0:11:22.35,0:11:23.68,Default,,0000,0000,0000,,{\b1}Though caution's key,{\b0}
+Dialogue: 0,0:11:23.81,0:11:26.35,Default,,0000,0000,0000,,{\b1}we still have a while to go\Nbefore we reach the fort.{\b0}
+Dialogue: 0,0:11:26.39,0:11:28.48,Default,,0000,0000,0000,,{\b1}The demons won't notice\Na little chat.{\b0}
+Dialogue: 0,0:11:28.52,0:11:29.77,Default,,0000,0000,0000,,{\b1}[Methode chuckles]{\b0}
+Dialogue: 0,0:11:29.81,0:11:31.23,Default,,0000,0000,0000,,{\b1}You're sure it's worth the risk?{\b0}
+Dialogue: 0,0:11:31.27,0:11:34.49,Default,,0000,0000,0000,,{\b1}We'll be more fluid in battle\Nif tensions are low.{\b0}
+Dialogue: 0,0:11:36.95,0:11:38.95,Default,,0000,0000,0000,,{\b1}Not a solitary care.{\b0}
+Dialogue: 0,0:11:41.41,0:11:43.66,Default,,0000,0000,0000,,{\b1}[FRIEREN] Good communication\Nis the foundation{\b0}
+Dialogue: 0,0:11:43.70,0:11:45.83,Default,,0000,0000,0000,,{\b1}upon which one can build a team.{\b0}
+Dialogue: 0,0:11:45.87,0:11:47.46,Default,,0000,0000,0000,,{\b1}Ponder that, young lady.{\b0}
+Dialogue: 0,0:11:47.50,0:11:48.58,Default,,0000,0000,0000,,{\b1}[FERN] Uh-huh.{\b0}
+Dialogue: 0,0:11:49.21,0:11:51.09,Default,,0000,0000,0000,,{\b1}Then, in the spirit of openness,{\b0}
+Dialogue: 0,0:11:51.13,0:11:53.46,Default,,0000,0000,0000,,{\b1}may I inquire about\Na quick head pat?{\b0}
+Dialogue: 0,0:11:53.51,0:11:56.34,Default,,0000,0000,0000,,{\b1}[FERN] I can't believe you\Nsaid that with a straight face.{\b0}
+Dialogue: 0,0:11:56.38,0:11:58.72,Default,,0000,0000,0000,,{\b1}My trouble is,\NI have an innate desire{\b0}
+Dialogue: 0,0:11:58.76,0:12:01.26,Default,,0000,0000,0000,,{\b1}to coddle and cuddle\Nadorable creatures.{\b0}
+Dialogue: 0,0:12:01.30,0:12:04.85,Default,,0000,0000,0000,,{\b1}But dear Mistress Serie\Nis scarcely one to capitulate.{\b0}
+Dialogue: 0,0:12:05.39,0:12:07.19,Default,,0000,0000,0000,,{\b1}And in the rare instance\Nshe agrees,{\b0}
+Dialogue: 0,0:12:07.23,0:12:09.06,Default,,0000,0000,0000,,{\b1}she looks horribly displeased.{\b0}
+Dialogue: 0,0:12:09.10,0:12:11.19,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NI fear I would look the same.{\b0}
+Dialogue: 0,0:12:12.48,0:12:13.82,Default,,0000,0000,0000,,{\b1}If age plays into this,{\b0}
+Dialogue: 0,0:12:13.86,0:12:16.36,Default,,0000,0000,0000,,{\b1}know that I am your elder\Nby many a century.{\b0}
+Dialogue: 0,0:12:16.40,0:12:18.41,Default,,0000,0000,0000,,{\b1}Besides, my head\Nis not for patting.{\b0}
+Dialogue: 0,0:12:18.45,0:12:21.62,Default,,0000,0000,0000,,{\b1}That's right. She may be cute,\Nbut she's a mature adult.{\b0}
+Dialogue: 0,0:12:21.66,0:12:23.45,Default,,0000,0000,0000,,{\b1}Petting is out of the question.{\b0}
+Dialogue: 0,0:12:25.08,0:12:26.50,Default,,0000,0000,0000,,{\b1}Miss Frieren.{\b0}
+Dialogue: 0,0:12:29.00,0:12:30.83,Default,,0000,0000,0000,,{\b1}This grimoire contains a spell{\b0}
+Dialogue: 0,0:12:30.88,0:12:33.25,Default,,0000,0000,0000,,{\b1}that prevents any shell\Nfrom falling in the bowl{\b0}
+Dialogue: 0,0:12:33.29,0:12:34.88,Default,,0000,0000,0000,,{\b1}when you're cracking eggs.{\b0}
+Dialogue: 0,0:12:35.59,0:12:37.47,Default,,0000,0000,0000,,{\b1}Pet me to your heart's content.{\b0}
+Dialogue: 0,0:12:37.51,0:12:38.93,Default,,0000,0000,0000,,{\b1}Mistress Frieren!{\b0}
+Dialogue: 0,0:12:38.97,0:12:40.30,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:12:41.43,0:12:44.18,Default,,0000,0000,0000,,{\b1}[Methode chuckles, hums]{\b0}
+Dialogue: 0,0:12:45.85,0:12:47.31,Default,,0000,0000,0000,,{\b1}Thank you\Nfor being a good sport.{\b0}
+Dialogue: 0,0:12:47.35,0:12:49.73,Default,,0000,0000,0000,,{\b1}I rarely get to indulge\Nfor long stretches.{\b0}
+Dialogue: 0,0:12:50.02,0:12:52.94,Default,,0000,0000,0000,,{\b1}You're allowed ten minutes a day\Nand not a second more.{\b0}
+Dialogue: 0,0:12:52.98,0:12:54.15,Default,,0000,0000,0000,,{\b1}That's all?{\b0}
+Dialogue: 0,0:12:54.44,0:12:55.86,Default,,0000,0000,0000,,{\b1}[chuckles]{\b0}
+Dialogue: 0,0:13:01.95,0:13:03.95,Default,,0000,0000,0000,,{\b1}Final question, Miss Frieren.{\b0}
+Dialogue: 0,0:13:03.99,0:13:07.04,Default,,0000,0000,0000,,{\b1}Before we locate the enemy,\Nmay I please give you a hug?{\b0}
+Dialogue: 0,0:13:07.08,0:13:10.25,Default,,0000,0000,0000,,{\b1}Mistress Serie\Nhas always denied my requests.{\b0}
+Dialogue: 0,0:13:10.29,0:13:11.75,Default,,0000,0000,0000,,{\b1}You can do whatever you want.{\b0}
+Dialogue: 0,0:13:11.79,0:13:13.38,Default,,0000,0000,0000,,{\b1}[METHODE]\NAdorable and generous.{\b0}
+Dialogue: 0,0:13:16.21,0:13:17.80,Default,,0000,0000,0000,,{\b1}[Fern groans softly]{\b0}
+Dialogue: 0,0:13:21.51,0:13:22.55,Default,,0000,0000,0000,,{\b1}[Fern grunts softly]{\b0}
+Dialogue: 0,0:13:22.59,0:13:25.31,Default,,0000,0000,0000,,{\b1}[FRIEREN] Fern. Stand down.{\b0}
+Dialogue: 0,0:13:26.81,0:13:29.43,Default,,0000,0000,0000,,{\b1}Hey! Stop that!{\b0}
+Dialogue: 0,0:13:30.85,0:13:33.52,Default,,0000,0000,0000,,{\b1}I'm of no use to you\Nsplit in two.{\b0}
+Dialogue: 0,0:13:39.07,0:13:40.40,Default,,0000,0000,0000,,{\b1}Was that them?{\b0}
+Dialogue: 0,0:13:40.49,0:13:42.78,Default,,0000,0000,0000,,{\b1}They've picked out\Nexactly where we are.{\b0}
+Dialogue: 0,0:13:42.82,0:13:45.53,Default,,0000,0000,0000,,{\b1}This battle's begun\Nwhether we're ready or not.{\b0}
+Dialogue: 0,0:13:45.62,0:13:47.41,Default,,0000,0000,0000,,{\b1}Typical demons.{\b0}
+Dialogue: 0,0:13:47.83,0:13:50.08,Default,,0000,0000,0000,,{\b1}They're bloodthirsty\Nand unafraid.{\b0}
+Dialogue: 0,0:13:50.50,0:13:51.79,Default,,0000,0000,0000,,{\b1}If they can tell where we are,{\b0}
+Dialogue: 0,0:13:51.83,0:13:54.04,Default,,0000,0000,0000,,{\b1}they can also tell\Nthat we're powerful mages.{\b0}
+Dialogue: 0,0:13:54.08,0:13:56.00,Default,,0000,0000,0000,,{\b1}And they're wholly unfazed.{\b0}
+Dialogue: 0,0:13:59.09,0:14:00.88,Default,,0000,0000,0000,,{\b1}They have noticed us.{\b0}
+Dialogue: 0,0:14:01.42,0:14:03.84,Default,,0000,0000,0000,,{\b1}Right. Shall we begin?{\b0}
+Dialogue: 0,0:14:07.56,0:14:09.06,Default,,0000,0000,0000,,{\b1}Nebeladora.{\b0}
+Dialogue: 0,0:14:14.73,0:14:16.73,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NIt's a fog made of mana.{\b0}
+Dialogue: 0,0:14:16.77,0:14:19.61,Default,,0000,0000,0000,,{\b1}They're blocking our vision\Nand our mana detection.{\b0}
+Dialogue: 0,0:14:33.37,0:14:35.87,Default,,0000,0000,0000,,{\b1}Our separation\Nwas surely intentional.{\b0}
+Dialogue: 0,0:14:36.17,0:14:37.42,Default,,0000,0000,0000,,{\b1}They're quite skilled.{\b0}
+Dialogue: 0,0:14:42.26,0:14:43.34,Default,,0000,0000,0000,,{\b1}Choose your foe.{\b0}
+Dialogue: 0,0:14:43.38,0:14:45.51,Default,,0000,0000,0000,,{\b1}I would like the tallest one.{\b0}
+Dialogue: 0,0:14:45.55,0:14:47.89,Default,,0000,0000,0000,,{\b1}There's a peculiar aura\Nabout her.{\b0}
+Dialogue: 0,0:14:47.93,0:14:49.89,Default,,0000,0000,0000,,{\b1}She should be fun.{\b0}
+Dialogue: 0,0:14:51.60,0:14:54.06,Default,,0000,0000,0000,,{\b1}And that leaves the other two\Nto me.{\b0}
+Dialogue: 0,0:14:56.52,0:14:59.27,Default,,0000,0000,0000,,{\b1}Remain on high alert\Nfor attacks from above.{\b0}
+Dialogue: 0,0:14:59.52,0:15:02.15,Default,,0000,0000,0000,,{\b1}-Mistress Frieren?\N-Yes, Fern.{\b0}
+Dialogue: 0,0:15:02.86,0:15:05.24,Default,,0000,0000,0000,,{\b1}Both of those demons\Nwere flying.{\b0}
+Dialogue: 0,0:15:05.86,0:15:08.37,Default,,0000,0000,0000,,{\b1}The demons we've fought before\Ncould fly, too.{\b0}
+Dialogue: 0,0:15:08.87,0:15:10.66,Default,,0000,0000,0000,,{\b1}They're using flying magic,\Nright?{\b0}
+Dialogue: 0,0:15:11.16,0:15:12.79,Default,,0000,0000,0000,,{\b1}I have explained this.{\b0}
+Dialogue: 0,0:15:13.33,0:15:17.46,Default,,0000,0000,0000,,{\b1}Until just forty years ago,\Ndemons ruled the skies.{\b0}
+Dialogue: 0,0:15:17.96,0:15:20.04,Default,,0000,0000,0000,,{\b1}Those talents have not dwindled.{\b0}
+Dialogue: 0,0:15:20.63,0:15:24.84,Default,,0000,0000,0000,,{\b1}Sure, but you also said demons\Nonly study one type of magic.{\b0}
+Dialogue: 0,0:15:25.84,0:15:26.97,Default,,0000,0000,0000,,{\b1}Do you think of walking{\b0}
+Dialogue: 0,0:15:27.01,0:15:29.47,Default,,0000,0000,0000,,{\b1}as a special,\Nattention-demanding ability?{\b0}
+Dialogue: 0,0:15:30.60,0:15:32.27,Default,,0000,0000,0000,,{\b1}It's the same principle.{\b0}
+Dialogue: 0,0:15:32.72,0:15:34.89,Default,,0000,0000,0000,,{\b1}Flying is so second nature\Nto them.{\b0}
+Dialogue: 0,0:15:34.93,0:15:36.56,Default,,0000,0000,0000,,{\b1}It isn't magic anymore.{\b0}
+Dialogue: 0,0:15:37.27,0:15:38.48,Default,,0000,0000,0000,,{\b1}When fighting a demon,{\b0}
+Dialogue: 0,0:15:38.52,0:15:41.02,Default,,0000,0000,0000,,{\b1}it's safe to assume\Nthey will use the skies.{\b0}
+Dialogue: 0,0:15:42.78,0:15:43.82,Default,,0000,0000,0000,,{\b1}I had a feeling{\b0}
+Dialogue: 0,0:15:44.03,0:15:46.11,Default,,0000,0000,0000,,{\b1}our opponents would be\Naccustomed to battle.{\b0}
+Dialogue: 0,0:15:46.15,0:15:47.15,Default,,0000,0000,0000,,{\b1}They're as comfortable{\b0}
+Dialogue: 0,0:15:47.24,0:15:49.07,Default,,0000,0000,0000,,{\b1}as members\Nof the Demon King's army.{\b0}
+Dialogue: 0,0:15:49.12,0:15:51.03,Default,,0000,0000,0000,,{\b1}-[loud slashing]\N-[Fern gasps]{\b0}
+Dialogue: 0,0:15:55.87,0:15:57.58,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:16:01.25,0:16:03.34,Default,,0000,0000,0000,,{\b1}Our cuddler has engaged\Nthe enemy.{\b0}
+Dialogue: 0,0:16:03.76,0:16:06.47,Default,,0000,0000,0000,,{\b1}Ready?\NI'll leave this fight to you.{\b0}
+Dialogue: 0,0:16:06.84,0:16:08.09,Default,,0000,0000,0000,,{\b1}You won't help?{\b0}
+Dialogue: 0,0:16:08.18,0:16:09.22,Default,,0000,0000,0000,,{\b1}As I recall,{\b0}
+Dialogue: 0,0:16:09.55,0:16:11.72,Default,,0000,0000,0000,,{\b1}this job was assigned\Nto three first-class mages.{\b0}
+Dialogue: 0,0:16:12.10,0:16:14.85,Default,,0000,0000,0000,,{\b1}And you are\Nthe only first-class mage I see.{\b0}
+Dialogue: 0,0:16:15.43,0:16:17.56,Default,,0000,0000,0000,,{\b1}Is now really\Na good time for that?{\b0}
+Dialogue: 0,0:16:18.14,0:16:20.06,Default,,0000,0000,0000,,{\b1}It's as good of a time as any.{\b0}
+Dialogue: 0,0:16:20.35,0:16:21.82,Default,,0000,0000,0000,,{\b1}You can defeat it.{\b0}
+Dialogue: 0,0:16:22.44,0:16:23.73,Default,,0000,0000,0000,,{\b1}[Fern gasps]{\b0}
+Dialogue: 0,0:16:30.36,0:16:31.57,Default,,0000,0000,0000,,{\b1}Told you.{\b0}
+Dialogue: 0,0:16:32.28,0:16:33.45,Default,,0000,0000,0000,,{\b1}Oh?{\b0}
+Dialogue: 0,0:16:35.20,0:16:37.16,Default,,0000,0000,0000,,{\b1}You know that was a fluke.{\b0}
+Dialogue: 0,0:16:38.04,0:16:41.17,Default,,0000,0000,0000,,{\b1}I only reacted in time\Nbecause you pointed it out.{\b0}
+Dialogue: 0,0:16:42.29,0:16:44.71,Default,,0000,0000,0000,,{\b1}I couldn't detect the attack\Nat all.{\b0}
+Dialogue: 0,0:16:50.05,0:16:51.89,Default,,0000,0000,0000,,{\b1}I'm severely outclassed.{\b0}
+Dialogue: 0,0:16:51.93,0:16:54.35,Default,,0000,0000,0000,,{\b1}I have to disagree\Nwith you on that.{\b0}
+Dialogue: 0,0:16:54.89,0:16:56.56,Default,,0000,0000,0000,,{\b1}Of the first-class mages\NI've met,{\b0}
+Dialogue: 0,0:16:56.60,0:16:59.35,Default,,0000,0000,0000,,{\b1}few are as dedicated\Nto the fundamentals as you.{\b0}
+Dialogue: 0,0:17:00.98,0:17:04.27,Default,,0000,0000,0000,,{\b1}You trust me.\NAnd I say you can win this.{\b0}
+Dialogue: 0,0:17:05.15,0:17:07.49,Default,,0000,0000,0000,,{\b1}-[Fern grunts softly]\N-[wind blows]{\b0}
+Dialogue: 0,0:17:14.78,0:17:18.25,Default,,0000,0000,0000,,{\b1}I caught some fish.\NWant a late night snack?{\b0}
+Dialogue: 0,0:17:19.21,0:17:22.58,Default,,0000,0000,0000,,{\b1}[GENAU] I should pass.\NMethode would be angry with me.{\b0}
+Dialogue: 0,0:17:22.63,0:17:25.42,Default,,0000,0000,0000,,{\b1}She says it's unhealthy\Nto eat late at night.{\b0}
+Dialogue: 0,0:17:25.46,0:17:27.84,Default,,0000,0000,0000,,{\b1}[STARK]\NOh, yeah? More for me then.{\b0}
+Dialogue: 0,0:17:29.05,0:17:30.42,Default,,0000,0000,0000,,{\b1}[soft clattering]{\b0}
+Dialogue: 0,0:17:32.09,0:17:35.05,Default,,0000,0000,0000,,{\b1}I love eating midnight snacks,\Nbut I've gotta be sneaky.{\b0}
+Dialogue: 0,0:17:35.10,0:17:36.18,Default,,0000,0000,0000,,{\b1}Uh...{\b0}
+Dialogue: 0,0:17:39.52,0:17:41.60,Default,,0000,0000,0000,,{\b1}Swear you won't tell on me\Nto Fern?{\b0}
+Dialogue: 0,0:17:41.64,0:17:42.81,Default,,0000,0000,0000,,{\b1}Fine.{\b0}
+Dialogue: 0,0:17:47.23,0:17:50.03,Default,,0000,0000,0000,,{\b1}Seems we're fighting\Nmany of the same demons.{\b0}
+Dialogue: 0,0:17:55.66,0:17:57.28,Default,,0000,0000,0000,,{\b1}[STARK] Hey, Genau?{\b0}
+Dialogue: 0,0:17:57.99,0:17:59.04,Default,,0000,0000,0000,,{\b1}You know the demon{\b0}
+Dialogue: 0,0:17:59.08,0:18:01.12,Default,,0000,0000,0000,,{\b1}who attacked this village,\Ndon't you?{\b0}
+Dialogue: 0,0:18:01.75,0:18:03.67,Default,,0000,0000,0000,,{\b1}[GENAU] Demons that fight\Nwith four swords{\b0}
+Dialogue: 0,0:18:03.71,0:18:05.25,Default,,0000,0000,0000,,{\b1}are hardly common.{\b0}
+Dialogue: 0,0:18:07.50,0:18:09.46,Default,,0000,0000,0000,,{\b1}The Divine Revolte{\b0}
+Dialogue: 0,0:18:09.51,0:18:12.63,Default,,0000,0000,0000,,{\b1}is the demon who ended\Nmy partner's life.{\b0}
+Dialogue: 0,0:18:15.05,0:18:17.76,Default,,0000,0000,0000,,{\b1}I'm sure he's strong,\Nbut that name's a bit much.{\b0}
+Dialogue: 0,0:18:18.68,0:18:20.60,Default,,0000,0000,0000,,{\b1}[GENAU] It comes\Nfrom the four swords{\b0}
+Dialogue: 0,0:18:20.64,0:18:22.39,Default,,0000,0000,0000,,{\b1}he created using magic.{\b0}
+Dialogue: 0,0:18:23.73,0:18:25.98,Default,,0000,0000,0000,,{\b1}He can freely change\Ntheir weight.{\b0}
+Dialogue: 0,0:18:26.02,0:18:28.23,Default,,0000,0000,0000,,{\b1}Sometimes, they're as light\Nas feathers.{\b0}
+Dialogue: 0,0:18:28.27,0:18:31.19,Default,,0000,0000,0000,,{\b1}Other times, they are\Nheavy boulders waiting to fall.{\b0}
+Dialogue: 0,0:18:31.57,0:18:34.32,Default,,0000,0000,0000,,{\b1}The unknown is\Nwhat makes them so dangerous.{\b0}
+Dialogue: 0,0:18:35.11,0:18:37.41,Default,,0000,0000,0000,,{\b1}They're called\Nthe Divine Cleaving Swords{\b0}
+Dialogue: 0,0:18:37.45,0:18:39.62,Default,,0000,0000,0000,,{\b1}after the famous blade\Nthat split mountains{\b0}
+Dialogue: 0,0:18:39.66,0:18:41.16,Default,,0000,0000,0000,,{\b1}during mythical times.{\b0}
+Dialogue: 0,0:18:41.87,0:18:43.83,Default,,0000,0000,0000,,{\b1}He can change them\Nto win every fight.{\b0}
+Dialogue: 0,0:18:43.87,0:18:46.54,Default,,0000,0000,0000,,{\b1}Light and sharp\Nor heavy and destructive.{\b0}
+Dialogue: 0,0:18:47.21,0:18:49.30,Default,,0000,0000,0000,,{\b1}And every shade in between.{\b0}
+Dialogue: 0,0:18:50.38,0:18:51.63,Default,,0000,0000,0000,,{\b1}Magic creates objects{\b0}
+Dialogue: 0,0:18:51.67,0:18:54.30,Default,,0000,0000,0000,,{\b1}that have no business\Nexisting in this world.{\b0}
+Dialogue: 0,0:18:55.05,0:18:57.18,Default,,0000,0000,0000,,{\b1}It can take an eon\Nof murderous intent{\b0}
+Dialogue: 0,0:18:57.22,0:18:59.56,Default,,0000,0000,0000,,{\b1}and give it a physical form\Nin a weapon.{\b0}
+Dialogue: 0,0:19:00.35,0:19:03.68,Default,,0000,0000,0000,,{\b1}Demons create these armaments\Nto kill humans by the score.{\b0}
+Dialogue: 0,0:19:04.73,0:19:07.56,Default,,0000,0000,0000,,{\b1}Far more than necessary\Nfor their sustenance,{\b0}
+Dialogue: 0,0:19:07.61,0:19:09.98,Default,,0000,0000,0000,,{\b1}as if to test their new toys.{\b0}
+Dialogue: 0,0:19:12.07,0:19:13.03,Default,,0000,0000,0000,,{\b1}[grunts]{\b0}
+Dialogue: 0,0:19:14.57,0:19:15.74,Default,,0000,0000,0000,,{\b1}Stark.{\b0}
+Dialogue: 0,0:19:16.91,0:19:19.45,Default,,0000,0000,0000,,{\b1}Glad I hung back, aren't you?{\b0}
+Dialogue: 0,0:19:23.37,0:19:24.96,Default,,0000,0000,0000,,{\b1}It's quite fast.{\b0}
+Dialogue: 0,0:19:25.92,0:19:27.29,Default,,0000,0000,0000,,{\b1}Brace yourself.{\b0}
+Dialogue: 0,0:19:30.75,0:19:32.92,Default,,0000,0000,0000,,{\b1}[rumbling]{\b0}
+Dialogue: 0,0:19:39.22,0:19:40.39,Default,,0000,0000,0000,,{\b1}[Stark grunts]{\b0}
+Dialogue: 0,0:19:52.86,0:19:54.57,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:19:58.20,0:19:59.57,Default,,0000,0000,0000,,{\b1}That's four swords.{\b0}
+Dialogue: 0,0:20:01.20,0:20:03.70,Default,,0000,0000,0000,,{\b1}One warrior\Nand one first-class mage{\b0}
+Dialogue: 0,0:20:03.74,0:20:05.25,Default,,0000,0000,0000,,{\b1}left behind as guards.{\b0}
+Dialogue: 0,0:20:05.29,0:20:07.87,Default,,0000,0000,0000,,{\b1}That was\Na foolishly human decision.{\b0}
+Dialogue: 0,0:20:07.92,0:20:09.75,Default,,0000,0000,0000,,{\b1}So predictable.{\b0}
+Dialogue: 0,0:20:10.13,0:20:11.71,Default,,0000,0000,0000,,{\b1}That's Revolte.{\b0}
+Dialogue: 0,0:20:11.75,0:20:13.50,Default,,0000,0000,0000,,{\b1}Yeah, I had a feeling.{\b0}
+Dialogue: 0,0:20:13.55,0:20:16.84,Default,,0000,0000,0000,,{\b1}I suppose there is no need\Nto introduce myself.{\b0}
+Dialogue: 0,0:20:17.68,0:20:19.05,Default,,0000,0000,0000,,{\b1}The warrior is someone new.{\b0}
+Dialogue: 0,0:20:19.09,0:20:22.22,Default,,0000,0000,0000,,{\b1}But you look rather familiar\Nto me, first-class mage.{\b0}
+Dialogue: 0,0:20:23.10,0:20:24.43,Default,,0000,0000,0000,,{\b1}Who are you?{\b0}
+Dialogue: 0,0:20:25.10,0:20:26.98,Default,,0000,0000,0000,,{\b1}No point in waiting around.{\b0}
+Dialogue: 0,0:20:27.02,0:20:29.69,Default,,0000,0000,0000,,{\b1}If you can, avoid taking\Nhis attacks head on.{\b0}
+Dialogue: 0,0:20:29.73,0:20:30.94,Default,,0000,0000,0000,,{\b1}If he feels compelled,{\b0}
+Dialogue: 0,0:20:30.98,0:20:33.27,Default,,0000,0000,0000,,{\b1}he could flatten you\Nin a single blow.{\b0}
+Dialogue: 0,0:20:34.36,0:20:36.65,Default,,0000,0000,0000,,{\b1}I asked who you are, mage.\NTell me.{\b0}
+Dialogue: 0,0:20:36.69,0:20:39.82,Default,,0000,0000,0000,,{\b1}I do not talk to pests\Nbefore I exterminate them.{\b0}
+Dialogue: 0,0:20:39.86,0:20:42.28,Default,,0000,0000,0000,,{\b1}I see no good reason\Nto declare my name.{\b0}
+Dialogue: 0,0:20:42.95,0:20:46.24,Default,,0000,0000,0000,,{\b1}And I do not appreciate\Nbeing belittled to a pest.{\b0}
+Dialogue: 0,0:20:47.41,0:20:50.75,Default,,0000,0000,0000,,{\b1}We both speak the same language\Nand know the same words.{\b0}
+Dialogue: 0,0:20:51.83,0:20:53.59,Default,,0000,0000,0000,,{\b1}But if you refuse to use them,{\b0}
+Dialogue: 0,0:20:53.63,0:20:56.80,Default,,0000,0000,0000,,{\b1}I suppose there are simpler ways\Nwe can communicate.{\b0}
+Dialogue: 0,0:20:59.13,0:21:01.89,Default,,0000,0000,0000,,{\b1}I, too, shall exterminate\Nthe pests{\b0}
+Dialogue: 0,0:21:01.93,0:21:03.43,Default,,0000,0000,0000,,{\b1}that stand before me.{\b0}
+Dialogue: 0,0:21:05.22,0:21:07.23,Default,,0000,0000,0000,,{\b1}If I can't take\Nhis attacks head on,{\b0}
+Dialogue: 0,0:21:07.27,0:21:08.39,Default,,0000,0000,0000,,{\b1}then what should I do?{\b0}
+Dialogue: 0,0:21:08.60,0:21:11.31,Default,,0000,0000,0000,,{\b1}A skilled warrior can\Ndeflect blows, can he not?{\b0}
+Dialogue: 0,0:21:14.31,0:21:17.82,Default,,0000,0000,0000,,{\b1}[grunts] I mean, yeah, but...{\b0}
+Dialogue: 0,0:21:28.75,0:21:30.37,Default,,0000,0000,0000,,{\b1}Then I can't protect you!{\b0}
+Dialogue: 0,0:21:30.41,0:21:33.00,Default,,0000,0000,0000,,{\b1}I can assure you,\NI don't need protecting.{\b0}
+Dialogue: 0,0:21:33.04,0:21:36.71,Default,,0000,0000,0000,,{\b1}Close-quarters combat\Nis actually a specialty of mine.{\b0}
+Dialogue: 0,0:21:38.84,0:21:39.88,Default,,0000,0000,0000,,{\b1}[Stark grunts]{\b0}
+Dialogue: 0,0:21:39.92,0:21:41.47,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:21:49.23,0:21:50.27,Default,,0000,0000,0000,,{\b1}[Genau grunts]{\b0}
+Dialogue: 0,0:21:56.98,0:21:58.99,Default,,0000,0000,0000,,{\b1}His magic and mine\Nare not as different{\b0}
+Dialogue: 0,0:21:59.03,0:22:00.32,Default,,0000,0000,0000,,{\b1}as you might suspect.{\b0}
+Dialogue: 0,0:22:00.36,0:22:03.78,Default,,0000,0000,0000,,{\b1}I can also create objects\Nthat shouldn't exist.{\b0}
+Dialogue: 0,0:22:04.53,0:22:06.45,Default,,0000,0000,0000,,{\b1}Now, Digardnacht.{\b0}
+Dialogue: 0,0:22:11.12,0:22:15.00,Default,,0000,0000,0000,,{\b1}A nameless mage with a spell\Nto manipulate niello wings.{\b0}
+Dialogue: 0,0:22:16.59,0:22:18.09,Default,,0000,0000,0000,,{\b1}Interesting.{\b0}
+Dialogue: 0,0:22:18.38,0:22:19.88,Default,,0000,0000,0000,,{\b1}[chuckles]{\b0}
+Dialogue: 0,0:22:19.96,0:22:22.34,Default,,0000,0000,0000,,{\b1}[♪ closing theme song playing]{\b0}
+Dialogue: 0,0:23:49.97,0:23:51.72,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NIt's nice to watch from afar.{\b0}
+Dialogue: 0,0:23:51.76,0:23:53.85,Default,,0000,0000,0000,,{\b1}[METHODE] I cannot find\Nthe slightest opening.{\b0}
+Dialogue: 0,0:23:53.89,0:23:55.73,Default,,0000,0000,0000,,{\b1}-[JUNG] I did it!\N-[overlapping chatter]{\b0}
+Dialogue: 0,0:23:55.77,0:23:57.98,Default,,0000,0000,0000,,{\b1}[REVOLTE] I shall put you\Nout of your misery.{\b0}
+Dialogue: 0,0:23:58.02,0:23:59.98,Default,,0000,0000,0000,,{\b1}[GENAU]\NHe met a magnificent end.{\b0}

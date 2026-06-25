@@ -1,0 +1,382 @@
+﻿[Script Info]
+Title: CC Subtitle
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.09,0:00:04.80,Default,,0000,0000,0000,,{\b1}BEYOND JOURNEY'S END{\b0}
+Dialogue: 0,0:00:04.84,0:00:07.42,Default,,0000,0000,0000,,{\b1}[♪ opening theme song playing]{\b0}
+Dialogue: 0,0:01:29.88,0:01:32.89,Default,,0000,0000,0000,,{\b1}EPISODE 32: OTHER PEOPLE'S HOMES{\b0}
+Dialogue: 0,0:01:32.93,0:01:34.60,Default,,0000,0000,0000,,{\b1}[birds chirping]{\b0}
+Dialogue: 0,0:01:38.81,0:01:39.93,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:01:39.98,0:01:41.48,Default,,0000,0000,0000,,{\b1}[Fern groans]{\b0}
+Dialogue: 0,0:01:46.69,0:01:48.19,Default,,0000,0000,0000,,{\b1}Mistress Frieren,{\b0}
+Dialogue: 0,0:01:48.23,0:01:50.24,Default,,0000,0000,0000,,{\b1}which do you think\Nwould be better?{\b0}
+Dialogue: 0,0:01:50.74,0:01:52.95,Default,,0000,0000,0000,,{\b1}A dress is a dress, isn't it?{\b0}
+Dialogue: 0,0:01:52.99,0:01:54.53,Default,,0000,0000,0000,,{\b1}And before you run off today,{\b0}
+Dialogue: 0,0:01:54.57,0:01:56.16,Default,,0000,0000,0000,,{\b1}I need you to tie up my hair.{\b0}
+Dialogue: 0,0:01:59.12,0:02:02.08,Default,,0000,0000,0000,,{\b1}[Frieren grunts, groans]{\b0}
+Dialogue: 0,0:02:02.12,0:02:04.58,Default,,0000,0000,0000,,{\b1}[FRIEREN] This is torturous.{\b0}
+Dialogue: 0,0:02:04.63,0:02:07.04,Default,,0000,0000,0000,,{\b1}I can apologize,\Nif that's what it will take{\b0}
+Dialogue: 0,0:02:07.09,0:02:10.05,Default,,0000,0000,0000,,{\b1}to stop you from braiding\Nso vengefully.{\b0}
+Dialogue: 0,0:02:10.09,0:02:11.34,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:02:31.90,0:02:33.86,Default,,0000,0000,0000,,{\b1}If you're so desperate\Nfor my attention,{\b0}
+Dialogue: 0,0:02:33.90,0:02:35.32,Default,,0000,0000,0000,,{\b1}how about you and I\Ngo on a date?{\b0}
+Dialogue: 0,0:02:37.12,0:02:39.33,Default,,0000,0000,0000,,{\b1}-[footsteps approaching]\N-[Stark gasps softly]{\b0}
+Dialogue: 0,0:02:50.46,0:02:51.84,Default,,0000,0000,0000,,{\b1}You ready to go?{\b0}
+Dialogue: 0,0:02:53.38,0:02:54.63,Default,,0000,0000,0000,,{\b1}Yes.{\b0}
+Dialogue: 0,0:02:54.76,0:02:56.47,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:03:04.31,0:03:06.56,Default,,0000,0000,0000,,{\b1}You're not wearing\Nyour usual outfit today.{\b0}
+Dialogue: 0,0:03:06.60,0:03:07.65,Default,,0000,0000,0000,,{\b1}Why's that?{\b0}
+Dialogue: 0,0:03:07.69,0:03:08.90,Default,,0000,0000,0000,,{\b1}[FERN] Uh?{\b0}
+Dialogue: 0,0:03:09.52,0:03:12.57,Default,,0000,0000,0000,,{\b1}Because... this is a date.{\b0}
+Dialogue: 0,0:03:12.61,0:03:13.74,Default,,0000,0000,0000,,{\b1}[STARK] Mmm.{\b0}
+Dialogue: 0,0:03:13.99,0:03:15.24,Default,,0000,0000,0000,,{\b1}Fair enough.{\b0}
+Dialogue: 0,0:03:15.53,0:03:16.86,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:03:17.82,0:03:19.07,Default,,0000,0000,0000,,{\b1}[WOMAN] I don't buy it!{\b0}
+Dialogue: 0,0:03:19.12,0:03:21.28,Default,,0000,0000,0000,,{\b1}-It's the truth!\N-You're kidding!{\b0}
+Dialogue: 0,0:03:21.33,0:03:22.58,Default,,0000,0000,0000,,{\b1}[woman laughs]{\b0}
+Dialogue: 0,0:03:22.62,0:03:23.79,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:03:31.21,0:03:32.34,Default,,0000,0000,0000,,{\b1}[STARK] Huh?{\b0}
+Dialogue: 0,0:03:32.38,0:03:35.26,Default,,0000,0000,0000,,{\b1}Has Fern been this cute\Nthe entire time?{\b0}
+Dialogue: 0,0:03:36.72,0:03:39.05,Default,,0000,0000,0000,,{\b1}Well, you ready for some fun?{\b0}
+Dialogue: 0,0:03:39.47,0:03:43.14,Default,,0000,0000,0000,,{\b1}Mr. Stark, you seem\Nstiffer than normal.{\b0}
+Dialogue: 0,0:03:43.18,0:03:45.14,Default,,0000,0000,0000,,{\b1}Nope, no stiffness here.{\b0}
+Dialogue: 0,0:03:48.77,0:03:49.86,Default,,0000,0000,0000,,{\b1}[STARK] Hm?{\b0}
+Dialogue: 0,0:03:50.56,0:03:51.65,Default,,0000,0000,0000,,{\b1}Why did you stop?{\b0}
+Dialogue: 0,0:03:53.23,0:03:55.74,Default,,0000,0000,0000,,{\b1}Just tell me,\Nwhere are we going?{\b0}
+Dialogue: 0,0:03:56.28,0:03:57.49,Default,,0000,0000,0000,,{\b1}There's a marketplace up ahead{\b0}
+Dialogue: 0,0:03:57.53,0:03:59.32,Default,,0000,0000,0000,,{\b1}that I thought\Nwe could check out.{\b0}
+Dialogue: 0,0:04:04.49,0:04:05.91,Default,,0000,0000,0000,,{\b1}A marketplace?{\b0}
+Dialogue: 0,0:04:05.95,0:04:08.37,Default,,0000,0000,0000,,{\b1}Where Mistress Frieren\Nhas been shopping?{\b0}
+Dialogue: 0,0:04:08.87,0:04:12.00,Default,,0000,0000,0000,,{\b1}Yeah, because\Nwe're in a bigger city,{\b0}
+Dialogue: 0,0:04:12.04,0:04:15.09,Default,,0000,0000,0000,,{\b1}she says there are loads\Nof rare magical items to find.{\b0}
+Dialogue: 0,0:04:15.13,0:04:16.97,Default,,0000,0000,0000,,{\b1}[Frieren chuckles]{\b0}
+Dialogue: 0,0:04:17.59,0:04:19.89,Default,,0000,0000,0000,,{\b1}Wow, how useful.{\b0}
+Dialogue: 0,0:04:20.97,0:04:23.01,Default,,0000,0000,0000,,{\b1}[FERN] That explains\Nthe mountain of curiosities{\b0}
+Dialogue: 0,0:04:23.06,0:04:24.85,Default,,0000,0000,0000,,{\b1}piling up at the inn.{\b0}
+Dialogue: 0,0:04:24.89,0:04:26.14,Default,,0000,0000,0000,,{\b1}More?{\b0}
+Dialogue: 0,0:04:26.73,0:04:29.14,Default,,0000,0000,0000,,{\b1}Be careful not to get caught\Nin an avalanche.{\b0}
+Dialogue: 0,0:04:29.19,0:04:32.06,Default,,0000,0000,0000,,{\b1}The other day, I found her\Npassed out under the junk.{\b0}
+Dialogue: 0,0:04:32.11,0:04:33.94,Default,,0000,0000,0000,,{\b1}-[Frieren snores]\N-[FERN] Uh?{\b0}
+Dialogue: 0,0:04:33.98,0:04:36.11,Default,,0000,0000,0000,,{\b1}[STARK] Take a passion too far\Nand it gets scary.{\b0}
+Dialogue: 0,0:04:36.15,0:04:37.32,Default,,0000,0000,0000,,{\b1}[FERN] It was.{\b0}
+Dialogue: 0,0:04:37.95,0:04:39.53,Default,,0000,0000,0000,,{\b1}Speaking of her passions,{\b0}
+Dialogue: 0,0:04:39.57,0:04:41.87,Default,,0000,0000,0000,,{\b1}I bet she's already back\Nat the hot springs.{\b0}
+Dialogue: 0,0:04:42.49,0:04:43.91,Default,,0000,0000,0000,,{\b1}I appreciate a good soak,{\b0}
+Dialogue: 0,0:04:43.95,0:04:45.91,Default,,0000,0000,0000,,{\b1}but she must be\Ntired of it by now.{\b0}
+Dialogue: 0,0:04:45.95,0:04:47.29,Default,,0000,0000,0000,,{\b1}I know I'd be.{\b0}
+Dialogue: 0,0:04:47.33,0:04:48.41,Default,,0000,0000,0000,,{\b1}If I were her,{\b0}
+Dialogue: 0,0:04:48.46,0:04:50.79,Default,,0000,0000,0000,,{\b1}I'd need to\Nchange it up a little bit.{\b0}
+Dialogue: 0,0:04:50.83,0:04:53.04,Default,,0000,0000,0000,,{\b1}Today, she did. Because of me,{\b0}
+Dialogue: 0,0:04:53.09,0:04:55.55,Default,,0000,0000,0000,,{\b1}she's sporting a new hairstyle.{\b0}
+Dialogue: 0,0:04:55.59,0:04:57.26,Default,,0000,0000,0000,,{\b1}[Frieren sighs]{\b0}
+Dialogue: 0,0:04:57.84,0:04:59.30,Default,,0000,0000,0000,,{\b1}How divine.{\b0}
+Dialogue: 0,0:04:59.34,0:05:01.34,Default,,0000,0000,0000,,{\b1}Your usual updo is cute enough,{\b0}
+Dialogue: 0,0:05:01.38,0:05:03.55,Default,,0000,0000,0000,,{\b1}but those braids are precious!{\b0}
+Dialogue: 0,0:05:05.72,0:05:07.10,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:05:07.14,0:05:08.35,Default,,0000,0000,0000,,{\b1}Whenever we're alone,{\b0}
+Dialogue: 0,0:05:08.39,0:05:10.81,Default,,0000,0000,0000,,{\b1}we end up talking about\NMistress Frieren.{\b0}
+Dialogue: 0,0:05:11.23,0:05:14.36,Default,,0000,0000,0000,,{\b1}Well, it's not like there's\Nmuch else to discuss.{\b0}
+Dialogue: 0,0:05:18.94,0:05:21.32,Default,,0000,0000,0000,,{\b1}[FEMALE SHOPKEEP] Take a look!\NI'll give you a discount.{\b0}
+Dialogue: 0,0:05:22.36,0:05:24.32,Default,,0000,0000,0000,,{\b1}[STARK] Do you want\Nto get something to eat?{\b0}
+Dialogue: 0,0:05:24.37,0:05:26.37,Default,,0000,0000,0000,,{\b1}No, thank you. Not yet.{\b0}
+Dialogue: 0,0:05:27.04,0:05:28.37,Default,,0000,0000,0000,,{\b1}Okay, then.{\b0}
+Dialogue: 0,0:05:29.00,0:05:30.25,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:05:41.05,0:05:42.13,Default,,0000,0000,0000,,{\b1}Pretty.{\b0}
+Dialogue: 0,0:05:43.68,0:05:46.35,Default,,0000,0000,0000,,{\b1}Apparently,\Ncouples get a discount.{\b0}
+Dialogue: 0,0:05:47.14,0:05:49.60,Default,,0000,0000,0000,,{\b1}Guess dating's worth it\Nfor the deals alone.{\b0}
+Dialogue: 0,0:05:50.31,0:05:52.64,Default,,0000,0000,0000,,{\b1}You're awfully blunt, Mr. Stark.{\b0}
+Dialogue: 0,0:05:52.94,0:05:54.44,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:05:56.23,0:05:59.53,Default,,0000,0000,0000,,{\b1}This stuff doesn't look\Nparticularly magical or rare.{\b0}
+Dialogue: 0,0:05:59.57,0:06:02.03,Default,,0000,0000,0000,,{\b1}These shops cater\Nto all sorts of people.{\b0}
+Dialogue: 0,0:06:02.07,0:06:03.32,Default,,0000,0000,0000,,{\b1}Not just mages.{\b0}
+Dialogue: 0,0:06:03.36,0:06:05.16,Default,,0000,0000,0000,,{\b1}[STARK]\NYeah, that's a good point.{\b0}
+Dialogue: 0,0:06:06.41,0:06:07.99,Default,,0000,0000,0000,,{\b1}This city is enormous.{\b0}
+Dialogue: 0,0:06:08.04,0:06:09.87,Default,,0000,0000,0000,,{\b1}Let's see what else\Nthere is to see.{\b0}
+Dialogue: 0,0:06:13.62,0:06:15.88,Default,,0000,0000,0000,,{\b1}-[WOMAN] It's beautiful!\N-[MAN] Very.{\b0}
+Dialogue: 0,0:06:16.50,0:06:18.13,Default,,0000,0000,0000,,{\b1}We'd like to buy\Nthis one, ma'am.{\b0}
+Dialogue: 0,0:06:18.17,0:06:20.84,Default,,0000,0000,0000,,{\b1}Yes, of course! Sure thing.{\b0}
+Dialogue: 0,0:06:21.09,0:06:22.13,Default,,0000,0000,0000,,{\b1}[indistinct chatter]{\b0}
+Dialogue: 0,0:06:22.17,0:06:24.09,Default,,0000,0000,0000,,{\b1}You've gotta be hungry\Nby now, right?{\b0}
+Dialogue: 0,0:06:24.13,0:06:25.89,Default,,0000,0000,0000,,{\b1}The snacks\Nat the stalls up ahead{\b0}
+Dialogue: 0,0:06:25.93,0:06:27.18,Default,,0000,0000,0000,,{\b1}smell delicious.{\b0}
+Dialogue: 0,0:06:30.93,0:06:34.27,Default,,0000,0000,0000,,{\b1}-[MALE SHOPKEEP] Enjoy!\N-Whoa, these look amazing!{\b0}
+Dialogue: 0,0:06:34.31,0:06:36.52,Default,,0000,0000,0000,,{\b1}-Let's go find a table.\N-Sure.{\b0}
+Dialogue: 0,0:06:40.23,0:06:41.78,Default,,0000,0000,0000,,{\b1}[Fern grunts]{\b0}
+Dialogue: 0,0:06:42.44,0:06:43.82,Default,,0000,0000,0000,,{\b1}Got you!{\b0}
+Dialogue: 0,0:06:45.16,0:06:46.37,Default,,0000,0000,0000,,{\b1}Are you okay?{\b0}
+Dialogue: 0,0:06:47.78,0:06:50.29,Default,,0000,0000,0000,,{\b1}[exclaims softly] I'm sorry.{\b0}
+Dialogue: 0,0:06:50.33,0:06:51.83,Default,,0000,0000,0000,,{\b1}[STARK] Hmm...{\b0}
+Dialogue: 0,0:06:51.87,0:06:53.71,Default,,0000,0000,0000,,{\b1}Those shoes\Nlook hard to walk in.{\b0}
+Dialogue: 0,0:06:54.08,0:06:55.87,Default,,0000,0000,0000,,{\b1}One slip and you're down.{\b0}
+Dialogue: 0,0:07:07.64,0:07:08.97,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:07:34.87,0:07:36.79,Default,,0000,0000,0000,,{\b1}Yet another Mr. Himmel.{\b0}
+Dialogue: 0,0:07:36.83,0:07:38.42,Default,,0000,0000,0000,,{\b1}It's like he follows us.{\b0}
+Dialogue: 0,0:07:38.46,0:07:41.59,Default,,0000,0000,0000,,{\b1}I gotta say, he really nailed\Nthe pose in this city.{\b0}
+Dialogue: 0,0:07:42.00,0:07:43.17,Default,,0000,0000,0000,,{\b1}I agree.{\b0}
+Dialogue: 0,0:07:43.21,0:07:44.51,Default,,0000,0000,0000,,{\b1}[STARK] According to Frieren,{\b0}
+Dialogue: 0,0:07:44.55,0:07:46.13,Default,,0000,0000,0000,,{\b1}there are over\N100 different poses{\b0}
+Dialogue: 0,0:07:46.17,0:07:47.93,Default,,0000,0000,0000,,{\b1}floating around out there.{\b0}
+Dialogue: 0,0:07:48.43,0:07:50.51,Default,,0000,0000,0000,,{\b1}[FERN] Sounds like they went\Na little overboard.{\b0}
+Dialogue: 0,0:07:50.55,0:07:52.06,Default,,0000,0000,0000,,{\b1}[STARK] Seriously.{\b0}
+Dialogue: 0,0:07:54.64,0:07:56.18,Default,,0000,0000,0000,,{\b1}An entire day,{\b0}
+Dialogue: 0,0:07:56.23,0:07:59.23,Default,,0000,0000,0000,,{\b1}and we're still talking about\NMistress Frieren.{\b0}
+Dialogue: 0,0:08:03.07,0:08:06.53,Default,,0000,0000,0000,,{\b1}[FERN] Anyway, this place\Nis nice and quiet.{\b0}
+Dialogue: 0,0:08:06.57,0:08:08.78,Default,,0000,0000,0000,,{\b1}And the view is very pretty.{\b0}
+Dialogue: 0,0:08:09.16,0:08:10.41,Default,,0000,0000,0000,,{\b1}[STARK] For sure.{\b0}
+Dialogue: 0,0:08:14.37,0:08:15.58,Default,,0000,0000,0000,,{\b1}Hey, Fern,{\b0}
+Dialogue: 0,0:08:16.20,0:08:18.92,Default,,0000,0000,0000,,{\b1}if you had a bad time today,\Nyou can just say so.{\b0}
+Dialogue: 0,0:08:20.92,0:08:22.84,Default,,0000,0000,0000,,{\b1}[FERN] I wouldn't say "bad."{\b0}
+Dialogue: 0,0:08:23.21,0:08:26.21,Default,,0000,0000,0000,,{\b1}But I haven't seen you smile\Na single time.{\b0}
+Dialogue: 0,0:08:29.51,0:08:30.93,Default,,0000,0000,0000,,{\b1}[FERN] I don't know.{\b0}
+Dialogue: 0,0:08:30.97,0:08:33.93,Default,,0000,0000,0000,,{\b1}I really did like\Nall the places we visited.{\b0}
+Dialogue: 0,0:08:33.97,0:08:36.06,Default,,0000,0000,0000,,{\b1}But for some reason...{\b0}
+Dialogue: 0,0:08:37.93,0:08:40.65,Default,,0000,0000,0000,,{\b1}they didn't feel like\Nplaces you'd choose.{\b0}
+Dialogue: 0,0:08:42.44,0:08:44.82,Default,,0000,0000,0000,,{\b1}And now our date has come\Nand gone.{\b0}
+Dialogue: 0,0:08:46.82,0:08:48.20,Default,,0000,0000,0000,,{\b1}I'm sorry, Fern.{\b0}
+Dialogue: 0,0:08:50.36,0:08:53.45,Default,,0000,0000,0000,,{\b1}I actually had Frieren pick out\Nall the places we stopped.{\b0}
+Dialogue: 0,0:08:55.12,0:08:56.95,Default,,0000,0000,0000,,{\b1}And why would you do that?{\b0}
+Dialogue: 0,0:08:58.37,0:09:01.58,Default,,0000,0000,0000,,{\b1}I wanted you to enjoy it\Nand I felt clueless on my own.{\b0}
+Dialogue: 0,0:09:02.54,0:09:05.21,Default,,0000,0000,0000,,{\b1}It's our first date.\NIt's special.{\b0}
+Dialogue: 0,0:09:08.05,0:09:09.67,Default,,0000,0000,0000,,{\b1}I understand.{\b0}
+Dialogue: 0,0:09:10.51,0:09:12.97,Default,,0000,0000,0000,,{\b1}I'm a little sad\Nour date didn't feel{\b0}
+Dialogue: 0,0:09:13.01,0:09:14.60,Default,,0000,0000,0000,,{\b1}how I thought it would.{\b0}
+Dialogue: 0,0:09:14.64,0:09:15.85,Default,,0000,0000,0000,,{\b1}But...{\b0}
+Dialogue: 0,0:09:16.60,0:09:17.64,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:09:17.68,0:09:19.48,Default,,0000,0000,0000,,{\b1}I'm also happy.{\b0}
+Dialogue: 0,0:09:19.98,0:09:21.48,Default,,0000,0000,0000,,{\b1}You worked so hard.{\b0}
+Dialogue: 0,0:09:21.52,0:09:23.73,Default,,0000,0000,0000,,{\b1}Thank you\Nfor putting in that effort.{\b0}
+Dialogue: 0,0:09:24.86,0:09:25.94,Default,,0000,0000,0000,,{\b1}Of course.{\b0}
+Dialogue: 0,0:09:25.98,0:09:27.23,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:09:31.03,0:09:33.70,Default,,0000,0000,0000,,{\b1}This moment\Nis perfectly peaceful.{\b0}
+Dialogue: 0,0:09:35.08,0:09:37.66,Default,,0000,0000,0000,,{\b1}How funny. Look at that cloud.{\b0}
+Dialogue: 0,0:09:38.16,0:09:41.25,Default,,0000,0000,0000,,{\b1}[chuckles] It's one of the\Npork buns we ate earlier.{\b0}
+Dialogue: 0,0:09:41.66,0:09:43.88,Default,,0000,0000,0000,,{\b1}I was thinking the same thing!{\b0}
+Dialogue: 0,0:09:44.46,0:09:46.25,Default,,0000,0000,0000,,{\b1}[both laugh]{\b0}
+Dialogue: 0,0:09:50.51,0:09:52.51,Default,,0000,0000,0000,,{\b1}I feel so calm.{\b0}
+Dialogue: 0,0:09:52.88,0:09:55.85,Default,,0000,0000,0000,,{\b1}When my parents passed,\NI never imagined{\b0}
+Dialogue: 0,0:09:55.89,0:09:58.60,Default,,0000,0000,0000,,{\b1}I would experience peace\Nlike this again.{\b0}
+Dialogue: 0,0:09:58.64,0:10:00.02,Default,,0000,0000,0000,,{\b1}Yeah, I get that.{\b0}
+Dialogue: 0,0:10:00.73,0:10:02.98,Default,,0000,0000,0000,,{\b1}It's all thanks\Nto Master Heiter.{\b0}
+Dialogue: 0,0:10:03.56,0:10:06.02,Default,,0000,0000,0000,,{\b1}I could say the same thing\Nabout my master.{\b0}
+Dialogue: 0,0:10:08.32,0:10:09.69,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:10:15.87,0:10:16.99,Default,,0000,0000,0000,,{\b1}[Stark groans softly]{\b0}
+Dialogue: 0,0:10:17.03,0:10:18.87,Default,,0000,0000,0000,,{\b1}[EISEN]\NPicky eaters do not make{\b0}
+Dialogue: 0,0:10:18.91,0:10:21.25,Default,,0000,0000,0000,,{\b1}for strong warriors, young man.{\b0}
+Dialogue: 0,0:10:31.63,0:10:32.97,Default,,0000,0000,0000,,{\b1}I have a question.{\b0}
+Dialogue: 0,0:10:33.47,0:10:34.55,Default,,0000,0000,0000,,{\b1}[EISEN] What's that?{\b0}
+Dialogue: 0,0:10:35.34,0:10:37.93,Default,,0000,0000,0000,,{\b1}Why did you take in\Nsomebody like me?{\b0}
+Dialogue: 0,0:10:37.97,0:10:39.10,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:10:39.56,0:10:42.68,Default,,0000,0000,0000,,{\b1}[EISEN] Because it's what\NHimmel the Hero would've done.{\b0}
+Dialogue: 0,0:10:42.73,0:10:43.85,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:10:53.19,0:10:55.91,Default,,0000,0000,0000,,{\b1}You seem to be\Nin a good mood this evening.{\b0}
+Dialogue: 0,0:10:56.20,0:10:57.62,Default,,0000,0000,0000,,{\b1}For a good reason?{\b0}
+Dialogue: 0,0:10:59.53,0:11:00.83,Default,,0000,0000,0000,,{\b1}Not really.{\b0}
+Dialogue: 0,0:11:04.75,0:11:05.92,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:11:05.96,0:11:07.88,Default,,0000,0000,0000,,{\b1}[HIMMEL]\NThe final stop on our list...{\b0}
+Dialogue: 0,0:11:08.42,0:11:09.84,Default,,0000,0000,0000,,{\b1}And no luck.{\b0}
+Dialogue: 0,0:11:10.30,0:11:12.46,Default,,0000,0000,0000,,{\b1}We've officially searched\Nevery nook and cranny{\b0}
+Dialogue: 0,0:11:12.51,0:11:14.51,Default,,0000,0000,0000,,{\b1}that the shopkeeper gave us.{\b0}
+Dialogue: 0,0:11:15.55,0:11:16.93,Default,,0000,0000,0000,,{\b1}We're hopeless.{\b0}
+Dialogue: 0,0:11:16.97,0:11:18.43,Default,,0000,0000,0000,,{\b1}So why is it you smile?{\b0}
+Dialogue: 0,0:11:18.47,0:11:19.60,Default,,0000,0000,0000,,{\b1}[Himmel chuckles]{\b0}
+Dialogue: 0,0:11:20.60,0:11:23.10,Default,,0000,0000,0000,,{\b1}[HIMMEL] I suppose\NI'm just in a good mood.{\b0}
+Dialogue: 0,0:11:23.77,0:11:25.73,Default,,0000,0000,0000,,{\b1}Because today was a good day.{\b0}
+Dialogue: 0,0:11:26.44,0:11:27.90,Default,,0000,0000,0000,,{\b1}How can you\Ncall the day good{\b0}
+Dialogue: 0,0:11:28.06,0:11:30.65,Default,,0000,0000,0000,,{\b1}when we spent it all trolling\Nthe streets for a lost cat?{\b0}
+Dialogue: 0,0:11:31.07,0:11:32.32,Default,,0000,0000,0000,,{\b1}Simple.{\b0}
+Dialogue: 0,0:11:32.73,0:11:35.32,Default,,0000,0000,0000,,{\b1}Because I spent it all trolling\Nthe streets with you, Frieren.{\b0}
+Dialogue: 0,0:11:35.36,0:11:36.40,Default,,0000,0000,0000,,{\b1}It was fun.{\b0}
+Dialogue: 0,0:11:36.99,0:11:39.20,Default,,0000,0000,0000,,{\b1}Despite us never finding\Nthe cat?{\b0}
+Dialogue: 0,0:11:39.24,0:11:40.37,Default,,0000,0000,0000,,{\b1}[Himmel gasps]{\b0}
+Dialogue: 0,0:11:41.03,0:11:42.95,Default,,0000,0000,0000,,{\b1}Even if things don't go\Nthe way you'd hoped,{\b0}
+Dialogue: 0,0:11:42.99,0:11:45.33,Default,,0000,0000,0000,,{\b1}there's still joy to be found\Non the journey.{\b0}
+Dialogue: 0,0:11:45.75,0:11:47.08,Default,,0000,0000,0000,,{\b1}Today brought much joy.{\b0}
+Dialogue: 0,0:11:47.12,0:11:49.79,Default,,0000,0000,0000,,{\b1}Certainly enough\Nto put a smile on my face.{\b0}
+Dialogue: 0,0:11:50.17,0:11:51.29,Default,,0000,0000,0000,,{\b1}[FRIEREN] Mm...{\b0}
+Dialogue: 0,0:11:52.59,0:11:53.96,Default,,0000,0000,0000,,{\b1}[HIMMEL] All right.{\b0}
+Dialogue: 0,0:11:54.01,0:11:56.42,Default,,0000,0000,0000,,{\b1}We don't want Heiter and Eisen\Nbeating us to it.{\b0}
+Dialogue: 0,0:11:56.47,0:11:58.72,Default,,0000,0000,0000,,{\b1}-So let the journey continue.\N-[cat meows]{\b0}
+Dialogue: 0,0:11:58.76,0:12:00.05,Default,,0000,0000,0000,,{\b1}[both gasp]{\b0}
+Dialogue: 0,0:12:00.89,0:12:02.10,Default,,0000,0000,0000,,{\b1}[gasping]{\b0}
+Dialogue: 0,0:12:02.22,0:12:04.47,Default,,0000,0000,0000,,{\b1}-[Himmel gasps]\N-[FRIEREN] That must be our cat.{\b0}
+Dialogue: 0,0:12:04.52,0:12:07.14,Default,,0000,0000,0000,,{\b1}[HIMMEL] Perfect timing, kitty.\NLet's catch it!{\b0}
+Dialogue: 0,0:12:07.19,0:12:08.56,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:12:16.74,0:12:18.91,Default,,0000,0000,0000,,{\b1}You did your hair\Nall fancy again.{\b0}
+Dialogue: 0,0:12:18.95,0:12:20.78,Default,,0000,0000,0000,,{\b1}These are the braids\Nthat I receive{\b0}
+Dialogue: 0,0:12:20.82,0:12:23.03,Default,,0000,0000,0000,,{\b1}when my stylist\Nis in a good mood.{\b0}
+Dialogue: 0,0:12:23.58,0:12:25.04,Default,,0000,0000,0000,,{\b1}I can't tell the difference.{\b0}
+Dialogue: 0,0:12:25.50,0:12:28.08,Default,,0000,0000,0000,,{\b1}[FRIEREN] It's woven\Ninto their very essence.{\b0}
+Dialogue: 0,0:12:28.12,0:12:30.83,Default,,0000,0000,0000,,{\b1}[STARK] You people expect\Ntoo much outta me.{\b0}
+Dialogue: 0,0:12:31.83,0:12:33.88,Default,,0000,0000,0000,,{\b1}29 YEARS AFTER THE DEATH\NOF HIMMEL THE HERO,{\b0}
+Dialogue: 0,0:12:33.92,0:12:35.88,Default,,0000,0000,0000,,{\b1}IN THE NACHRICHT REGION,\NLOCATED IN THE NORTHERN LANDS{\b0}
+Dialogue: 0,0:12:36.21,0:12:38.55,Default,,0000,0000,0000,,{\b1}It's gotten a little chillier,\Nhasn't it?{\b0}
+Dialogue: 0,0:12:38.59,0:12:40.89,Default,,0000,0000,0000,,{\b1}We are out\Nof the volcanic area now.{\b0}
+Dialogue: 0,0:12:41.80,0:12:44.26,Default,,0000,0000,0000,,{\b1}We should be able\Nto see it at any moment.{\b0}
+Dialogue: 0,0:12:44.60,0:12:45.85,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:12:46.43,0:12:49.06,Default,,0000,0000,0000,,{\b1}[FERN] Is that the\NNorthern Plateau checkpoint?{\b0}
+Dialogue: 0,0:12:49.10,0:12:51.40,Default,,0000,0000,0000,,{\b1}Could they have made it\Nmore intimidating?{\b0}
+Dialogue: 0,0:12:51.44,0:12:54.57,Default,,0000,0000,0000,,{\b1}Wait until you see the beasts\Nthat lie on the other side.{\b0}
+Dialogue: 0,0:12:54.61,0:12:55.82,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:13:02.16,0:13:03.28,Default,,0000,0000,0000,,{\b1}It'll be a long while{\b0}
+Dialogue: 0,0:13:03.32,0:13:05.33,Default,,0000,0000,0000,,{\b1}before we have access\Nto supplies again.{\b0}
+Dialogue: 0,0:13:05.37,0:13:07.58,Default,,0000,0000,0000,,{\b1}Let's get everything\Nwe need while we can.{\b0}
+Dialogue: 0,0:13:07.62,0:13:08.66,Default,,0000,0000,0000,,{\b1}[BOTH] Hm.{\b0}
+Dialogue: 0,0:13:09.08,0:13:10.54,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:13:19.67,0:13:21.51,Default,,0000,0000,0000,,{\b1}You could put a whole market\Nin that suitcase{\b0}
+Dialogue: 0,0:13:21.55,0:13:23.18,Default,,0000,0000,0000,,{\b1}and there'd still be room.{\b0}
+Dialogue: 0,0:13:23.22,0:13:24.55,Default,,0000,0000,0000,,{\b1}Nifty, eh?{\b0}
+Dialogue: 0,0:13:29.77,0:13:31.14,Default,,0000,0000,0000,,{\b1}[Stark gasps]{\b0}
+Dialogue: 0,0:13:31.48,0:13:32.65,Default,,0000,0000,0000,,{\b1}Uh?{\b0}
+Dialogue: 0,0:13:38.82,0:13:39.99,Default,,0000,0000,0000,,{\b1}[guard gasps softly]{\b0}
+Dialogue: 0,0:13:40.36,0:13:41.78,Default,,0000,0000,0000,,{\b1}Fern, the first-class mage.{\b0}
+Dialogue: 0,0:13:41.82,0:13:42.95,Default,,0000,0000,0000,,{\b1}Right this way, Miss.{\b0}
+Dialogue: 0,0:13:43.45,0:13:44.70,Default,,0000,0000,0000,,{\b1}You take care.{\b0}
+Dialogue: 0,0:13:49.70,0:13:51.50,Default,,0000,0000,0000,,{\b1}I forget she's a big deal.{\b0}
+Dialogue: 0,0:13:51.54,0:13:54.13,Default,,0000,0000,0000,,{\b1}When one reaches the pinnacle\Nof magical prowess,{\b0}
+Dialogue: 0,0:13:54.17,0:13:56.21,Default,,0000,0000,0000,,{\b1}you might want\Nto make a mental note.{\b0}
+Dialogue: 0,0:14:01.88,0:14:04.72,Default,,0000,0000,0000,,{\b1}[STARK] This is the big,\Nbad Northern Plateau?{\b0}
+Dialogue: 0,0:14:05.26,0:14:06.30,Default,,0000,0000,0000,,{\b1}From what I've heard,{\b0}
+Dialogue: 0,0:14:06.35,0:14:08.52,Default,,0000,0000,0000,,{\b1}I expected blood\Nand guts and chaos,{\b0}
+Dialogue: 0,0:14:08.56,0:14:10.02,Default,,0000,0000,0000,,{\b1}not a normal forest.{\b0}
+Dialogue: 0,0:14:10.98,0:14:14.15,Default,,0000,0000,0000,,{\b1}Are you being serious?\NJust look around.{\b0}
+Dialogue: 0,0:14:14.44,0:14:15.85,Default,,0000,0000,0000,,{\b1}Look for what?{\b0}
+Dialogue: 0,0:14:18.48,0:14:19.90,Default,,0000,0000,0000,,{\b1}[FRIEREN] We're surrounded.{\b0}
+Dialogue: 0,0:14:19.94,0:14:21.19,Default,,0000,0000,0000,,{\b1}[growling]{\b0}
+Dialogue: 0,0:14:21.49,0:14:22.78,Default,,0000,0000,0000,,{\b1}[Stark gasps]{\b0}
+Dialogue: 0,0:14:23.95,0:14:25.57,Default,,0000,0000,0000,,{\b1}Stay on your toes.{\b0}
+Dialogue: 0,0:14:26.74,0:14:28.45,Default,,0000,0000,0000,,{\b1}This is merely the beginning.{\b0}
+Dialogue: 0,0:14:28.49,0:14:30.58,Default,,0000,0000,0000,,{\b1}-[growling]\N-[Stark grunting]{\b0}
+Dialogue: 0,0:14:34.83,0:14:36.13,Default,,0000,0000,0000,,{\b1}[growling]{\b0}
+Dialogue: 0,0:14:38.71,0:14:40.38,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:15:13.83,0:15:17.29,Default,,0000,0000,0000,,{\b1}[Stark sighs, groans]{\b0}
+Dialogue: 0,0:15:17.83,0:15:19.46,Default,,0000,0000,0000,,{\b1}[FRIEREN] It's a village.{\b0}
+Dialogue: 0,0:15:20.88,0:15:23.76,Default,,0000,0000,0000,,{\b1}I thought I was gonna die\Nout there. [coughs]{\b0}
+Dialogue: 0,0:15:23.80,0:15:26.55,Default,,0000,0000,0000,,{\b1}Three days and nights of blood\Nand guts and chaos.{\b0}
+Dialogue: 0,0:15:27.59,0:15:29.68,Default,,0000,0000,0000,,{\b1}I do hope we can rest here.{\b0}
+Dialogue: 0,0:15:31.10,0:15:32.35,Default,,0000,0000,0000,,{\b1}[MAN] Fine with us.{\b0}
+Dialogue: 0,0:15:32.85,0:15:34.85,Default,,0000,0000,0000,,{\b1}There's an extra cabin\Nno one's using.{\b0}
+Dialogue: 0,0:15:35.35,0:15:36.85,Default,,0000,0000,0000,,{\b1}Make yourselves at home.{\b0}
+Dialogue: 0,0:15:36.90,0:15:38.98,Default,,0000,0000,0000,,{\b1}-[exclaims]\N-Thank you, sir.{\b0}
+Dialogue: 0,0:15:39.90,0:15:41.07,Default,,0000,0000,0000,,{\b1}Forgive me.{\b0}
+Dialogue: 0,0:15:41.11,0:15:43.15,Default,,0000,0000,0000,,{\b1}I do not wish\Nto trouble you, but...{\b0}
+Dialogue: 0,0:15:45.40,0:15:47.61,Default,,0000,0000,0000,,{\b1}A monster took over\Nthe road north.{\b0}
+Dialogue: 0,0:15:47.66,0:15:49.12,Default,,0000,0000,0000,,{\b1}We're used\Nto dealing with beasts,{\b0}
+Dialogue: 0,0:15:49.16,0:15:51.16,Default,,0000,0000,0000,,{\b1}but this one's\Na different story.{\b0}
+Dialogue: 0,0:15:53.12,0:15:55.79,Default,,0000,0000,0000,,{\b1}[MAN] The local knights\Nare powerless against it.{\b0}
+Dialogue: 0,0:15:57.29,0:16:00.33,Default,,0000,0000,0000,,{\b1}Traveling merchants can\Nno longer pass this way.{\b0}
+Dialogue: 0,0:16:00.75,0:16:01.80,Default,,0000,0000,0000,,{\b1}And as you can see,{\b0}
+Dialogue: 0,0:16:01.84,0:16:04.34,Default,,0000,0000,0000,,{\b1}adventurers rarely\Nvisit this land.{\b0}
+Dialogue: 0,0:16:04.92,0:16:06.42,Default,,0000,0000,0000,,{\b1}In exchange for the cabin,{\b0}
+Dialogue: 0,0:16:06.47,0:16:08.59,Default,,0000,0000,0000,,{\b1}will you three please\Nslay the monster?{\b0}
+Dialogue: 0,0:16:08.64,0:16:11.64,Default,,0000,0000,0000,,{\b1}Sure. We're going north anyway.{\b0}
+Dialogue: 0,0:16:11.68,0:16:14.22,Default,,0000,0000,0000,,{\b1}We'll slay it\Non our way out of town.{\b0}
+Dialogue: 0,0:16:14.77,0:16:17.27,Default,,0000,0000,0000,,{\b1}-Is that all right?\N-[FERN] Yes.{\b0}
+Dialogue: 0,0:16:19.40,0:16:21.02,Default,,0000,0000,0000,,{\b1}I guess we can.{\b0}
+Dialogue: 0,0:16:22.77,0:16:24.78,Default,,0000,0000,0000,,{\b1}But won't another take\Nits place?{\b0}
+Dialogue: 0,0:16:24.82,0:16:26.57,Default,,0000,0000,0000,,{\b1}The checkpoint\Nis only three days away{\b0}
+Dialogue: 0,0:16:26.61,0:16:27.65,Default,,0000,0000,0000,,{\b1}from your village.{\b0}
+Dialogue: 0,0:16:28.86,0:16:30.36,Default,,0000,0000,0000,,{\b1}You know this place\Nis dangerous,{\b0}
+Dialogue: 0,0:16:30.41,0:16:32.03,Default,,0000,0000,0000,,{\b1}so why don't you move?{\b0}
+Dialogue: 0,0:16:32.74,0:16:34.08,Default,,0000,0000,0000,,{\b1}[man chuckles]{\b0}
+Dialogue: 0,0:16:34.45,0:16:36.04,Default,,0000,0000,0000,,{\b1}Dangerous it is,{\b0}
+Dialogue: 0,0:16:36.08,0:16:38.62,Default,,0000,0000,0000,,{\b1}even for our\Nnorthern sensibilities.{\b0}
+Dialogue: 0,0:16:40.37,0:16:43.80,Default,,0000,0000,0000,,{\b1}That said, this land is where\Nwe were born and raised.{\b0}
+Dialogue: 0,0:16:47.38,0:16:49.01,Default,,0000,0000,0000,,{\b1}Look around.{\b0}
+Dialogue: 0,0:16:49.05,0:16:52.05,Default,,0000,0000,0000,,{\b1}Every pocket of this place\Nsings of the past.{\b0}
+Dialogue: 0,0:16:53.05,0:16:55.64,Default,,0000,0000,0000,,{\b1}And who could abandon\Nthe home they love?{\b0}
+Dialogue: 0,0:16:58.43,0:16:59.73,Default,,0000,0000,0000,,{\b1}[Frieren chuckles softly]{\b0}
+Dialogue: 0,0:17:02.10,0:17:03.82,Default,,0000,0000,0000,,{\b1}[FRIEREN]\NShall we be off, then?{\b0}
+Dialogue: 0,0:17:04.52,0:17:06.23,Default,,0000,0000,0000,,{\b1}[goats bleating]{\b0}
+Dialogue: 0,0:17:07.99,0:17:09.40,Default,,0000,0000,0000,,{\b1}We wish you well.{\b0}
+Dialogue: 0,0:17:19.46,0:17:21.04,Default,,0000,0000,0000,,{\b1}-[horse neighing]\N-[Stark gasps]{\b0}
+Dialogue: 0,0:17:30.68,0:17:32.47,Default,,0000,0000,0000,,{\b1}[monster grunting]{\b0}
+Dialogue: 0,0:17:37.93,0:17:40.10,Default,,0000,0000,0000,,{\b1}[growling]{\b0}
+Dialogue: 0,0:17:55.91,0:17:57.66,Default,,0000,0000,0000,,{\b1}A powerful beast, indeed.{\b0}
+Dialogue: 0,0:17:58.08,0:18:00.00,Default,,0000,0000,0000,,{\b1}Don't let your guard down.{\b0}
+Dialogue: 0,0:18:03.88,0:18:05.79,Default,,0000,0000,0000,,{\b1}-[monster growling]\N-[Stark grunts]{\b0}
+Dialogue: 0,0:18:12.38,0:18:13.43,Default,,0000,0000,0000,,{\b1}[FERN] Too fast.{\b0}
+Dialogue: 0,0:18:23.10,0:18:25.44,Default,,0000,0000,0000,,{\b1}This monster isn't\Nlike the others.{\b0}
+Dialogue: 0,0:18:25.48,0:18:28.02,Default,,0000,0000,0000,,{\b1}[FRIEREN] We've found ourselves\Na formidable foe.{\b0}
+Dialogue: 0,0:18:36.82,0:18:37.99,Default,,0000,0000,0000,,{\b1}[monster growling]{\b0}
+Dialogue: 0,0:18:42.29,0:18:45.63,Default,,0000,0000,0000,,{\b1}[FRIEREN] The methods we've used\Nthus far aren't going to work.{\b0}
+Dialogue: 0,0:18:46.08,0:18:47.54,Default,,0000,0000,0000,,{\b1}Certainly seems that way.{\b0}
+Dialogue: 0,0:18:47.96,0:18:49.09,Default,,0000,0000,0000,,{\b1}Fine.{\b0}
+Dialogue: 0,0:18:52.63,0:18:53.63,Default,,0000,0000,0000,,{\b1}[Fern gasps]{\b0}
+Dialogue: 0,0:18:53.88,0:18:55.89,Default,,0000,0000,0000,,{\b1}-[monster growling]\N-[Fern grunts]{\b0}
+Dialogue: 0,0:18:55.97,0:18:57.05,Default,,0000,0000,0000,,{\b1}[Stark gasps]{\b0}
+Dialogue: 0,0:18:59.43,0:19:01.02,Default,,0000,0000,0000,,{\b1}[monster growling]{\b0}
+Dialogue: 0,0:19:09.19,0:19:10.44,Default,,0000,0000,0000,,{\b1}[monster grunts]{\b0}
+Dialogue: 0,0:19:16.57,0:19:18.45,Default,,0000,0000,0000,,{\b1}Quite the eye on this one.{\b0}
+Dialogue: 0,0:19:18.49,0:19:19.78,Default,,0000,0000,0000,,{\b1}[growls]{\b0}
+Dialogue: 0,0:19:23.08,0:19:25.29,Default,,0000,0000,0000,,{\b1}Now, Stark,\Nwhile it's looking here.{\b0}
+Dialogue: 0,0:19:25.33,0:19:26.71,Default,,0000,0000,0000,,{\b1}Already on it!{\b0}
+Dialogue: 0,0:19:29.79,0:19:31.25,Default,,0000,0000,0000,,{\b1}[Stark grunts]{\b0}
+Dialogue: 0,0:19:38.18,0:19:39.93,Default,,0000,0000,0000,,{\b1}Sure, it's tough.{\b0}
+Dialogue: 0,0:19:39.97,0:19:41.56,Default,,0000,0000,0000,,{\b1}But I'm right there with it!{\b0}
+Dialogue: 0,0:19:42.10,0:19:46.06,Default,,0000,0000,0000,,{\b1}I won't let it beat me!\NFrieren!{\b0}
+Dialogue: 0,0:20:02.33,0:20:03.79,Default,,0000,0000,0000,,{\b1}[Stark gasps softly]{\b0}
+Dialogue: 0,0:20:06.25,0:20:07.54,Default,,0000,0000,0000,,{\b1}[Stark gasps softly]{\b0}
+Dialogue: 0,0:20:12.00,0:20:14.76,Default,,0000,0000,0000,,{\b1}[STARK] That thing was a force\Nto be reckoned with.{\b0}
+Dialogue: 0,0:20:15.38,0:20:18.34,Default,,0000,0000,0000,,{\b1}[FRIEREN] We've only just\Nentered the Northern Plateau.{\b0}
+Dialogue: 0,0:20:18.38,0:20:20.26,Default,,0000,0000,0000,,{\b1}That monster's strength\Nwasn't unique.{\b0}
+Dialogue: 0,0:20:20.30,0:20:23.47,Default,,0000,0000,0000,,{\b1}You should prepare for\Nsimilar battles down the line.{\b0}
+Dialogue: 0,0:20:24.31,0:20:27.27,Default,,0000,0000,0000,,{\b1}So there are creatures\Nlike that all over the place?{\b0}
+Dialogue: 0,0:20:27.31,0:20:28.94,Default,,0000,0000,0000,,{\b1}This will be tricky.{\b0}
+Dialogue: 0,0:20:28.98,0:20:30.27,Default,,0000,0000,0000,,{\b1}I don't know, Frieren.{\b0}
+Dialogue: 0,0:20:30.31,0:20:31.31,Default,,0000,0000,0000,,{\b1}[FRIEREN] Mm?{\b0}
+Dialogue: 0,0:20:31.98,0:20:33.86,Default,,0000,0000,0000,,{\b1}The price was steep\Nto travel by sea,{\b0}
+Dialogue: 0,0:20:33.90,0:20:35.36,Default,,0000,0000,0000,,{\b1}but compared to this,{\b0}
+Dialogue: 0,0:20:36.07,0:20:38.61,Default,,0000,0000,0000,,{\b1}the hit to our purses\Nwould've been worth it.{\b0}
+Dialogue: 0,0:20:40.95,0:20:42.12,Default,,0000,0000,0000,,{\b1}[Frieren chuckles softly]{\b0}
+Dialogue: 0,0:20:44.45,0:20:48.41,Default,,0000,0000,0000,,{\b1}[EISEN] I didn't expect to find\Nsuch a powerful monster here.{\b0}
+Dialogue: 0,0:20:48.83,0:20:51.38,Default,,0000,0000,0000,,{\b1}I was certain\Nwe were going to die.{\b0}
+Dialogue: 0,0:20:51.96,0:20:53.54,Default,,0000,0000,0000,,{\b1}We should've sailed\Npast this region{\b0}
+Dialogue: 0,0:20:53.59,0:20:55.92,Default,,0000,0000,0000,,{\b1}if the road ahead is going\Nto remain as dangerous.{\b0}
+Dialogue: 0,0:20:56.38,0:20:58.34,Default,,0000,0000,0000,,{\b1}It will be dangerous.{\b0}
+Dialogue: 0,0:20:59.80,0:21:01.09,Default,,0000,0000,0000,,{\b1}That's why I chose it.{\b0}
+Dialogue: 0,0:21:01.14,0:21:03.35,Default,,0000,0000,0000,,{\b1}Many people live here,\Nyou know.{\b0}
+Dialogue: 0,0:21:05.22,0:21:06.85,Default,,0000,0000,0000,,{\b1}The reason\Nthat I became a hero{\b0}
+Dialogue: 0,0:21:06.89,0:21:09.52,Default,,0000,0000,0000,,{\b1}was because I wanted\Nto protect my homeland.{\b0}
+Dialogue: 0,0:21:10.23,0:21:13.31,Default,,0000,0000,0000,,{\b1}And now I want to protect\Nother people's homes, too.{\b0}
+Dialogue: 0,0:21:14.52,0:21:16.03,Default,,0000,0000,0000,,{\b1}Listen, Stark,{\b0}
+Dialogue: 0,0:21:16.73,0:21:18.07,Default,,0000,0000,0000,,{\b1}dangerous as it is,{\b0}
+Dialogue: 0,0:21:18.11,0:21:20.36,Default,,0000,0000,0000,,{\b1}there are many who call\Nthis plateau their home.{\b0}
+Dialogue: 0,0:21:20.40,0:21:21.61,Default,,0000,0000,0000,,{\b1}[STARK] Huh?{\b0}
+Dialogue: 0,0:21:27.79,0:21:29.37,Default,,0000,0000,0000,,{\b1}♪{\b0}
+Dialogue: 0,0:21:35.96,0:21:38.38,Default,,0000,0000,0000,,{\b1}I didn't think\Nabout it like that.{\b0}
+Dialogue: 0,0:21:38.92,0:21:40.47,Default,,0000,0000,0000,,{\b1}We'll fight for them.{\b0}
+Dialogue: 0,0:21:40.51,0:21:43.14,Default,,0000,0000,0000,,{\b1}Yes. That is our battle cry.{\b0}
+Dialogue: 0,0:21:43.18,0:21:44.30,Default,,0000,0000,0000,,{\b1}Right.{\b0}
+Dialogue: 0,0:21:45.43,0:21:47.35,Default,,0000,0000,0000,,{\b1}Thanks to Stark's reckless\Nabandon,{\b0}
+Dialogue: 0,0:21:47.39,0:21:49.39,Default,,0000,0000,0000,,{\b1}we scrounged out a victory.{\b0}
+Dialogue: 0,0:21:49.43,0:21:51.10,Default,,0000,0000,0000,,{\b1}If we want to succeed\Ngoing forward,{\b0}
+Dialogue: 0,0:21:51.14,0:21:53.60,Default,,0000,0000,0000,,{\b1}we'll have to focus\Non increasing our teamwork.{\b0}
+Dialogue: 0,0:21:54.35,0:21:55.73,Default,,0000,0000,0000,,{\b1}[FERN] I agree.{\b0}
+Dialogue: 0,0:21:57.52,0:21:58.94,Default,,0000,0000,0000,,{\b1}Stop relaxing, teammate.{\b0}
+Dialogue: 0,0:21:58.99,0:22:00.61,Default,,0000,0000,0000,,{\b1}We still have much work to do.{\b0}
+Dialogue: 0,0:22:02.03,0:22:04.82,Default,,0000,0000,0000,,{\b1}It's bold of you to assume\NI'm relaxing.{\b0}
+Dialogue: 0,0:22:05.12,0:22:06.24,Default,,0000,0000,0000,,{\b1}[BOTH] Hm?{\b0}
+Dialogue: 0,0:22:06.70,0:22:09.83,Default,,0000,0000,0000,,{\b1}As always, my legs gave out.{\b0}
+Dialogue: 0,0:22:09.87,0:22:12.71,Default,,0000,0000,0000,,{\b1}[Fern sighs] Pathetic.{\b0}
+Dialogue: 0,0:22:12.75,0:22:14.88,Default,,0000,0000,0000,,{\b1}It isn't like\NI wanted them to!{\b0}
+Dialogue: 0,0:22:15.42,0:22:17.17,Default,,0000,0000,0000,,{\b1}That crazy spell\Ncould've fried me!{\b0}
+Dialogue: 0,0:22:17.21,0:22:18.84,Default,,0000,0000,0000,,{\b1}I was nearly a pile of ash!{\b0}
+Dialogue: 0,0:22:18.88,0:22:19.76,Default,,0000,0000,0000,,{\b1}[Fern chuckles]{\b0}
+Dialogue: 0,0:22:19.80,0:22:22.22,Default,,0000,0000,0000,,{\b1}[♪ closing theme song playing]{\b0}
+Dialogue: 0,0:23:50.22,0:23:52.18,Default,,0000,0000,0000,,{\b1}[FRIEREN] Don't come\Ncrying to me later.{\b0}
+Dialogue: 0,0:23:52.22,0:23:54.10,Default,,0000,0000,0000,,{\b1}[STARK] Seriously,\Nwhat are we going to do?{\b0}
+Dialogue: 0,0:23:54.14,0:23:55.14,Default,,0000,0000,0000,,{\b1}[HIMMEL] Let go already!{\b0}
+Dialogue: 0,0:23:55.35,0:23:56.85,Default,,0000,0000,0000,,{\b1}[MINER] The president\Ntold us about you.{\b0}
+Dialogue: 0,0:23:56.89,0:23:57.90,Default,,0000,0000,0000,,{\b1}[HEITER] But of course.{\b0}
+Dialogue: 0,0:23:58.19,0:23:59.86,Default,,0000,0000,0000,,{\b1}[NORM] " Logistics\Nin the Northern Plateau."{\b0}
