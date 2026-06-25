@@ -1,0 +1,2349 @@
+﻿1
+00:00:01,250 --> 00:00:02,370
+<Default><b>[roaring]</b></Default>
+
+2
+00:00:10,339 --> 00:00:11,499
+<Default><b>[chuckles]</b></Default>
+
+3
+00:00:13,810 --> 00:00:15,745
+<Default><b>I can't believe
+what I'm seeing here!</b></Default>
+
+4
+00:00:15,769 --> 00:00:18,480
+<Default><b>The Topak family
+already has Team Rockvalley</b></Default>
+
+5
+00:00:18,559 --> 00:00:20,319
+<Default><b>fighting for
+their lives!</b></Default>
+
+6
+00:00:21,149 --> 00:00:22,820
+<Default><b>[crowd cheering]</b></Default>
+
+7
+00:00:22,980 --> 00:00:24,060
+<Default><b>[grunts]</b></Default>
+
+8
+00:00:24,690 --> 00:00:25,970
+<Default><b>[uneasy gasp]</b></Default>
+
+9
+00:00:26,399 --> 00:00:28,675
+<Default><b>Hah! And here I thought
+they'd be tougher.</b></Default>
+
+10
+00:00:28,699 --> 00:00:29,925
+<Default><b>Guess I was wrong.</b></Default>
+
+11
+00:00:29,949 --> 00:00:31,949
+<Default><b>C'mon let's
+finish them all off!</b></Default>
+
+12
+00:00:32,530 --> 00:00:34,095
+<Default><b>[MC 01-A (M)]
+It's looking grim!</b></Default>
+
+13
+00:00:34,119 --> 00:00:37,239
+<Default><b>Will Team Rockvalley be able
+to fight their way out of this?</b></Default>
+
+14
+00:00:37,960 --> 00:00:39,329
+<Default><b>[grunts]</b></Default>
+
+15
+00:00:39,869 --> 00:00:41,265
+<Default><b>[menacing laughter]</b></Default>
+
+16
+00:00:41,289 --> 00:00:42,369
+<Default><b>[grunts]</b></Default>
+
+17
+00:00:45,000 --> 00:00:46,160
+<Default><b>[crashing]</b></Default>
+
+18
+00:00:48,130 --> 00:00:49,330
+<Default><b>[exploding]</b></Default>
+
+19
+00:00:49,380 --> 00:00:53,390
+<Default><b>♪</b></Default>
+
+20
+00:02:32,569 --> 00:02:34,769
+<Default><b>[NAOFUMI]
+My name is Naofumi Iwatani.</b></Default>
+
+21
+00:02:35,199 --> 00:02:36,756
+<Default><b>I was sent from
+modern Japan</b></Default>
+
+22
+00:02:36,780 --> 00:02:38,716
+<Default><b>to another world
+as the Shield Hero</b></Default>
+
+23
+00:02:38,740 --> 00:02:40,466
+<Default><b>in order to
+fight the Waves</b></Default>
+
+24
+00:02:40,490 --> 00:02:42,850
+<Default><b>which bring about
+calamity to this world.</b></Default>
+
+25
+00:02:43,500 --> 00:02:45,226
+<Default><b>But since the
+Spirit Tortoise</b></Default>
+
+26
+00:02:45,250 --> 00:02:46,855
+<Default><b>one of the four
+guardian beasts</b></Default>
+
+27
+00:02:46,879 --> 00:02:49,050
+<Default><b>that protect this world</b></Default>
+
+28
+00:02:49,129 --> 00:02:51,649
+<Default><b>it'll be a while
+before another Wave happens.</b></Default>
+
+29
+00:02:52,259 --> 00:02:54,605
+<Default><b>The guardian beasts
+make use of soul energy</b></Default>
+
+30
+00:02:54,629 --> 00:02:56,316
+<Default><b>gathered by
+killing people</b></Default>
+
+31
+00:02:56,340 --> 00:02:58,300
+<Default><b>to stop the Waves
+from coming.</b></Default>
+
+32
+00:03:04,939 --> 00:03:06,876
+<Default><b>We defeated
+the Spirit Tortoise</b></Default>
+
+33
+00:03:06,900 --> 00:03:09,310
+<Default><b>so the next
+Guardian Beast</b></Default>
+
+34
+00:03:09,400 --> 00:03:11,760
+<Default><b>was supposed to revive
+immediately after.</b></Default>
+
+35
+00:03:13,780 --> 00:03:16,360
+<Default><b>Luckily the energy
+we took back from Kyo</b></Default>
+
+36
+00:03:16,449 --> 00:03:18,925
+<Default><b>created a barrier that
+gave us three and a half months</b></Default>
+
+37
+00:03:18,949 --> 00:03:20,509
+<Default><b>before that happens.</b></Default>
+
+38
+00:03:21,580 --> 00:03:23,260
+<Default><b>I plan to use that time</b></Default>
+
+39
+00:03:23,289 --> 00:03:25,436
+<Default><b>to strengthen
+the defenses of my lands</b></Default>
+
+40
+00:03:25,460 --> 00:03:28,169
+<Default><b>and make preparations
+to defeat the Phoenix.</b></Default>
+
+41
+00:03:28,789 --> 00:03:30,566
+<Default><b>But because
+of the sacrifice aura</b></Default>
+
+42
+00:03:30,590 --> 00:03:32,919
+<Default><b>put on us during
+my fight with Kyo.</b></Default>
+
+43
+00:03:33,090 --> 00:03:34,730
+<Default><b>Raphtalia, Filo, and I</b></Default>
+
+44
+00:03:34,759 --> 00:03:38,009
+<Default><b>all took a big hit to our stats
+that can't be overlooked.</b></Default>
+
+45
+00:03:38,139 --> 00:03:39,339
+<Default><b>[crackling]</b></Default>
+
+46
+00:03:41,180 --> 00:03:43,270
+<Default><b>[RAPHTALIA]
+Lowhirot, Haikazuya</b></Default>
+
+47
+00:03:43,349 --> 00:03:44,430
+<Default><b>Mideus.</b></Default>
+
+48
+00:03:44,639 --> 00:03:46,115
+<Default><b>The armies
+gathered to defeat</b></Default>
+
+49
+00:03:46,139 --> 00:03:48,259
+<Default><b>the Spirit Tortoise
+are still here?</b></Default>
+
+50
+00:03:49,900 --> 00:03:51,310
+<Default><b>And those flags.</b></Default>
+
+51
+00:03:51,400 --> 00:03:52,760
+<Default><b>That's Faubrey.</b></Default>
+
+52
+00:03:52,900 --> 00:03:55,216
+<Default><b>The Spirit Tortoise
+has already been defeated</b></Default>
+
+53
+00:03:55,240 --> 00:03:57,120
+<Default><b>so what are
+they doing here?</b></Default>
+
+54
+00:03:57,319 --> 00:03:58,756
+<Default><b>[NAOFUMI]
+As for the liberation aura</b></Default>
+
+55
+00:03:58,780 --> 00:04:00,300
+<Default><b>that Ost taught me.</b></Default>
+
+56
+00:04:00,530 --> 00:04:02,490
+<Default><b>I haven't been
+able to use it.</b></Default>
+
+57
+00:04:02,580 --> 00:04:04,460
+<Default><b>I don't know
+if I ever will.</b></Default>
+
+58
+00:04:05,370 --> 00:04:06,596
+<Default><b>I'm the Shield.</b></Default>
+
+59
+00:04:06,620 --> 00:04:08,180
+<Default><b>Motoyasu, the Spear.</b></Default>
+
+60
+00:04:08,210 --> 00:04:09,476
+<Default><b>Ren, the Sword.</b></Default>
+
+61
+00:04:09,500 --> 00:04:11,060
+<Default><b>And Itsuki, the Bow.</b></Default>
+
+62
+00:04:11,129 --> 00:04:12,395
+<Default><b>With proper teamwork</b></Default>
+
+63
+00:04:12,419 --> 00:04:14,605
+<Default><b>our abilities can make
+all the difference</b></Default>
+
+64
+00:04:14,629 --> 00:04:16,485
+<Default><b>in making each
+other stronger.</b></Default>
+
+65
+00:04:16,509 --> 00:04:18,509
+<Default><b>♪</b></Default>
+
+66
+00:04:18,759 --> 00:04:20,826
+<Default><b>[NAOFUMI]
+What do you mean "Missing"?</b></Default>
+
+67
+00:04:20,850 --> 00:04:22,550
+<Default><b>Only you remain.</b></Default>
+
+68
+00:04:22,639 --> 00:04:23,826
+<Default><b>The other three heroes</b></Default>
+
+69
+00:04:23,850 --> 00:04:26,286
+<Default><b>dealt with the Wave that
+took place after you left</b></Default>
+
+70
+00:04:26,310 --> 00:04:28,245
+<Default><b>for the other world
+and vanished.</b></Default>
+
+71
+00:04:28,269 --> 00:04:29,915
+<Default><b>Right, that was the wave
+that occurred</b></Default>
+
+72
+00:04:29,939 --> 00:04:31,536
+<Default><b>alongside the
+one Kyo created</b></Default>
+
+73
+00:04:31,560 --> 00:04:33,165
+<Default><b>if I'm remembering
+correctly.</b></Default>
+
+74
+00:04:33,189 --> 00:04:35,669
+<Default><b>We were all grateful to them
+for their help.</b></Default>
+
+75
+00:04:36,029 --> 00:04:38,989
+<Default><b>But it's likely they felt
+responsible for what happened.</b></Default>
+
+76
+00:04:39,069 --> 00:04:41,175
+<Default><b>[MIRELIA]
+Because now they're missing.</b></Default>
+
+77
+00:04:41,199 --> 00:04:42,919
+<Default><b>You gotta be kidding me.</b></Default>
+
+78
+00:04:42,949 --> 00:04:45,096
+<Default><b>[MIRELIA]
+With the Phoenix soon to revive</b></Default>
+
+79
+00:04:45,120 --> 00:04:47,096
+<Default><b>having even one of the heroes
+absent</b></Default>
+
+80
+00:04:47,120 --> 00:04:49,459
+<Default><b>would be an extremely
+serious concern</b></Default>
+
+81
+00:04:49,540 --> 00:04:51,516
+<Default><b>given the circumstances
+we're in.</b></Default>
+
+82
+00:04:51,540 --> 00:04:52,580
+<Default><b>[sighs]</b></Default>
+
+83
+00:04:52,750 --> 00:04:55,050
+<Default><b>I pity the citizens
+of this land.</b></Default>
+
+84
+00:04:55,589 --> 00:04:58,065
+<Default><b>First, the Waves of Catastrophe
+loom over them</b></Default>
+
+85
+00:04:58,089 --> 00:04:59,849
+<Default><b>now, the
+guardian beasts.</b></Default>
+
+86
+00:05:00,220 --> 00:05:01,589
+<Default><b>Sir Naofumi</b></Default>
+
+87
+00:05:01,759 --> 00:05:03,319
+<Default><b>I surrender my pride</b></Default>
+
+88
+00:05:03,389 --> 00:05:05,326
+<Default><b>and request you
+to lend us your aid</b></Default>
+
+89
+00:05:05,350 --> 00:05:07,310
+<Default><b>once more as
+the Shield Hero.</b></Default>
+
+90
+00:05:08,230 --> 00:05:09,915
+<Default><b>There's no
+need for that.</b></Default>
+
+91
+00:05:09,939 --> 00:05:12,739
+<Default><b>I'll fight to protect my lands
+no matter the threat.</b></Default>
+
+92
+00:05:12,769 --> 00:05:14,536
+<Default><b>But what do
+you plan to do?</b></Default>
+
+93
+00:05:14,560 --> 00:05:15,836
+<Default><b>[NAOFUMI]
+Nations like Faubrey</b></Default>
+
+94
+00:05:15,860 --> 00:05:17,836
+<Default><b>are snooping around
+your country.</b></Default>
+
+95
+00:05:17,860 --> 00:05:20,125
+<Default><b>Am I wrong in thinking
+the Queen of Melromarc</b></Default>
+
+96
+00:05:20,149 --> 00:05:22,149
+<Default><b>should be
+concerned about that?</b></Default>
+
+97
+00:05:22,660 --> 00:05:25,029
+<Default><b>Faubrey stationed
+their soldiers nearby</b></Default>
+
+98
+00:05:25,120 --> 00:05:27,096
+<Default><b>in what they're calling
+a "relief effort</b></Default>"
+
+99
+00:05:27,120 --> 00:05:29,400
+<Default><b>after you defeated
+the Spirit Tortoise.</b></Default>
+
+100
+00:05:29,699 --> 00:05:32,920
+<Default><b>So the Eastern nations are
+merely keeping them in check.</b></Default>
+
+101
+00:05:33,170 --> 00:05:35,226
+<Default><b>I'd say there's
+nothing to worry about</b></Default>
+
+102
+00:05:35,250 --> 00:05:37,709
+<Default><b>since Melromarc
+and Faubrey are allies.</b></Default>
+
+103
+00:05:37,920 --> 00:05:40,200
+<Default><b>[MIRELIA]
+At least, for the time being.</b></Default>
+
+104
+00:05:40,420 --> 00:05:44,430
+<Default><b>♪</b></Default>
+
+105
+00:05:45,300 --> 00:05:46,310
+<Default><b>Huh?</b></Default>
+
+106
+00:05:46,509 --> 00:05:47,549
+<Default><b>[sighs]</b></Default>
+
+107
+00:05:48,350 --> 00:05:50,110
+<Default><b>[FILO]
+Hey look! It's Mel!</b></Default>
+
+108
+00:05:50,139 --> 00:05:51,179
+<Default><b>[gasps]</b></Default>
+
+109
+00:05:52,560 --> 00:05:53,980
+<Default><b>Goodness, grief.</b></Default>
+
+110
+00:05:56,069 --> 00:05:57,769
+<Default><b>It's been so long!</b></Default>
+
+111
+00:05:57,899 --> 00:05:59,059
+<Default><b>[giggling]</b></Default>
+
+112
+00:05:59,149 --> 00:06:01,069
+<Default><b>It's good to
+see you, Filo!</b></Default>
+
+113
+00:06:01,569 --> 00:06:03,319
+<Default><b>My apologies, Raphtalia.</b></Default>
+
+114
+00:06:03,410 --> 00:06:04,069
+<Default><b>Huh?</b></Default>
+
+115
+00:06:04,160 --> 00:06:06,005
+<Default><b>Our nation's
+religion dictates</b></Default>
+
+116
+00:06:06,029 --> 00:06:07,846
+<Default><b>that we worship
+the four heroes now.</b></Default>
+
+117
+00:06:07,870 --> 00:06:09,976
+<Default><b>But there are still
+a lot of people out there</b></Default>
+
+118
+00:06:10,000 --> 00:06:12,370
+<Default><b>who don't like
+Naofumi or Demi-humans.</b></Default>
+
+119
+00:06:12,459 --> 00:06:14,870
+<Default><b>It's fine.
+They'll come around eventually.</b></Default>
+
+120
+00:06:14,959 --> 00:06:17,185
+<Default><b>Mother wants them dismissed
+from their positions</b></Default>
+
+121
+00:06:17,209 --> 00:06:19,526
+<Default><b>but they were some of my
+father's most trusted men</b></Default>
+
+122
+00:06:19,550 --> 00:06:22,170
+<Default><b>which complicates things
+to say the very least.</b></Default>
+
+123
+00:06:22,509 --> 00:06:24,429
+<Default><b>Nothing's ever
+simple, is it?</b></Default>
+
+124
+00:06:24,680 --> 00:06:26,300
+<Default><b>[sighing]</b></Default>
+
+125
+00:06:27,100 --> 00:06:29,759
+<Default><b>What this world calls
+the Vassal Weapon Heroes.</b></Default>
+
+126
+00:06:30,220 --> 00:06:31,889
+<Default><b>The Seven Star Heroes.</b></Default>
+
+127
+00:06:32,139 --> 00:06:33,859
+<Default><b>Any idea where they are?</b></Default>
+
+128
+00:06:33,980 --> 00:06:36,536
+<Default><b>They should all be somewhere
+out there in the world.</b></Default>
+
+129
+00:06:36,560 --> 00:06:39,980
+<Default><b>The only problem is
+we can't contact most of them.</b></Default>
+
+130
+00:06:40,279 --> 00:06:41,899
+<Default><b>Yeah, and why's that?</b></Default>
+
+131
+00:06:42,279 --> 00:06:44,216
+<Default><b>We've tried
+to track them all down</b></Default>
+
+132
+00:06:44,240 --> 00:06:47,120
+<Default><b>but we've yet to come across
+any decent leads.</b></Default>
+
+133
+00:06:52,160 --> 00:06:54,579
+<Default><b>That is</b></Default>
+
+134
+00:06:54,910 --> 00:06:57,379
+<Default><b>We are keenly aware
+of their location.</b></Default>
+
+135
+00:06:57,709 --> 00:06:59,420
+<Default><b>The staff hero, huh?</b></Default>
+
+136
+00:06:59,959 --> 00:07:01,589
+<Default><b>Okay where are they?</b></Default>
+
+137
+00:07:01,879 --> 00:07:05,879
+<Default><b>♪</b></Default>
+
+138
+00:07:09,720 --> 00:07:12,019
+<Default><b>Right here in Melromarc.</b></Default>
+
+139
+00:07:12,139 --> 00:07:13,230
+<Default><b>What?!</b></Default>
+
+140
+00:07:13,639 --> 00:07:15,139
+<Default><b>Sir Naofumi.</b></Default>
+
+141
+00:07:17,189 --> 00:07:19,319
+<Default><b>Could I ask you
+to accompany me?</b></Default>
+
+142
+00:07:19,810 --> 00:07:22,050
+<Default><b>There's something
+I'd like you to see.</b></Default>
+
+143
+00:07:23,740 --> 00:07:25,699
+<Default><b>Hey, are you
+going somewhere</b></Default>
+
+144
+00:07:25,779 --> 00:07:27,819
+<Default><b>Yes, I'm off
+to Seyaette.</b></Default>
+
+145
+00:07:27,949 --> 00:07:31,120
+<Default><b>Seyaette? That's near
+Master's lands, isn't it?</b></Default>
+
+146
+00:07:31,199 --> 00:07:32,079
+<Default><b>Mmhm.</b></Default>
+
+147
+00:07:32,160 --> 00:07:34,476
+<Default><b>Wait, that means we can
+play again, right? Yay!</b></Default>
+
+148
+00:07:34,500 --> 00:07:36,579
+<Default><b>- Yay!
+- [both giggling]</b></Default>
+
+149
+00:07:37,000 --> 00:07:40,000
+<Default><b>Eclair's having a rather
+tough time ruling her lands.</b></Default>
+
+150
+00:07:40,089 --> 00:07:41,646
+<Default><b>So I'm going
+to go help her!</b></Default>
+
+151
+00:07:41,670 --> 00:07:43,800
+<Default><b>You're awfully
+busy for a princess.</b></Default>
+
+152
+00:07:44,050 --> 00:07:46,220
+<Default><b>[MELTY] It's
+not just a title</b></Default>
+
+153
+00:07:46,379 --> 00:07:48,815
+<Default><b>Now, we're going to
+finish packing and leave today</b></Default>
+
+154
+00:07:48,839 --> 00:07:50,879
+<Default><b>so let's get a
+move on, everyone!</b></Default>
+
+155
+00:07:52,470 --> 00:07:54,639
+<Default><b>I daresay</b></Default>
+
+156
+00:07:54,970 --> 00:07:56,639
+<Default><b>- Hm.
+- "Daresay"?</b></Default>
+
+157
+00:07:58,269 --> 00:07:59,909
+<Default><b>[NAOFUMI]
+What is this?</b></Default>
+
+158
+00:07:59,980 --> 00:08:03,149
+<Default><b>We were able to recover
+the Spirit Tortoise's body.</b></Default>
+
+159
+00:08:03,730 --> 00:08:05,990
+<Default><b>That didn't take
+you very long, huh?</b></Default>
+
+160
+00:08:06,740 --> 00:08:09,160
+<Default><b>[whirring and beeping]</b></Default>
+
+161
+00:08:10,990 --> 00:08:13,990
+<Default><b>[grunts]
+Is this a final gift from Ost?</b></Default>
+
+162
+00:08:15,660 --> 00:08:20,629
+<Default><b>♪</b></Default>
+
+163
+00:08:21,579 --> 00:08:23,050
+<Default><b>Sir Naofumi</b></Default>
+
+164
+00:08:23,379 --> 00:08:26,170
+<Default><b>this is very
+difficult for me to say but...</b></Default>
+
+165
+00:08:26,300 --> 00:08:28,129
+<Default><b>Malty...
+[clears throat]</b></Default>
+
+166
+00:08:28,509 --> 00:08:31,680
+<Default><b>I mean Bitch, appears to have
+gone missing as well.</b></Default>
+
+167
+00:08:32,970 --> 00:08:36,139
+<Default><b>I'm told she was last sighted
+near the northern border.</b></Default>
+
+168
+00:08:36,519 --> 00:08:37,655
+<Default><b>[NAOFUMI]
+The north?</b></Default>
+
+169
+00:08:37,679 --> 00:08:39,759
+<Default><b>[MIRELIA]
+Please exercise caution.</b></Default>
+
+170
+00:08:40,269 --> 00:08:42,690
+<Default><b>As I'm sure you know</b></Default>
+
+171
+00:08:42,769 --> 00:08:44,169
+<Default><b>- [clatter] Huh?</b></Default>
+
+172
+00:08:45,110 --> 00:08:46,296
+<Default><b>The Shield Hero?</b></Default>
+
+173
+00:08:46,320 --> 00:08:48,149
+<Default><b>What are you doing here</b></Default>
+
+174
+00:08:48,240 --> 00:08:49,400
+<Default><b>[exclaims]</b></Default>
+
+175
+00:08:50,409 --> 00:08:51,449
+<Default><b>[gasps]</b></Default>
+
+176
+00:08:55,620 --> 00:08:58,330
+<Default><b>I can't believe that
+he's the Staff Hero.</b></Default>
+
+177
+00:09:00,039 --> 00:09:02,289
+<Default><b>[distant clanging]</b></Default>
+
+178
+00:09:03,919 --> 00:09:10,879
+<Default><b>♪</b></Default>
+
+179
+00:09:11,259 --> 00:09:12,720
+<Default><b>[clanging]</b></Default>
+
+180
+00:09:16,389 --> 00:09:17,655
+<Default><b>[ELHART]
+That you, kid?</b></Default>
+
+181
+00:09:17,679 --> 00:09:18,745
+<Default><b>In the flesh!</b></Default>
+
+182
+00:09:18,769 --> 00:09:20,245
+<Default><b>Not too busy are ya?</b></Default>
+
+183
+00:09:20,269 --> 00:09:21,429
+<Default><b>[giggling]</b></Default>
+
+184
+00:09:21,769 --> 00:09:22,929
+<Default><b>[chuckles]</b></Default>
+
+185
+00:09:24,559 --> 00:09:25,745
+<Default><b>[ELHART] I see.</b></Default>
+
+186
+00:09:25,769 --> 00:09:27,836
+<Default><b>Between the Spirit Tortoise
+and that other world</b></Default>
+
+187
+00:09:27,860 --> 00:09:29,700
+<Default><b>you've had
+your hands full.</b></Default>
+
+188
+00:09:29,779 --> 00:09:30,899
+<Default><b>Yeah.</b></Default>
+
+189
+00:09:37,659 --> 00:09:39,379
+<Default><b>- [ELHART] Kid?
+- [gasps]</b></Default>
+
+190
+00:09:39,870 --> 00:09:42,120
+<Default><b>Are you okay?
+You spaced out there.</b></Default>
+
+191
+00:09:42,210 --> 00:09:43,879
+<Default><b>Ah, it's nothing.</b></Default>
+
+192
+00:09:43,960 --> 00:09:45,360
+<Default><b>More importantly</b></Default>
+
+193
+00:09:45,460 --> 00:09:46,726
+<Default><b>about why I'm here.</b></Default>
+
+194
+00:09:46,750 --> 00:09:48,230
+<Default><b>We need your help.</b></Default>
+
+195
+00:09:48,759 --> 00:09:50,145
+<Default><b>- Mmhm.
+- [gasps]</b></Default>
+
+196
+00:09:50,169 --> 00:09:52,275
+<Default><b>I used this gear
+in the other world</b></Default>
+
+197
+00:09:52,299 --> 00:09:54,655
+<Default><b>but haven't been able
+to use it since then.</b></Default>
+
+198
+00:09:54,679 --> 00:09:56,429
+<Default><b>Hmmm. Sure is strange.</b></Default>
+
+199
+00:09:56,509 --> 00:09:57,826
+<Default><b>What is this stuff?</b></Default>
+
+200
+00:09:57,850 --> 00:10:00,370
+<Default><b>Is something wrong?
+With the gear I have now?</b></Default>
+
+201
+00:10:00,429 --> 00:10:03,149
+<Default><b>No, I just liked
+how you looked in it.</b></Default>
+
+202
+00:10:03,649 --> 00:10:06,369
+<Default><b>Not to mention, your stats
+were higher in it, too.</b></Default>
+
+203
+00:10:06,769 --> 00:10:08,125
+<Default><b>I'll see what I can do.</b></Default>
+
+204
+00:10:08,149 --> 00:10:10,389
+<Default><b>But I bet I can get it
+working for ya.</b></Default>
+
+205
+00:10:10,440 --> 00:10:12,375
+<Default><b>Can you get it
+working for cheap?</b></Default>
+
+206
+00:10:12,399 --> 00:10:14,279
+<Default><b>Damn. Stingy
+as ever, huh?</b></Default>
+
+207
+00:10:14,370 --> 00:10:16,216
+<Default><b>How's this?
+You come to my lands</b></Default>
+
+208
+00:10:16,240 --> 00:10:17,926
+<Default><b>and sell your weapons
+there instead?</b></Default>
+
+209
+00:10:17,950 --> 00:10:20,426
+<Default><b>Oh, so you can work me
+harder than you do here?</b></Default>
+
+210
+00:10:20,450 --> 00:10:21,976
+<Default><b>I don't think so, kid.</b></Default>
+
+211
+00:10:22,000 --> 00:10:24,265
+<Default><b>[NAOFUMI] What if I paid you
+30 silvers a month?</b></Default>
+
+212
+00:10:24,289 --> 00:10:26,515
+<Default><b>[ELHART] What if I told you
+I make more than that?</b></Default>
+
+213
+00:10:26,539 --> 00:10:29,099
+<Default><b>[NAOFUMI] 25 it is!
+[ELHART] That's even less!</b></Default>
+
+214
+00:10:31,419 --> 00:10:35,929
+<Default><b>♪</b></Default>
+
+215
+00:10:36,139 --> 00:10:39,035
+<Default><b>They've officially switched
+to worshiping the Four Heroes</b></Default>
+
+216
+00:10:39,059 --> 00:10:41,899
+<Default><b>but I guess people don't change
+that easily, do they?</b></Default>
+
+217
+00:10:41,980 --> 00:10:44,206
+<Default><b>[RISHIA] Change doesn't
+happen overnight.</b></Default>
+
+218
+00:10:44,230 --> 00:10:45,826
+<Default><b>[NAOFUMI]
+Melty's ideal country</b></Default>
+
+219
+00:10:45,850 --> 00:10:47,330
+<Default><b>is a long way off.</b></Default>
+
+220
+00:10:48,019 --> 00:10:50,320
+<Default><b>Ah, it's been
+far too long</b></Default>
+
+221
+00:10:50,399 --> 00:10:52,190
+<Default><b>Shield Hero!</b></Default>
+
+222
+00:10:52,279 --> 00:10:53,836
+<Default><b>But I had a feeling
+you'd be showing</b></Default>
+
+223
+00:10:53,860 --> 00:10:55,836
+<Default><b>your face around here
+sooner or later!</b></Default>
+
+224
+00:10:55,860 --> 00:10:57,870
+<Default><b>- Is this all?
+- Hmm.</b></Default>
+
+225
+00:10:58,200 --> 00:11:00,096
+<Default><b>There's barely
+any slaves here.</b></Default>
+
+226
+00:11:00,120 --> 00:11:01,426
+<Default><b>There a reason for that?</b></Default>
+
+227
+00:11:01,450 --> 00:11:04,659
+<Default><b>My, do you really not know
+what's been happening?</b></Default>
+
+228
+00:11:04,870 --> 00:11:07,500
+<Default><b>News of you reuniting
+the scattered villagers</b></Default>
+
+229
+00:11:07,590 --> 00:11:11,340
+<Default><b>of Lurolona Village
+from a certain "source"</b></Default>
+
+230
+00:11:11,460 --> 00:11:13,460
+<Default><b>has already made
+its way around.</b></Default>
+
+231
+00:11:13,549 --> 00:11:16,129
+<Default><b>Damn it, this has to be
+the Queen's doing.</b></Default>
+
+232
+00:11:16,759 --> 00:11:19,239
+<Default><b>I figured if I was going
+to improve my lands</b></Default>
+
+233
+00:11:19,309 --> 00:11:20,655
+<Default><b>it would be
+easier to do it</b></Default>
+
+234
+00:11:20,679 --> 00:11:22,405
+<Default><b>with the people
+who had lived there before.</b></Default>
+
+235
+00:11:22,429 --> 00:11:24,416
+<Default><b>Well, unfortunately
+for you, my friend</b></Default>
+
+236
+00:11:24,440 --> 00:11:26,666
+<Default><b>the nobles and merchants
+caught wind of your plan</b></Default>
+
+237
+00:11:26,690 --> 00:11:28,666
+<Default><b>so they went ahead
+and decided to buy up</b></Default>
+
+238
+00:11:28,690 --> 00:11:30,166
+<Default><b>all the slaves
+from the village</b></Default>
+
+239
+00:11:30,190 --> 00:11:31,796
+<Default><b>to sell outside
+the country.</b></Default>
+
+240
+00:11:31,820 --> 00:11:33,875
+<Default><b>How much would it cost
+to buy them back?</b></Default>
+
+241
+00:11:33,899 --> 00:11:36,659
+<Default><b>At the moment</b></Default>
+
+242
+00:11:36,820 --> 00:11:39,620
+<Default><b>I would say around
+30 gold a head.</b></Default>
+
+243
+00:11:40,029 --> 00:11:42,990
+<Default><b>I only paid 30 silvers
+when I got Raphtalia!</b></Default>
+
+244
+00:11:43,080 --> 00:11:45,265
+<Default><b>[gasps] So it's a 100 times
+her price?</b></Default>
+
+245
+00:11:45,289 --> 00:11:47,629
+<Default><b>It was actually
+31 silvers.</b></Default>
+
+246
+00:11:47,710 --> 00:11:49,686
+<Default><b>[NAOFUMI]
+Why is the price so high now?</b></Default>
+
+247
+00:11:49,710 --> 00:11:51,789
+<Default><b>Sorry, friend</b></Default>
+
+248
+00:11:51,879 --> 00:11:54,316
+<Default><b>You never know which way
+Lady Fortune is gonna swing!</b></Default>
+
+249
+00:11:54,340 --> 00:11:55,395
+<Default><b>Okay fine.</b></Default>
+
+250
+00:11:55,419 --> 00:11:58,275
+<Default><b>Then I'll go ahead and buy
+every slave that's left here.</b></Default>
+
+251
+00:11:58,299 --> 00:12:01,019
+<Default><b>[NAOFUMI] So give me
+all the information you have.</b></Default>
+
+252
+00:12:01,429 --> 00:12:04,100
+<Default><b>And this is exactly
+why I do so love</b></Default>
+
+253
+00:12:04,179 --> 00:12:06,155
+<Default><b>doing business
+with you, Shield Hero!</b></Default>
+
+254
+00:12:06,179 --> 00:12:08,559
+<Default><b>If the Demi-humans
+from Lurolona Village</b></Default>
+
+255
+00:12:08,649 --> 00:12:10,249
+<Default><b>are the ones you seek</b></Default>
+
+256
+00:12:10,519 --> 00:12:13,940
+<Default><b>then I'd start planning a trip
+to Zeltoble if I were you.</b></Default>
+
+257
+00:12:14,779 --> 00:12:16,240
+<Default><b>To Zeltoble?</b></Default>
+
+258
+00:12:18,990 --> 00:12:21,176
+<Default><b>Do you really have
+to leave for Zeltoble</b></Default>
+
+259
+00:12:21,200 --> 00:12:22,716
+<Default><b>after you just got back?</b></Default>
+
+260
+00:12:22,740 --> 00:12:25,176
+<Default><b>Seeing as the other three heroes
+have gone missing</b></Default>
+
+261
+00:12:25,200 --> 00:12:27,096
+<Default><b>I'm gonna need to
+find a lot more people</b></Default>
+
+262
+00:12:27,120 --> 00:12:28,556
+<Default><b>to help me
+defend my lands.</b></Default>
+
+263
+00:12:28,580 --> 00:12:29,895
+<Default><b>Hey, why don't
+you just use that</b></Default>
+
+264
+00:12:29,919 --> 00:12:32,145
+<Default><b>portal thing of yours
+instead of the carriage?</b></Default>
+
+265
+00:12:32,169 --> 00:12:33,645
+<Default><b>In order to
+warp somewhere</b></Default>
+
+266
+00:12:33,669 --> 00:12:35,605
+<Default><b>you have to have
+been there before.</b></Default>
+
+267
+00:12:35,629 --> 00:12:37,970
+<Default><b>Hm... That's a bummer.</b></Default>
+
+268
+00:12:38,049 --> 00:12:39,365
+<Default><b>I'd be happy
+to look after</b></Default>
+
+269
+00:12:39,389 --> 00:12:41,629
+<Default><b>all the Demi-human
+slaves you brought.</b></Default>
+
+270
+00:12:41,759 --> 00:12:43,615
+<Default><b>[MELTY]
+Eclair, Elrasla, and I</b></Default>
+
+271
+00:12:43,639 --> 00:12:45,905
+<Default><b>will teach them everything
+they need to know.</b></Default>
+
+272
+00:12:45,929 --> 00:12:47,155
+<Default><b>[KEEL]
+And as their superior</b></Default>
+
+273
+00:12:47,179 --> 00:12:49,139
+<Default><b>I'll train 'em
+to be the best!</b></Default>
+
+274
+00:12:49,230 --> 00:12:50,875
+<Default><b>[NAOFUMI]
+All right. I'm counting on you.</b></Default>
+
+275
+00:12:50,899 --> 00:12:52,706
+<Default><b>[FILO]
+Bye, Mel, see you later!</b></Default>
+
+276
+00:12:52,730 --> 00:12:54,336
+<Default><b>[MELTY]
+Take care, everyone!</b></Default>
+
+277
+00:12:54,360 --> 00:13:01,370
+<Default><b>♪</b></Default>
+
+278
+00:13:43,490 --> 00:13:45,426
+<Default><b>[NAOFUMI]
+There it is, everyone!</b></Default>
+
+279
+00:13:45,450 --> 00:13:46,885
+<Default><b>On the other side
+of that bridge</b></Default>
+
+280
+00:13:46,909 --> 00:13:49,189
+<Default><b>- is the capital of Zeltoble.
+- [gasps]</b></Default>
+
+281
+00:13:49,830 --> 00:13:52,110
+<Default><b>A country of merchants
+and mercenaries.</b></Default>
+
+282
+00:13:52,210 --> 00:13:54,306
+<Default><b>- There's so much here.
+- [exclaiming]</b></Default>
+
+283
+00:13:54,330 --> 00:13:56,039
+<Default><b>There's even an arena.</b></Default>
+
+284
+00:13:56,500 --> 00:13:58,100
+<Default><b>This place is packed.</b></Default>
+
+285
+00:13:58,299 --> 00:13:59,895
+<Default><b>[RAPHTALIA]
+And so lively, too!</b></Default>
+
+286
+00:13:59,919 --> 00:14:02,239
+<Default><b>[FILO] I hope
+they have tasty food here!</b></Default>
+
+287
+00:14:02,629 --> 00:14:06,100
+<Default><b>So, where's the shop that the
+Slave Merchant told us about?</b></Default>
+
+288
+00:14:08,600 --> 00:14:09,785
+<Default><b>[NAOFUMI]
+This is it?</b></Default>
+
+289
+00:14:09,809 --> 00:14:11,865
+<Default><b>It's smaller than
+I thought it'd be.</b></Default>
+
+290
+00:14:11,889 --> 00:14:13,649
+<Default><b>And it's also a tavern?</b></Default>
+
+291
+00:14:14,149 --> 00:14:16,820
+<Default><b>He said we'd understand
+when we got here but...</b></Default>
+
+292
+00:14:17,269 --> 00:14:18,336
+<Default><b>Hello hello!</b></Default>
+
+293
+00:14:18,360 --> 00:14:20,466
+<Default><b>I take it you're
+the Shield Hero, yes?</b></Default>
+
+294
+00:14:20,490 --> 00:14:23,125
+<Default><b>My, what a pleasure to
+finally meet you, kind sir.</b></Default>
+
+295
+00:14:23,149 --> 00:14:25,426
+<Default><b>[FILO] Huh? Wait.
+What's he doing here?</b></Default>
+
+296
+00:14:25,450 --> 00:14:28,159
+<Default><b>Ho-hooo!
+I like the look in your eyes.</b></Default>
+
+297
+00:14:28,240 --> 00:14:29,806
+<Default><b>Just like my
+nephew said.</b></Default>
+
+298
+00:14:29,830 --> 00:14:31,306
+<Default><b>[SLAVE MERCHANT 01-B (M)]
+Such a fiery streak</b></Default>
+
+299
+00:14:31,330 --> 00:14:32,596
+<Default><b>of determination!</b></Default>
+
+300
+00:14:32,620 --> 00:14:35,500
+<Default><b>Anyway, I'm one of the local
+slave merchants</b></Default>
+
+301
+00:14:35,580 --> 00:14:37,066
+<Default><b>stationed here
+in Zeltoble.</b></Default>
+
+302
+00:14:37,090 --> 00:14:39,879
+<Default><b>My nephew says you're
+one of his best customers.</b></Default>
+
+303
+00:14:40,000 --> 00:14:41,920
+<Default><b>Now please,
+come in, come in.</b></Default>
+
+304
+00:14:45,889 --> 00:14:47,115
+<Default><b>In this country</b></Default>
+
+305
+00:14:47,139 --> 00:14:49,326
+<Default><b>there are many places
+above the surface</b></Default>
+
+306
+00:14:49,350 --> 00:14:51,929
+<Default><b>where you can
+have fun, but...</b></Default>
+
+307
+00:14:52,600 --> 00:14:54,240
+<Default><b>The real fun to be had</b></Default>
+
+308
+00:14:54,269 --> 00:14:56,269
+<Default><b>in this country
+lies beneath it.</b></Default>
+
+309
+00:14:57,190 --> 00:14:58,310
+<Default><b>[sliding]</b></Default>
+
+310
+00:15:00,649 --> 00:15:02,089
+<Default><b>[cabinet sliding]</b></Default>
+
+311
+00:15:02,440 --> 00:15:04,296
+<Default><b>These underground
+staircases</b></Default>
+
+312
+00:15:04,320 --> 00:15:06,990
+<Default><b>can be found all
+throughout Zeltoble.</b></Default>
+
+313
+00:15:07,070 --> 00:15:09,409
+<Default><b>Each one leads to
+a spectacular place</b></Default>
+
+314
+00:15:09,490 --> 00:15:12,370
+<Default><b>full of fun, excitement</b></Default>
+
+315
+00:15:13,330 --> 00:15:15,539
+<Default><b>You're a lucky one</b></Default>
+
+316
+00:15:15,620 --> 00:15:17,605
+<Default><b>I heard rumors that
+what you're looking for</b></Default>
+
+317
+00:15:17,629 --> 00:15:19,840
+<Default><b>just so happened
+to come in today.</b></Default>
+
+318
+00:15:20,549 --> 00:15:22,485
+<Default><b>[AUCTIONEER 01-A (M)]
+Now, our next item</b></Default>
+
+319
+00:15:22,509 --> 00:15:24,109
+<Default><b>from Lurolona Village</b></Default>
+
+320
+00:15:24,169 --> 00:15:26,889
+<Default><b>which is now owned
+by the Shield Hero</b></Default>
+
+321
+00:15:27,009 --> 00:15:28,600
+<Default><b>a Demi-human!</b></Default>
+
+322
+00:15:29,179 --> 00:15:32,019
+<Default><b>Is this some kind of underworld
+auction or something?</b></Default>
+
+323
+00:15:32,269 --> 00:15:34,245
+<Default><b>[SLAVE MERCHANT 01-B (M)]
+Yes. You can buy things here</b></Default>
+
+324
+00:15:34,269 --> 00:15:35,535
+<Default><b>you can't on the surface</b></Default>
+
+325
+00:15:35,559 --> 00:15:38,326
+<Default><b>like the slaves whose ownership
+is forbade in Melromarc</b></Default>
+
+326
+00:15:38,350 --> 00:15:40,070
+<Default><b>being sold here tonight.</b></Default>
+
+327
+00:15:43,070 --> 00:15:44,716
+<Default><b>Hello, nice to
+meet you all!</b></Default>
+
+328
+00:15:44,740 --> 00:15:47,005
+<Default><b>I'm a Demi-human from
+Lurolona Village!</b></Default>
+
+329
+00:15:47,029 --> 00:15:48,320
+<Default><b>She's lying.</b></Default>
+
+330
+00:15:48,909 --> 00:15:50,846
+<Default><b>[AUCTIONEER 01-A (M)]
+We'll start the bidding at 50.</b></Default>
+
+331
+00:15:50,870 --> 00:15:52,830
+<Default><b>I see 60 in the crowd.</b></Default>
+
+332
+00:15:52,909 --> 00:15:54,330
+<Default><b>65.</b></Default>
+
+333
+00:15:54,580 --> 00:15:55,789
+<Default><b>68.</b></Default>
+
+334
+00:15:56,289 --> 00:15:57,539
+<Default><b>69.</b></Default>
+
+335
+00:15:58,120 --> 00:15:59,129
+<Default><b>72.</b></Default>
+
+336
+00:15:59,590 --> 00:16:00,590
+<Default><b>75.</b></Default>
+
+337
+00:16:01,419 --> 00:16:03,509
+<Default><b>I know your intentions
+were good</b></Default>
+
+338
+00:16:03,590 --> 00:16:06,470
+<Default><b>but this is the result of your
+endeavors to save them.</b></Default>
+
+339
+00:16:06,879 --> 00:16:08,379
+<Default><b>But, hey</b></Default>
+
+340
+00:16:08,470 --> 00:16:11,430
+<Default><b>You never know which way
+Lady Fortune is going to swing.</b></Default>
+
+341
+00:16:11,679 --> 00:16:14,076
+<Default><b>[AUCTIONEER 01-A (M)]
+Could it be? Do I see 100?!</b></Default>
+
+342
+00:16:14,100 --> 00:16:15,140
+<Default><b>[gasps]</b></Default>
+
+343
+00:16:15,220 --> 00:16:16,580
+<Default><b>[crowd gasping]</b></Default>
+
+344
+00:16:17,769 --> 00:16:19,745
+<Default><b>The gentleman
+with sign number 14</b></Default>
+
+345
+00:16:19,769 --> 00:16:21,940
+<Default><b>has won
+with a bid of one hundred!</b></Default>
+
+346
+00:16:22,230 --> 00:16:24,149
+<Default><b>[gasps]
+A-a hundred?</b></Default>
+
+347
+00:16:24,230 --> 00:16:25,990
+<Default><b>Thank you
+very much, sir.</b></Default>
+
+348
+00:16:26,700 --> 00:16:29,909
+<Default><b>You have my word that I will do
+my very best to serve you.</b></Default>
+
+349
+00:16:30,029 --> 00:16:31,096
+<Default><b>That girl</b></Default>
+
+350
+00:16:31,120 --> 00:16:33,400
+<Default><b>she's not really
+from Lurolona Village.</b></Default>
+
+351
+00:16:33,580 --> 00:16:36,226
+<Default><b>Well, it doesn't matter
+where she's actually from.</b></Default>
+
+352
+00:16:36,250 --> 00:16:38,330
+<Default><b>The appeal
+of the Lurolona "brand"</b></Default>
+
+353
+00:16:38,409 --> 00:16:39,726
+<Default><b>the Shield Hero created</b></Default>
+
+354
+00:16:39,750 --> 00:16:41,550
+<Default><b>is too powerful
+to resist!</b></Default>
+
+355
+00:16:41,919 --> 00:16:43,145
+<Default><b>[RISHIA]
+But that's...</b></Default>
+
+356
+00:16:43,169 --> 00:16:44,605
+<Default><b>[SLAVE MERCHANT 01-B (M)]
+Ridiculous, you think?</b></Default>
+
+357
+00:16:44,629 --> 00:16:45,895
+<Default><b>Impossible even?</b></Default>
+
+358
+00:16:45,919 --> 00:16:47,485
+<Default><b>Ah, but you
+see, my child</b></Default>
+
+359
+00:16:47,509 --> 00:16:50,429
+<Default><b>all things are possible
+when money is involved!</b></Default>
+
+360
+00:16:50,639 --> 00:16:52,359
+<Default><b>It makes the world turn!</b></Default>
+
+361
+00:16:53,259 --> 00:16:55,499
+<Default><b>Seems like tonight
+was a bust for you.</b></Default>
+
+362
+00:16:55,809 --> 00:16:57,405
+<Default><b>But I have solid info</b></Default>
+
+363
+00:16:57,429 --> 00:16:59,509
+<Default><b>that a Lurolona Village
+Demi-human</b></Default>
+
+364
+00:16:59,559 --> 00:17:00,959
+<Default><b>is in this city.</b></Default>
+
+365
+00:17:01,190 --> 00:17:02,769
+<Default><b>Say, Shield Hero</b></Default>
+
+366
+00:17:03,110 --> 00:17:05,590
+<Default><b>how much money
+do you have on you right now?</b></Default>
+
+367
+00:17:06,029 --> 00:17:07,400
+<Default><b>A hundred gold?</b></Default>
+
+368
+00:17:07,859 --> 00:17:09,740
+<Default><b>No, 50 gold perhaps?</b></Default>
+
+369
+00:17:09,819 --> 00:17:11,386
+<Default><b>What are you getting at?</b></Default>
+
+370
+00:17:11,410 --> 00:17:14,130
+<Default><b>A little birdy told me
+you spent quite the fortune</b></Default>
+
+371
+00:17:14,200 --> 00:17:16,369
+<Default><b>buying all the
+slaves in Melromarc.</b></Default>
+
+372
+00:17:16,910 --> 00:17:19,265
+<Default><b>[SLAVE MERCHANT 01-B (M)]If only
+you saved some of your money.</b></Default>
+
+373
+00:17:19,289 --> 00:17:21,500
+<Default><b>How terribly
+tragic for you.</b></Default>
+
+374
+00:17:22,250 --> 00:17:23,726
+<Default><b>- [AUCTIONEER] Now, on to our next...
+- [NAOFUMI] I'm guessing</b></Default>
+
+375
+00:17:23,750 --> 00:17:24,815
+<Default><b>you have an idea</b></Default>
+
+376
+00:17:24,839 --> 00:17:25,896
+<Default><b>how I can earn
+some money?</b></Default>
+
+377
+00:17:25,920 --> 00:17:26,759
+<Default><b>[AUCTIONEER] You're gonna
+love this one!</b></Default>
+
+378
+00:17:26,839 --> 00:17:29,235
+<Default><b>You've never seen anything
+like it before![Laughing]</b></Default>
+
+379
+00:17:29,259 --> 00:17:31,525
+<Default><b>[SLAVE MERCHANT 01-B (M)] You
+saw the coliseum earlier, right?</b></Default>
+
+380
+00:17:31,549 --> 00:17:33,575
+<Default><b>People in there
+fight fair and square</b></Default>
+
+381
+00:17:33,599 --> 00:17:35,075
+<Default><b>with their
+honor on the line</b></Default>
+
+382
+00:17:35,099 --> 00:17:37,075
+<Default><b>while the masses
+cheer them on.</b></Default>
+
+383
+00:17:37,099 --> 00:17:38,906
+<Default><b>However the
+underground arena</b></Default>
+
+384
+00:17:38,930 --> 00:17:40,616
+<Default><b>is something
+entirely different.</b></Default>
+
+385
+00:17:40,640 --> 00:17:42,200
+<Default><b>No rules down there.</b></Default>
+
+386
+00:17:42,400 --> 00:17:44,206
+<Default><b>You do whatever
+it takes to win</b></Default>
+
+387
+00:17:44,230 --> 00:17:46,670
+<Default><b>but the money to be earned
+is much greater.</b></Default>
+
+388
+00:17:46,819 --> 00:17:48,819
+<Default><b>Bet on a dark
+horse and win.</b></Default>
+
+389
+00:17:48,900 --> 00:17:50,376
+<Default><b>Or enter yourself.</b></Default>
+
+390
+00:17:50,400 --> 00:17:53,040
+<Default><b>Either one will get you
+the money that you need.</b></Default>
+
+391
+00:17:54,160 --> 00:17:56,200
+<Default><b>Why don't you go
+and have a look?</b></Default>
+
+392
+00:18:00,660 --> 00:18:01,845
+<Default><b>[door creaks open]</b></Default>
+
+393
+00:18:01,869 --> 00:18:03,949
+<Default><b>I know I'm getting
+ahead of myself</b></Default>
+
+394
+00:18:04,000 --> 00:18:05,515
+<Default><b>but I'm already
+shivering</b></Default>
+
+395
+00:18:05,539 --> 00:18:08,315
+<Default><b>just thinking about all the
+money you could earn there!</b></Default>
+
+396
+00:18:08,339 --> 00:18:15,339
+<Default><b>♪</b></Default>
+
+397
+00:18:22,769 --> 00:18:24,169
+<Default><b>[crowd cheering]</b></Default>
+
+398
+00:18:34,240 --> 00:18:36,950
+<Default><b>An elephant vs a panda?</b></Default>
+
+399
+00:18:37,869 --> 00:18:39,629
+<Default><b>You mind if I
+stand here?</b></Default>
+
+400
+00:18:41,579 --> 00:18:44,500
+<Default><b>You're a new face here.
+This your first time?</b></Default>
+
+401
+00:18:45,329 --> 00:18:47,460
+<Default><b>Sasa is gonna win
+this one today.</b></Default>
+
+402
+00:18:49,339 --> 00:18:50,985
+<Default><b>[NADIA]
+I mean, Larsazusa</b></Default>
+
+403
+00:18:51,009 --> 00:18:52,849
+<Default><b>the one you
+called a panda.</b></Default>
+
+404
+00:18:55,430 --> 00:18:57,509
+<Default><b>So then, you
+here to bet?</b></Default>
+
+405
+00:18:57,599 --> 00:18:59,519
+<Default><b>Or are you
+entering yourself?</b></Default>
+
+406
+00:19:05,190 --> 00:19:06,230
+<Default><b>[crack]</b></Default>
+
+407
+00:19:08,109 --> 00:19:09,269
+<Default><b>[cheering]</b></Default>
+
+408
+00:19:09,480 --> 00:19:10,900
+<Default><b>[thuds]</b></Default>
+
+409
+00:19:11,609 --> 00:19:12,769
+<Default><b>[cheering]</b></Default>
+
+410
+00:19:13,819 --> 00:19:16,740
+<Default><b>[MC 01-A (M)]
+And the winner is Larsazusa!</b></Default>
+
+411
+00:19:16,819 --> 00:19:18,459
+<Default><b>[NADIA]
+What did I say?</b></Default>
+
+412
+00:19:19,200 --> 00:19:21,410
+<Default><b>That Panda used
+some kind of magic.</b></Default>
+
+413
+00:19:21,910 --> 00:19:24,345
+<Default><b>I guess there really are
+no rules down here.</b></Default>
+
+414
+00:19:24,369 --> 00:19:25,529
+<Default><b>[giggling]</b></Default>
+
+415
+00:19:28,089 --> 00:19:29,129
+<Default><b>[sighs]</b></Default>
+
+416
+00:19:32,299 --> 00:19:33,735
+<Default><b>[MC 01-A (M)]
+Up next is Fohl</b></Default>
+
+417
+00:19:33,759 --> 00:19:36,509
+<Default><b>the little mad dog
+of a tiger Demi-human.</b></Default>
+
+418
+00:19:36,759 --> 00:19:39,349
+<Default><b>Versus the noble scion
+and master of the blade</b></Default>
+
+419
+00:19:39,430 --> 00:19:41,140
+<Default><b>Yuji!</b></Default>
+
+420
+00:19:41,430 --> 00:19:43,196
+<Default><b>The odds are
+in Fohl's favor</b></Default>
+
+421
+00:19:43,220 --> 00:19:44,995
+<Default><b>but if you think this
+silver spooned youth</b></Default>
+
+422
+00:19:45,019 --> 00:19:46,116
+<Default><b>can tilt the scales</b></Default>
+
+423
+00:19:46,140 --> 00:19:48,900
+<Default><b>then bet on him
+and become rich yourself!</b></Default>
+
+424
+00:19:50,559 --> 00:19:53,029
+<Default><b>So, you can enter
+the arena alone</b></Default>
+
+425
+00:19:53,109 --> 00:19:55,216
+<Default><b>or in a team
+of up to three people.</b></Default>
+
+426
+00:19:55,240 --> 00:19:56,755
+<Default><b>Though between the two</b></Default>
+
+427
+00:19:56,779 --> 00:19:58,740
+<Default><b>team battles
+are more popular.</b></Default>
+
+428
+00:19:59,029 --> 00:19:59,869
+<Default><b>[giggles]</b></Default>
+
+429
+00:19:59,950 --> 00:20:02,510
+<Default><b>Hey now, you're
+quite the drinker, aren't you!</b></Default>
+
+430
+00:20:02,539 --> 00:20:03,700
+<Default><b>Guess so.</b></Default>
+
+431
+00:20:03,789 --> 00:20:05,936
+<Default><b>- And?
+- [NADIA] And, anything goes.</b></Default>
+
+432
+00:20:05,960 --> 00:20:08,000
+<Default><b>Sort of like</b></Default>
+
+433
+00:20:08,079 --> 00:20:09,679
+<Default><b> [shouting]
+- [grunts]</b></Default>
+
+434
+00:20:11,710 --> 00:20:14,710
+<Default><b>[SPECTATOR 01-A (M)] Stop
+dodging and fight, white tiger!</b></Default>
+
+435
+00:20:15,380 --> 00:20:18,549
+<Default><b>My strength comes from my
+robust knowledge of the blade.</b></Default>
+
+436
+00:20:19,220 --> 00:20:20,759
+<Default><b>[grunting]</b></Default>
+
+437
+00:20:21,140 --> 00:20:22,809
+<Default><b>That's enough, okay?</b></Default>
+
+438
+00:20:26,940 --> 00:20:29,769
+<Default><b>Now! Fire Sword!</b></Default>
+
+439
+00:20:32,769 --> 00:20:34,169
+<Default><b>[crowd cheering]</b></Default>
+
+440
+00:20:34,779 --> 00:20:36,466
+<Default><b>[MC 01-A (M)]
+And there you have it.</b></Default>
+
+441
+00:20:36,490 --> 00:20:38,740
+<Default><b>Yuji is the winner!</b></Default>
+
+442
+00:20:39,450 --> 00:20:40,505
+<Default><b>What a shame.</b></Default>
+
+443
+00:20:40,529 --> 00:20:41,966
+<Default><b>Don't you feel
+sorry for him?</b></Default>
+
+444
+00:20:41,990 --> 00:20:43,176
+<Default><b>It's only fitting.</b></Default>
+
+445
+00:20:43,200 --> 00:20:45,410
+<Default><b>After all</b></Default>
+
+446
+00:20:45,789 --> 00:20:46,909
+<Default><b>[giggles]</b></Default>
+
+447
+00:20:47,289 --> 00:20:50,039
+<Default><b>Well, that's enough
+drinking for one day.</b></Default>
+
+448
+00:20:51,079 --> 00:20:54,170
+<Default><b>Anyways, thanks
+for the drinks</b></Default>
+
+449
+00:20:54,250 --> 00:20:55,410
+<Default><b>all right?</b></Default>
+
+450
+00:20:56,970 --> 00:20:58,170
+<Default><b>[chuckling]</b></Default>
+
+451
+00:21:04,809 --> 00:21:07,099
+<Default><b>Money is
+everything here, huh?</b></Default>
+
+452
+00:21:09,099 --> 00:21:11,626
+<Default><b>[RAPHTALIA] I saw
+someone from Lurolona Village.</b></Default>
+
+453
+00:21:11,650 --> 00:21:13,150
+<Default><b>Oh, is that so?</b></Default>
+
+454
+00:21:13,519 --> 00:21:15,940
+<Default><b>What exactly is it
+you're doing, Naofumi?</b></Default>
+
+455
+00:21:16,109 --> 00:21:18,005
+<Default><b>Getting ready
+to enter the fights.</b></Default>
+
+456
+00:21:18,029 --> 00:21:18,740
+<Default><b>[gasp]</b></Default>
+
+457
+00:21:18,819 --> 00:21:20,835
+<Default><b>We'll hide our identities
+wearing these</b></Default>
+
+458
+00:21:20,859 --> 00:21:22,505
+<Default><b>and enter
+the underground arena.</b></Default>
+
+459
+00:21:22,529 --> 00:21:23,545
+<Default><b>[gasps]</b></Default>
+
+460
+00:21:23,569 --> 00:21:26,569
+<Default><b>We'll get the prize money
+from winning and from the bets.</b></Default>
+
+461
+00:21:26,829 --> 00:21:29,789
+<Default><b>After, we'll buy the
+Demi-humans from Lurolona</b></Default>
+
+462
+00:21:29,869 --> 00:21:31,055
+<Default><b>that are up for auction.</b></Default>
+
+463
+00:21:31,079 --> 00:21:32,976
+<Default><b>I didn't understand
+anything that you said</b></Default>
+
+464
+00:21:33,000 --> 00:21:34,065
+<Default><b>but it sounds fun!</b></Default>
+
+465
+00:21:34,089 --> 00:21:35,209
+<Default><b>[squeals]</b></Default>
+
+466
+00:21:35,500 --> 00:21:36,960
+<Default><b>Master Naofumi</b></Default>
+
+467
+00:21:37,049 --> 00:21:38,969
+<Default><b>you're acting
+reckless again.</b></Default>
+
+468
+00:21:40,380 --> 00:21:41,780
+<Default><b>[crowd cheering]</b></Default>
+
+469
+00:21:43,430 --> 00:21:44,470
+<Default><b>Curses.</b></Default>
+
+470
+00:21:44,549 --> 00:21:46,156
+<Default><b>They're far too strong.</b></Default>
+
+471
+00:21:46,180 --> 00:21:47,340
+<Default><b>[laughing]</b></Default>
+
+472
+00:21:47,599 --> 00:21:50,245
+<Default><b>We're gonna murder all
+three of you where you stand!</b></Default>
+
+473
+00:21:50,269 --> 00:21:52,245
+<Default><b>[SPECTATOR 01-B (M)] Go for it!
+[SPECTATOR 01-B (M)] Kill em!</b></Default>
+
+474
+00:21:52,269 --> 00:21:53,456
+<Default><b>Excuse me, Master</b></Default>
+
+475
+00:21:53,480 --> 00:21:55,920
+<Default><b>but why do we have
+to pretend to be weaker?</b></Default>
+
+476
+00:21:56,109 --> 00:21:57,835
+<Default><b>It's all in order
+to make the audience</b></Default>
+
+477
+00:21:57,859 --> 00:22:00,126
+<Default><b>think we have no chance
+against these guys.</b></Default>
+
+478
+00:22:00,150 --> 00:22:01,755
+<Default><b>The more of a
+dark horse we are</b></Default>
+
+479
+00:22:01,779 --> 00:22:03,386
+<Default><b>the better the
+pay-out will be.</b></Default>
+
+480
+00:22:03,410 --> 00:22:05,505
+<Default><b>No one told me that
+we were horseys.</b></Default>
+
+481
+00:22:05,529 --> 00:22:07,409
+<Default><b>Okay! Time to
+make our move.</b></Default>
+
+482
+00:22:07,450 --> 00:22:08,466
+<Default><b>Shigaraki!</b></Default>
+
+483
+00:22:08,490 --> 00:22:10,810
+<Default><b>It sure feels strange
+being called that.</b></Default>
+
+484
+00:22:18,049 --> 00:22:20,089
+<Default><b>Shigaraki!
+Humming! Let's go!</b></Default>
+
+485
+00:22:20,220 --> 00:22:21,380
+<Default><b>[grunting]</b></Default>
+
+486
+00:22:23,799 --> 00:22:25,140
+<Default><b>[screaming]</b></Default>
+
+487
+00:22:26,220 --> 00:22:27,849
+<Default><b>[gasps]</b></Default>
+
+488
+00:22:28,180 --> 00:22:29,220
+<Default><b>[thuds]</b></Default>
+
+489
+00:22:34,769 --> 00:22:35,849
+<Default><b>[shouts]</b></Default>
+
+490
+00:22:36,190 --> 00:22:37,270
+<Default><b>[grunts]</b></Default>
+
+491
+00:22:39,529 --> 00:22:40,609
+<Default><b>[grunts]</b></Default>
+
+492
+00:22:44,279 --> 00:22:46,200
+<Default><b>[panting]</b></Default>
+
+493
+00:22:47,779 --> 00:22:48,579
+<Default><b>[cheering]</b></Default>
+
+494
+00:22:48,660 --> 00:22:50,386
+<Default><b>[MC 01-A (M)]
+What an upset!</b></Default>
+
+495
+00:22:50,410 --> 00:22:53,710
+<Default><b>Topak's winning streak has
+just been broken by Rockvalley</b></Default>
+
+496
+00:22:53,789 --> 00:22:56,539
+<Default><b>a brand-new team
+in their debut match!</b></Default>
+
+497
+00:22:57,130 --> 00:22:58,250
+<Default><b>[panting]</b></Default>
+
+498
+00:22:59,089 --> 00:23:00,129
+<Default><b>We won!</b></Default>
+
+499
+00:23:00,170 --> 00:23:02,509
+<Default><b>Oh! I thought
+we were done for!</b></Default>
+
+500
+00:23:02,589 --> 00:23:03,589
+<Default><b>Mm.</b></Default>
+
+501
+00:23:04,930 --> 00:23:06,090
+<Default><b>[groaning]</b></Default>
+
+502
+00:23:06,549 --> 00:23:09,220
+<Default><b>[grunts] Die!</b></Default>
+
+503
+00:23:18,190 --> 00:23:21,150
+<Default><b>Hell yeah!
+Go, Team Rockvalley</b></Default>
+
+504
+00:23:23,240 --> 00:23:25,216
+<Default><b>Looks like
+we managed to fool them.</b></Default>
+
+505
+00:23:25,240 --> 00:23:27,216
+<Default><b>[RAPHTALIA] I feel
+a little guilty about it.</b></Default>
+
+506
+00:23:27,240 --> 00:23:29,200
+<Default><b>[FILO]
+I love being horseys!</b></Default>
+
+507
+00:23:29,329 --> 00:23:33,329
+<Default><b>♪</b></Default>
+

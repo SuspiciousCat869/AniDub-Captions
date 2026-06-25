@@ -1,0 +1,1963 @@
+﻿1
+00:00:04,209 --> 00:00:06,169
+<Default><b>♪</b></Default>
+
+2
+00:00:12,810 --> 00:00:13,946
+<Default><b>Take 'em all!</b></Default>
+
+3
+00:00:13,970 --> 00:00:16,890
+<Default><b>I'd rather you fight with
+our weapons than those fools.</b></Default>
+
+4
+00:00:17,309 --> 00:00:18,706
+<Default><b>[sponsor 02-A
+(M) laughs]</b></Default>
+
+5
+00:00:18,730 --> 00:00:21,230
+<Default><b>I see.
+He must be a sponsor.</b></Default>
+
+6
+00:00:23,859 --> 00:00:25,939
+<Default><b>That girl has already
+mastered it?</b></Default>
+
+7
+00:00:26,030 --> 00:00:27,756
+<Default><b>[MC 01-A (M)] And now.
+It's time to announce</b></Default>
+
+8
+00:00:27,780 --> 00:00:28,796
+<Default><b>the newly formed</b></Default>
+
+9
+00:00:28,820 --> 00:00:30,870
+<Default><b>Team Rock Valley's
+next opponent!</b></Default>
+
+10
+00:00:30,949 --> 00:00:33,159
+<Default><b>- That was awfully quick.
+- Yeah.</b></Default>
+
+11
+00:00:33,700 --> 00:00:36,159
+<Default><b>For their next opponent...
+What's this?</b></Default>
+
+12
+00:00:36,409 --> 00:00:38,869
+<Default><b>It appears several teams
+have forfeited!</b></Default>
+
+13
+00:00:38,960 --> 00:00:41,015
+<Default><b>You'll just have to wait
+till next time!</b></Default>
+
+14
+00:00:41,039 --> 00:00:42,396
+<Default><b>[crowd screaming]</b></Default>
+
+15
+00:00:42,420 --> 00:00:44,660
+<Default><b>- Forfeited?
+- Why would they do that?</b></Default>
+
+16
+00:00:49,420 --> 00:00:51,219
+<Default><b>Clangkity clang.</b></Default>
+
+17
+00:02:27,400 --> 00:02:30,200
+<Default><b>[NADIA] Congrats on winning
+your first fight, Rocky.</b></Default>
+
+18
+00:02:31,400 --> 00:02:33,086
+<Default><b>The prize money
+wasn't enough?</b></Default>
+
+19
+00:02:33,110 --> 00:02:35,135
+<Default><b>Boy, you must really be
+strapped for cash</b></Default>
+
+20
+00:02:35,159 --> 00:02:37,159
+<Default><b>if you have to
+bet on yourself.</b></Default>
+
+21
+00:02:38,530 --> 00:02:39,765
+<Default><b>[NAOFUMI]
+So what if I did?</b></Default>
+
+22
+00:02:39,789 --> 00:02:41,096
+<Default><b>You gonna rat me out?</b></Default>
+
+23
+00:02:41,120 --> 00:02:43,240
+<Default><b>Your little secret
+is safe with me.</b></Default>
+
+24
+00:02:43,659 --> 00:02:45,259
+<Default><b>In exchange for that.</b></Default>
+
+25
+00:02:49,669 --> 00:02:50,789
+<Default><b>[smiling]</b></Default>
+
+26
+00:02:51,169 --> 00:02:53,566
+<Default><b>You have to spend the night
+drinking with me.</b></Default>
+
+27
+00:02:53,590 --> 00:02:54,630
+<Default><b>[sighs]</b></Default>
+
+28
+00:02:58,139 --> 00:02:59,979
+<Default><b>[exhales]
+It's not half bad.</b></Default>
+
+29
+00:03:00,139 --> 00:03:02,499
+<Default><b>Tastes like
+a whole rukor fruit is in it.</b></Default>
+
+30
+00:03:02,599 --> 00:03:04,719
+<Default><b>You can handle
+a whole rukor fruit?</b></Default>
+
+31
+00:03:04,810 --> 00:03:07,770
+<Default><b>Yup, I could down
+a dozen glasses of that.</b></Default>
+
+32
+00:03:08,310 --> 00:03:10,479
+<Default><b>Now, what info
+you got for me?</b></Default>
+
+33
+00:03:11,030 --> 00:03:12,030
+<Default><b>Hmm.</b></Default>
+
+34
+00:03:13,069 --> 00:03:14,069
+<Default><b>Huh?</b></Default>
+
+35
+00:03:14,860 --> 00:03:16,220
+<Default><b>Can I help you?</b></Default>
+
+36
+00:03:17,780 --> 00:03:20,580
+<Default><b>Why don't we get some
+fresh night air while we talk?</b></Default>
+
+37
+00:03:24,449 --> 00:03:25,960
+<Default><b>Up next</b></Default>
+
+38
+00:03:26,039 --> 00:03:27,799
+<Default><b>a round-robin
+tournament.</b></Default>
+
+39
+00:03:28,039 --> 00:03:29,265
+<Default><b>[NAOFUMI]
+That's interesting.</b></Default>
+
+40
+00:03:29,289 --> 00:03:32,379
+<Default><b>Oh, are teams typically told
+who their next opponent is</b></Default>
+
+41
+00:03:32,460 --> 00:03:33,776
+<Default><b>right after the battle?</b></Default>
+
+42
+00:03:33,800 --> 00:03:36,629
+<Default><b>Yes. And if the teams forfeit
+like today</b></Default>
+
+43
+00:03:36,759 --> 00:03:38,026
+<Default><b>then you win by default</b></Default>
+
+44
+00:03:38,050 --> 00:03:40,526
+<Default><b>and find yourself waiting
+for a worthy challenger.</b></Default>
+
+45
+00:03:40,550 --> 00:03:41,615
+<Default><b>[NAOFUMI]
+Makes sense.</b></Default>
+
+46
+00:03:41,639 --> 00:03:44,159
+<Default><b>And the reason
+there were all those forfeits.</b></Default>
+
+47
+00:03:44,469 --> 00:03:46,060
+<Default><b>Was because of this?</b></Default>
+
+48
+00:03:49,439 --> 00:03:51,559
+<Default><b>Payback time
+for beating our teams!</b></Default>
+
+49
+00:03:51,610 --> 00:03:53,729
+<Default><b>Prepare to
+die, bastards!</b></Default>
+
+50
+00:03:54,069 --> 00:03:55,860
+<Default><b>Hold on</b></Default>
+
+51
+00:03:55,949 --> 00:03:57,086
+<Default><b>these aren't your men?</b></Default>
+
+52
+00:03:57,110 --> 00:03:59,159
+<Default><b>Ah.
+You think so little of me.</b></Default>
+
+53
+00:04:00,659 --> 00:04:02,490
+<Default><b>Source of thy power</b></Default>
+
+54
+00:04:03,240 --> 00:04:05,015
+<Default><b>- Decipher the laws of nature.
+- Magic?</b></Default>
+
+55
+00:04:05,039 --> 00:04:06,186
+<Default><b>Let thunder strike</b></Default>
+
+56
+00:04:06,210 --> 00:04:08,810
+<Default><b>each and every one of my foes
+who is before me!</b></Default>
+
+57
+00:04:09,580 --> 00:04:10,740
+<Default><b>All Drifa!</b></Default>
+
+58
+00:04:10,789 --> 00:04:12,800
+<Default><b>Come forth
+Chain Lightning!</b></Default>
+
+59
+00:04:13,500 --> 00:04:15,090
+<Default><b>♪</b></Default>
+
+60
+00:04:22,759 --> 00:04:24,239
+<Default><b>That's some power!</b></Default>
+
+61
+00:04:24,810 --> 00:04:27,656
+<Default><b>So, is this why enemies are
+forfeiting before the fights?</b></Default>
+
+62
+00:04:27,680 --> 00:04:28,745
+<Default><b>Your enemies will do</b></Default>
+
+63
+00:04:28,769 --> 00:04:30,969
+<Default><b>whatever it takes
+to come out on top.</b></Default>
+
+64
+00:04:31,189 --> 00:04:34,110
+<Default><b>Like how you put rukor fruit
+in my drinks at the bar?</b></Default>
+
+65
+00:04:34,769 --> 00:04:35,849
+<Default><b>[smiles]</b></Default>
+
+66
+00:04:36,860 --> 00:04:38,020
+<Default><b>[giggling]</b></Default>
+
+67
+00:04:38,740 --> 00:04:40,620
+<Default><b>- Get off of me!
+- [giggling]</b></Default>
+
+68
+00:04:43,449 --> 00:04:46,369
+<Default><b>I pray that we don't fight
+one another in the coliseum.</b></Default>
+
+69
+00:04:46,870 --> 00:04:49,190
+<Default><b>You're better off giving up
+before that.</b></Default>
+
+70
+00:04:52,170 --> 00:04:54,959
+<Default><b>[NAOFUMI] The next day</b></Default>
+
+71
+00:04:55,379 --> 00:04:56,759
+<Default><b>Aah!</b></Default>
+
+72
+00:05:02,509 --> 00:05:04,906
+<Default><b>They ended up matching us
+against some monsters</b></Default>
+
+73
+00:05:04,930 --> 00:05:06,245
+<Default><b>so we used
+illusion magic</b></Default>
+
+74
+00:05:06,269 --> 00:05:08,206
+<Default><b>to make it look
+like we struggled.</b></Default>
+
+75
+00:05:08,230 --> 00:05:11,269
+<Default><b>And the winner is
+Team Rock Valley</b></Default>
+
+76
+00:05:11,480 --> 00:05:14,769
+<Default><b>who defeated the three griffins
+after a fierce battle!</b></Default>
+
+77
+00:05:14,939 --> 00:05:17,360
+<Default><b>We're witnessing the birth
+of a new star!</b></Default>
+
+78
+00:05:17,439 --> 00:05:19,505
+<Default><b>[CALL OUT 02-A (M)]
+Nice one, Rock Valley!</b></Default>
+
+79
+00:05:19,529 --> 00:05:21,729
+<Default><b>[CALL OUT 02-B (M)]
+This is bullshit!</b></Default>
+
+80
+00:05:23,779 --> 00:05:26,290
+<Default><b>[NAOFUMI]
+With each victory</b></Default>
+
+81
+00:05:27,250 --> 00:05:29,016
+<Default><b>And since we were using
+illusion magic</b></Default>
+
+82
+00:05:29,040 --> 00:05:31,600
+<Default><b>to make it look like
+we were struggling to win</b></Default>
+
+83
+00:05:31,959 --> 00:05:34,439
+<Default><b>the betting odds
+just got better and better.</b></Default>
+
+84
+00:05:35,709 --> 00:05:36,896
+<Default><b>[RAPHTALIA]
+The Slave Merchant said</b></Default>
+
+85
+00:05:36,920 --> 00:05:38,355
+<Default><b>this is the biggest
+department store</b></Default>
+
+86
+00:05:38,379 --> 00:05:39,939
+<Default><b>in the capital city.</b></Default>
+
+87
+00:05:39,970 --> 00:05:41,089
+<Default><b>Happy!</b></Default>
+
+88
+00:05:41,379 --> 00:05:43,315
+<Default><b>I bet we could get more armor
+and weapons</b></Default>
+
+89
+00:05:43,339 --> 00:05:44,615
+<Default><b>for our matches here.</b></Default>
+
+90
+00:05:44,639 --> 00:05:46,720
+<Default><b>Aah! Master, look!</b></Default>
+
+91
+00:05:46,850 --> 00:05:48,995
+<Default><b>There's lots and lots of food
+here too!</b></Default>
+
+92
+00:05:49,019 --> 00:05:52,019
+<Default><b>Yeah. Let's buy enough food
+to last us a while.</b></Default>
+
+93
+00:05:52,560 --> 00:05:54,326
+<Default><b>We should avoid going out
+at night.</b></Default>
+
+94
+00:05:54,350 --> 00:05:56,439
+<Default><b>[FILO]
+Yay! Let's go! Let's go!</b></Default>
+
+95
+00:05:56,689 --> 00:05:58,545
+<Default><b>[JEWELRY SELLER 02-A (M)]
+Savior of the Heavenly Fowl!</b></Default>
+
+96
+00:05:58,569 --> 00:06:00,110
+<Default><b>- [gasps]
+- Or wait</b></Default>
+
+97
+00:06:00,439 --> 00:06:02,336
+<Default><b>should I say
+Mr. Rock Valley?</b></Default>
+
+98
+00:06:02,360 --> 00:06:04,319
+<Default><b>The underdog
+of the coliseum!</b></Default>
+
+99
+00:06:04,779 --> 00:06:07,096
+<Default><b>Oh, yes. I thought
+that I recognized you</b></Default>
+
+100
+00:06:07,120 --> 00:06:09,720
+<Default><b>from the sponsors section
+back at the coliseum.</b></Default>
+
+101
+00:06:09,829 --> 00:06:11,829
+<Default><b>Please know
+I'm cheering you on!</b></Default>
+
+102
+00:06:12,120 --> 00:06:14,600
+<Default><b>Everything you see here
+is part of my store.</b></Default>
+
+103
+00:06:14,870 --> 00:06:17,629
+<Default><b>I'm willing to
+invest in you</b></Default>
+
+104
+00:06:17,790 --> 00:06:20,430
+<Default><b>Looks like you're doing
+pretty well for yourself</b></Default>
+
+105
+00:06:20,509 --> 00:06:21,985
+<Default><b>And thanks for the offer</b></Default>
+
+106
+00:06:22,009 --> 00:06:24,065
+<Default><b>but I don't wanna be
+in your debt.</b></Default>
+
+107
+00:06:24,089 --> 00:06:25,565
+<Default><b>Come on don't say that!</b></Default>
+
+108
+00:06:25,589 --> 00:06:27,076
+<Default><b>You can pay me back
+by giving me</b></Default>
+
+109
+00:06:27,100 --> 00:06:29,576
+<Default><b>joint rights to all the profits
+of the land you own.</b></Default>
+
+110
+00:06:29,600 --> 00:06:30,745
+<Default><b>[Rishia and
+Raphtalia gasp]</b></Default>
+
+111
+00:06:30,769 --> 00:06:33,439
+<Default><b>I'm willing to let you open up
+a store at most.</b></Default>
+
+112
+00:06:33,639 --> 00:06:35,206
+<Default><b>Sounds like
+a deal to me!</b></Default>
+
+113
+00:06:35,230 --> 00:06:38,110
+<Default><b>Now please, enjoy your time
+at our fine stores!</b></Default>
+
+114
+00:06:39,819 --> 00:06:43,449
+<Default><b>[gasps] If I'm
+not mistaken</b></Default>
+
+115
+00:06:43,649 --> 00:06:45,209
+<Default><b>I should've figured.</b></Default>
+
+116
+00:06:45,569 --> 00:06:47,005
+<Default><b>[RISHIA] I've heard
+if he doesn't like you</b></Default>
+
+117
+00:06:47,029 --> 00:06:48,925
+<Default><b>he'll drive you
+out of business.</b></Default>
+
+118
+00:06:48,949 --> 00:06:51,466
+<Default><b>[NAOFUMI] I wouldn't worry.
+Well, for now at least.</b></Default>
+
+119
+00:06:51,490 --> 00:06:53,090
+<Default><b>We are his customers.</b></Default>
+
+120
+00:06:53,160 --> 00:06:54,766
+<Default><b>[FILO]
+Master look at this!</b></Default>
+
+121
+00:06:54,790 --> 00:06:57,709
+<Default><b>- [ALL] Huh?
+- We just have to buy it!</b></Default>
+
+122
+00:06:58,339 --> 00:06:59,500
+<Default><b>♪</b></Default>
+
+123
+00:07:06,259 --> 00:07:07,259
+<Default><b>Hmm?</b></Default>
+
+124
+00:07:08,350 --> 00:07:10,615
+<Default><b>They announced the name
+of our next opponent!</b></Default>
+
+125
+00:07:10,639 --> 00:07:12,439
+<Default><b>They're fighting
+us alone?</b></Default>
+
+126
+00:07:14,889 --> 00:07:16,769
+<Default><b>[exhales]
+That's right!</b></Default>
+
+127
+00:07:16,980 --> 00:07:19,706
+<Default><b>And it's someone who wins
+almost all of their fights</b></Default>
+
+128
+00:07:19,730 --> 00:07:21,570
+<Default><b>or places in
+the top ranks!</b></Default>
+
+129
+00:07:21,860 --> 00:07:22,966
+<Default><b>They're either strong</b></Default>
+
+130
+00:07:22,990 --> 00:07:25,466
+<Default><b>or they have a lot of support
+from their sponsor.</b></Default>
+
+131
+00:07:25,490 --> 00:07:27,005
+<Default><b>Maybe a little
+bit of both.</b></Default>
+
+132
+00:07:27,029 --> 00:07:29,136
+<Default><b>There are more
+powerful fighters than them</b></Default>
+
+133
+00:07:29,160 --> 00:07:31,596
+<Default><b>but this time I hear
+they're not participating.</b></Default>
+
+134
+00:07:31,620 --> 00:07:33,580
+<Default><b>Well, we're not
+fighting them.</b></Default>
+
+135
+00:07:33,620 --> 00:07:35,435
+<Default><b>So what is our
+opponent's name?</b></Default>
+
+136
+00:07:35,459 --> 00:07:36,779
+<Default><b>Um, let's see.</b></Default>
+
+137
+00:07:36,920 --> 00:07:39,540
+<Default><b>The only name that
+it has listed here is Nadia.</b></Default>
+
+138
+00:07:39,920 --> 00:07:40,920
+<Default><b>Nadia?</b></Default>
+
+139
+00:07:41,000 --> 00:07:43,146
+<Default><b>It says here
+she uses lightning magic</b></Default>
+
+140
+00:07:43,170 --> 00:07:45,450
+<Default><b>and fights up close
+with a big harpoon!</b></Default>
+
+141
+00:07:45,839 --> 00:07:47,720
+<Default><b>Lightning? Harpoon?</b></Default>
+
+142
+00:07:48,470 --> 00:07:50,026
+<Default><b>- What's wrong?
+- [gasping]</b></Default>
+
+143
+00:07:50,050 --> 00:07:51,890
+<Default><b>Oh, it's nothing
+important.</b></Default>
+
+144
+00:07:52,430 --> 00:07:53,906
+<Default><b>And listen to this.</b></Default>
+
+145
+00:07:53,930 --> 00:07:56,980
+<Default><b>Due to the forfeits, this will
+be the championship match.</b></Default>
+
+146
+00:07:57,269 --> 00:07:58,709
+<Default><b>The championship.</b></Default>
+
+147
+00:07:59,269 --> 00:08:00,269
+<Default><b>Hmm.</b></Default>
+
+148
+00:08:01,069 --> 00:08:03,439
+<Default><b>Right then</b></Default>
+
+149
+00:08:03,649 --> 00:08:06,086
+<Default><b>This one's gonna be
+our toughest match yet.</b></Default>
+
+150
+00:08:06,110 --> 00:08:08,295
+<Default><b>I say we hit the bed early
+and get some rest.</b></Default>
+
+151
+00:08:08,319 --> 00:08:10,949
+<Default><b>[FILO] Wait! But we still
+have to eat dinner!</b></Default>
+
+152
+00:08:16,540 --> 00:08:18,420
+<Default><b>[MC 01-A (M)] And now</b></Default>
+
+153
+00:08:18,540 --> 00:08:20,580
+<Default><b>that you've
+all been waiting for!</b></Default>
+
+154
+00:08:21,000 --> 00:08:22,605
+<Default><b>This season's
+championship match</b></Default>
+
+155
+00:08:22,629 --> 00:08:24,089
+<Default><b>at the coliseum!</b></Default>
+
+156
+00:08:24,709 --> 00:08:27,549
+<Default><b>Will the winner be the newly
+formed Team Rock Valley?</b></Default>
+
+157
+00:08:27,800 --> 00:08:29,406
+<Default><b>Or the Drunken Lightning</b></Default>
+
+158
+00:08:29,430 --> 00:08:31,865
+<Default><b>who's consistently
+one of the top-ranking fighters</b></Default>
+
+159
+00:08:31,889 --> 00:08:33,129
+<Default><b>each season!</b></Default>
+
+160
+00:08:33,350 --> 00:08:34,905
+<Default><b>Will you bet
+on the new kids</b></Default>
+
+161
+00:08:34,929 --> 00:08:37,139
+<Default><b>with horrifying
+10-to-1 odds</b></Default>
+
+162
+00:08:37,389 --> 00:08:38,615
+<Default><b>or play it safe</b></Default>
+
+163
+00:08:38,639 --> 00:08:41,769
+<Default><b>and bet on the nigh-undefeated
+goddess of victory!</b></Default>
+
+164
+00:08:41,980 --> 00:08:43,570
+<Default><b>The choice is yours!</b></Default>
+
+165
+00:08:43,690 --> 00:08:46,820
+<Default><b>It's time for our fighters
+to enter the arena!</b></Default>
+
+166
+00:08:47,149 --> 00:08:50,070
+<Default><b>Team Rock Valley!</b></Default>
+
+167
+00:08:50,610 --> 00:08:52,740
+<Default><b>And Nadia!</b></Default>
+
+168
+00:08:53,740 --> 00:08:54,806
+<Default><b>[Fan 02-A (M)]
+Nadia!</b></Default>
+
+169
+00:08:54,830 --> 00:08:57,460
+<Default><b>[crowd cheering]</b></Default>
+
+170
+00:09:01,379 --> 00:09:03,750
+<Default><b>- [sighs]
+- Good grief</b></Default>
+
+171
+00:09:03,879 --> 00:09:05,525
+<Default><b>I warned you
+to forfeit this match</b></Default>
+
+172
+00:09:05,549 --> 00:09:07,186
+<Default><b>but you just
+didn't listen.</b></Default>
+
+173
+00:09:07,210 --> 00:09:08,446
+<Default><b>No, I heard you</b></Default>
+
+174
+00:09:08,470 --> 00:09:10,275
+<Default><b>but I've got more than money
+on the line</b></Default>
+
+175
+00:09:10,299 --> 00:09:12,025
+<Default><b>- so I have to win.
+- [gasps]</b></Default>
+
+176
+00:09:12,049 --> 00:09:14,889
+<Default><b>Naofu... I mean, Rock</b></Default>
+
+177
+00:09:15,009 --> 00:09:16,889
+<Default><b>Yeah, a little bit.</b></Default>
+
+178
+00:09:18,059 --> 00:09:19,219
+<Default><b>[giggling]</b></Default>
+
+179
+00:09:21,850 --> 00:09:23,410
+<Default><b>- [giggles]
+- [gasps]</b></Default>
+
+180
+00:09:23,480 --> 00:09:24,520
+<Default><b>[gasps]</b></Default>
+
+181
+00:09:24,860 --> 00:09:25,956
+<Default><b>Hey, Get off!</b></Default>
+
+182
+00:09:25,980 --> 00:09:27,916
+<Default><b>You're trying to get money
+to buy the slaves</b></Default>
+
+183
+00:09:27,940 --> 00:09:29,966
+<Default><b>from Lurolona village
+aren't you?</b></Default>
+
+184
+00:09:29,990 --> 00:09:31,870
+<Default><b>- How kind.
+- [Naofumi gasps]</b></Default>
+
+185
+00:09:33,370 --> 00:09:36,330
+<Default><b>This might be a great way
+to get a lot of money fast</b></Default>
+
+186
+00:09:36,950 --> 00:09:39,556
+<Default><b>but I do not lose to people
+who are only here to fight</b></Default>
+
+187
+00:09:39,580 --> 00:09:41,596
+<Default><b>in the coliseum
+to get rich quick.</b></Default>
+
+188
+00:09:41,620 --> 00:09:43,500
+<Default><b>Don't hold
+back against her.</b></Default>
+
+189
+00:09:43,960 --> 00:09:47,879
+<Default><b>[MC 01-A (M)]
+Team Rock Valley versus Nadia!</b></Default>
+
+190
+00:09:48,419 --> 00:09:52,049
+<Default><b>Let this season's
+championship battle, begin!</b></Default>
+
+191
+00:09:57,720 --> 00:09:59,429
+<Default><b>Source of thy power</b></Default>
+
+192
+00:10:00,059 --> 00:10:01,939
+<Default><b>Decipher the
+laws of nature.</b></Default>
+
+193
+00:10:02,730 --> 00:10:04,245
+<Default><b>Don't let it hit
+you directly.</b></Default>
+
+194
+00:10:04,269 --> 00:10:05,589
+<Default><b>You might die!</b></Default>
+
+195
+00:10:06,320 --> 00:10:07,920
+<Default><b>Drifa. Thunder Burst!</b></Default>
+
+196
+00:10:11,690 --> 00:10:13,610
+<Default><b>[Naofumi grunts]</b></Default>
+
+197
+00:10:18,620 --> 00:10:19,620
+<Default><b>Oh!</b></Default>
+
+198
+00:10:20,330 --> 00:10:22,210
+<Default><b>Time for my
+special attack!</b></Default>
+
+199
+00:10:22,330 --> 00:10:24,330
+<Default><b>Huh? Source of thy power</b></Default>
+
+200
+00:10:24,419 --> 00:10:26,476
+<Default><b>I order thee.
+Decipher the laws of nature.</b></Default>
+
+201
+00:10:26,500 --> 00:10:27,816
+<Default><b>You're going down, lady!</b></Default>
+
+202
+00:10:27,840 --> 00:10:30,629
+<Default><b>Lightning, become a power
+which protects me!</b></Default>
+
+203
+00:10:30,710 --> 00:10:32,919
+<Default><b>Drifa. Lightning Speed!</b></Default>
+
+204
+00:10:33,379 --> 00:10:34,799
+<Default><b>Spiral...</b></Default>
+
+205
+00:10:35,389 --> 00:10:37,429
+<Default><b>Air Strike Shield!
+Second Shield!</b></Default>
+
+206
+00:10:37,639 --> 00:10:39,115
+<Default><b>- Dritte Shield!
+- [gasps]</b></Default>
+
+207
+00:10:39,139 --> 00:10:42,309
+<Default><b>Oh, my, you're just
+one surprise after another!</b></Default>
+
+208
+00:10:43,980 --> 00:10:45,600
+<Default><b>[screaming]</b></Default>
+
+209
+00:10:47,809 --> 00:10:49,129
+<Default><b>[both gasping]</b></Default>
+
+210
+00:10:49,769 --> 00:10:51,005
+<Default><b>[MC 01-A (M)]
+Amazing!</b></Default>
+
+211
+00:10:51,029 --> 00:10:52,836
+<Default><b>The two sides
+moved so fast</b></Default>
+
+212
+00:10:52,860 --> 00:10:55,500
+<Default><b>that a field change spell
+has just taken effect!</b></Default>
+
+213
+00:10:55,860 --> 00:10:57,846
+<Default><b>Boundless Sea
+is a choral magic spell</b></Default>
+
+214
+00:10:57,870 --> 00:11:00,580
+<Default><b>that temporarily submerges
+the entire area.</b></Default>
+
+215
+00:11:01,500 --> 00:11:03,620
+<Default><b>They want me
+to put on a good show.</b></Default>
+
+216
+00:11:03,960 --> 00:11:06,120
+<Default><b>What?
+How the hell's that fair?</b></Default>
+
+217
+00:11:06,289 --> 00:11:08,476
+<Default><b>You have to give the people
+what they want, don't you?</b></Default>
+
+218
+00:11:08,500 --> 00:11:10,820
+<Default><b>It's time for me
+to take this seriously.</b></Default>
+
+219
+00:11:11,169 --> 00:11:12,169
+<Default><b>Mm.</b></Default>
+
+220
+00:11:12,460 --> 00:11:14,299
+<Default><b>[indistinct chatter]</b></Default>
+
+221
+00:11:16,639 --> 00:11:17,655
+<Default><b>[MC 01-A (M)]
+Hang on tight, folks!</b></Default>
+
+222
+00:11:17,679 --> 00:11:20,025
+<Default><b>It looks like
+Nadia is about to transform.</b></Default>
+
+223
+00:11:20,049 --> 00:11:21,245
+<Default><b>[NAOFUMI]
+"Transform?"</b></Default>
+
+224
+00:11:21,269 --> 00:11:24,349
+<Default><b>[MC 01-A (M)] Try not to get
+caught in the waves, everyone!</b></Default>
+
+225
+00:11:26,559 --> 00:11:28,149
+<Default><b>♪</b></Default>
+
+226
+00:11:32,570 --> 00:11:33,586
+<Default><b>[gasps]</b></Default>
+
+227
+00:11:33,610 --> 00:11:36,360
+<Default><b>[NAOFUMI] Is that
+a killer whale Demi-human?</b></Default>
+
+228
+00:11:37,070 --> 00:11:38,310
+<Default><b>Here I come!</b></Default>
+
+229
+00:11:42,700 --> 00:11:43,830
+<Default><b>[grunts]</b></Default>
+
+230
+00:11:43,909 --> 00:11:46,000
+<Default><b>- [gasps]
+- Shigaraki! -Sis!</b></Default>
+
+231
+00:11:47,330 --> 00:11:49,090
+<Default><b>[NAOFUMI]
+Run! You'll die!</b></Default>
+
+232
+00:11:49,460 --> 00:11:51,879
+<Default><b>Is that you? Sadeena?</b></Default>
+
+233
+00:12:00,889 --> 00:12:02,809
+<Default><b>- Oh, my?
+- [both gasping]</b></Default>
+
+234
+00:12:03,429 --> 00:12:04,989
+<Default><b>[indistinct chatter]</b></Default>
+
+235
+00:12:05,059 --> 00:12:06,499
+<Default><b>It really is you.</b></Default>
+
+236
+00:12:07,309 --> 00:12:09,109
+<Default><b>It is you, right,
+Sadeena?</b></Default>
+
+237
+00:12:09,360 --> 00:12:11,600
+<Default><b>If you're calling me
+by that name then</b></Default>
+
+238
+00:12:11,980 --> 00:12:15,149
+<Default><b>that means.
+You're Raphtalia, right?</b></Default>
+
+239
+00:12:15,610 --> 00:12:17,659
+<Default><b>Yes, I am.
+I can't believe it.</b></Default>
+
+240
+00:12:17,899 --> 00:12:19,005
+<Default><b>It's really you!</b></Default>
+
+241
+00:12:19,029 --> 00:12:21,120
+<Default><b>[smiles]
+If you're Raphtalia</b></Default>
+
+242
+00:12:21,700 --> 00:12:23,265
+<Default><b>that means Rocky is...</b></Default>
+
+243
+00:12:23,289 --> 00:12:26,289
+<Default><b>The Shield Hero</b></Default>
+
+244
+00:12:26,870 --> 00:12:28,230
+<Default><b>[NADIA] Oh, my.</b></Default>
+
+245
+00:12:28,330 --> 00:12:29,645
+<Default><b>[crowd shouting]</b></Default>
+
+246
+00:12:29,669 --> 00:12:31,476
+<Default><b>[CROWD 02-A (M)]
+What's wrong?</b></Default>
+
+247
+00:12:31,500 --> 00:12:32,700
+<Default><b>[NADIA] Uh.</b></Default>
+
+248
+00:12:36,669 --> 00:12:37,989
+<Default><b>Sadeena, wait!</b></Default>
+
+249
+00:12:40,179 --> 00:12:42,155
+<Default><b>[NADIA] You were gathering up
+the children from the village</b></Default>
+
+250
+00:12:42,179 --> 00:12:44,059
+<Default><b>for Raphtalia's sake</b></Default>
+
+251
+00:12:44,389 --> 00:12:46,350
+<Default><b>[grunts] That's right.</b></Default>
+
+252
+00:12:47,809 --> 00:12:48,969
+<Default><b>I see now.</b></Default>
+
+253
+00:12:51,649 --> 00:12:53,916
+<Default><b>I think it's time
+I put an end to this!</b></Default>
+
+254
+00:12:53,940 --> 00:12:56,440
+<Default><b>I'll finish you off
+with my signature move!</b></Default>
+
+255
+00:12:57,490 --> 00:12:59,820
+<Default><b>Master Naofumi</b></Default>
+
+256
+00:13:00,490 --> 00:13:02,770
+<Default><b>Sadeena's a Demi-human
+she can take it.</b></Default>
+
+257
+00:13:03,330 --> 00:13:04,410
+<Default><b>[grunts]</b></Default>
+
+258
+00:13:04,830 --> 00:13:06,159
+<Default><b>Here I go!</b></Default>
+
+259
+00:13:09,080 --> 00:13:11,460
+<Default><b>Zweit Tornado!</b></Default>
+
+260
+00:13:12,460 --> 00:13:14,210
+<Default><b>Illusion Sword!</b></Default>
+
+261
+00:13:18,090 --> 00:13:20,290
+<Default><b>[Nadia, Filo
+and Raphtalia screaming]</b></Default>
+
+262
+00:13:20,340 --> 00:13:21,799
+<Default><b>♪</b></Default>
+
+263
+00:13:37,110 --> 00:13:39,710
+<Default><b>They're too strong for me
+to continue fighting.</b></Default>
+
+264
+00:13:39,820 --> 00:13:41,060
+<Default><b>I surrender.</b></Default>
+
+265
+00:13:43,740 --> 00:13:45,740
+<Default><b>[crowd cheering]</b></Default>
+
+266
+00:13:45,990 --> 00:13:48,240
+<Default><b>[laughter]</b></Default>
+
+267
+00:13:52,830 --> 00:13:53,990
+<Default><b>[grunting]</b></Default>
+
+268
+00:13:56,379 --> 00:13:57,419
+<Default><b>[sighs]</b></Default>
+
+269
+00:13:57,590 --> 00:14:00,235
+<Default><b>The sponsors might sell
+the kids from the village</b></Default>
+
+270
+00:14:00,259 --> 00:14:03,220
+<Default><b>that I was working so hard
+to buy back all this time.</b></Default>
+
+271
+00:14:04,139 --> 00:14:05,579
+<Default><b>No need to worry.</b></Default>
+
+272
+00:14:05,889 --> 00:14:07,689
+<Default><b>I'll deal with
+that issue.</b></Default>
+
+273
+00:14:08,519 --> 00:14:09,905
+<Default><b>[MC 01-A (M)] The winner
+of the championship</b></Default>
+
+274
+00:14:09,929 --> 00:14:11,529
+<Default><b>is none other than...</b></Default>
+
+275
+00:14:12,019 --> 00:14:15,610
+<Default><b>Team Rock Val...</b></Default>
+
+276
+00:14:16,570 --> 00:14:18,399
+<Default><b>S-Sorry, folks</b></Default>
+
+277
+00:14:18,570 --> 00:14:20,125
+<Default><b>but it seems
+the sponsors have declared</b></Default>
+
+278
+00:14:20,149 --> 00:14:21,836
+<Default><b>that this
+final championship battle</b></Default>
+
+279
+00:14:21,860 --> 00:14:23,620
+<Default><b>will be
+declared invalid.</b></Default>
+
+280
+00:14:23,700 --> 00:14:24,900
+<Default><b>Wait, what?</b></Default>
+
+281
+00:14:25,029 --> 00:14:27,306
+<Default><b>Instead, there will be
+an exhibition match</b></Default>
+
+282
+00:14:27,330 --> 00:14:29,476
+<Default><b>between the two fighters
+who participated</b></Default>
+
+283
+00:14:29,500 --> 00:14:30,726
+<Default><b>and a brand new fighter</b></Default>
+
+284
+00:14:30,750 --> 00:14:33,350
+<Default><b>who has yet to make
+an appearance here with us!</b></Default>
+
+285
+00:14:33,539 --> 00:14:35,169
+<Default><b>- Oh, my.
+- Damn it.</b></Default>
+
+286
+00:14:35,370 --> 00:14:37,316
+<Default><b>Your sponsor's a real pain
+in the ass.</b></Default>
+
+287
+00:14:37,340 --> 00:14:39,180
+<Default><b>I understand
+his reasoning.</b></Default>
+
+288
+00:14:39,460 --> 00:14:40,645
+<Default><b>[MC 01-A (M)]
+So now...</b></Default>
+
+289
+00:14:40,669 --> 00:14:43,129
+<Default><b>Team Rockvalley
+and Nadia join forces</b></Default>
+
+290
+00:14:43,259 --> 00:14:45,379
+<Default><b>in order to
+wage a war against...</b></Default>
+
+291
+00:14:52,980 --> 00:14:55,850
+<Default><b>Careful, Rocky</b></Default>
+
+292
+00:14:56,309 --> 00:14:57,995
+<Default><b>[NAOFUMI]
+The clown is dangerous?</b></Default>
+
+293
+00:14:58,019 --> 00:14:59,690
+<Default><b>[gasps] That's them!</b></Default>
+
+294
+00:14:59,899 --> 00:15:03,190
+<Default><b>[MC 01-A (M)] Their opponent is
+the Murder Clown!</b></Default>
+
+295
+00:15:03,529 --> 00:15:05,635
+<Default><b>Betting will be available
+for the first 10 minutes</b></Default>
+
+296
+00:15:05,659 --> 00:15:07,216
+<Default><b>after the match starts.</b></Default>
+
+297
+00:15:07,240 --> 00:15:09,306
+<Default><b>And we will be
+refunding your money</b></Default>
+
+298
+00:15:09,330 --> 00:15:11,130
+<Default><b>for the finals
+right away!</b></Default>
+
+299
+00:15:11,450 --> 00:15:13,306
+<Default><b>So we have to fight
+the clown, huh?</b></Default>
+
+300
+00:15:13,330 --> 00:15:16,750
+<Default><b>Indeed. We can worry about
+everything else after we win!</b></Default>
+
+301
+00:15:17,210 --> 00:15:21,340
+<Default><b>Ladies and gentlemen</b></Default>
+
+302
+00:15:21,960 --> 00:15:23,395
+<Default><b>I'll end this quickly!</b></Default>
+
+303
+00:15:23,419 --> 00:15:25,470
+<Default><b>Here I go.
+Instant Blade Mist!</b></Default>
+
+304
+00:15:26,720 --> 00:15:28,480
+<Default><b>[MURDER CLOWN]
+Spider Net.</b></Default>
+
+305
+00:15:29,389 --> 00:15:30,429
+<Default><b>[gasps]</b></Default>
+
+306
+00:15:30,600 --> 00:15:32,320
+<Default><b>[MURDER CLOWN]
+Bind Wire.</b></Default>
+
+307
+00:15:33,559 --> 00:15:35,389
+<Default><b>- [gasps]
+- The hell?</b></Default>
+
+308
+00:15:35,559 --> 00:15:37,309
+<Default><b>[groans]
+It's too strong!</b></Default>
+
+309
+00:15:50,200 --> 00:15:51,720
+<Default><b>- Damn!
+- Hey, Rocky</b></Default>
+
+310
+00:15:51,909 --> 00:15:54,549
+<Default><b>cast a choral spell with me
+and we can end this!</b></Default>
+
+311
+00:15:54,659 --> 00:15:56,939
+<Default><b>Sorry, but I've never cast a...
+[gasps]</b></Default>
+
+312
+00:15:57,830 --> 00:16:00,310
+<Default><b>[NAOFUMI] Is it like what Ost
+did back then?</b></Default>
+
+313
+00:16:00,590 --> 00:16:02,476
+<Default><b>[NADIA]
+There's no time to hesitate!</b></Default>
+
+314
+00:16:02,500 --> 00:16:05,100
+<Default><b>Your Birdie and Raphtalia
+are counting on this!</b></Default>
+
+315
+00:16:05,340 --> 00:16:06,340
+<Default><b>Hmm.</b></Default>
+
+316
+00:16:06,840 --> 00:16:09,970
+<Default><b>Two powers, imbued with
+strength to give them succor.</b></Default>
+
+317
+00:16:10,470 --> 00:16:12,639
+<Default><b>Strength to overcome
+destined defeat</b></Default>
+
+318
+00:16:12,850 --> 00:16:15,050
+<Default><b>and lead them
+to a victorious future.</b></Default>
+
+319
+00:16:15,269 --> 00:16:16,615
+<Default><b>- [NADIA] Dragon Vein.
+- [NAOFUMI] Dragon Vein.</b></Default>
+
+320
+00:16:16,639 --> 00:16:18,875
+<Default><b>[BOTH] We ask you to hear
+our desperate wish!</b></Default>
+
+321
+00:16:18,899 --> 00:16:21,269
+<Default><b>[BOTH] Source
+of thy power</b></Default>
+
+322
+00:16:21,610 --> 00:16:23,206
+<Default><b>[BOTH] Decipher the laws
+of nature</b></Default>
+
+323
+00:16:23,230 --> 00:16:24,255
+<Default><b>and grant me the power</b></Default>
+
+324
+00:16:24,279 --> 00:16:26,439
+<Default><b>to overcome
+the obstacles before me!</b></Default>
+
+325
+00:16:28,029 --> 00:16:29,069
+<Default><b>[gasps]</b></Default>
+
+326
+00:16:29,240 --> 00:16:31,950
+<Default><b>Oh, my. So then that's
+the kind of spell we get.</b></Default>
+
+327
+00:16:32,279 --> 00:16:34,370
+<Default><b>[BOTH]
+Descent of the Thunder God!</b></Default>
+
+328
+00:16:36,960 --> 00:16:39,750
+<Default><b>Hey, Rocky, Just so we're
+on the same page</b></Default>
+
+329
+00:16:39,919 --> 00:16:41,645
+<Default><b>you know
+who our target is, right?</b></Default>
+
+330
+00:16:41,669 --> 00:16:42,669
+<Default><b>Yeah!</b></Default>
+
+331
+00:16:45,419 --> 00:16:47,019
+<Default><b>[Raphtalia screaming]</b></Default>
+
+332
+00:16:47,419 --> 00:16:48,459
+<Default><b>Sister.</b></Default>
+
+333
+00:16:51,179 --> 00:16:52,720
+<Default><b>[gasps] Huh!</b></Default>
+
+334
+00:16:55,139 --> 00:16:56,259
+<Default><b>Raphtalia</b></Default>
+
+335
+00:16:56,559 --> 00:16:59,809
+<Default><b>we gave you
+a choral spell</b></Default>
+
+336
+00:17:00,940 --> 00:17:03,190
+<Default><b>- Got it!
+- I won't lose.</b></Default>
+
+337
+00:17:10,950 --> 00:17:14,410
+<Default><b>It's over.
+Brave Blade: Mist!</b></Default>
+
+338
+00:17:16,039 --> 00:17:17,719
+<Default><b>[Murder Clown groaning]</b></Default>
+
+339
+00:17:18,200 --> 00:17:19,200
+<Default><b>♪</b></Default>
+
+340
+00:17:31,130 --> 00:17:32,446
+<Default><b>You're finished!</b></Default>
+
+341
+00:17:32,470 --> 00:17:35,390
+<Default><b>Fusion Technique.
+Blade of the Thunder Emperor!</b></Default>
+
+342
+00:17:35,970 --> 00:17:37,809
+<Default><b>[explosion]</b></Default>
+
+343
+00:17:50,279 --> 00:17:51,319
+<Default><b>[sighs]</b></Default>
+
+344
+00:18:01,619 --> 00:18:02,659
+<Default><b>[gasps]</b></Default>
+
+345
+00:18:02,960 --> 00:18:05,200
+<Default><b>- [MURDER CLOWN] Scape Doll.
+- [gasps]</b></Default>
+
+346
+00:18:05,329 --> 00:18:06,750
+<Default><b>♪</b></Default>
+
+347
+00:18:10,589 --> 00:18:11,629
+<Default><b>[gasps]</b></Default>
+
+348
+00:18:11,680 --> 00:18:13,235
+<Default><b>[MURDER CLOWN] I'm guessing
+you have four buffs</b></Default>
+
+349
+00:18:13,259 --> 00:18:14,739
+<Default><b>applied currently.</b></Default>
+
+350
+00:18:16,140 --> 00:18:18,140
+<Default><b>You'll only get yourself
+killed.</b></Default>
+
+351
+00:18:18,180 --> 00:18:20,260
+<Default><b>Your base strength
+is far too low.</b></Default>
+
+352
+00:18:20,599 --> 00:18:21,719
+<Default><b>Say what?</b></Default>
+
+353
+00:18:22,480 --> 00:18:23,495
+<Default><b>[MURDER CLOWN]
+Unless you're a hero</b></Default>
+
+354
+00:18:23,519 --> 00:18:25,359
+<Default><b>no one can
+stand up against</b></Default>
+
+355
+00:18:25,599 --> 00:18:27,919
+<Default><b>the other world
+will surely destroy you.</b></Default>
+
+356
+00:18:28,319 --> 00:18:30,839
+<Default><b>Especially, if you're having
+trouble with me.</b></Default>
+
+357
+00:18:31,150 --> 00:18:33,795
+<Default><b>[NAOFUMI] What in the world
+is she talking about?</b></Default>
+
+358
+00:18:33,819 --> 00:18:35,845
+<Default><b>[MURDER CLOWN]
+I fought enough to earn my pay.</b></Default>
+
+359
+00:18:35,869 --> 00:18:38,709
+<Default><b>Therefore, there is no reason
+to continue this fight.</b></Default>
+
+360
+00:18:39,039 --> 00:18:40,519
+<Default><b>Let us meet again.</b></Default>
+
+361
+00:18:42,079 --> 00:18:44,079
+<Default><b>Try not to get
+yourself killed.</b></Default>
+
+362
+00:18:45,670 --> 00:18:47,750
+<Default><b>A clown who's
+also a ninja?</b></Default>
+
+363
+00:18:47,920 --> 00:18:51,380
+<Default><b>[MC 01-A (M)] Um. It seems
+Murder Clown has disappeared!</b></Default>
+
+364
+00:18:51,759 --> 00:18:53,509
+<Default><b>And so, the winner is</b></Default>
+
+365
+00:18:53,589 --> 00:18:55,235
+<Default><b>Team Rock
+Valley and Nadia.</b></Default>
+
+366
+00:18:55,259 --> 00:18:57,946
+<Default><b>[sponsor 02-A (M)] Give me
+a break. This doesn't count!</b></Default>
+
+367
+00:18:57,970 --> 00:19:00,450
+<Default><b>How could it
+when there's foul play at hand?</b></Default>
+
+368
+00:19:00,849 --> 00:19:02,745
+<Default><b>Team Rock Valley
+bet on themselves</b></Default>
+
+369
+00:19:02,769 --> 00:19:04,929
+<Default><b>under a fake name
+to win more money!</b></Default>
+
+370
+00:19:05,019 --> 00:19:07,379
+<Default><b>They should be disqualified
+for cheating!</b></Default>
+
+371
+00:19:07,559 --> 00:19:10,400
+<Default><b>And so, I ask you to declare
+this match as invalid!</b></Default>
+
+372
+00:19:10,480 --> 00:19:11,545
+<Default><b>[JEWELRY SELLER 02-A (M)]
+You're wrong!</b></Default>
+
+373
+00:19:11,569 --> 00:19:14,529
+<Default><b>This match goes to none
+other than the Shield Hero.</b></Default>
+
+374
+00:19:15,109 --> 00:19:17,149
+<Default><b>And as victor
+of the championship</b></Default>
+
+375
+00:19:17,450 --> 00:19:20,619
+<Default><b>he will receive his fight money
+and bettings as he deserves.</b></Default>
+
+376
+00:19:21,200 --> 00:19:23,555
+<Default><b>- [YELLOW SHIRT 02-A (M)] What?
+- [RIGHT MAN] The Shield Hero?</b></Default>
+
+377
+00:19:23,579 --> 00:19:26,095
+<Default><b>- I had a feeling it was him!
+- You're kidding.</b></Default>
+
+378
+00:19:26,119 --> 00:19:27,515
+<Default><b>The Shield Hero?</b></Default>
+
+379
+00:19:27,539 --> 00:19:28,936
+<Default><b>One of the
+Cardinal Heroes</b></Default>
+
+380
+00:19:28,960 --> 00:19:31,299
+<Default><b>was competing
+in an underground arena?</b></Default>
+
+381
+00:19:31,630 --> 00:19:33,065
+<Default><b>You are correct, sir!</b></Default>
+
+382
+00:19:33,089 --> 00:19:37,049
+<Default><b>And Nadia is the rightful owner
+of the Lurolona Village slaves</b></Default>
+
+383
+00:19:37,180 --> 00:19:38,866
+<Default><b>which she was
+able to purchase</b></Default>
+
+384
+00:19:38,890 --> 00:19:40,575
+<Default><b>with her prize
+money from here.</b></Default>
+
+385
+00:19:40,599 --> 00:19:42,930
+<Default><b>So no one will be allowed
+to take them.</b></Default>
+
+386
+00:19:43,180 --> 00:19:44,220
+<Default><b>[gasps]</b></Default>
+
+387
+00:19:44,480 --> 00:19:45,599
+<Default><b>[grins]</b></Default>
+
+388
+00:19:45,730 --> 00:19:48,730
+<Default><b>[crowd cheering]</b></Default>
+
+389
+00:19:49,019 --> 00:19:50,416
+<Default><b>[indistinct chatter]</b></Default>
+
+390
+00:19:50,440 --> 00:19:52,160
+<Default><b>I get the slave merchant</b></Default>
+
+391
+00:19:52,230 --> 00:19:55,150
+<Default><b>but what's the jewelry seller
+doing here giving orders?</b></Default>
+
+392
+00:19:55,190 --> 00:19:57,569
+<Default><b>In case you've forgotten
+he also owns</b></Default>
+
+393
+00:19:57,660 --> 00:19:59,595
+<Default><b>the largest department store
+in the capital.</b></Default>
+
+394
+00:19:59,619 --> 00:20:03,079
+<Default><b>[gasps] You mean he
+owned that entire building?</b></Default>
+
+395
+00:20:04,079 --> 00:20:05,515
+<Default><b>Which means
+it all worked out</b></Default>
+
+396
+00:20:05,539 --> 00:20:08,210
+<Default><b>- right, Master Naofumi?
+- Hip-hip Hooray!</b></Default>
+
+397
+00:20:08,670 --> 00:20:11,000
+<Default><b>[crowd cheering]</b></Default>
+
+398
+00:20:11,380 --> 00:20:13,660
+<Default><b>- It's good to see you again.
+- [gasps]</b></Default>
+
+399
+00:20:15,589 --> 00:20:18,430
+<Default><b>You too, Sadeena.
+[smiles]</b></Default>
+
+400
+00:20:20,339 --> 00:20:21,899
+<Default><b>My how you've grown.</b></Default>
+
+401
+00:20:22,390 --> 00:20:23,906
+<Default><b>I'm glad to
+see you're safe.</b></Default>
+
+402
+00:20:23,930 --> 00:20:26,349
+<Default><b>I can't believe it.
+It really is you.</b></Default>
+
+403
+00:20:26,890 --> 00:20:28,170
+<Default><b>I'm so happy.</b></Default>
+
+404
+00:20:28,519 --> 00:20:29,759
+<Default><b>I really am.</b></Default>
+
+405
+00:20:30,900 --> 00:20:32,745
+<Default><b>I heard rumors
+that the Shield Hero</b></Default>
+
+406
+00:20:32,769 --> 00:20:35,545
+<Default><b>had one of the Lurolona Village
+Demi-humans with him.</b></Default>
+
+407
+00:20:35,569 --> 00:20:37,449
+<Default><b>I never thought
+it'd be you!</b></Default>
+
+408
+00:20:38,200 --> 00:20:40,450
+<Default><b>Let's start over.
+I'm Sadeena!</b></Default>
+
+409
+00:20:41,529 --> 00:20:43,119
+<Default><b>I'm Naofumi Iwatani.</b></Default>
+
+410
+00:20:43,660 --> 00:20:45,055
+<Default><b>Nice to meet you.</b></Default>
+
+411
+00:20:45,079 --> 00:20:47,479
+<Default><b>And thank you
+for watching over Raphtalia.</b></Default>
+
+412
+00:20:48,039 --> 00:20:49,199
+<Default><b>Now please</b></Default>
+
+413
+00:20:49,329 --> 00:20:51,710
+<Default><b>take care of me
+the same way, Naofumi.</b></Default>
+
+414
+00:20:52,039 --> 00:20:53,119
+<Default><b>[grunts]</b></Default>
+
+415
+00:21:04,720 --> 00:21:07,730
+<Default><b>♪</b></Default>
+
+416
+00:21:16,109 --> 00:21:17,585
+<Default><b>Oh, hey, there Fohl</b></Default>
+
+417
+00:21:17,609 --> 00:21:19,249
+<Default><b>do you want the usual?</b></Default>
+
+418
+00:21:26,579 --> 00:21:27,979
+<Default><b>[coins clinking]</b></Default>
+
+419
+00:21:28,369 --> 00:21:31,369
+<Default><b>I hope that you're able to
+get them better medicine soon.</b></Default>
+
+420
+00:21:31,579 --> 00:21:33,139
+<Default><b>Here, take this too.</b></Default>
+
+421
+00:21:40,130 --> 00:21:42,009
+<Default><b>♪</b></Default>
+
+422
+00:21:53,599 --> 00:21:55,400
+<Default><b>Atla, I'm back.</b></Default>
+
+423
+00:21:56,319 --> 00:21:57,439
+<Default><b>[gasping]</b></Default>
+
+424
+00:22:00,200 --> 00:22:02,990
+<Default><b>[ATLA] Oh, good.
+Welcome back, brother.</b></Default>
+

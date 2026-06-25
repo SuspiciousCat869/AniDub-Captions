@@ -1,0 +1,2435 @@
+﻿1
+00:00:00,500 --> 00:00:04,129
+<Default><b>♪</b></Default>
+
+2
+00:00:04,209 --> 00:00:05,649
+<Default><b>[flag fluttering]</b></Default>
+
+3
+00:00:07,469 --> 00:00:08,949
+<Default><b>[NAOFUMI]
+Motoyasu?</b></Default>
+
+4
+00:00:10,970 --> 00:00:12,696
+<Default><b>[MIRELIA] He's searching
+for his comrades</b></Default>
+
+5
+00:00:12,720 --> 00:00:13,786
+<Default><b>who split up with him</b></Default>
+
+6
+00:00:13,810 --> 00:00:15,616
+<Default><b>after the Spirit Tortoise
+fight.</b></Default>
+
+7
+00:00:15,640 --> 00:00:17,520
+<Default><b>We have located
+one of them.</b></Default>
+
+8
+00:00:17,640 --> 00:00:18,995
+<Default><b>If our intel's correct</b></Default>
+
+9
+00:00:19,019 --> 00:00:21,419
+<Default><b>then they're in small town
+near Melromarc.</b></Default>
+
+10
+00:00:21,690 --> 00:00:23,050
+<Default><b>Near Melromarc?</b></Default>
+
+11
+00:00:23,649 --> 00:00:26,009
+<Default><b>Right. And the whereabouts
+of the others?</b></Default>
+
+12
+00:00:26,190 --> 00:00:27,830
+<Default><b>We haven't got a clue.</b></Default>
+
+13
+00:00:28,070 --> 00:00:29,399
+<Default><b>Mal...</b></Default>
+
+14
+00:00:30,359 --> 00:00:32,999
+<Default><b>Bitch hasn't shown herself
+since we last talked.</b></Default>
+
+15
+00:00:33,280 --> 00:00:35,055
+<Default><b>The last sighting
+reported of her</b></Default>
+
+16
+00:00:35,079 --> 00:00:36,999
+<Default><b>was near the
+northern border.</b></Default>
+
+17
+00:00:37,039 --> 00:00:39,385
+<Default><b>[NAOFUMI] You can't use
+her slave crest to find her?</b></Default>
+
+18
+00:00:39,409 --> 00:00:40,606
+<Default><b>[MIRELIA] We've tried</b></Default>
+
+19
+00:00:40,630 --> 00:00:42,950
+<Default><b>but she's somehow
+blocking our attempts.</b></Default>
+
+20
+00:00:43,170 --> 00:00:44,410
+<Default><b>It's no use.</b></Default>
+
+21
+00:00:45,549 --> 00:00:47,460
+<Default><b>And the other heroes?</b></Default>
+
+22
+00:00:48,380 --> 00:00:50,640
+<Default><b>Ren and Itsuki
+remain to be seen.</b></Default>
+
+23
+00:00:51,179 --> 00:00:53,140
+<Default><b>However, one thing</b></Default>
+
+24
+00:00:53,219 --> 00:00:55,286
+<Default><b>about the Sword Hero's
+been confirmed.</b></Default>
+
+25
+00:00:55,310 --> 00:00:57,366
+<Default><b>His companions have been
+pronounced dead.</b></Default>
+
+26
+00:00:57,390 --> 00:00:58,430
+<Default><b>[gasps]</b></Default>
+
+27
+00:00:58,939 --> 00:01:00,140
+<Default><b>Sir Naofumi</b></Default>
+
+28
+00:01:00,350 --> 00:01:02,830
+<Default><b>it won't be long
+before the Phoenix revives.</b></Default>
+
+29
+00:01:03,189 --> 00:01:05,126
+<Default><b>I know that
+you're often at odds</b></Default>
+
+30
+00:01:05,150 --> 00:01:07,045
+<Default><b>but please persuade
+the Spear Hero</b></Default>
+
+31
+00:01:07,069 --> 00:01:08,126
+<Default><b>while there's time.</b></Default>
+
+32
+00:01:08,150 --> 00:01:11,359
+<Default><b>♪</b></Default>
+
+33
+00:01:11,489 --> 00:01:13,329
+<Default><b>[NAOFUMI]
+Persuade him, huh?</b></Default>
+
+34
+00:01:14,450 --> 00:01:16,385
+<Default><b>No matter
+how many times you ask</b></Default>
+
+35
+00:01:16,409 --> 00:01:18,809
+<Default><b>I'm not gonna make nice
+with those idiots.</b></Default>
+
+36
+00:01:19,579 --> 00:01:22,419
+<Default><b>[FITORIA ] If the heroes
+are busy fighting each other</b></Default>
+
+37
+00:01:22,629 --> 00:01:24,469
+<Default><b>then you leave
+me no choice</b></Default>
+
+38
+00:01:24,920 --> 00:01:26,800
+<Default><b>I must kill all
+four of you.</b></Default>
+
+39
+00:01:28,260 --> 00:01:29,300
+<Default><b>[sighs]</b></Default>
+
+40
+00:01:29,920 --> 00:01:31,040
+<Default><b>[inhales]</b></Default>
+
+41
+00:01:33,010 --> 00:01:34,775
+<Default><b>[NAOFUMI] I suppose
+I could leave Eclair</b></Default>
+
+42
+00:01:34,799 --> 00:01:36,439
+<Default><b>in charge of my lands.</b></Default>
+
+43
+00:01:37,219 --> 00:01:38,979
+<Default><b>Then start
+with Motoyasu.</b></Default>
+
+44
+00:01:45,980 --> 00:01:48,220
+<Default><b>- [wind whooshing]
+- [leaves rustling]</b></Default>
+
+45
+00:01:48,400 --> 00:01:51,069
+<Default><b>[indistinct chatter]</b></Default>
+
+46
+00:01:51,319 --> 00:01:53,609
+<Default><b>[panting]</b></Default>
+
+47
+00:01:53,739 --> 00:01:55,659
+<Default><b>[MOTOYASU]
+Where'd you all go?</b></Default>
+
+48
+00:01:56,989 --> 00:01:58,149
+<Default><b>Come back.</b></Default>
+
+49
+00:01:58,790 --> 00:01:59,830
+<Default><b>Please.</b></Default>
+
+50
+00:02:00,659 --> 00:02:01,859
+<Default><b>I need you.</b></Default>
+
+51
+00:02:03,500 --> 00:02:05,579
+<Default><b>Elena. Myne.</b></Default>
+
+52
+00:03:38,469 --> 00:03:40,509
+<Default><b>♪</b></Default>
+
+53
+00:03:49,860 --> 00:03:51,650
+<Default><b>[OLD LADY]
+Hai! Hai!</b></Default>
+
+54
+00:03:52,189 --> 00:03:53,319
+<Default><b>Haaah!</b></Default>
+
+55
+00:03:54,110 --> 00:03:56,110
+<Default><b>Keep your
+breathing steady now!</b></Default>
+
+56
+00:03:56,569 --> 00:03:59,409
+<Default><b>Hone your focus</b></Default>
+
+57
+00:03:59,490 --> 00:04:01,030
+<Default><b>[screams]</b></Default>
+
+58
+00:04:01,449 --> 00:04:03,580
+<Default><b>[ALL] Hai! Hai!</b></Default>
+
+59
+00:04:04,539 --> 00:04:05,539
+<Default><b>Haa!</b></Default>
+
+60
+00:04:07,539 --> 00:04:09,919
+<Default><b>[children giggling]</b></Default>
+
+61
+00:04:12,000 --> 00:04:13,226
+<Default><b>[NAOFUMI] Hm.</b></Default>
+
+62
+00:04:13,250 --> 00:04:15,235
+<Default><b>- Thank you!
+- How's over there?</b></Default>
+
+63
+00:04:15,259 --> 00:04:17,446
+<Default><b>- Looking good!
+- Let's pick some from there.</b></Default>
+
+64
+00:04:17,470 --> 00:04:18,750
+<Default><b>- Okay!
+- Huh.</b></Default>
+
+65
+00:04:18,839 --> 00:04:20,889
+<Default><b>Oh, Mr. Naofumi!</b></Default>
+
+66
+00:04:21,759 --> 00:04:24,430
+<Default><b>Hey, You're to call him
+"His Lordship!"</b></Default>
+
+67
+00:04:24,509 --> 00:04:26,909
+<Default><b>Hey, when's breakfast?
+I'm getting hungry!</b></Default>
+
+68
+00:04:27,060 --> 00:04:29,060
+<Default><b>Yeah, and my
+tummy is rumbling!</b></Default>
+
+69
+00:04:29,269 --> 00:04:30,576
+<Default><b>- [clamoring]
+- Fine.</b></Default>
+
+70
+00:04:30,600 --> 00:04:32,240
+<Default><b>I'll get on it, relax.</b></Default>
+
+71
+00:04:32,269 --> 00:04:34,610
+<Default><b>[cheering]</b></Default>
+
+72
+00:04:34,939 --> 00:04:36,045
+<Default><b>[RAPHTALIA]
+It seems like everyone's</b></Default>
+
+73
+00:04:36,069 --> 00:04:37,749
+<Default><b>settled in nicely here.</b></Default>
+
+74
+00:04:37,990 --> 00:04:39,699
+<Default><b>Yes. And thanks to that</b></Default>
+
+75
+00:04:39,779 --> 00:04:42,175
+<Default><b>we should have
+the outer walls built soon.</b></Default>
+
+76
+00:04:42,199 --> 00:04:44,505
+<Default><b>Our problem now
+is getting enough money.</b></Default>
+
+77
+00:04:44,529 --> 00:04:46,175
+<Default><b>There's a lot
+here to keep up.</b></Default>
+
+78
+00:04:46,199 --> 00:04:47,919
+<Default><b>Can't Melromarc help us?</b></Default>
+
+79
+00:04:48,040 --> 00:04:49,720
+<Default><b>I wouldn't count on it.</b></Default>
+
+80
+00:04:49,790 --> 00:04:51,605
+<Default><b>Every nation
+is still rebuilding</b></Default>
+
+81
+00:04:51,629 --> 00:04:53,146
+<Default><b>from the
+Spirit Tortoise.</b></Default>
+
+82
+00:04:53,170 --> 00:04:54,170
+<Default><b>I see.</b></Default>
+
+83
+00:04:54,459 --> 00:04:56,300
+<Default><b>Hm.</b></Default>
+
+84
+00:04:57,550 --> 00:04:58,950
+<Default><b>Oh, how'd it go?</b></Default>
+
+85
+00:04:59,550 --> 00:05:01,710
+<Default><b>Resetting Fohl
+and Sadeena's levels?</b></Default>
+
+86
+00:05:02,089 --> 00:05:03,889
+<Default><b>We managed
+to get it done.</b></Default>
+
+87
+00:05:04,139 --> 00:05:07,060
+<Default><b>They need to do some rehab
+to make up for lost levels.</b></Default>
+
+88
+00:05:07,810 --> 00:05:09,810
+<Default><b>But from the look of it</b></Default>
+
+89
+00:05:10,810 --> 00:05:12,836
+<Default><b>[RAPHTALIA]
+Both of them have come so far</b></Default>
+
+90
+00:05:12,860 --> 00:05:14,980
+<Default><b>and in such a short amount
+of time.</b></Default>
+
+91
+00:05:15,649 --> 00:05:16,915
+<Default><b>[NAOFUMI]
+Unlike your stats</b></Default>
+
+92
+00:05:16,939 --> 00:05:18,586
+<Default><b>whatever skills
+you obtain from training</b></Default>
+
+93
+00:05:18,610 --> 00:05:20,450
+<Default><b>aren't lost
+during a reset.</b></Default>
+
+94
+00:05:21,490 --> 00:05:22,740
+<Default><b>[grunts]</b></Default>
+
+95
+00:05:22,870 --> 00:05:25,675
+<Default><b>But we gotta get their stats
+back up for the Phoenix.</b></Default>
+
+96
+00:05:25,699 --> 00:05:28,136
+<Default><b>The real problem comes
+once they hit their limits.</b></Default>
+
+97
+00:05:28,160 --> 00:05:30,250
+<Default><b>If they do</b></Default>
+
+98
+00:05:30,959 --> 00:05:32,599
+<Default><b>[sighs]
+Yeah, probably.</b></Default>
+
+99
+00:05:33,040 --> 00:05:34,920
+<Default><b>Hey, is the
+food ready yet?</b></Default>
+
+100
+00:05:35,170 --> 00:05:37,750
+<Default><b>I'm so hungry</b></Default>
+
+101
+00:05:38,009 --> 00:05:39,855
+<Default><b>Food will be ready
+in a few minutes</b></Default>
+
+102
+00:05:39,879 --> 00:05:41,196
+<Default><b>go work up an appetite.</b></Default>
+
+103
+00:05:41,220 --> 00:05:42,509
+<Default><b>Fine.</b></Default>
+
+104
+00:05:44,139 --> 00:05:46,470
+<Default><b>I wish we could
+just eat right now.</b></Default>
+
+105
+00:05:46,759 --> 00:05:49,680
+<Default><b>[indistinct chatter]</b></Default>
+
+106
+00:05:50,269 --> 00:05:51,309
+<Default><b>[sighs]</b></Default>
+
+107
+00:05:51,639 --> 00:05:53,939
+<Default><b>♪</b></Default>
+
+108
+00:05:56,939 --> 00:05:58,110
+<Default><b>[drooling]</b></Default>
+
+109
+00:05:58,899 --> 00:06:00,360
+<Default><b>My goodness!</b></Default>
+
+110
+00:06:00,439 --> 00:06:02,719
+<Default><b>I could eat all the food
+on this table!</b></Default>
+
+111
+00:06:02,910 --> 00:06:04,836
+<Default><b>It's too early
+to start drinking.</b></Default>
+
+112
+00:06:04,860 --> 00:06:06,386
+<Default><b>You don't think
+I know that?</b></Default>
+
+113
+00:06:06,410 --> 00:06:08,199
+<Default><b>♪</b></Default>
+
+114
+00:06:12,209 --> 00:06:13,959
+<Default><b>- Hm.
+- Uh...</b></Default>
+
+115
+00:06:14,459 --> 00:06:16,139
+<Default><b>Sorry, but who are you?</b></Default>
+
+116
+00:06:16,250 --> 00:06:17,690
+<Default><b>My name is S'yne.</b></Default>
+
+117
+00:06:18,839 --> 00:06:19,839
+<Default><b>Hm?</b></Default>
+
+118
+00:06:21,459 --> 00:06:23,509
+<Default><b>Hey! You're
+the clown girl</b></Default>
+
+119
+00:06:23,589 --> 00:06:26,139
+<Default><b>- Clown girl?
+- Filo, you know her?</b></Default>
+
+120
+00:06:26,470 --> 00:06:28,790
+<Default><b>We both already
+know her, right, Master?</b></Default>
+
+121
+00:06:29,100 --> 00:06:30,780
+<Default><b>This should remind you.</b></Default>
+
+122
+00:06:31,930 --> 00:06:33,076
+<Default><b>[both gasp]</b></Default>
+
+123
+00:06:33,100 --> 00:06:35,310
+<Default><b>You're Murder Clown!
+Why're you here?</b></Default>
+
+124
+00:06:35,899 --> 00:06:38,299
+<Default><b>- I walked.
+- That's not what I asked you.</b></Default>
+
+125
+00:06:38,689 --> 00:06:40,779
+<Default><b>- Did you come here to eat?
+- Yes.</b></Default>
+
+126
+00:06:41,240 --> 00:06:43,779
+<Default><b>Just so you know</b></Default>
+
+127
+00:06:43,990 --> 00:06:45,505
+<Default><b>At least for
+you it's not.</b></Default>
+
+128
+00:06:45,529 --> 00:06:46,886
+<Default><b>[S'YNE]
+I understand.</b></Default>
+
+129
+00:06:46,910 --> 00:06:48,949
+<Default><b>Is this enough?
+For food?</b></Default>
+
+130
+00:06:49,620 --> 00:06:51,160
+<Default><b>[Filo gasps]</b></Default>
+
+131
+00:06:51,750 --> 00:06:54,230
+<Default><b>I'm not interested
+in taking all your money.</b></Default>
+
+132
+00:06:54,329 --> 00:06:56,055
+<Default><b>What I'm
+trying to say is...</b></Default>
+
+133
+00:06:56,079 --> 00:06:56,959
+<Default><b>[sighs]</b></Default>
+
+134
+00:06:57,040 --> 00:06:59,050
+<Default><b>Please, just
+leave the village.</b></Default>
+
+135
+00:06:59,250 --> 00:07:01,970
+<Default><b>But it was me who protected
+everyone from slavers?</b></Default>
+
+136
+00:07:02,300 --> 00:07:04,300
+<Default><b>- So why?
+- Master Naofumi?</b></Default>
+
+137
+00:07:04,379 --> 00:07:06,339
+<Default><b>Don't care. I
+can't trust you.</b></Default>
+
+138
+00:07:07,930 --> 00:07:08,930
+<Default><b>I see.</b></Default>
+
+139
+00:07:09,310 --> 00:07:12,019
+<Default><b>♪</b></Default>
+
+140
+00:07:14,850 --> 00:07:15,730
+<Default><b>[sighs]</b></Default>
+
+141
+00:07:15,850 --> 00:07:18,019
+<Default><b>♪</b></Default>
+
+142
+00:07:33,500 --> 00:07:34,500
+<Default><b>Hm.</b></Default>
+
+143
+00:07:35,329 --> 00:07:38,079
+<Default><b>Oh, right, Filo, I have
+some good news for you.</b></Default>
+
+144
+00:07:38,500 --> 00:07:40,820
+<Default><b>I'll tell you
+after we finish breakfast.</b></Default>
+
+145
+00:07:40,920 --> 00:07:41,920
+<Default><b>Huh?</b></Default>
+
+146
+00:07:42,379 --> 00:07:45,339
+<Default><b>Carriage! Carriage!
+Carriage! Carriage! Carriage!</b></Default>
+
+147
+00:07:46,050 --> 00:07:47,589
+<Default><b>It's my carriage!</b></Default>
+
+148
+00:07:49,300 --> 00:07:50,660
+<Default><b>Hooray! Hooray!</b></Default>
+
+149
+00:07:51,470 --> 00:07:52,910
+<Default><b>[chuckles] Right.</b></Default>
+
+150
+00:07:53,519 --> 00:07:55,326
+<Default><b>Remember to
+raise your levels.</b></Default>
+
+151
+00:07:55,350 --> 00:07:57,230
+<Default><b>- I know, I know.
+- Yes, sir!</b></Default>
+
+152
+00:07:57,560 --> 00:07:59,375
+<Default><b>We'll train our
+very hardest!</b></Default>
+
+153
+00:07:59,399 --> 00:08:00,480
+<Default><b>Hm.</b></Default>
+
+154
+00:08:00,610 --> 00:08:03,505
+<Default><b>And in the meantime, you'll be
+training with me, Rishia.</b></Default>
+
+155
+00:08:03,529 --> 00:08:05,529
+<Default><b>- [gasps]
+- I'll help out, too.</b></Default>
+
+156
+00:08:05,779 --> 00:08:07,199
+<Default><b>[crying]</b></Default>
+
+157
+00:08:07,649 --> 00:08:09,005
+<Default><b>And most importantly</b></Default>
+
+158
+00:08:09,029 --> 00:08:11,029
+<Default><b>don't let anyone
+suspicious in.</b></Default>
+
+159
+00:08:11,199 --> 00:08:12,555
+<Default><b>Just leave it to us.</b></Default>
+
+160
+00:08:12,579 --> 00:08:14,370
+<Default><b>- Let's go.
+- 'Kay!</b></Default>
+
+161
+00:08:14,540 --> 00:08:16,055
+<Default><b>- Good luck, you guys!
+- Bye now!</b></Default>
+
+162
+00:08:16,079 --> 00:08:17,685
+<Default><b>[RAPHTALIA]
+We'll be back soon, everyone!</b></Default>
+
+163
+00:08:17,709 --> 00:08:20,709
+<Default><b>[humming]</b></Default>
+
+164
+00:08:20,790 --> 00:08:23,800
+<Default><b>[wheels rattling]</b></Default>
+
+165
+00:08:25,209 --> 00:08:26,355
+<Default><b>It's been so long</b></Default>
+
+166
+00:08:26,379 --> 00:08:28,699
+<Default><b>since we've been
+on a journey like this.</b></Default>
+
+167
+00:08:28,839 --> 00:08:30,615
+<Default><b>It reminds me
+of when we met.</b></Default>
+
+168
+00:08:30,639 --> 00:08:32,239
+<Default><b>I know what you mean.</b></Default>
+
+169
+00:08:32,389 --> 00:08:34,826
+<Default><b>Maybe we can do some trading
+on the way back.</b></Default>
+
+170
+00:08:34,850 --> 00:08:36,930
+<Default><b>- [FILO] Yay!
+- [RAPHTALIA] Great!</b></Default>
+
+171
+00:08:37,769 --> 00:08:39,049
+<Default><b>[door creaks]</b></Default>
+
+172
+00:08:41,059 --> 00:08:42,099
+<Default><b>[sighs]</b></Default>
+
+173
+00:08:44,519 --> 00:08:47,110
+<Default><b>How on Earth
+did I ever end up like this?</b></Default>
+
+174
+00:08:48,529 --> 00:08:51,740
+<Default><b>♪</b></Default>
+
+175
+00:08:51,909 --> 00:08:54,870
+<Default><b>[indistinct chatter]</b></Default>
+
+176
+00:08:59,169 --> 00:09:00,769
+<Default><b>[RAPHTALIA]
+This is...</b></Default>
+
+177
+00:09:01,419 --> 00:09:02,515
+<Default><b>[NAOFUMI] Yeah.</b></Default>
+
+178
+00:09:02,539 --> 00:09:05,169
+<Default><b>But we need to find
+the Cardinal Hero.</b></Default>
+
+179
+00:09:05,840 --> 00:09:07,186
+<Default><b>[SHOPKEEPER 04-A (M)]
+Oh, you'll want to go</b></Default>
+
+180
+00:09:07,210 --> 00:09:08,855
+<Default><b>to the next street over.</b></Default>
+
+181
+00:09:08,879 --> 00:09:10,316
+<Default><b>Thank you so much.</b></Default>
+
+182
+00:09:10,340 --> 00:09:12,179
+<Default><b>Yes, I think
+I saw a hero</b></Default>
+
+183
+00:09:12,259 --> 00:09:14,859
+<Default><b>at one of the taverns
+on the outskirts of town.</b></Default>
+
+184
+00:09:15,220 --> 00:09:16,380
+<Default><b>Thank you.</b></Default>
+
+185
+00:09:19,100 --> 00:09:21,060
+<Default><b>This should be
+the one, right?</b></Default>
+
+186
+00:09:21,850 --> 00:09:23,810
+<Default><b>[MOTOYASU]
+Elena, you're alive!</b></Default>
+
+187
+00:09:24,320 --> 00:09:26,690
+<Default><b>Thank goodness.
+I thought I lost you!</b></Default>
+
+188
+00:09:26,899 --> 00:09:28,940
+<Default><b>Oh, well</b></Default>
+
+189
+00:09:29,110 --> 00:09:30,820
+<Default><b>I-Is something wrong?</b></Default>
+
+190
+00:09:31,159 --> 00:09:32,926
+<Default><b>I'm not sure
+what to tell you.</b></Default>
+
+191
+00:09:32,950 --> 00:09:34,135
+<Default><b>Listen, Elena.</b></Default>
+
+192
+00:09:34,159 --> 00:09:35,926
+<Default><b>We've had a lot
+of adventures together</b></Default>
+
+193
+00:09:35,950 --> 00:09:37,056
+<Default><b>haven't we?</b></Default>
+
+194
+00:09:37,080 --> 00:09:39,370
+<Default><b>So come on!
+Let's team up again!</b></Default>
+
+195
+00:09:39,620 --> 00:09:41,515
+<Default><b>I'm sorry, but
+I can't do that.</b></Default>
+
+196
+00:09:41,539 --> 00:09:43,265
+<Default><b>- [gasps]
+- I had to take over</b></Default>
+
+197
+00:09:43,289 --> 00:09:44,645
+<Default><b>the family business.</b></Default>
+
+198
+00:09:44,669 --> 00:09:46,015
+<Default><b>- Good day.
+- [gasps]</b></Default>
+
+199
+00:09:46,039 --> 00:09:47,919
+<Default><b>[grunts]</b></Default>
+
+200
+00:09:48,090 --> 00:09:49,855
+<Default><b>If it's party members
+that you need</b></Default>
+
+201
+00:09:49,879 --> 00:09:51,105
+<Default><b>then go to a tavern.</b></Default>
+
+202
+00:09:51,129 --> 00:09:53,009
+<Default><b>No, see, it
+has to be you!</b></Default>
+
+203
+00:09:53,090 --> 00:09:54,370
+<Default><b>Sir Motoyasu.</b></Default>
+
+204
+00:09:54,470 --> 00:09:56,389
+<Default><b>Sorry, I mean,
+Spear Hero.</b></Default>
+
+205
+00:09:56,559 --> 00:09:57,905
+<Default><b>I can't bear the idea</b></Default>
+
+206
+00:09:57,929 --> 00:09:59,655
+<Default><b>of traveling with you
+another day.</b></Default>
+
+207
+00:09:59,679 --> 00:10:00,679
+<Default><b>Elena.</b></Default>
+
+208
+00:10:00,769 --> 00:10:02,706
+<Default><b>The days when you had
+fame and riches</b></Default>
+
+209
+00:10:02,730 --> 00:10:04,076
+<Default><b>to your name are gone.</b></Default>
+
+210
+00:10:04,100 --> 00:10:05,860
+<Default><b>And without all that</b></Default>
+
+211
+00:10:05,980 --> 00:10:07,899
+<Default><b>What do you mean?
+I'm a hero!</b></Default>
+
+212
+00:10:08,019 --> 00:10:10,086
+<Default><b>Please, you're nothing
+but a vagrant.</b></Default>
+
+213
+00:10:10,110 --> 00:10:11,336
+<Default><b>If you want me to return</b></Default>
+
+214
+00:10:11,360 --> 00:10:12,796
+<Default><b>then make something
+of yourself.</b></Default>
+
+215
+00:10:12,820 --> 00:10:14,860
+<Default><b>The same way
+the Shield Hero did.</b></Default>
+
+216
+00:10:14,950 --> 00:10:15,990
+<Default><b>[gasps]</b></Default>
+
+217
+00:10:18,370 --> 00:10:19,990
+<Default><b>[grunts]</b></Default>
+
+218
+00:10:20,289 --> 00:10:22,500
+<Default><b>Huh. N-Naofumi!</b></Default>
+
+219
+00:10:22,620 --> 00:10:25,140
+<Default><b>Looks like we've
+finally found you, Motoyasu!</b></Default>
+
+220
+00:10:26,789 --> 00:10:28,590
+<Default><b>[grunting]</b></Default>
+
+221
+00:10:28,919 --> 00:10:30,299
+<Default><b>Hey, wait!</b></Default>
+
+222
+00:10:30,710 --> 00:10:32,145
+<Default><b>Just hear me out!</b></Default>
+
+223
+00:10:32,169 --> 00:10:33,235
+<Default><b>Motoyasu!</b></Default>
+
+224
+00:10:33,259 --> 00:10:35,090
+<Default><b>♪</b></Default>
+
+225
+00:10:35,799 --> 00:10:37,970
+<Default><b>[indistinct chatter]</b></Default>
+
+226
+00:10:38,259 --> 00:10:39,579
+<Default><b>Argh, damn it.</b></Default>
+
+227
+00:10:40,220 --> 00:10:42,206
+<Default><b>Where do you think
+he ended up going?</b></Default>
+
+228
+00:10:42,230 --> 00:10:43,745
+<Default><b>I don't really know.</b></Default>
+
+229
+00:10:43,769 --> 00:10:46,399
+<Default><b>But there's someone else here
+we can talk to.</b></Default>
+
+230
+00:10:46,559 --> 00:10:48,019
+<Default><b>♪</b></Default>
+
+231
+00:10:50,730 --> 00:10:52,649
+<Default><b>[indistinct chatter]</b></Default>
+
+232
+00:10:52,740 --> 00:10:55,125
+<Default><b>I take it you're paying
+for all of this, right?</b></Default>
+
+233
+00:10:55,149 --> 00:10:57,450
+<Default><b>If you tell me
+what you know</b></Default>
+
+234
+00:10:57,580 --> 00:10:59,200
+<Default><b>I will, just relax.</b></Default>
+
+235
+00:11:01,120 --> 00:11:02,840
+<Default><b>What Sir Motoyasu wanted</b></Default>
+
+236
+00:11:02,909 --> 00:11:05,989
+<Default><b>was to find the Spirit Tortoise
+and beat it before you did.</b></Default>
+
+237
+00:11:06,960 --> 00:11:09,460
+<Default><b>[rumbling]</b></Default>
+
+238
+00:11:12,090 --> 00:11:14,879
+<Default><b>[MOTOYASU] [laughs]
+No need to run, men!</b></Default>
+
+239
+00:11:14,970 --> 00:11:17,840
+<Default><b>I, the Spear Hero</b></Default>
+
+240
+00:11:18,090 --> 00:11:20,696
+<Default><b>See how much stronger I am
+than the Shield Hero!</b></Default>
+
+241
+00:11:20,720 --> 00:11:22,326
+<Default><b>Time to destroy
+this beast!</b></Default>
+
+242
+00:11:22,350 --> 00:11:24,550
+<Default><b>- [ALL] Right!
+- [MOTOYASU] Let's go!</b></Default>
+
+243
+00:11:25,019 --> 00:11:26,480
+<Default><b>Zweit Hellfire!</b></Default>
+
+244
+00:11:26,600 --> 00:11:28,899
+<Default><b>[fire roaring]</b></Default>
+
+245
+00:11:29,860 --> 00:11:31,260
+<Default><b>[sword clanging]</b></Default>
+
+246
+00:11:32,980 --> 00:11:34,899
+<Default><b>You're mine
+for the taking!</b></Default>
+
+247
+00:11:36,700 --> 00:11:38,779
+<Default><b>♪</b></Default>
+
+248
+00:11:43,539 --> 00:11:44,699
+<Default><b>Here goes!</b></Default>
+
+249
+00:11:44,950 --> 00:11:46,620
+<Default><b>Thunder Spear!</b></Default>
+
+250
+00:11:46,870 --> 00:11:48,879
+<Default><b>[thunder rumbling]</b></Default>
+
+251
+00:11:49,080 --> 00:11:51,320
+<Default><b>- [electricity crackling]
+- [chuckles]</b></Default>
+
+252
+00:11:52,340 --> 00:11:54,049
+<Default><b>♪</b></Default>
+
+253
+00:11:54,129 --> 00:11:55,970
+<Default><b>[gasps] Wait, what?</b></Default>
+
+254
+00:11:56,049 --> 00:11:58,220
+<Default><b>- Sir Motoyasu!
+- Uh, right!</b></Default>
+
+255
+00:11:58,590 --> 00:11:59,970
+<Default><b>Meteor Thrust!</b></Default>
+
+256
+00:12:00,929 --> 00:12:02,759
+<Default><b>[MOTOYASU]
+Lightning Spear!</b></Default>
+
+257
+00:12:03,850 --> 00:12:05,519
+<Default><b>[Motoyasu grunts]</b></Default>
+
+258
+00:12:05,600 --> 00:12:07,360
+<Default><b>- [rumbling]
+- [MYNE] Hey.</b></Default>
+
+259
+00:12:07,940 --> 00:12:09,780
+<Default><b>I don't think
+it's working.</b></Default>
+
+260
+00:12:10,649 --> 00:12:11,809
+<Default><b>[all gasp]</b></Default>
+
+261
+00:12:12,860 --> 00:12:15,690
+<Default><b>[grunts] Take this!</b></Default>
+
+262
+00:12:15,779 --> 00:12:16,859
+<Default><b>[grunts]</b></Default>
+
+263
+00:12:17,110 --> 00:12:17,990
+<Default><b>There you have it.</b></Default>
+
+264
+00:12:18,110 --> 00:12:20,310
+<Default><b>I picked the wrong guy
+to suck up to.</b></Default>
+
+265
+00:12:20,740 --> 00:12:23,620
+<Default><b>Oh, and don't even bother
+trying to have me arrested.</b></Default>
+
+266
+00:12:23,789 --> 00:12:26,429
+<Default><b>I already gave all this info
+to the authorities.</b></Default>
+
+267
+00:12:26,960 --> 00:12:29,120
+<Default><b>What? I told you
+everything I know.</b></Default>
+
+268
+00:12:29,250 --> 00:12:31,210
+<Default><b>Yes, and I do
+appreciate that.</b></Default>
+
+269
+00:12:31,710 --> 00:12:33,990
+<Default><b>Now where are the taverns
+in this town?</b></Default>
+
+270
+00:12:36,210 --> 00:12:39,220
+<Default><b>[indistinct chatter]</b></Default>
+
+271
+00:12:39,429 --> 00:12:40,720
+<Default><b>[gurgling]</b></Default>
+
+272
+00:12:40,929 --> 00:12:43,929
+<Default><b>[indistinct chatter]</b></Default>
+
+273
+00:12:46,350 --> 00:12:47,350
+<Default><b>Hm.</b></Default>
+
+274
+00:12:47,639 --> 00:12:48,639
+<Default><b>Huh?</b></Default>
+
+275
+00:12:53,190 --> 00:12:54,730
+<Default><b>[gasps] Naofumi.</b></Default>
+
+276
+00:12:56,690 --> 00:12:58,740
+<Default><b>It's been a while</b></Default>
+
+277
+00:13:00,700 --> 00:13:02,385
+<Default><b>Hey, relax.
+I'm here to talk.</b></Default>
+
+278
+00:13:02,409 --> 00:13:04,769
+<Default><b>I'm not trying
+to arrest you or anything.</b></Default>
+
+279
+00:13:05,240 --> 00:13:06,280
+<Default><b>[sighs]</b></Default>
+
+280
+00:13:07,330 --> 00:13:08,730
+<Default><b>Filo, Raphtalia.</b></Default>
+
+281
+00:13:08,909 --> 00:13:11,289
+<Default><b>Sorry, but can you two
+look for Motoyasu?</b></Default>
+
+282
+00:13:11,580 --> 00:13:12,855
+<Default><b>Are you sure?</b></Default>
+
+283
+00:13:12,879 --> 00:13:14,525
+<Default><b>[NAOFUMI]
+Leave us alone for a bit.</b></Default>
+
+284
+00:13:14,549 --> 00:13:15,726
+<Default><b>Very well, then.</b></Default>
+
+285
+00:13:15,750 --> 00:13:16,990
+<Default><b>[FILO] Okay.</b></Default>
+
+286
+00:13:17,299 --> 00:13:20,299
+<Default><b>[indistinct chatter]</b></Default>
+
+287
+00:13:20,970 --> 00:13:22,730
+<Default><b>Sit with me
+for a second.</b></Default>
+
+288
+00:13:26,389 --> 00:13:28,269
+<Default><b>I just ran into
+Motoyasu.</b></Default>
+
+289
+00:13:28,889 --> 00:13:31,535
+<Default><b>I think he was here meeting
+with an old party member.</b></Default>
+
+290
+00:13:31,559 --> 00:13:33,919
+<Default><b>But he ran off
+before we could even talk.</b></Default>
+
+291
+00:13:34,019 --> 00:13:35,019
+<Default><b>I see.</b></Default>
+
+292
+00:13:35,149 --> 00:13:36,949
+<Default><b>So his comrades
+are alive.</b></Default>
+
+293
+00:13:37,190 --> 00:13:39,150
+<Default><b>I heard that
+all of yours are.</b></Default>
+
+294
+00:13:39,610 --> 00:13:41,810
+<Default><b>They're dead.
+Every last one of them.</b></Default>
+
+295
+00:13:41,899 --> 00:13:43,529
+<Default><b>♪</b></Default>
+
+296
+00:13:47,450 --> 00:13:48,806
+<Default><b>It's not my fault.</b></Default>
+
+297
+00:13:48,830 --> 00:13:50,385
+<Default><b>I lost because
+they were weak.</b></Default>
+
+298
+00:13:50,409 --> 00:13:51,929
+<Default><b>It can't be helped.</b></Default>
+
+299
+00:13:52,120 --> 00:13:53,160
+<Default><b>[gulps]</b></Default>
+
+300
+00:13:53,460 --> 00:13:56,590
+<Default><b>[thuds]
+It's not, it's not my fault.</b></Default>
+
+301
+00:13:58,090 --> 00:14:00,919
+<Default><b>Ren, I'm sorry you had
+to go through that</b></Default>
+
+302
+00:14:01,299 --> 00:14:03,619
+<Default><b>but it doesn't mean
+you have to give up.</b></Default>
+
+303
+00:14:03,720 --> 00:14:06,600
+<Default><b>It's only a matter of time
+before the Phoenix revives.</b></Default>
+
+304
+00:14:07,009 --> 00:14:08,076
+<Default><b>When it does</b></Default>
+
+305
+00:14:08,100 --> 00:14:10,495
+<Default><b>we heroes need to fight
+against it together.</b></Default>
+
+306
+00:14:10,519 --> 00:14:12,159
+<Default><b>Please, fight with me.</b></Default>
+
+307
+00:14:13,100 --> 00:14:14,500
+<Default><b>[REN] All right.</b></Default>
+
+308
+00:14:15,190 --> 00:14:16,230
+<Default><b>[sighs]</b></Default>
+
+309
+00:14:17,149 --> 00:14:19,399
+<Default><b>Now then</b></Default>
+
+310
+00:14:19,649 --> 00:14:20,649
+<Default><b>It...</b></Default>
+
+311
+00:14:20,820 --> 00:14:23,460
+<Default><b>How dare you put your trust
+in the Shield Demon!</b></Default>
+
+312
+00:14:23,820 --> 00:14:25,820
+<Default><b>[gasps]
+Bitch is here?</b></Default>
+
+313
+00:14:25,950 --> 00:14:28,110
+<Default><b>You told me
+that you would trust me!</b></Default>
+
+314
+00:14:28,330 --> 00:14:30,676
+<Default><b>And that you would believe
+what I said, right?</b></Default>
+
+315
+00:14:30,700 --> 00:14:32,900
+<Default><b>[gasps] I never said
+I'd believe you.</b></Default>
+
+316
+00:14:33,330 --> 00:14:36,080
+<Default><b>And Motoyasu is still looking
+for his comrades.</b></Default>
+
+317
+00:14:36,169 --> 00:14:38,379
+<Default><b>The Spear Hero
+is a scumbag</b></Default>
+
+318
+00:14:38,750 --> 00:14:40,510
+<Default><b>Forget about
+him already.</b></Default>
+
+319
+00:14:40,549 --> 00:14:42,235
+<Default><b>The moment I
+laid eyes on you</b></Default>
+
+320
+00:14:42,259 --> 00:14:44,775
+<Default><b>I knew you were the hero
+destined to save the world</b></Default>
+
+321
+00:14:44,799 --> 00:14:46,066
+<Default><b>unlike the others.</b></Default>
+
+322
+00:14:46,090 --> 00:14:48,639
+<Default><b>The Spear</b></Default>
+
+323
+00:14:49,009 --> 00:14:50,609
+<Default><b>just like the Shield.</b></Default>
+
+324
+00:14:50,970 --> 00:14:52,730
+<Default><b>Motoyasu. That bastard!</b></Default>
+
+325
+00:14:53,059 --> 00:14:54,299
+<Default><b>Ren, come on</b></Default>
+
+326
+00:14:54,480 --> 00:14:56,800
+<Default><b>don't tell me
+you believe this nonsense.</b></Default>
+
+327
+00:14:56,899 --> 00:14:58,625
+<Default><b>Remember the trial
+at the castle?</b></Default>
+
+328
+00:14:58,649 --> 00:15:00,980
+<Default><b>Enough with your lies</b></Default>
+
+329
+00:15:01,070 --> 00:15:03,005
+<Default><b>- Huh?
+- That trial was nothing</b></Default>
+
+330
+00:15:03,029 --> 00:15:04,755
+<Default><b>but a farce
+that had been conjured up</b></Default>
+
+331
+00:15:04,779 --> 00:15:06,659
+<Default><b>to steal the
+throne from me!</b></Default>
+
+332
+00:15:06,820 --> 00:15:09,450
+<Default><b>My mother joined forces
+with the Shield Demon</b></Default>
+
+333
+00:15:09,539 --> 00:15:12,789
+<Default><b>just to humiliate me</b></Default>
+
+334
+00:15:12,870 --> 00:15:14,910
+<Default><b>in a position
+to take the throne!</b></Default>
+
+335
+00:15:16,289 --> 00:15:17,976
+<Default><b>And the Shield
+Demon here</b></Default>
+
+336
+00:15:18,000 --> 00:15:20,355
+<Default><b>was secretly controlling
+the Spirit Tortoise</b></Default>
+
+337
+00:15:20,379 --> 00:15:22,566
+<Default><b>all so he could gain
+the people's trust!</b></Default>
+
+338
+00:15:22,590 --> 00:15:24,919
+<Default><b>Meaning!
+He killed your comrades!</b></Default>
+
+339
+00:15:25,009 --> 00:15:26,970
+<Default><b>[grunts]
+Take that back.</b></Default>
+
+340
+00:15:27,470 --> 00:15:28,905
+<Default><b>[REN]
+Is that true Naofumi?</b></Default>
+
+341
+00:15:28,929 --> 00:15:29,809
+<Default><b>[NAOFUMI]
+Seriously?</b></Default>
+
+342
+00:15:29,889 --> 00:15:31,929
+<Default><b>I can prove to you
+I'm not lying.</b></Default>
+
+343
+00:15:31,970 --> 00:15:33,655
+<Default><b>If I were, my
+slave crest</b></Default>
+
+344
+00:15:33,679 --> 00:15:35,309
+<Default><b>would be activating</b></Default>
+
+345
+00:15:35,809 --> 00:15:37,940
+<Default><b>[gasps]
+How is that possible?</b></Default>
+
+346
+00:15:38,519 --> 00:15:40,666
+<Default><b>Please, you have
+to believe me, Ren.</b></Default>
+
+347
+00:15:40,690 --> 00:15:41,930
+<Default><b>I do, but...</b></Default>
+
+348
+00:15:44,740 --> 00:15:45,755
+<Default><b>I care about you</b></Default>
+
+349
+00:15:45,779 --> 00:15:47,846
+<Default><b>more than anyone
+in this world, Ren.</b></Default>
+
+350
+00:15:47,870 --> 00:15:49,885
+<Default><b>Everyone else may think you
+to be a criminal</b></Default>
+
+351
+00:15:49,909 --> 00:15:52,349
+<Default><b>but I know with all my heart
+you're a hero.</b></Default>
+
+352
+00:15:52,409 --> 00:15:53,635
+<Default><b>- [grunts]
+- I believe you fought</b></Default>
+
+353
+00:15:53,659 --> 00:15:55,979
+<Default><b>for the sake of the world
+that day, Ren.</b></Default>
+
+354
+00:15:56,120 --> 00:15:57,160
+<Default><b>[gasps]</b></Default>
+
+355
+00:15:58,000 --> 00:15:59,186
+<Default><b>[NAOFUMI]
+You wretched.</b></Default>
+
+356
+00:15:59,210 --> 00:16:01,840
+<Default><b>♪</b></Default>
+
+357
+00:16:04,379 --> 00:16:07,196
+<Default><b>Even if the whole world
+were to turn against you, Ren</b></Default>
+
+358
+00:16:07,220 --> 00:16:08,946
+<Default><b>I would stand
+by your side.</b></Default>
+
+359
+00:16:08,970 --> 00:16:11,025
+<Default><b>My allegiance
+is only with you, Ren</b></Default>
+
+360
+00:16:11,049 --> 00:16:12,649
+<Default><b>the great Sword Hero.</b></Default>
+
+361
+00:16:12,929 --> 00:16:14,405
+<Default><b>- Shut the hell up!
+- [MOTOYASU] Wait!</b></Default>
+
+362
+00:16:14,429 --> 00:16:16,230
+<Default><b>- [panting]
+- Motoyasu?</b></Default>
+
+363
+00:16:16,309 --> 00:16:17,365
+<Default><b>[both grunt]</b></Default>
+
+364
+00:16:17,389 --> 00:16:18,745
+<Default><b>What are you
+doing with Ren?</b></Default>
+
+365
+00:16:18,769 --> 00:16:20,916
+<Default><b>I've been looking for you
+this whole time!</b></Default>
+
+366
+00:16:20,940 --> 00:16:22,940
+<Default><b>Please, Myne</b></Default>
+
+367
+00:16:23,190 --> 00:16:24,296
+<Default><b>Sword Hero!</b></Default>
+
+368
+00:16:24,320 --> 00:16:26,029
+<Default><b>You heard him just now</b></Default>
+
+369
+00:16:26,110 --> 00:16:27,676
+<Default><b>He told me he's
+looking for me</b></Default>
+
+370
+00:16:27,700 --> 00:16:29,046
+<Default><b>but called me a whore!</b></Default>
+
+371
+00:16:29,070 --> 00:16:30,296
+<Default><b>- [gasps]
+- That's proof</b></Default>
+
+372
+00:16:30,320 --> 00:16:32,096
+<Default><b>that he forced
+himself on me!</b></Default>
+
+373
+00:16:32,120 --> 00:16:35,080
+<Default><b>And he told me he'd kill
+my father if I tried resisting!</b></Default>
+
+374
+00:16:35,330 --> 00:16:36,909
+<Default><b>No, that isn't true!</b></Default>
+
+375
+00:16:37,000 --> 00:16:38,135
+<Default><b>[REN]
+You really did that?</b></Default>
+
+376
+00:16:38,159 --> 00:16:40,370
+<Default><b>Of course not!
+She's lying to you!</b></Default>
+
+377
+00:16:40,629 --> 00:16:41,686
+<Default><b>I swear!</b></Default>
+
+378
+00:16:41,710 --> 00:16:43,355
+<Default><b>[REN]
+Why should I trust you?</b></Default>
+
+379
+00:16:43,379 --> 00:16:45,316
+<Default><b>[MOTOYASU ] Listen to me, Ren!
+I never laid a hand</b></Default>
+
+380
+00:16:45,340 --> 00:16:47,066
+<Default><b>on her or anything like that!
+If she hadn't asked me</b></Default>
+
+381
+00:16:47,090 --> 00:16:49,330
+<Default><b>to wait till dawn
+and call the knights</b></Default>
+
+382
+00:16:49,470 --> 00:16:50,379
+<Default><b>I would've
+gladly cut you</b></Default>
+
+383
+00:16:50,470 --> 00:16:51,655
+<Default><b>- down myself!
+- [REN] So you're gonna run away</b></Default>
+
+384
+00:16:51,679 --> 00:16:53,235
+<Default><b>as soon as things start
+to get tough?</b></Default>
+
+385
+00:16:53,259 --> 00:16:54,326
+<Default><b>You really are scum!</b></Default>
+
+386
+00:16:54,350 --> 00:16:55,430
+<Default><b>[grunts]</b></Default>
+
+387
+00:16:56,470 --> 00:16:57,790
+<Default><b>I'm impressed.</b></Default>
+
+388
+00:16:57,980 --> 00:17:01,559
+<Default><b>Who knew one human being
+could lie so much, witch.</b></Default>
+
+389
+00:17:01,649 --> 00:17:03,206
+<Default><b>Hey, stay away
+from Myne!</b></Default>
+
+390
+00:17:03,230 --> 00:17:04,335
+<Default><b>Ren, please.</b></Default>
+
+391
+00:17:04,359 --> 00:17:05,835
+<Default><b>Don't tell me
+you believe a word</b></Default>
+
+392
+00:17:05,859 --> 00:17:08,299
+<Default><b>coming out of that
+lying bitch's big mouth.</b></Default>
+
+393
+00:17:08,440 --> 00:17:09,279
+<Default><b>Enough!</b></Default>
+
+394
+00:17:09,359 --> 00:17:11,160
+<Default><b>Myne's right</b></Default>
+
+395
+00:17:11,240 --> 00:17:12,886
+<Default><b>from the very beginning!</b></Default>
+
+396
+00:17:12,910 --> 00:17:14,216
+<Default><b>The reason my party died</b></Default>
+
+397
+00:17:14,240 --> 00:17:16,055
+<Default><b>and I'm being
+blamed for it now</b></Default>
+
+398
+00:17:16,079 --> 00:17:17,919
+<Default><b>is because of
+you, Naofumi!</b></Default>
+
+399
+00:17:18,079 --> 00:17:19,079
+<Default><b>Huh?</b></Default>
+
+400
+00:17:20,500 --> 00:17:22,780
+<Default><b>[NAOFUMI]
+Oh, so that's how it is, huh?</b></Default>
+
+401
+00:17:23,000 --> 00:17:24,315
+<Default><b>If that's how
+you're gonna be</b></Default>
+
+402
+00:17:24,339 --> 00:17:26,579
+<Default><b>I've got some shit
+to say to you, too.</b></Default>
+
+403
+00:17:26,670 --> 00:17:28,106
+<Default><b>Your friends are dead</b></Default>
+
+404
+00:17:28,130 --> 00:17:29,446
+<Default><b>because you're
+treating this</b></Default>
+
+405
+00:17:29,470 --> 00:17:31,310
+<Default><b>- like a video game.
+- What?</b></Default>
+
+406
+00:17:31,549 --> 00:17:33,235
+<Default><b>But it's not
+your fault, right?</b></Default>
+
+407
+00:17:33,259 --> 00:17:36,059
+<Default><b>Because it's easier to blame
+someone else, isn't it?</b></Default>
+
+408
+00:17:36,809 --> 00:17:38,649
+<Default><b>This world isn't
+some game.</b></Default>
+
+409
+00:17:38,680 --> 00:17:41,160
+<Default><b>You had loyal followers
+who believed in you.</b></Default>
+
+410
+00:17:41,349 --> 00:17:42,509
+<Default><b>And yet...</b></Default>
+
+411
+00:17:43,019 --> 00:17:45,139
+<Default><b>You're not just a failure
+as a hero</b></Default>
+
+412
+00:17:45,359 --> 00:17:46,959
+<Default><b>but as a human being!</b></Default>
+
+413
+00:17:47,819 --> 00:17:48,690
+<Default><b>You're wrong!</b></Default>
+
+414
+00:17:48,779 --> 00:17:50,755
+<Default><b>It's not my fault
+they died, dammit!</b></Default>
+
+415
+00:17:50,779 --> 00:17:52,255
+<Default><b>Stop, Ren! You can't let</b></Default>
+
+416
+00:17:52,279 --> 00:17:54,136
+<Default><b>the Shield Hero
+get in your head!</b></Default>
+
+417
+00:17:54,160 --> 00:17:55,216
+<Default><b>Get lost, witch!</b></Default>
+
+418
+00:17:55,240 --> 00:17:57,320
+<Default><b>Before I kill you
+where you stand!</b></Default>
+
+419
+00:17:58,119 --> 00:17:59,176
+<Default><b>You know exactly</b></Default>
+
+420
+00:17:59,200 --> 00:18:00,686
+<Default><b>what you should be
+doing right now.</b></Default>
+
+421
+00:18:00,710 --> 00:18:02,726
+<Default><b>But here you are
+refusing to do it</b></Default>
+
+422
+00:18:02,750 --> 00:18:05,515
+<Default><b>because it would require you
+to admit that you screwed up.</b></Default>
+
+423
+00:18:05,539 --> 00:18:06,606
+<Default><b>Am I wrong?</b></Default>
+
+424
+00:18:06,630 --> 00:18:08,275
+<Default><b>How dare you
+say that to me?</b></Default>
+
+425
+00:18:08,299 --> 00:18:09,985
+<Default><b>Need me to say it again?</b></Default>
+
+426
+00:18:10,009 --> 00:18:11,889
+<Default><b>You know
+exactly what to do.</b></Default>
+
+427
+00:18:12,049 --> 00:18:14,209
+<Default><b>Your conscience
+is screaming at you.</b></Default>
+
+428
+00:18:14,470 --> 00:18:15,866
+<Default><b>But I guess
+you're too damn busy</b></Default>
+
+429
+00:18:15,890 --> 00:18:17,656
+<Default><b>listening to that
+lying whore run her mouth</b></Default>
+
+430
+00:18:17,680 --> 00:18:19,640
+<Default><b>so you can't
+hear it, can you?</b></Default>
+
+431
+00:18:19,809 --> 00:18:21,390
+<Default><b>Shut the hell up!</b></Default>
+
+432
+00:18:23,440 --> 00:18:24,480
+<Default><b>[gasps]</b></Default>
+
+433
+00:18:24,559 --> 00:18:26,059
+<Default><b>It's not my fault!</b></Default>
+
+434
+00:18:26,609 --> 00:18:28,089
+<Default><b>It's not my fault!</b></Default>
+
+435
+00:18:28,519 --> 00:18:30,559
+<Default><b>You're using a skill
+in a tavern?</b></Default>
+
+436
+00:18:34,609 --> 00:18:36,216
+<Default><b>I'm going to
+fight for Myne.</b></Default>
+
+437
+00:18:36,240 --> 00:18:38,716
+<Default><b>For the one person
+who still believes in me!</b></Default>
+
+438
+00:18:38,740 --> 00:18:40,700
+<Default><b>- Stop!
+- Meteor Slash!</b></Default>
+
+439
+00:18:41,039 --> 00:18:42,119
+<Default><b>[grunts]</b></Default>
+
+440
+00:18:42,750 --> 00:18:44,000
+<Default><b>[clamoring]</b></Default>
+
+441
+00:18:45,579 --> 00:18:46,939
+<Default><b>Master Naofumi!</b></Default>
+
+442
+00:18:47,170 --> 00:18:48,839
+<Default><b>♪</b></Default>
+
+443
+00:18:48,960 --> 00:18:51,970
+<Default><b>[clamoring]</b></Default>
+
+444
+00:18:54,339 --> 00:18:55,339
+<Default><b>Huh?</b></Default>
+
+445
+00:18:55,430 --> 00:18:57,220
+<Default><b>[gasps] Impossible!</b></Default>
+
+446
+00:18:57,299 --> 00:18:59,559
+<Default><b>Sir Ren, hurry</b></Default>
+
+447
+00:19:02,019 --> 00:19:03,325
+<Default><b>[REN]
+That's not possible.</b></Default>
+
+448
+00:19:03,349 --> 00:19:04,876
+<Default><b>You have to be cheating!</b></Default>
+
+449
+00:19:04,900 --> 00:19:06,166
+<Default><b>Face reality, Ren.</b></Default>
+
+450
+00:19:06,190 --> 00:19:07,440
+<Default><b>[grunts]</b></Default>
+
+451
+00:19:08,230 --> 00:19:09,590
+<Default><b>Flashing Sword!</b></Default>
+
+452
+00:19:10,230 --> 00:19:11,550
+<Default><b>Wait, hold on!</b></Default>
+
+453
+00:19:14,150 --> 00:19:16,160
+<Default><b>- Get off me, coward!
+- [grunts]</b></Default>
+
+454
+00:19:16,700 --> 00:19:18,700
+<Default><b>Yeah, that's for
+abandoning me!</b></Default>
+
+455
+00:19:18,869 --> 00:19:19,869
+<Default><b>Huh.</b></Default>
+
+456
+00:19:20,200 --> 00:19:22,080
+<Default><b>- Do it, Ren!
+- Portal Sword!</b></Default>
+
+457
+00:19:22,160 --> 00:19:23,200
+<Default><b>[gasps]</b></Default>
+
+458
+00:19:23,750 --> 00:19:24,990
+<Default><b>[snickering]</b></Default>
+
+459
+00:19:26,460 --> 00:19:27,500
+<Default><b>[gasps]</b></Default>
+
+460
+00:19:27,789 --> 00:19:29,670
+<Default><b>- [grunts]
+- [fire roaring]</b></Default>
+
+461
+00:19:31,880 --> 00:19:33,920
+<Default><b>You're the one
+who abandoned him.</b></Default>
+
+462
+00:19:34,470 --> 00:19:35,525
+<Default><b>[RAPHTALIA]
+Master Naofumi!</b></Default>
+
+463
+00:19:35,549 --> 00:19:37,109
+<Default><b>- Hm?
+- Are you okay?</b></Default>
+
+464
+00:19:37,220 --> 00:19:38,220
+<Default><b>I am</b></Default>
+
+465
+00:19:38,470 --> 00:19:39,750
+<Default><b>but he's not.</b></Default>
+
+466
+00:19:40,220 --> 00:19:41,059
+<Default><b>What did I do?</b></Default>
+
+467
+00:19:41,140 --> 00:19:42,616
+<Default><b>- Why are Bitch and Elena both?
+- [NAOFUMI] Motoyasu!</b></Default>
+
+468
+00:19:42,640 --> 00:19:44,406
+<Default><b>- [NAOFUMI] Hey, Motoyasu!
+- I trusted them with my life.</b></Default>
+
+469
+00:19:44,430 --> 00:19:45,706
+<Default><b>Why's this happening?</b></Default>
+
+470
+00:19:45,730 --> 00:19:47,980
+<Default><b>Why is everyone
+so cold to me?</b></Default>
+
+471
+00:19:48,519 --> 00:19:49,359
+<Default><b>I'll never trust</b></Default>
+
+472
+00:19:49,440 --> 00:19:50,916
+<Default><b>- another woman again.
+- Is he going to be okay?</b></Default>
+
+473
+00:19:50,940 --> 00:19:52,416
+<Default><b>- I don't care.
+- Why?</b></Default>
+
+474
+00:19:52,440 --> 00:19:54,005
+<Default><b>- Can you guys check...
+- Why am I the only one stuff</b></Default>
+
+475
+00:19:54,029 --> 00:19:56,085
+<Default><b>- like this keeps happening to?
+- If anyone here is wounded?</b></Default>
+
+476
+00:19:56,109 --> 00:19:57,136
+<Default><b>[indistinct chatter]</b></Default>
+
+477
+00:19:57,160 --> 00:19:58,505
+<Default><b>[NAOFUMI]
+I'm exhausted.</b></Default>
+
+478
+00:19:58,529 --> 00:20:01,079
+<Default><b>[indistinct chatter]</b></Default>
+
+479
+00:20:05,500 --> 00:20:07,500
+<Default><b>[MOTOYASU]
+Why am I the only one</b></Default>
+
+480
+00:20:07,789 --> 00:20:09,189
+<Default><b>this happens to?</b></Default>
+
+481
+00:20:09,880 --> 00:20:11,680
+<Default><b>Why did this
+happen to me.</b></Default>
+
+482
+00:20:12,420 --> 00:20:14,970
+<Default><b>I never want to talk
+to a woman again.</b></Default>
+
+483
+00:20:15,170 --> 00:20:18,180
+<Default><b>♪</b></Default>
+
+484
+00:20:18,339 --> 00:20:21,349
+<Default><b>[audience cheering]</b></Default>
+
+485
+00:21:18,950 --> 00:21:20,230
+<Default><b>Is that Filo?</b></Default>
+
+486
+00:21:22,069 --> 00:21:23,989
+<Default><b>What is this,
+Master Naofumi?</b></Default>
+
+487
+00:21:24,450 --> 00:21:25,716
+<Default><b>Maybe something
+she gained</b></Default>
+
+488
+00:21:25,740 --> 00:21:27,265
+<Default><b>from her time
+as a Humming Fairy.</b></Default>
+
+489
+00:21:27,289 --> 00:21:29,500
+<Default><b>[chomps and chuckles]</b></Default>
+
+490
+00:21:31,710 --> 00:21:33,210
+<Default><b>[gasps]</b></Default>
+
+491
+00:21:34,750 --> 00:21:36,476
+<Default><b>Here, take
+a bite of this!</b></Default>
+
+492
+00:21:36,500 --> 00:21:38,020
+<Default><b>It'll cheer you up!</b></Default>
+
+493
+00:21:41,089 --> 00:21:42,720
+<Default><b>[screaming]</b></Default>
+
+494
+00:21:43,009 --> 00:21:44,349
+<Default><b>Filo!</b></Default>
+
+495
+00:21:44,549 --> 00:21:47,930
+<Default><b>Filo!</b></Default>
+
+496
+00:21:48,019 --> 00:21:50,809
+<Default><b>[screaming]</b></Default>
+
+497
+00:21:51,559 --> 00:21:52,995
+<Default><b>- [Motoyasu grunts]
+- [Filo gasps]</b></Default>
+
+498
+00:21:53,019 --> 00:21:53,940
+<Default><b>Motoyasu...</b></Default>
+
+499
+00:21:54,019 --> 00:21:56,099
+<Default><b>Glad to see
+you're feeling better.</b></Default>
+
+500
+00:21:56,269 --> 00:21:58,909
+<Default><b>Believe in the method
+I gave you to get stronger</b></Default>
+
+501
+00:21:58,940 --> 00:22:00,716
+<Default><b>and work to get ready
+for the fight.</b></Default>
+
+502
+00:22:00,740 --> 00:22:02,005
+<Default><b>[MOTOYASU]
+Understood!</b></Default>
+
+503
+00:22:02,029 --> 00:22:03,869
+<Default><b>♪</b></Default>
+
+504
+00:22:07,829 --> 00:22:09,345
+<Default><b>This is
+everything, isn't it?</b></Default>
+
+505
+00:22:09,369 --> 00:22:11,169
+<Default><b>What about
+the Spear Hero?</b></Default>
+
+506
+00:22:11,329 --> 00:22:12,849
+<Default><b>From the look of it</b></Default>
+
+507
+00:22:12,920 --> 00:22:14,186
+<Default><b>to come back with us.</b></Default>
+
+508
+00:22:14,210 --> 00:22:15,646
+<Default><b>I'll explain what happened
+to the Queen</b></Default>
+
+509
+00:22:15,670 --> 00:22:17,590
+<Default><b>and head back
+to the village.</b></Default>
+
+510
+00:22:18,460 --> 00:22:21,220
+<Default><b>Hey, I want to head back
+to the village.</b></Default>
+
+511
+00:22:21,670 --> 00:22:23,235
+<Default><b>- [door opens]
+- [both gasp]</b></Default>
+
+512
+00:22:23,259 --> 00:22:25,390
+<Default><b>Good morning, Father!
+How are you?</b></Default>
+
+513
+00:22:25,470 --> 00:22:27,390
+<Default><b>- [screams]
+- [door closes]</b></Default>
+
+514
+00:22:29,099 --> 00:22:30,139
+<Default><b>[sighs]</b></Default>
+
+515
+00:22:30,890 --> 00:22:32,210
+<Default><b>What the hell?</b></Default>
+
+516
+00:22:32,309 --> 00:22:33,599
+<Default><b>Sir! [Thuds]</b></Default>
+
+517
+00:22:35,059 --> 00:22:36,956
+<Default><b>Your daughter saved me
+at my lowest</b></Default>
+
+518
+00:22:36,980 --> 00:22:39,150
+<Default><b>and she taught me
+about true love!</b></Default>
+
+519
+00:22:39,569 --> 00:22:41,216
+<Default><b>I will give you my word!</b></Default>
+
+520
+00:22:41,240 --> 00:22:43,080
+<Default><b>I'll keep her happy
+forever.</b></Default>
+
+521
+00:22:44,279 --> 00:22:46,039
+<Default><b>May I have
+your blessing?</b></Default>
+
+522
+00:22:46,990 --> 00:22:48,030
+<Default><b>[sighs]</b></Default>
+
+523
+00:22:51,329 --> 00:22:55,039
+<Default><b>[laughs]
+Let's be happy together, Filo!</b></Default>
+
+524
+00:22:55,130 --> 00:22:57,356
+<Default><b>- [Motoyasu laughing]
+- [Filo shrieking]</b></Default>
+
+525
+00:22:57,380 --> 00:22:58,880
+<Default><b>- [moaning]
+- Hey.</b></Default>
+
+526
+00:22:59,339 --> 00:23:01,186
+<Default><b>Stop it, you're
+scaring her!</b></Default>
+
+527
+00:23:01,210 --> 00:23:03,930
+<Default><b>Stay out of my way</b></Default>
+
+528
+00:23:04,089 --> 00:23:05,089
+<Default><b>Huh?</b></Default>
+
+529
+00:23:05,549 --> 00:23:08,220
+<Default><b>[grunts] Pig?</b></Default>
+
+530
+00:23:08,720 --> 00:23:10,116
+<Default><b>- Huh?
+- [thumps]</b></Default>
+
+531
+00:23:10,140 --> 00:23:11,956
+<Default><b>- [groans]
+- All right, let's get going.</b></Default>
+
+532
+00:23:11,980 --> 00:23:14,060
+<Default><b>- [Filo] 'Kay!
+- [Naofumi] Y-Yeah.</b></Default>
+
+533
+00:23:14,190 --> 00:23:15,270
+<Default><b>[groans]</b></Default>
+
+534
+00:23:20,690 --> 00:23:21,730
+<Default><b>[gasps]</b></Default>
+
+535
+00:23:21,900 --> 00:23:23,400
+<Default><b>Filo! Filo!</b></Default>
+
+536
+00:23:23,740 --> 00:23:25,529
+<Default><b>Don't leave me behind!</b></Default>
+
+537
+00:23:25,609 --> 00:23:32,619
+<Default><b>[crying] Filo!</b></Default>
+

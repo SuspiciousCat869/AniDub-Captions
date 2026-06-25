@@ -1,0 +1,1919 @@
+﻿1
+00:00:02,500 --> 00:00:04,105
+<Default><b>[MC 01-A (M)]
+Ladies and gentlemen</b></Default>
+
+2
+00:00:04,129 --> 00:00:07,379
+<Default><b>we will now begin the match
+between Rishia Ivyred...</b></Default>
+
+3
+00:00:07,589 --> 00:00:10,429
+<Default><b>[ITSUKI] I needn't worry.
+Everyone wants my help.</b></Default>
+
+4
+00:00:10,679 --> 00:00:12,399
+<Default><b>Everyone believes in me.</b></Default>
+
+5
+00:00:13,929 --> 00:00:15,405
+<Default><b>[MC 01-A (M)]
+and the unstoppable</b></Default>
+
+6
+00:00:15,429 --> 00:00:17,109
+<Default><b>Perfect Hidden Justice!</b></Default>
+
+7
+00:00:17,179 --> 00:00:19,100
+<Default><b>Who will emerge
+victorious?</b></Default>
+
+8
+00:00:19,769 --> 00:00:21,666
+<Default><b>[ITSUKI]
+I have to win that money</b></Default>
+
+9
+00:00:21,690 --> 00:00:23,450
+<Default><b>so I can save
+the slaves.</b></Default>
+
+10
+00:00:23,609 --> 00:00:24,929
+<Default><b>Save everyone.</b></Default>
+
+11
+00:00:25,149 --> 00:00:28,820
+<Default><b>I need them to understand
+that I'm the one in the right!</b></Default>
+
+12
+00:00:29,699 --> 00:00:31,949
+<Default><b>That I'm not inferior
+to anyone else.</b></Default>
+
+13
+00:00:32,490 --> 00:00:33,850
+<Default><b>I'll show them.</b></Default>
+
+14
+00:00:34,369 --> 00:00:36,209
+<Default><b>I'm on the
+side of justice.</b></Default>
+
+15
+00:00:36,539 --> 00:00:38,139
+<Default><b>[RISHIA] Sir, Itsuki!</b></Default>
+
+16
+00:00:40,670 --> 00:00:44,090
+<Default><b>I see. Are you
+my opponent today, Rishia?</b></Default>
+
+17
+00:00:44,670 --> 00:00:46,396
+<Default><b>[ITSUKI]
+If so this will be easy.</b></Default>
+
+18
+00:00:46,420 --> 00:00:47,580
+<Default><b>Sir Itsuki</b></Default>
+
+19
+00:00:47,630 --> 00:00:50,509
+<Default><b>you saved me from a despair
+I can't put into words.</b></Default>
+
+20
+00:00:51,509 --> 00:00:53,985
+<Default><b>[ITSUKI] Is that what you
+came here to tell me?</b></Default>
+
+21
+00:00:54,009 --> 00:00:55,449
+<Default><b>And so this time.</b></Default>
+
+22
+00:00:55,679 --> 00:00:57,929
+<Default><b>- [sword schwing]
+- Gah!</b></Default>
+
+23
+00:00:58,179 --> 00:01:00,560
+<Default><b>It's my turn to save you</b></Default>
+
+24
+00:01:01,020 --> 00:01:03,455
+<Default><b>Did you just say
+you're going to "save me?"</b></Default>
+
+25
+00:01:03,479 --> 00:01:05,480
+<Default><b>That has to be
+some kinda joke.</b></Default>
+
+26
+00:01:05,650 --> 00:01:08,130
+<Default><b>[KEEL] You're gonna eat
+those words, Mister!</b></Default>
+
+27
+00:01:08,319 --> 00:01:10,215
+<Default><b>Rishia is gonna
+kick your butt!</b></Default>
+
+28
+00:01:10,239 --> 00:01:11,835
+<Default><b>That's right,
+she'll show you!</b></Default>
+
+29
+00:01:11,859 --> 00:01:13,965
+<Default><b>[ALL] Don't let
+this guy beat you, Rishia!</b></Default>
+
+30
+00:01:13,989 --> 00:01:15,465
+<Default><b>[KEEL]
+You can do it!</b></Default>
+
+31
+00:01:15,489 --> 00:01:17,909
+<Default><b>- [cheering]
+- [indistinct chatter]</b></Default>
+
+32
+00:01:21,329 --> 00:01:22,579
+<Default><b>[grunts]</b></Default>
+
+33
+00:01:23,670 --> 00:01:25,270
+<Default><b>[ITSUKI]
+Now I get it.</b></Default>
+
+34
+00:01:25,420 --> 00:01:27,760
+<Default><b>This whole fight
+was a setup, wasn't it?</b></Default>
+
+35
+00:01:28,420 --> 00:01:30,195
+<Default><b>You lied to me.
+You tricked me</b></Default>
+
+36
+00:01:30,219 --> 00:01:32,379
+<Default><b>just like you do
+with everyone else!</b></Default>
+
+37
+00:01:33,180 --> 00:01:35,510
+<Default><b>I see now why fate
+brought me here!</b></Default>
+
+38
+00:01:35,599 --> 00:01:36,639
+<Default><b>[gasps]</b></Default>
+
+39
+00:01:36,680 --> 00:01:37,720
+<Default><b>[gasps]</b></Default>
+
+40
+00:01:39,140 --> 00:01:42,099
+<Default><b>It's time I show the world
+how evil you really are.</b></Default>
+
+41
+00:01:42,519 --> 00:01:44,376
+<Default><b>And as an instrument
+of justice...</b></Default>
+
+42
+00:01:44,400 --> 00:01:46,280
+<Default><b>I'll bring you
+to the truth!</b></Default>
+
+43
+00:01:46,769 --> 00:01:48,506
+<Default><b>Sir Itsuki,
+don't do this!</b></Default>
+
+44
+00:01:48,530 --> 00:01:50,006
+<Default><b>The hell is
+wrong with you?</b></Default>
+
+45
+00:01:50,030 --> 00:01:51,465
+<Default><b>What does shooting
+at harmless children</b></Default>
+
+46
+00:01:51,489 --> 00:01:53,729
+<Default><b>have to do
+with this justice of yours?</b></Default>
+
+47
+00:01:54,530 --> 00:01:55,890
+<Default><b>[ITSUKI] I'm...</b></Default>
+
+48
+00:01:56,030 --> 00:01:58,239
+<Default><b>I'm punishing
+an unforgiveable evil!</b></Default>
+
+49
+00:01:58,489 --> 00:01:59,569
+<Default><b>[grunts]</b></Default>
+
+50
+00:02:05,040 --> 00:02:06,290
+<Default><b>Please stop.</b></Default>
+
+51
+00:03:39,509 --> 00:03:40,759
+<Default><b>[Keel gasps]</b></Default>
+
+52
+00:03:42,770 --> 00:03:44,770
+<Default><b>Dammit,
+Itsuki, you fool.</b></Default>
+
+53
+00:03:47,810 --> 00:03:50,400
+<Default><b>Sir Itsuki, I'm begging you
+to listen to me!</b></Default>
+
+54
+00:03:50,560 --> 00:03:52,165
+<Default><b>The Phoenix
+will be reviving soon</b></Default>
+
+55
+00:03:52,189 --> 00:03:53,665
+<Default><b>so you're in
+danger, too!</b></Default>
+
+56
+00:03:53,689 --> 00:03:54,769
+<Default><b>Naofumi!</b></Default>
+
+57
+00:03:55,740 --> 00:03:58,580
+<Default><b>Rumor has it that you've been
+buying up child slaves.</b></Default>
+
+58
+00:03:58,699 --> 00:04:00,466
+<Default><b>[ITSUKI]
+Forcing them to do heavy labor</b></Default>
+
+59
+00:04:00,490 --> 00:04:03,265
+<Default><b>and then keeping all the money
+that they earn for yourself!</b></Default>
+
+60
+00:04:03,289 --> 00:04:04,609
+<Default><b>- Huh?!
+- Huh?!</b></Default>
+
+61
+00:04:04,949 --> 00:04:07,436
+<Default><b>I even heard you gave
+rare medicine to a slave</b></Default>
+
+62
+00:04:07,460 --> 00:04:08,895
+<Default><b>to help his sick sister</b></Default>
+
+63
+00:04:08,919 --> 00:04:11,359
+<Default><b>just so that you could
+exploit him forever!</b></Default>
+
+64
+00:04:11,710 --> 00:04:13,476
+<Default><b>And even now
+you're using them</b></Default>
+
+65
+00:04:13,500 --> 00:04:15,840
+<Default><b>as human shields
+to protect yourself!</b></Default>
+
+66
+00:04:16,009 --> 00:04:17,509
+<Default><b>You filthy coward!</b></Default>
+
+67
+00:04:17,839 --> 00:04:19,605
+<Default><b>That's not
+even the worst!</b></Default>
+
+68
+00:04:19,629 --> 00:04:21,026
+<Default><b>[ITSUKI]
+A mother came to me and said</b></Default>
+
+69
+00:04:21,050 --> 00:04:23,389
+<Default><b>that the life of her son
+depended on you</b></Default>
+
+70
+00:04:23,509 --> 00:04:25,995
+<Default><b>but no matter how much
+she begged and pleased</b></Default>
+
+71
+00:04:26,019 --> 00:04:27,656
+<Default><b>you refused to help her!</b></Default>
+
+72
+00:04:27,680 --> 00:04:30,245
+<Default><b>You forgot the part
+where her son was already dead.</b></Default>
+
+73
+00:04:30,269 --> 00:04:33,149
+<Default><b>Why didn't you use your
+miraculous powers to save him?</b></Default>
+
+74
+00:04:33,360 --> 00:04:35,120
+<Default><b>That's just
+unforgivable!</b></Default>
+
+75
+00:04:35,230 --> 00:04:38,110
+<Default><b>[sighs] I shouldn't have
+to explain this to you</b></Default>
+
+76
+00:04:38,279 --> 00:04:39,466
+<Default><b>but even a
+shield like this</b></Default>
+
+77
+00:04:39,490 --> 00:04:41,490
+<Default><b>can't bring people
+back to life.</b></Default>
+
+78
+00:04:41,660 --> 00:04:43,255
+<Default><b>[NAOFUMI] You have some nerve
+standing there</b></Default>
+
+79
+00:04:43,279 --> 00:04:46,079
+<Default><b>and making me out to be
+the worst person imaginable.</b></Default>
+
+80
+00:04:46,290 --> 00:04:49,055
+<Default><b>Especially after you failed
+to defeat the Spirit Tortoise</b></Default>
+
+81
+00:04:49,079 --> 00:04:51,559
+<Default><b>which cost the lives
+of countless innocents.</b></Default>
+
+82
+00:04:51,920 --> 00:04:53,726
+<Default><b>Or does it not count
+when you're the one</b></Default>
+
+83
+00:04:53,750 --> 00:04:55,026
+<Default><b>who's responsible?</b></Default>
+
+84
+00:04:55,050 --> 00:04:56,300
+<Default><b>[chuckles]</b></Default>
+
+85
+00:04:56,959 --> 00:04:59,315
+<Default><b>Changing the subject
+won't help you avoid punishment</b></Default>
+
+86
+00:04:59,339 --> 00:05:01,379
+<Default><b>for all of the evils
+you've done.</b></Default>
+
+87
+00:05:01,589 --> 00:05:02,909
+<Default><b>[Itsuki sighs]</b></Default>
+
+88
+00:05:03,050 --> 00:05:05,210
+<Default><b>[ITSUKI]
+This is a waste of my time.</b></Default>
+
+89
+00:05:05,850 --> 00:05:08,850
+<Default><b>If you have no intention
+of repenting for your sins.</b></Default>
+
+90
+00:05:10,019 --> 00:05:12,350
+<Default><b>Then I won't show you
+any mercy!</b></Default>
+
+91
+00:05:13,019 --> 00:05:14,519
+<Default><b>♪</b></Default>
+
+92
+00:05:16,730 --> 00:05:18,170
+<Default><b>That power again?</b></Default>
+
+93
+00:05:18,779 --> 00:05:21,579
+<Default><b>[ITSUKI] Allow me to introduce
+you to my new weapon.</b></Default>
+
+94
+00:05:21,610 --> 00:05:23,240
+<Default><b>The Justice Bow!</b></Default>
+
+95
+00:05:23,569 --> 00:05:25,886
+<Default><b>With the full power
+of this unlocked bow.</b></Default>
+
+96
+00:05:25,910 --> 00:05:28,160
+<Default><b>I'll show you just
+how evil you are!</b></Default>
+
+97
+00:05:28,579 --> 00:05:30,179
+<Default><b>Prepare to be judged!</b></Default>
+
+98
+00:05:30,209 --> 00:05:32,620
+<Default><b>[gasps]
+Stop, Sir Itsuki!</b></Default>
+
+99
+00:05:33,129 --> 00:05:36,500
+<Default><b>Now, you'll see for yourself
+just how right I am!</b></Default>
+
+100
+00:05:37,589 --> 00:05:39,089
+<Default><b>♪</b></Default>
+
+101
+00:05:40,970 --> 00:05:42,930
+<Default><b>[grunts]
+Meteor Shield!</b></Default>
+
+102
+00:05:48,220 --> 00:05:49,260
+<Default><b>[gasps]</b></Default>
+
+103
+00:05:53,149 --> 00:05:55,029
+<Default><b>[RISHIA]
+A-Are you all right?</b></Default>
+
+104
+00:05:56,149 --> 00:05:58,319
+<Default><b>♪</b></Default>
+
+105
+00:06:02,279 --> 00:06:03,319
+<Default><b>[gasps]</b></Default>
+
+106
+00:06:03,410 --> 00:06:05,029
+<Default><b>Sir Itsuki!</b></Default>
+
+107
+00:06:05,490 --> 00:06:06,490
+<Default><b>Huh?</b></Default>
+
+108
+00:06:06,579 --> 00:06:09,016
+<Default><b>As the referee for this
+underground coliseum</b></Default>
+
+109
+00:06:09,040 --> 00:06:11,870
+<Default><b>I must confess I was secretly
+aiding the Shield Hero</b></Default>
+
+110
+00:06:11,959 --> 00:06:14,170
+<Default><b>behind closed doors
+this whole time!</b></Default>
+
+111
+00:06:14,540 --> 00:06:15,805
+<Default><b>How forthcoming.</b></Default>
+
+112
+00:06:15,829 --> 00:06:18,549
+<Default><b>If you change your ways
+then you will be forgiven.</b></Default>
+
+113
+00:06:18,589 --> 00:06:20,920
+<Default><b>[MC 01-A (M)]
+Oh, thank you</b></Default>
+
+114
+00:06:21,720 --> 00:06:22,855
+<Default><b>[NAOFUMI]
+This power</b></Default>
+
+115
+00:06:22,879 --> 00:06:25,399
+<Default><b>is Itsuki being affected
+by the Curse series?</b></Default>
+
+116
+00:06:25,800 --> 00:06:27,600
+<Default><b>That weapon</b></Default>
+
+117
+00:06:28,139 --> 00:06:30,139
+<Default><b>[ITSUKI]
+It's amazing, isn't it?</b></Default>
+
+118
+00:06:30,269 --> 00:06:32,495
+<Default><b>It's a bow that's been infused
+with holy power</b></Default>
+
+119
+00:06:32,519 --> 00:06:34,980
+<Default><b>and given to me
+by Princess Malty herself.</b></Default>
+
+120
+00:06:35,310 --> 00:06:36,706
+<Default><b>With this, I
+have the power</b></Default>
+
+121
+00:06:36,730 --> 00:06:38,850
+<Default><b>to make the ignorant
+understand me.</b></Default>
+
+122
+00:06:39,110 --> 00:06:41,870
+<Default><b>[ITSUKI] Now I can put them
+on the path of justice!</b></Default>
+
+123
+00:06:42,319 --> 00:06:43,675
+<Default><b>Looks like
+we're too late.</b></Default>
+
+124
+00:06:43,699 --> 00:06:45,925
+<Default><b>I think losing to
+the Spirit Tortoise broke him</b></Default>
+
+125
+00:06:45,949 --> 00:06:47,846
+<Default><b>and then Bitch
+got into his head.</b></Default>
+
+126
+00:06:47,870 --> 00:06:49,596
+<Default><b>The arena isn't
+safe anymore.</b></Default>
+
+127
+00:06:49,620 --> 00:06:51,596
+<Default><b>I need you to get
+everyone out of here.</b></Default>
+
+128
+00:06:51,620 --> 00:06:54,620
+<Default><b>Got it.
+Hey, guys, everyone follow me!</b></Default>
+
+129
+00:06:56,209 --> 00:06:57,685
+<Default><b>- [SADEENA] Mm.
+- [S'YNE] Mm.</b></Default>
+
+130
+00:06:57,709 --> 00:06:59,879
+<Default><b>[SADEENA]
+Come on children</b></Default>
+
+131
+00:07:01,209 --> 00:07:02,809
+<Default><b>I'll take you all on!</b></Default>
+
+132
+00:07:03,009 --> 00:07:04,156
+<Default><b>Once you fight me</b></Default>
+
+133
+00:07:04,180 --> 00:07:06,365
+<Default><b>you'll finally understand
+who's truly in the right!</b></Default>
+
+134
+00:07:06,389 --> 00:07:08,406
+<Default><b>[IMAGINARY CROWD (5M)]
+Perfect Hidden Justice!</b></Default>
+
+135
+00:07:08,430 --> 00:07:10,060
+<Default><b>Sir Itsuki!</b></Default>
+
+136
+00:07:10,139 --> 00:07:11,560
+<Default><b>[sighs]</b></Default>
+
+137
+00:07:11,720 --> 00:07:13,786
+<Default><b>Yeah, well I think
+you're full of shit.</b></Default>
+
+138
+00:07:13,810 --> 00:07:15,495
+<Default><b>Your new bow hasn't got
+a damn thing</b></Default>
+
+139
+00:07:15,519 --> 00:07:16,576
+<Default><b>to do with justice.</b></Default>
+
+140
+00:07:16,600 --> 00:07:18,125
+<Default><b>It just brainwashes
+people!</b></Default>
+
+141
+00:07:18,149 --> 00:07:19,245
+<Default><b>That's not true!</b></Default>
+
+142
+00:07:19,269 --> 00:07:21,469
+<Default><b>This bow is an instrument
+of justice!</b></Default>
+
+143
+00:07:21,779 --> 00:07:24,019
+<Default><b>[ITSUKI] Yes.
+And justice means power!</b></Default>
+
+144
+00:07:24,069 --> 00:07:26,029
+<Default><b>It means proving
+you're right!</b></Default>
+
+145
+00:07:26,069 --> 00:07:28,870
+<Default><b>Lending aid to the weak
+and humbling the strong!</b></Default>
+
+146
+00:07:29,569 --> 00:07:32,579
+<Default><b>And as a Hero of Justice
+I have but one job to do.</b></Default>
+
+147
+00:07:32,790 --> 00:07:35,579
+<Default><b>To destroy every evil
+that plagues this world!</b></Default>
+
+148
+00:07:36,120 --> 00:07:37,400
+<Default><b>He's lost it.</b></Default>
+
+149
+00:07:37,790 --> 00:07:39,350
+<Default><b>[RISHIA] Sir Itsuki!</b></Default>
+
+150
+00:07:42,300 --> 00:07:44,709
+<Default><b>I refuse to accept
+your twisted justice!</b></Default>
+
+151
+00:07:47,300 --> 00:07:50,100
+<Default><b>[ITSUKI] I'd almost forgotten
+you were here, Rishia.</b></Default>
+
+152
+00:07:51,060 --> 00:07:53,380
+<Default><b>Ever since the day
+I met you Sir Itsuki.</b></Default>
+
+153
+00:07:53,430 --> 00:07:56,480
+<Default><b>I've been asking myself</b></Default>
+
+154
+00:07:57,939 --> 00:08:00,036
+<Default><b>[RISHIA] I wanted more
+than anything to be someone</b></Default>
+
+155
+00:08:00,060 --> 00:08:01,745
+<Default><b>who could save
+those in need</b></Default>
+
+156
+00:08:01,769 --> 00:08:03,889
+<Default><b>the same way
+you saved me that day.</b></Default>
+
+157
+00:08:04,149 --> 00:08:06,399
+<Default><b>I wanted to follow
+in your footsteps!</b></Default>
+
+158
+00:08:07,360 --> 00:08:10,080
+<Default><b>But you're not the same person
+you were back then.</b></Default>
+
+159
+00:08:10,699 --> 00:08:13,139
+<Default><b>The justice I learned
+from you, Sir Itsuki.</b></Default>
+
+160
+00:08:13,490 --> 00:08:16,709
+<Default><b>The justice I know</b></Default>
+
+161
+00:08:17,620 --> 00:08:19,596
+<Default><b>[scoffs]
+You leave me no choice.</b></Default>
+
+162
+00:08:19,620 --> 00:08:22,670
+<Default><b>I'll prove my actions are just
+and save you once again</b></Default>
+
+163
+00:08:23,420 --> 00:08:25,105
+<Default><b>'Cause no matter
+what anyone says</b></Default>
+
+164
+00:08:25,129 --> 00:08:27,259
+<Default><b>I stand on the
+side of justice!</b></Default>
+
+165
+00:08:27,629 --> 00:08:29,349
+<Default><b>[RISHIA]
+Muso Activation!</b></Default>
+
+166
+00:08:30,050 --> 00:08:31,850
+<Default><b>Hengen Muso Swordcraft.</b></Default>
+
+167
+00:08:31,930 --> 00:08:33,679
+<Default><b>Shining Arrow!</b></Default>
+
+168
+00:08:33,759 --> 00:08:35,679
+<Default><b>Spiral Rush!</b></Default>
+
+169
+00:08:35,889 --> 00:08:36,980
+<Default><b>♪</b></Default>
+
+170
+00:08:37,350 --> 00:08:38,430
+<Default><b>[grunts]</b></Default>
+
+171
+00:08:42,149 --> 00:08:44,519
+<Default><b>Hengen Muso
+Thrusting Swordcraft!</b></Default>
+
+172
+00:08:45,360 --> 00:08:46,760
+<Default><b>[RISHIA] Circle!</b></Default>
+
+173
+00:08:47,529 --> 00:08:48,529
+<Default><b>Huh!</b></Default>
+
+174
+00:08:49,029 --> 00:08:50,336
+<Default><b>So that's how it is.</b></Default>
+
+175
+00:08:50,360 --> 00:08:53,120
+<Default><b>I guess you have gotten
+a little tougher after all.</b></Default>
+
+176
+00:08:53,240 --> 00:08:54,966
+<Default><b>[ITSUKI] Which makes it
+all the more important</b></Default>
+
+177
+00:08:54,990 --> 00:08:57,510
+<Default><b>that you understand me
+and awaken to justice!</b></Default>
+
+178
+00:08:57,750 --> 00:08:59,096
+<Default><b>- [ITSUKI] If you do...
+- [RISHIA] No!</b></Default>
+
+179
+00:08:59,120 --> 00:09:01,806
+<Default><b>[RISHIA] I refuse to accept
+the person that you've become.</b></Default>
+
+180
+00:09:01,830 --> 00:09:04,500
+<Default><b>Even if that means
+I die by your hand!</b></Default>
+
+181
+00:09:06,710 --> 00:09:08,630
+<Default><b>Hengen Muso
+Secret Technique.</b></Default>
+
+182
+00:09:08,669 --> 00:09:10,009
+<Default><b>First Stance.</b></Default>
+
+183
+00:09:11,340 --> 00:09:13,220
+<Default><b>- Sun!
+- Meteor Shot!</b></Default>
+
+184
+00:09:15,049 --> 00:09:16,369
+<Default><b>Second Stance.</b></Default>
+
+185
+00:09:16,809 --> 00:09:17,929
+<Default><b>Moon!</b></Default>
+
+186
+00:09:18,980 --> 00:09:20,456
+<Default><b>That shouldn't
+be possible!</b></Default>
+
+187
+00:09:20,480 --> 00:09:22,760
+<Default><b>My justice can't be felled
+by the weak!</b></Default>
+
+188
+00:09:22,980 --> 00:09:24,460
+<Default><b>Now, Third Stance!</b></Default>
+
+189
+00:09:24,649 --> 00:09:25,969
+<Default><b>[RISHIA] Star!</b></Default>
+
+190
+00:09:31,279 --> 00:09:34,409
+<Default><b>That's enough! Now die!</b></Default>
+
+191
+00:09:35,200 --> 00:09:36,620
+<Default><b>♪</b></Default>
+
+192
+00:09:38,909 --> 00:09:40,469
+<Default><b>[ITSUKI]
+Law Fanatic!</b></Default>
+
+193
+00:09:45,080 --> 00:09:46,976
+<Default><b>He must have boosted
+his own stats!</b></Default>
+
+194
+00:09:47,000 --> 00:09:48,145
+<Default><b>Please, Sir Itsuki!</b></Default>
+
+195
+00:09:48,169 --> 00:09:50,235
+<Default><b>You mustn't allow that power
+to corrupt you!</b></Default>
+
+196
+00:09:50,259 --> 00:09:52,196
+<Default><b>[RISHIA]
+You don't need it to be strong!</b></Default>
+
+197
+00:09:52,220 --> 00:09:53,840
+<Default><b>Itsuki, you idiot.</b></Default>
+
+198
+00:09:54,179 --> 00:09:55,696
+<Default><b>[NAOFUMI] He's so drunk
+on his own justice</b></Default>
+
+199
+00:09:55,720 --> 00:09:57,200
+<Default><b>it's blinding him!</b></Default>
+
+200
+00:09:57,259 --> 00:09:59,495
+<Default><b>Which means his deadly sin
+must be pride!</b></Default>
+
+201
+00:09:59,519 --> 00:10:01,035
+<Default><b>That's enough, Itsuki!</b></Default>
+
+202
+00:10:01,059 --> 00:10:03,785
+<Default><b>Keep using the Curse series
+like that and you'll regret it!</b></Default>
+
+203
+00:10:03,809 --> 00:10:05,889
+<Default><b>I will not be lectured
+by sinners!</b></Default>
+
+204
+00:10:08,360 --> 00:10:10,399
+<Default><b>Shadow Bind,
+ensnare my target!</b></Default>
+
+205
+00:10:11,529 --> 00:10:12,586
+<Default><b>[grunts]</b></Default>
+
+206
+00:10:12,610 --> 00:10:13,650
+<Default><b>[gasps]</b></Default>
+
+207
+00:10:15,870 --> 00:10:17,200
+<Default><b>Bind Arrow!</b></Default>
+
+208
+00:10:17,700 --> 00:10:18,870
+<Default><b>[grunts]</b></Default>
+
+209
+00:10:19,659 --> 00:10:21,620
+<Default><b>I-I'm not giving up yet!</b></Default>
+
+210
+00:10:21,700 --> 00:10:23,710
+<Default><b>Sorry, but this
+fight is over.</b></Default>
+
+211
+00:10:24,419 --> 00:10:27,316
+<Default><b>[ITSUKI] I call upon thy power
+and request this foolish sinner</b></Default>
+
+212
+00:10:27,340 --> 00:10:28,900
+<Default><b>pay for her misdeeds</b></Default>
+
+213
+00:10:28,960 --> 00:10:32,129
+<Default><b>by means of a fiery inferno
+worthy of thy power!</b></Default>
+
+214
+00:10:32,970 --> 00:10:34,485
+<Default><b>May she writhe in agony</b></Default>
+
+215
+00:10:34,509 --> 00:10:36,446
+<Default><b>as her dying screams
+are converted</b></Default>
+
+216
+00:10:36,470 --> 00:10:38,639
+<Default><b>into the cries
+of a raging beast!</b></Default>
+
+217
+00:10:38,889 --> 00:10:40,559
+<Default><b>Bull of Phalaris!</b></Default>
+
+218
+00:10:40,929 --> 00:10:42,100
+<Default><b>[gasps]</b></Default>
+
+219
+00:10:45,350 --> 00:10:46,559
+<Default><b>Rishia!</b></Default>
+
+220
+00:10:46,860 --> 00:10:49,019
+<Default><b>My victory is absolute!</b></Default>
+
+221
+00:10:51,399 --> 00:10:53,029
+<Default><b>[shattering]</b></Default>
+
+222
+00:10:56,990 --> 00:10:58,310
+<Default><b>Fourth Stance!</b></Default>
+
+223
+00:10:59,080 --> 00:11:00,080
+<Default><b>Demon!</b></Default>
+
+224
+00:11:03,330 --> 00:11:04,580
+<Default><b>My eye!</b></Default>
+
+225
+00:11:05,250 --> 00:11:08,710
+<Default><b>[ITSUKI] Why? Why do you have
+to keep getting in my way?</b></Default>
+
+226
+00:11:09,039 --> 00:11:10,566
+<Default><b>I'll never forgive you!</b></Default>
+
+227
+00:11:10,590 --> 00:11:12,150
+<Default><b>You don't mean that.</b></Default>
+
+228
+00:11:12,799 --> 00:11:14,799
+<Default><b>[ITSUKI]
+I'll never forgive you.</b></Default>
+
+229
+00:11:15,090 --> 00:11:16,179
+<Default><b>♪</b></Default>
+
+230
+00:11:17,429 --> 00:11:19,179
+<Default><b>I'll never forgive you.</b></Default>
+
+231
+00:11:22,059 --> 00:11:23,980
+<Default><b>I'll never forgive you.</b></Default>
+
+232
+00:11:31,320 --> 00:11:33,255
+<Default><b>No, Itsuki! You
+can't give in!</b></Default>
+
+233
+00:11:33,279 --> 00:11:34,479
+<Default><b>Fight back!</b></Default>
+
+234
+00:11:35,240 --> 00:11:39,029
+<Default><b>I will never
+forgive you!</b></Default>
+
+235
+00:11:48,210 --> 00:11:50,750
+<Default><b>[ITSUKI] Any who stand
+in my way must die!</b></Default>
+
+236
+00:11:51,129 --> 00:11:54,049
+<Default><b>Sir Ituski! Stop using that
+power before it's too late!</b></Default>
+
+237
+00:11:54,129 --> 00:11:55,946
+<Default><b>Die in the
+name of justice!</b></Default>
+
+238
+00:11:55,970 --> 00:11:58,549
+<Default><b>This world is stained
+by your evil!</b></Default>
+
+239
+00:12:06,269 --> 00:12:08,326
+<Default><b>- Master Naofumi!
+- Right, I'm on it!</b></Default>
+
+240
+00:12:08,350 --> 00:12:10,150
+<Default><b>[NAOFUMI]
+Rishia, use this!</b></Default>
+
+241
+00:12:11,480 --> 00:12:12,880
+<Default><b>I can't do that.</b></Default>
+
+242
+00:12:12,940 --> 00:12:15,580
+<Default><b>This battle is solely
+between me and Sir Itsuki.</b></Default>
+
+243
+00:12:15,690 --> 00:12:19,240
+<Default><b>If I accept your weapon</b></Default>
+
+244
+00:12:19,820 --> 00:12:21,340
+<Default><b>Be careful, Rishia.</b></Default>
+
+245
+00:12:21,450 --> 00:12:22,700
+<Default><b>[chuckles]</b></Default>
+
+246
+00:12:23,200 --> 00:12:25,580
+<Default><b>Looks like our fight
+is all but finished.</b></Default>
+
+247
+00:12:25,659 --> 00:12:27,226
+<Default><b>I'm just
+getting started!</b></Default>
+
+248
+00:12:27,250 --> 00:12:28,306
+<Default><b>[ITSUKI] Oh, really?</b></Default>
+
+249
+00:12:28,330 --> 00:12:30,186
+<Default><b>And how exactly do you plan
+on fighting me</b></Default>
+
+250
+00:12:30,210 --> 00:12:31,650
+<Default><b>without a weapon?</b></Default>
+
+251
+00:12:32,960 --> 00:12:34,169
+<Default><b>♪</b></Default>
+
+252
+00:12:38,679 --> 00:12:41,439
+<Default><b>Admit you're outclassed
+in every way and surrender.</b></Default>
+
+253
+00:12:41,720 --> 00:12:44,440
+<Default><b>[RISHIA] No matter how much
+I suffer or despair...</b></Default>
+
+254
+00:12:44,470 --> 00:12:46,639
+<Default><b>I will never give up!</b></Default>
+
+255
+00:12:47,059 --> 00:12:48,100
+<Default><b>Huh?!</b></Default>
+
+256
+00:12:48,519 --> 00:12:50,559
+<Default><b>[RISHIA]
+I learned that from you.</b></Default>
+
+257
+00:12:50,600 --> 00:12:52,375
+<Default><b>That's what you taught me
+when you saved me</b></Default>
+
+258
+00:12:52,399 --> 00:12:54,559
+<Default><b>from the depths of despair
+that day.</b></Default>
+
+259
+00:12:55,230 --> 00:12:57,630
+<Default><b>You taught me that justice
+never gives up!</b></Default>
+
+260
+00:12:59,200 --> 00:13:00,909
+<Default><b>Don't twist my words!</b></Default>
+
+261
+00:13:00,990 --> 00:13:02,635
+<Default><b>[ITSUKI]
+Everything about you is evil!</b></Default>
+
+262
+00:13:02,659 --> 00:13:04,830
+<Default><b>The opposite of justice
+isn't evil!</b></Default>
+
+263
+00:13:04,950 --> 00:13:06,350
+<Default><b>It's my justice!</b></Default>
+
+264
+00:13:06,580 --> 00:13:09,159
+<Default><b>After all, everyone holds
+their own ideals</b></Default>
+
+265
+00:13:09,370 --> 00:13:10,936
+<Default><b>their own
+form of justice!</b></Default>
+
+266
+00:13:10,960 --> 00:13:13,840
+<Default><b>Shut up! You're a wicked stain
+upon the world.</b></Default>
+
+267
+00:13:14,090 --> 00:13:15,669
+<Default><b>And I am justice!</b></Default>
+
+268
+00:13:15,750 --> 00:13:17,855
+<Default><b>Using my power to rid
+the world of darkness!</b></Default>
+
+269
+00:13:17,879 --> 00:13:20,066
+<Default><b>Then I'll fight you
+with my own justice.</b></Default>
+
+270
+00:13:20,090 --> 00:13:22,639
+<Default><b>Sir Itsuki</b></Default>
+
+271
+00:13:22,799 --> 00:13:26,139
+<Default><b>Don't go spouting
+your lies at me!</b></Default>
+
+272
+00:13:33,100 --> 00:13:36,269
+<Default><b>- What the...?
+- Master Naofumi, is that...?</b></Default>
+
+273
+00:13:40,570 --> 00:13:42,490
+<Default><b>[ATLA]
+I was able to sense it.</b></Default>
+
+274
+00:13:42,610 --> 00:13:46,830
+<Default><b>The evil ki
+from Itsuki's bow</b></Default>
+
+275
+00:13:47,080 --> 00:13:48,500
+<Default><b>A pure ki.</b></Default>
+
+276
+00:13:48,580 --> 00:13:51,620
+<Default><b>The Cardinal Weapons still have
+some kind of hidden power?</b></Default>
+
+277
+00:13:55,750 --> 00:13:58,000
+<Default><b>[gasps]
+What the hell just happened?</b></Default>
+
+278
+00:13:58,379 --> 00:14:00,059
+<Default><b>I see even your own bow</b></Default>
+
+279
+00:14:00,419 --> 00:14:02,970
+<Default><b>rejects the perverted justice
+you cling to.</b></Default>
+
+280
+00:14:03,049 --> 00:14:04,049
+<Default><b>Huh?!</b></Default>
+
+281
+00:14:04,139 --> 00:14:05,865
+<Default><b>Your bow gave
+me this strength</b></Default>
+
+282
+00:14:05,889 --> 00:14:08,649
+<Default><b>as if pleading for me to put
+an end to this battle.</b></Default>
+
+283
+00:14:08,769 --> 00:14:10,559
+<Default><b>That's not possible!</b></Default>
+
+284
+00:14:10,980 --> 00:14:13,620
+<Default><b>[ITSUKI] My bow would never
+betray me like that.</b></Default>
+
+285
+00:14:13,649 --> 00:14:15,209
+<Default><b>This isn't possible.</b></Default>
+
+286
+00:14:15,399 --> 00:14:18,079
+<Default><b>This can't be happening.
+This can't be happening!</b></Default>
+
+287
+00:14:20,399 --> 00:14:22,360
+<Default><b>[ITSUKI]
+I won't accept it!</b></Default>
+
+288
+00:14:27,700 --> 00:14:30,200
+<Default><b>Hengen Muso
+Secret Throwing Technique!</b></Default>
+
+289
+00:14:30,830 --> 00:14:32,330
+<Default><b>Rolling.</b></Default>
+
+290
+00:14:32,789 --> 00:14:34,169
+<Default><b>Spin.</b></Default>
+
+291
+00:14:42,049 --> 00:14:43,405
+<Default><b>Air Strike Throw!</b></Default>
+
+292
+00:14:43,429 --> 00:14:45,589
+<Default><b>[RISHIA]
+Second Throw! Dritte Throw!</b></Default>
+
+293
+00:14:45,639 --> 00:14:47,929
+<Default><b>Tornado Throw!</b></Default>
+
+294
+00:14:48,639 --> 00:14:50,179
+<Default><b>♪</b></Default>
+
+295
+00:14:50,259 --> 00:14:52,639
+<Default><b>[screams]</b></Default>
+
+296
+00:14:58,820 --> 00:14:59,860
+<Default><b>[gasps]</b></Default>
+
+297
+00:15:10,279 --> 00:15:11,500
+<Default><b>My power.</b></Default>
+
+298
+00:15:11,830 --> 00:15:14,510
+<Default><b>My new power that was
+supposed to save the world.</b></Default>
+
+299
+00:15:15,789 --> 00:15:19,340
+<Default><b>[ITSUKI]
+Class 3-3, Itsuki Kawasumi!</b></Default>
+
+300
+00:15:20,379 --> 00:15:21,605
+<Default><b>And my dream is</b></Default>
+
+301
+00:15:21,629 --> 00:15:23,985
+<Default><b>to be a brave hero
+who fights for what's right!</b></Default>
+
+302
+00:15:24,009 --> 00:15:26,369
+<Default><b>And saves everyone
+who's in need of help!</b></Default>
+
+303
+00:15:27,470 --> 00:15:28,759
+<Default><b>[applauding]</b></Default>
+
+304
+00:15:29,970 --> 00:15:32,350
+<Default><b>[STUDENT 11-C]
+With your power</b></Default>
+
+305
+00:15:32,929 --> 00:15:34,285
+<Default><b>[STUDENT 11-B]
+You're going to a middle school</b></Default>
+
+306
+00:15:34,309 --> 00:15:36,745
+<Default><b>that only kids with powers
+can go to, right?</b></Default>
+
+307
+00:15:36,769 --> 00:15:38,689
+<Default><b>[STUDENT 11-C]
+That's so cool!</b></Default>
+
+308
+00:15:45,700 --> 00:15:49,580
+<Default><b>[chuckles] I'm so proud
+to be able to call you my son.</b></Default>
+
+309
+00:15:55,870 --> 00:15:57,590
+<Default><b>This can't be happening.</b></Default>
+
+310
+00:15:57,960 --> 00:16:00,160
+<Default><b>[ITSUKI]
+I've been placed in Level E?</b></Default>
+
+311
+00:16:02,000 --> 00:16:04,129
+<Default><b>Level A's are
+just amazing</b></Default>
+
+312
+00:16:04,299 --> 00:16:06,905
+<Default><b>With power like yours you can
+do anything you want!</b></Default>
+
+313
+00:16:06,929 --> 00:16:09,489
+<Default><b>[STUDENT 11-F]
+You've practically won at life!</b></Default>
+
+314
+00:16:09,850 --> 00:16:10,970
+<Default><b>[gasps]</b></Default>
+
+315
+00:16:17,190 --> 00:16:18,440
+<Default><b>Screw this.</b></Default>
+
+316
+00:16:19,940 --> 00:16:23,230
+<Default><b>- [rain drumming]
+- [Itsuki's mom sobbing]</b></Default>
+
+317
+00:16:32,490 --> 00:16:34,530
+<Default><b>[ITSUKI]
+I refuse to accept this.</b></Default>
+
+318
+00:16:36,039 --> 00:16:38,159
+<Default><b>I'm not inferior
+to anyone!</b></Default>
+
+319
+00:16:40,039 --> 00:16:41,119
+<Default><b>[grunts]</b></Default>
+
+320
+00:16:43,500 --> 00:16:45,980
+<Default><b>[MYNE] I'm the only one
+who understands you.</b></Default>
+
+321
+00:16:46,419 --> 00:16:47,696
+<Default><b>[Itsuki gasps]</b></Default>
+
+322
+00:16:47,720 --> 00:16:49,000
+<Default><b>That's right.</b></Default>
+
+323
+00:16:49,049 --> 00:16:50,946
+<Default><b>I still have someone
+by my side</b></Default>
+
+324
+00:16:50,970 --> 00:16:53,090
+<Default><b>who chooses to believe in
+who I am.</b></Default>
+
+325
+00:16:53,350 --> 00:16:54,750
+<Default><b>Sir Itsuki, I...</b></Default>
+
+326
+00:16:54,929 --> 00:16:57,639
+<Default><b>Princess Malty
+is the only one left who...</b></Default>
+
+327
+00:16:59,809 --> 00:17:00,995
+<Default><b>Sir Itsuki, wait!</b></Default>
+
+328
+00:17:01,019 --> 00:17:03,019
+<Default><b>Hey, get back
+here, coward!</b></Default>
+
+329
+00:17:04,109 --> 00:17:05,545
+<Default><b>[ITSUKI]
+I'm sure Princess Malty</b></Default>
+
+330
+00:17:05,569 --> 00:17:07,409
+<Default><b>will understand
+everything.</b></Default>
+
+331
+00:17:07,529 --> 00:17:09,859
+<Default><b>And that I'm on the side
+of justice!</b></Default>
+
+332
+00:17:10,950 --> 00:17:13,426
+<Default><b>[MYNE] I'm the only one
+who understands you.</b></Default>
+
+333
+00:17:13,450 --> 00:17:16,329
+<Default><b>I can tell that you care
+deeply for this world</b></Default>
+
+334
+00:17:16,490 --> 00:17:18,970
+<Default><b>and all the innocent people
+that live in it.</b></Default>
+
+335
+00:17:19,369 --> 00:17:22,209
+<Default><b>[MYNE] But everyone else
+only cares about themselves.</b></Default>
+
+336
+00:17:22,710 --> 00:17:25,210
+<Default><b>Everyone except for you</b></Default>
+
+337
+00:17:25,880 --> 00:17:27,606
+<Default><b>No matter what
+anyone says</b></Default>
+
+338
+00:17:27,630 --> 00:17:29,946
+<Default><b>you always charge ahead
+to save people in need</b></Default>
+
+339
+00:17:29,970 --> 00:17:31,406
+<Default><b>and stand for justice.</b></Default>
+
+340
+00:17:31,430 --> 00:17:33,235
+<Default><b>The way that
+every hero should.</b></Default>
+
+341
+00:17:33,259 --> 00:17:34,759
+<Default><b>Yeah, but I...</b></Default>
+
+342
+00:17:35,559 --> 00:17:38,980
+<Default><b>You've been
+through a lot</b></Default>
+
+343
+00:17:39,230 --> 00:17:40,285
+<Default><b>[Itsuki grunts]</b></Default>
+
+344
+00:17:40,309 --> 00:17:43,559
+<Default><b>This is a gift for you</b></Default>
+
+345
+00:17:45,559 --> 00:17:46,730
+<Default><b>[gasps]</b></Default>
+
+346
+00:17:48,529 --> 00:17:51,450
+<Default><b>[ITSUKI] That's right.
+I'm not the one in the wrong.</b></Default>
+
+347
+00:17:51,819 --> 00:17:53,716
+<Default><b>But I need to take it
+upon myself</b></Default>
+
+348
+00:17:53,740 --> 00:17:55,700
+<Default><b>to save the
+ignorant that are.</b></Default>
+
+349
+00:17:55,910 --> 00:17:57,619
+<Default><b>Because I am justice!</b></Default>
+
+350
+00:17:58,579 --> 00:17:59,939
+<Default><b>I'll save them!</b></Default>
+
+351
+00:18:05,500 --> 00:18:06,539
+<Default><b>Huh?</b></Default>
+
+352
+00:18:14,470 --> 00:18:15,670
+<Default><b>Sir Itsuki.</b></Default>
+
+353
+00:18:17,220 --> 00:18:19,340
+<Default><b>Seems like Witch
+left you a letter.</b></Default>
+
+354
+00:18:19,599 --> 00:18:21,785
+<Default><b>[NAOFUMI]
+Itsuki, you oughta read it.</b></Default>
+
+355
+00:18:21,809 --> 00:18:23,009
+<Default><b>[grimacing]</b></Default>
+
+356
+00:18:23,940 --> 00:18:25,859
+<Default><b>All right. I'll
+do it then.</b></Default>
+
+357
+00:18:29,740 --> 00:18:31,940
+<Default><b>If what I'm reading here
+is the truth</b></Default>
+
+358
+00:18:32,029 --> 00:18:34,309
+<Default><b>Bitch spent all
+the prize money he won.</b></Default>
+
+359
+00:18:34,869 --> 00:18:36,069
+<Default><b>[grimacing]</b></Default>
+
+360
+00:18:36,279 --> 00:18:39,579
+<Default><b>[MYNE] Tell me, was it fun
+pretending to be a hero?</b></Default>
+
+361
+00:18:40,039 --> 00:18:42,265
+<Default><b>You looked like you were having
+a grand old time</b></Default>
+
+362
+00:18:42,289 --> 00:18:44,329
+<Default><b>imagining you were
+saving people.</b></Default>
+
+363
+00:18:44,579 --> 00:18:47,000
+<Default><b>Well, it was a lot of
+easy money for us</b></Default>
+
+364
+00:18:47,170 --> 00:18:49,290
+<Default><b>so I really should be
+thanking you.</b></Default>
+
+365
+00:18:49,339 --> 00:18:51,420
+<Default><b>Oh. If you
+see the Shield</b></Default>
+
+366
+00:18:51,509 --> 00:18:53,720
+<Default><b>please do me a favor
+and kill him.</b></Default>
+
+367
+00:18:54,089 --> 00:18:56,369
+<Default><b>Do that and we'll see
+each other again.</b></Default>
+
+368
+00:18:56,799 --> 00:18:57,985
+<Default><b>One last thing.</b></Default>
+
+369
+00:18:58,009 --> 00:19:00,089
+<Default><b>I left you another
+little present.</b></Default>
+
+370
+00:19:00,259 --> 00:19:02,899
+<Default><b>She says that she left him
+some kind of present.</b></Default>
+
+371
+00:19:03,390 --> 00:19:05,480
+<Default><b>And to have fun
+paying it back.</b></Default>
+
+372
+00:19:06,230 --> 00:19:07,995
+<Default><b>All of these
+are debt notes.</b></Default>
+
+373
+00:19:08,019 --> 00:19:10,739
+<Default><b>And each one of them's
+marked with Itsuki's stamp.</b></Default>
+
+374
+00:19:11,150 --> 00:19:12,295
+<Default><b>[ITSUKI] I am.</b></Default>
+
+375
+00:19:12,319 --> 00:19:13,359
+<Default><b>[gasps]</b></Default>
+
+376
+00:19:14,069 --> 00:19:15,109
+<Default><b>I am.</b></Default>
+
+377
+00:19:15,490 --> 00:19:16,529
+<Default><b>I am.</b></Default>
+
+378
+00:19:16,819 --> 00:19:17,869
+<Default><b>I am.</b></Default>
+
+379
+00:19:18,240 --> 00:19:19,400
+<Default><b>[shatters]</b></Default>
+
+380
+00:19:22,950 --> 00:19:24,270
+<Default><b>[ITSUKI] I am.</b></Default>
+
+381
+00:19:24,710 --> 00:19:26,119
+<Default><b>I am.</b></Default>
+
+382
+00:19:27,329 --> 00:19:29,750
+<Default><b>I am.</b></Default>
+
+383
+00:19:31,960 --> 00:19:33,520
+<Default><b>[RISHIA] Sir Itsuki!</b></Default>
+
+384
+00:19:41,259 --> 00:19:43,470
+<Default><b>[crows cawing]</b></Default>
+
+385
+00:19:44,430 --> 00:19:45,680
+<Default><b>Huh?</b></Default>
+
+386
+00:19:48,650 --> 00:19:50,650
+<Default><b>- [Grandma 11-A laughs]
+- Huh?</b></Default>
+
+387
+00:19:51,150 --> 00:19:54,279
+<Default><b>[GRANDMA
+11-A] Oh, Itsuki</b></Default>
+
+388
+00:19:57,319 --> 00:19:58,399
+<Default><b>[laughs]</b></Default>
+
+389
+00:20:10,460 --> 00:20:11,500
+<Default><b>Huh?</b></Default>
+
+390
+00:20:23,640 --> 00:20:26,320
+<Default><b>[RISHIA] This is Naofumi
+and his party's village.</b></Default>
+
+391
+00:20:29,190 --> 00:20:31,416
+<Default><b>He generously agreed
+to help you pay off</b></Default>
+
+392
+00:20:31,440 --> 00:20:33,280
+<Default><b>all the debts
+that you owe.</b></Default>
+
+393
+00:20:36,279 --> 00:20:37,795
+<Default><b>And don't you worry.</b></Default>
+
+394
+00:20:37,819 --> 00:20:39,579
+<Default><b>I'll be by
+your side too!</b></Default>
+
+395
+00:20:39,819 --> 00:20:41,345
+<Default><b>Once they're paid off</b></Default>
+
+396
+00:20:41,369 --> 00:20:43,609
+<Default><b>we can go on a journey
+together again!</b></Default>
+
+397
+00:20:43,990 --> 00:20:45,030
+<Default><b>[gasps]</b></Default>
+
+398
+00:20:46,039 --> 00:20:47,599
+<Default><b>[RISHIA] Sir Itsuki.</b></Default>
+
+399
+00:20:57,509 --> 00:20:59,380
+<Default><b>♪</b></Default>
+
+400
+00:21:07,559 --> 00:21:08,940
+<Default><b>[kids giggling]</b></Default>
+
+401
+00:21:10,230 --> 00:21:11,750
+<Default><b>Wait up! [Giggling]</b></Default>
+
+402
+00:21:11,859 --> 00:21:13,939
+<Default><b>[DEMI-HUMAN KID 11-A (M)]
+Come on!</b></Default>
+
+403
+00:21:14,109 --> 00:21:17,029
+<Default><b>[NAOFUMI] The translucent
+weapon Rishia used back then.</b></Default>
+
+404
+00:21:17,650 --> 00:21:19,716
+<Default><b>[NAOFUMI]
+Unfortunately, even the Queen</b></Default>
+
+405
+00:21:19,740 --> 00:21:21,460
+<Default><b>didn't know what it was.</b></Default>
+
+406
+00:21:22,240 --> 00:21:25,529
+<Default><b>Either way, the Phoenix
+will be reviving soon</b></Default>
+
+407
+00:21:25,619 --> 00:21:28,039
+<Default><b>and all four heroes
+are finally together</b></Default>
+
+408
+00:21:28,369 --> 00:21:30,929
+<Default><b>we've even shared methods
+to make us stronger.</b></Default>
+
+409
+00:21:31,789 --> 00:21:34,629
+<Default><b>All that's left is to make
+my lands better protected.</b></Default>
+
+410
+00:21:35,670 --> 00:21:38,390
+<Default><b>Do you think the Bow Hero
+will eventually be okay?</b></Default>
+
+411
+00:21:39,009 --> 00:21:40,380
+<Default><b>[Naofumi sighs]</b></Default>
+
+412
+00:21:40,589 --> 00:21:43,549
+<Default><b>[NAOFUMI] He succumbed to
+the power of the Curse series.</b></Default>
+
+413
+00:21:43,849 --> 00:21:47,180
+<Default><b>His companions betrayed him
+and his bow rejected him.</b></Default>
+
+414
+00:21:50,559 --> 00:21:53,650
+<Default><b>Itsuki may have had his
+own idea about what justice is.</b></Default>
+
+415
+00:21:55,940 --> 00:21:58,859
+<Default><b>[NAOFUMI] But "justice"
+is a complicated thing.</b></Default>
+

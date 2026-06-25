@@ -1,0 +1,1636 @@
+﻿1
+00:00:01,169 --> 00:00:04,379
+<Default><b>♪</b></Default>
+
+2
+00:00:08,720 --> 00:00:09,920
+<Default><b>[straining]</b></Default>
+
+3
+00:00:10,599 --> 00:00:11,759
+<Default><b>[shouting]</b></Default>
+
+4
+00:00:17,809 --> 00:00:19,190
+<Default><b>[grunts]</b></Default>
+
+5
+00:00:24,609 --> 00:00:25,756
+<Default><b>This isn't good.</b></Default>
+
+6
+00:00:25,780 --> 00:00:27,580
+<Default><b>I can't block
+what's next!</b></Default>
+
+7
+00:00:28,949 --> 00:00:30,149
+<Default><b>[crackling]</b></Default>
+
+8
+00:00:30,820 --> 00:00:32,420
+<Default><b>[ATLA]
+Leave it to me!</b></Default>
+
+9
+00:00:37,659 --> 00:00:39,179
+<Default><b>- [shouting]
+- Atla!</b></Default>
+
+10
+00:00:43,090 --> 00:00:44,130
+<Default><b>[gasps]</b></Default>
+
+11
+00:00:49,880 --> 00:00:50,929
+<Default><b>Atla!</b></Default>
+
+12
+00:00:53,549 --> 00:00:54,969
+<Default><b>Atla...</b></Default>
+
+13
+00:00:55,719 --> 00:00:57,179
+<Default><b>Master Naofumi!</b></Default>
+
+14
+00:00:59,520 --> 00:01:00,960
+<Default><b>[water trickling]</b></Default>
+
+15
+00:01:02,350 --> 00:01:03,470
+<Default><b>[panting]</b></Default>
+
+16
+00:01:07,609 --> 00:01:09,249
+<Default><b>[NAOFUMI]
+Stay with me.</b></Default>
+
+17
+00:02:45,750 --> 00:02:46,855
+<Default><b>[coughing]</b></Default>
+
+18
+00:02:46,879 --> 00:02:49,199
+<Default><b>I didn't know
+you couldn't swim Sir Ren.</b></Default>
+
+19
+00:02:49,750 --> 00:02:51,485
+<Default><b>It's not one of
+my strengths.</b></Default>
+
+20
+00:02:51,509 --> 00:02:52,629
+<Default><b>[hissing]</b></Default>
+
+21
+00:02:52,879 --> 00:02:55,090
+<Default><b>Sorry, Atla,
+was that painful?</b></Default>
+
+22
+00:02:55,219 --> 00:02:56,969
+<Default><b>A little, but I'm okay.</b></Default>
+
+23
+00:02:57,139 --> 00:02:58,779
+<Default><b>[FOHL]
+Ow, that stings!</b></Default>
+
+24
+00:02:59,180 --> 00:03:01,259
+<Default><b>Stop whining.
+It's not that bad.</b></Default>
+
+25
+00:03:01,349 --> 00:03:02,549
+<Default><b>[squirming]</b></Default>
+
+26
+00:03:05,310 --> 00:03:07,110
+<Default><b>[RAPHTALIA]
+Master Naofumi.</b></Default>
+
+27
+00:03:07,520 --> 00:03:08,665
+<Default><b>How's Filo?</b></Default>
+
+28
+00:03:08,689 --> 00:03:10,246
+<Default><b>She's still
+hanging in there</b></Default>
+
+29
+00:03:10,270 --> 00:03:12,376
+<Default><b>but her levels are
+going down rapidly.</b></Default>
+
+30
+00:03:12,400 --> 00:03:14,150
+<Default><b>I see, that means...</b></Default>
+
+31
+00:03:14,319 --> 00:03:16,216
+<Default><b>We don't have
+much time left.</b></Default>
+
+32
+00:03:16,240 --> 00:03:18,080
+<Default><b>Yeah, I think
+you're right.</b></Default>
+
+33
+00:03:18,409 --> 00:03:19,756
+<Default><b>By tomorrow morning</b></Default>
+
+34
+00:03:19,780 --> 00:03:22,140
+<Default><b>he'll have drained away
+every last level.</b></Default>
+
+35
+00:03:22,490 --> 00:03:24,385
+<Default><b>[NAOFUMI] The most effective
+attack we've got right now</b></Default>
+
+36
+00:03:24,409 --> 00:03:27,210
+<Default><b>is Atla's which scales off
+the enemy's defense stat.</b></Default>
+
+37
+00:03:27,539 --> 00:03:28,539
+<Default><b>But...</b></Default>
+
+38
+00:03:32,129 --> 00:03:33,169
+<Default><b>[sighs]</b></Default>
+
+39
+00:03:34,919 --> 00:03:36,526
+<Default><b>[WYNDIA]
+How're you feeling?</b></Default>
+
+40
+00:03:36,550 --> 00:03:38,485
+<Default><b>[ATLA]
+Much better now, thanks.</b></Default>
+
+41
+00:03:38,509 --> 00:03:40,229
+<Default><b>[WYNDIA]
+That's a relief.</b></Default>
+
+42
+00:03:40,349 --> 00:03:41,615
+<Default><b>Oh, by the way</b></Default>
+
+43
+00:03:41,639 --> 00:03:44,115
+<Default><b>there's something I've been
+meaning to ask you, Wyndia.</b></Default>
+
+44
+00:03:44,139 --> 00:03:45,246
+<Default><b>What is it?</b></Default>
+
+45
+00:03:45,270 --> 00:03:46,939
+<Default><b>I was just wondering</b></Default>
+
+46
+00:03:47,099 --> 00:03:49,859
+<Default><b>is that giant dragon back
+there really your father?</b></Default>
+
+47
+00:03:50,060 --> 00:03:51,260
+<Default><b>[crackling]</b></Default>
+
+48
+00:03:52,069 --> 00:03:53,150
+<Default><b>Yes.</b></Default>
+
+49
+00:03:53,610 --> 00:03:55,450
+<Default><b>He's the one
+who raised me.</b></Default>
+
+50
+00:03:56,449 --> 00:03:57,569
+<Default><b>[panting]</b></Default>
+
+51
+00:04:04,789 --> 00:04:05,869
+<Default><b>[crying]</b></Default>
+
+52
+00:04:07,750 --> 00:04:09,230
+<Default><b>[birds fluttering]</b></Default>
+
+53
+00:04:23,100 --> 00:04:24,220
+<Default><b>I'm sorry</b></Default>
+
+54
+00:04:24,350 --> 00:04:26,470
+<Default><b>but can you watch over
+my daughter?</b></Default>
+
+55
+00:04:27,019 --> 00:04:28,139
+<Default><b>[roaring]</b></Default>
+
+56
+00:04:34,029 --> 00:04:35,269
+<Default><b>I thank you.</b></Default>
+
+57
+00:04:35,480 --> 00:04:39,029
+<Default><b>My daughter's
+name is... Wyndia.</b></Default>
+
+58
+00:04:39,240 --> 00:04:40,819
+<Default><b>[crying]</b></Default>
+
+59
+00:04:45,410 --> 00:04:46,530
+<Default><b>[hissing]</b></Default>
+
+60
+00:04:48,160 --> 00:04:49,170
+<Default><b>Huh?</b></Default>
+
+61
+00:04:56,759 --> 00:04:57,839
+<Default><b>[crying]</b></Default>
+
+62
+00:05:00,470 --> 00:05:01,630
+<Default><b>[thudding]</b></Default>
+
+63
+00:05:01,930 --> 00:05:03,050
+<Default><b>[wailing]</b></Default>
+
+64
+00:05:03,759 --> 00:05:05,060
+<Default><b>[clattering]</b></Default>
+
+65
+00:05:05,639 --> 00:05:06,759
+<Default><b>[wailing]</b></Default>
+
+66
+00:05:15,819 --> 00:05:19,819
+<Default><b>♪</b></Default>
+
+67
+00:05:34,879 --> 00:05:35,999
+<Default><b>[roaring]</b></Default>
+
+68
+00:05:37,589 --> 00:05:38,709
+<Default><b>[roaring]</b></Default>
+
+69
+00:05:40,379 --> 00:05:42,220
+<Default><b>♪</b></Default>
+
+70
+00:05:52,600 --> 00:05:53,800
+<Default><b>[crackling]</b></Default>
+
+71
+00:05:59,439 --> 00:06:01,779
+<Default><b>This is super yummy</b></Default>
+
+72
+00:06:09,490 --> 00:06:10,500
+<Default><b>Huh?</b></Default>
+
+73
+00:06:10,620 --> 00:06:12,500
+<Default><b>Why is this one
+upside-down?</b></Default>
+
+74
+00:06:14,209 --> 00:06:15,329
+<Default><b>[roaring]</b></Default>
+
+75
+00:06:15,879 --> 00:06:17,396
+<Default><b>[gasps]
+Dad, what's wrong?</b></Default>
+
+76
+00:06:17,420 --> 00:06:19,855
+<Default><b>I'm sorry! I didn't know
+that it would hurt you!</b></Default>
+
+77
+00:06:19,879 --> 00:06:23,300
+<Default><b>It was an accident! I promise
+I didn't mean to do it, really!</b></Default>
+
+78
+00:06:23,839 --> 00:06:25,889
+<Default><b>That's right.
+I'd almost forgot!</b></Default>
+
+79
+00:06:26,100 --> 00:06:27,100
+<Default><b>Huh?</b></Default>
+
+80
+00:06:27,310 --> 00:06:28,950
+<Default><b>The upside-down scale.</b></Default>
+
+81
+00:06:29,139 --> 00:06:30,659
+<Default><b>Is something wrong?</b></Default>
+
+82
+00:06:30,720 --> 00:06:33,139
+<Default><b>I have to go and tell the
+Shield Hero!</b></Default>
+
+83
+00:06:34,310 --> 00:06:36,586
+<Default><b>This is a good ways
+out from the village.</b></Default>
+
+84
+00:06:36,610 --> 00:06:38,415
+<Default><b>If we can lure
+the dragon here</b></Default>
+
+85
+00:06:38,439 --> 00:06:40,359
+<Default><b>we can attack
+him from above.</b></Default>
+
+86
+00:06:40,439 --> 00:06:41,586
+<Default><b>Not only that</b></Default>
+
+87
+00:06:41,610 --> 00:06:43,970
+<Default><b>the dragon vein is
+especially strong here</b></Default>
+
+88
+00:06:44,029 --> 00:06:46,295
+<Default><b>so we'll have the
+protection of the land as well.</b></Default>
+
+89
+00:06:46,319 --> 00:06:48,555
+<Default><b>I think this is a great place
+to fight him.</b></Default>
+
+90
+00:06:48,579 --> 00:06:50,939
+<Default><b>But why would he
+willingly come out here?</b></Default>
+
+91
+00:06:51,449 --> 00:06:53,409
+<Default><b>I'm gonna use
+the Wrath Shield.</b></Default>
+
+92
+00:06:54,290 --> 00:06:56,709
+<Default><b>No matter what it takes</b></Default>
+
+93
+00:06:57,339 --> 00:06:58,646
+<Default><b>[SADEENA]
+Well then, everyone</b></Default>
+
+94
+00:06:58,670 --> 00:07:00,315
+<Default><b>we better start
+getting ready!</b></Default>
+
+95
+00:07:00,339 --> 00:07:01,855
+<Default><b>[MELTY]
+I'll hide all the magic water</b></Default>
+
+96
+00:07:01,879 --> 00:07:04,599
+<Default><b>and healing potions
+that I can find in the forest.</b></Default>
+
+97
+00:07:04,670 --> 00:07:05,855
+<Default><b>[ECLAIR]
+We still need to repair</b></Default>
+
+98
+00:07:05,879 --> 00:07:07,326
+<Default><b>our weapons
+and equipment.</b></Default>
+
+99
+00:07:07,350 --> 00:07:09,076
+<Default><b>What's our attack
+plan, though?</b></Default>
+
+100
+00:07:09,100 --> 00:07:10,009
+<Default><b>Well, for starters...</b></Default>
+
+101
+00:07:10,100 --> 00:07:12,260
+<Default><b>[WYNDIA]
+There you are, Shield Hero!</b></Default>
+
+102
+00:07:12,639 --> 00:07:13,759
+<Default><b>[panting]</b></Default>
+
+103
+00:07:15,389 --> 00:07:18,019
+<Default><b>Everyone, listen!
+I figured it out!</b></Default>
+
+104
+00:07:18,110 --> 00:07:19,670
+<Default><b>I know its weakness!</b></Default>
+
+105
+00:07:23,189 --> 00:07:24,439
+<Default><b>A scale?</b></Default>
+
+106
+00:07:24,779 --> 00:07:25,925
+<Default><b>That's right.</b></Default>
+
+107
+00:07:25,949 --> 00:07:27,789
+<Default><b>One of the
+dragon's scales.</b></Default>
+
+108
+00:07:27,819 --> 00:07:29,779
+<Default><b>It's upside-down
+on its chest.</b></Default>
+
+109
+00:07:29,870 --> 00:07:31,966
+<Default><b>That scale is the
+dragon's weak spot.</b></Default>
+
+110
+00:07:31,990 --> 00:07:33,310
+<Default><b>Least I think.</b></Default>
+
+111
+00:07:33,370 --> 00:07:35,959
+<Default><b>But what do we do
+if it flies up into the air?</b></Default>
+
+112
+00:07:36,040 --> 00:07:38,640
+<Default><b>I'll attract its attention
+and coax it to land.</b></Default>
+
+113
+00:07:38,959 --> 00:07:41,799
+<Default><b>Can anyone pin it down
+before it starts flying again?</b></Default>
+
+114
+00:07:41,920 --> 00:07:42,985
+<Default><b>Leave it to me.</b></Default>
+
+115
+00:07:43,009 --> 00:07:44,985
+<Default><b>I've got just the
+Choral spell for that.</b></Default>
+
+116
+00:07:45,009 --> 00:07:46,656
+<Default><b>But Wyndia and
+Melty can help</b></Default>
+
+117
+00:07:46,680 --> 00:07:48,906
+<Default><b>in case I'm not able
+to handle it on my own.</b></Default>
+
+118
+00:07:48,930 --> 00:07:49,930
+<Default><b>Huh?</b></Default>
+
+119
+00:07:50,430 --> 00:07:52,156
+<Default><b>[SADEENA]
+Can I count on you girls?</b></Default>
+
+120
+00:07:52,180 --> 00:07:54,769
+<Default><b>Not to worry.
+The two of us have your back.</b></Default>
+
+121
+00:07:54,970 --> 00:07:56,495
+<Default><b>I'm gonna
+give it my all!</b></Default>
+
+122
+00:07:56,519 --> 00:07:58,245
+<Default><b>As for Raphtalia
+and Eclair</b></Default>
+
+123
+00:07:58,269 --> 00:08:01,189
+<Default><b>I need you to use attacks
+that'll shatter his defenses.</b></Default>
+
+124
+00:08:01,319 --> 00:08:02,956
+<Default><b>Ren and Sadeena
+can work together</b></Default>
+
+125
+00:08:02,980 --> 00:08:04,545
+<Default><b>to pierce the
+weak scale.</b></Default>
+
+126
+00:08:04,569 --> 00:08:07,289
+<Default><b>I feel that's the best
+course of action we've got.</b></Default>
+
+127
+00:08:07,319 --> 00:08:09,069
+<Default><b>♪</b></Default>
+
+128
+00:08:14,410 --> 00:08:15,886
+<Default><b>You sure you're okay?</b></Default>
+
+129
+00:08:15,910 --> 00:08:17,070
+<Default><b>Yeah, why?</b></Default>
+
+130
+00:08:17,209 --> 00:08:19,396
+<Default><b>Well, we're about to go
+fight your dad.</b></Default>
+
+131
+00:08:19,420 --> 00:08:21,516
+<Default><b>It's gotta have you
+a little worried, right?</b></Default>
+
+132
+00:08:21,540 --> 00:08:22,540
+<Default><b>Sure.</b></Default>
+
+133
+00:08:22,629 --> 00:08:24,829
+<Default><b>But I promise you
+that I'm all right!</b></Default>
+
+134
+00:08:25,170 --> 00:08:27,130
+<Default><b>The reason I
+came back here is</b></Default>
+
+135
+00:08:27,170 --> 00:08:29,450
+<Default><b>so I can finally say
+goodbye to my dad.</b></Default>
+
+136
+00:08:30,259 --> 00:08:33,639
+<Default><b>Huh? Wow, you've got quite
+the strong spirit, Wyndia.</b></Default>
+
+137
+00:08:34,470 --> 00:08:35,950
+<Default><b>You must love him.</b></Default>
+
+138
+00:08:36,179 --> 00:08:39,639
+<Default><b>Aw, look at this!
+You're such good little kids!</b></Default>
+
+139
+00:08:39,769 --> 00:08:41,745
+<Default><b>Is now really the time
+to be drinking?</b></Default>
+
+140
+00:08:41,769 --> 00:08:43,969
+<Default><b>It's the perfect time
+to be drinking!</b></Default>
+
+141
+00:08:44,769 --> 00:08:46,369
+<Default><b>Don't you worry kids.</b></Default>
+
+142
+00:08:46,399 --> 00:08:48,079
+<Default><b>No matter what happens.</b></Default>
+
+143
+00:08:48,240 --> 00:08:49,926
+<Default><b>I swear I'll
+protect you.</b></Default>
+
+144
+00:08:49,950 --> 00:08:52,529
+<Default><b>'Cause look at you!
+You're both so adorable.</b></Default>
+
+145
+00:08:52,659 --> 00:08:54,346
+<Default><b>- You're so cute!
+- You reek of alcohol!</b></Default>
+
+146
+00:08:54,370 --> 00:08:57,306
+<Default><b>Are you gonna be able to fight
+while you're drunk, Sadeena?</b></Default>
+
+147
+00:08:57,330 --> 00:08:59,210
+<Default><b>Huh? Don't
+worry about me!</b></Default>
+
+148
+00:08:59,289 --> 00:09:01,830
+<Default><b>I feel like the
+more I drink</b></Default>
+
+149
+00:09:01,919 --> 00:09:03,186
+<Default><b> [groans]
+- [chuckles]</b></Default>
+
+150
+00:09:03,210 --> 00:09:06,340
+<Default><b>♪</b></Default>
+
+151
+00:09:07,299 --> 00:09:10,549
+<Default><b>Grant me the power to overcome
+the obstacles before me!</b></Default>
+
+152
+00:09:12,639 --> 00:09:13,970
+<Default><b>Hang on, Filo.</b></Default>
+
+153
+00:09:14,100 --> 00:09:16,059
+<Default><b>♪</b></Default>
+
+154
+00:09:23,769 --> 00:09:25,089
+<Default><b>[RAPHY] Raphy.</b></Default>
+
+155
+00:09:25,440 --> 00:09:27,206
+<Default><b>You need to go and hide
+with the other kids.</b></Default>
+
+156
+00:09:27,230 --> 00:09:29,296
+<Default><b>Please, Master.
+Let me fight with you.</b></Default>
+
+157
+00:09:29,320 --> 00:09:30,860
+<Default><b>- Atla.
+- Please.</b></Default>
+
+158
+00:09:30,990 --> 00:09:32,755
+<Default><b>We need you
+as our last resort.</b></Default>
+
+159
+00:09:32,779 --> 00:09:35,306
+<Default><b>And we can't have you
+getting injured before that.</b></Default>
+
+160
+00:09:35,330 --> 00:09:37,450
+<Default><b>I want to have
+an ace up my sleeve.</b></Default>
+
+161
+00:09:37,539 --> 00:09:38,819
+<Default><b>I'm your ace?</b></Default>
+
+162
+00:09:38,909 --> 00:09:41,460
+<Default><b>Fine. If it helps you</b></Default>
+
+163
+00:09:41,659 --> 00:09:42,895
+<Default><b>Hey, big brother!</b></Default>
+
+164
+00:09:42,919 --> 00:09:45,279
+<Default><b>[ATLA] Guess what
+Master Naofumi told me!</b></Default>
+
+165
+00:09:46,000 --> 00:09:47,525
+<Default><b>[NAOFUMI]
+I still don't fully understand</b></Default>
+
+166
+00:09:47,549 --> 00:09:49,485
+<Default><b>the ins and outs
+of Atla's power.</b></Default>
+
+167
+00:09:49,509 --> 00:09:51,829
+<Default><b>So it's too risky to try
+and rely on it.</b></Default>
+
+168
+00:09:52,509 --> 00:09:54,509
+<Default><b>We'll end this
+before sunrise.</b></Default>
+
+169
+00:09:55,090 --> 00:09:56,490
+<Default><b>Let's go, Raphy.</b></Default>
+
+170
+00:09:56,809 --> 00:09:58,129
+<Default><b>[RAPHY] Raphy.</b></Default>
+
+171
+00:09:58,519 --> 00:10:01,230
+<Default><b>Come forth!
+Wrath Shield!</b></Default>
+
+172
+00:10:09,029 --> 00:10:11,029
+<Default><b>♪</b></Default>
+
+173
+00:10:27,090 --> 00:10:28,710
+<Default><b>- [grunts]
+- Raphy!</b></Default>
+
+174
+00:10:29,549 --> 00:10:31,149
+<Default><b>- [straining]
+- Raphy.</b></Default>
+
+175
+00:10:32,590 --> 00:10:33,750
+<Default><b>Stay back!</b></Default>
+
+176
+00:10:34,840 --> 00:10:36,160
+<Default><b>I'm all right.</b></Default>
+
+177
+00:10:40,220 --> 00:10:41,480
+<Default><b>There he is.</b></Default>
+
+178
+00:10:44,889 --> 00:10:46,375
+<Default><b>[SADEENA, MELTY, WYNDIA]
+Dragon vein</b></Default>
+
+179
+00:10:46,399 --> 00:10:48,745
+<Default><b>We call out so that
+you may hear our wish!</b></Default>
+
+180
+00:10:48,769 --> 00:10:51,360
+<Default><b>As source of thy power</b></Default>
+
+181
+00:10:51,529 --> 00:10:53,586
+<Default><b>Impart to me
+the laws of the nature</b></Default>
+
+182
+00:10:53,610 --> 00:10:55,086
+<Default><b>and grant me
+the power to</b></Default>
+
+183
+00:10:55,110 --> 00:10:57,150
+<Default><b>overcome the
+obstacles before me!</b></Default>
+
+184
+00:10:58,159 --> 00:11:00,096
+<Default><b>[EMPEROR DRAGON] If you
+sacrifice yourself to me</b></Default>
+
+185
+00:11:00,120 --> 00:11:01,306
+<Default><b>Shield Hero</b></Default>
+
+186
+00:11:01,330 --> 00:11:04,289
+<Default><b>then you have my word
+that I will do all in my power</b></Default>
+
+187
+00:11:04,370 --> 00:11:07,130
+<Default><b>to exact revenge on the
+humans who made you suffer.</b></Default>
+
+188
+00:11:07,250 --> 00:11:09,130
+<Default><b>[scoffs]
+Don't make me laugh.</b></Default>
+
+189
+00:11:10,090 --> 00:11:11,936
+<Default><b>[MELTY, WYNDIA. SADEENA]
+Choral Magic!</b></Default>
+
+190
+00:11:11,960 --> 00:11:13,379
+<Default><b>Boundless Sea!</b></Default>
+
+191
+00:11:14,919 --> 00:11:17,929
+<Default><b>♪</b></Default>
+
+192
+00:11:18,139 --> 00:11:19,219
+<Default><b>[grunts]</b></Default>
+
+193
+00:11:27,269 --> 00:11:29,309
+<Default><b>[SADEENA]
+Dragonfury Dual Blades!</b></Default>
+
+194
+00:11:32,860 --> 00:11:34,046
+<Default><b>And one more.</b></Default>
+
+195
+00:11:34,070 --> 00:11:35,610
+<Default><b>Orca Strike!</b></Default>
+
+196
+00:11:41,200 --> 00:11:42,280
+<Default><b>[grunts]</b></Default>
+
+197
+00:11:43,539 --> 00:11:46,289
+<Default><b>Not good, we need her
+to keep the barrier up!</b></Default>
+
+198
+00:11:46,539 --> 00:11:48,355
+<Default><b>There's no time
+for weakness!</b></Default>
+
+199
+00:11:48,379 --> 00:11:50,355
+<Default><b>We'll just have to
+try it again!</b></Default>
+
+200
+00:11:50,379 --> 00:11:51,379
+<Default><b>Right!</b></Default>
+
+201
+00:11:53,840 --> 00:11:55,299
+<Default><b>Eclair! Now!</b></Default>
+
+202
+00:11:56,470 --> 00:11:58,799
+<Default><b>Multistrike
+Crumble Attack!</b></Default>
+
+203
+00:11:58,889 --> 00:12:00,115
+<Default><b>[NAOFUMI]
+If he raises his defense</b></Default>
+
+204
+00:12:00,139 --> 00:12:01,615
+<Default><b>we use attacks
+that scale.</b></Default>
+
+205
+00:12:01,639 --> 00:12:04,319
+<Default><b>If he lowers it, then we
+use our strongest moves.</b></Default>
+
+206
+00:12:06,179 --> 00:12:07,559
+<Default><b>We can do this!</b></Default>
+
+207
+00:12:09,269 --> 00:12:10,649
+<Default><b>Meteor Shield!</b></Default>
+
+208
+00:12:13,860 --> 00:12:14,940
+<Default><b>[grunts]</b></Default>
+
+209
+00:12:15,149 --> 00:12:16,149
+<Default><b>♪</b></Default>
+
+210
+00:12:17,450 --> 00:12:19,700
+<Default><b>[shouting]</b></Default>
+
+211
+00:12:22,830 --> 00:12:24,240
+<Default><b>Now, Raphtalia!</b></Default>
+
+212
+00:12:25,539 --> 00:12:27,870
+<Default><b>Life Force Blade</b></Default>
+
+213
+00:12:29,539 --> 00:12:31,960
+<Default><b>♪</b></Default>
+
+214
+00:12:40,090 --> 00:12:41,290
+<Default><b>[straining]</b></Default>
+
+215
+00:12:51,940 --> 00:12:54,269
+<Default><b>Master Naofumi,
+I'm sorry.</b></Default>
+
+216
+00:13:01,320 --> 00:13:02,885
+<Default><b>[EMPEROR DRAGON]
+Shield Hero</b></Default>
+
+217
+00:13:02,909 --> 00:13:06,370
+<Default><b>your folly demands a death
+ripe with suffering!</b></Default>
+
+218
+00:13:08,789 --> 00:13:09,949
+<Default><b>[groaning]</b></Default>
+
+219
+00:13:14,629 --> 00:13:16,066
+<Default><b>[WYNDIA, MELTY]
+Oh, tainted land</b></Default>
+
+220
+00:13:16,090 --> 00:13:19,220
+<Default><b>alter the flow of your
+accursed dragon vein.</b></Default>
+
+221
+00:13:20,299 --> 00:13:21,499
+<Default><b>[crackling]</b></Default>
+
+222
+00:13:24,139 --> 00:13:25,220
+<Default><b>Not yet.</b></Default>
+
+223
+00:13:25,470 --> 00:13:27,769
+<Default><b>We still... need more.</b></Default>
+
+224
+00:13:30,100 --> 00:13:32,019
+<Default><b>[FOHL] Hey, Atla.</b></Default>
+
+225
+00:13:33,149 --> 00:13:35,495
+<Default><b>What do we do
+if their plan doesn't work?</b></Default>
+
+226
+00:13:35,519 --> 00:13:37,480
+<Default><b>As Master
+Naofumi's servants</b></Default>
+
+227
+00:13:37,740 --> 00:13:39,586
+<Default><b>we have a
+duty to carry out.</b></Default>
+
+228
+00:13:39,610 --> 00:13:41,426
+<Default><b>In order to help
+the plan succeed</b></Default>
+
+229
+00:13:41,450 --> 00:13:43,450
+<Default><b>we have to do
+whatever it takes.</b></Default>
+
+230
+00:13:43,700 --> 00:13:44,740
+<Default><b>Atla...</b></Default>
+
+231
+00:13:46,159 --> 00:13:49,159
+<Default><b>♪</b></Default>
+
+232
+00:13:51,039 --> 00:13:52,199
+<Default><b>[shouting]</b></Default>
+
+233
+00:13:53,879 --> 00:13:55,590
+<Default><b>[ATLA] A wall?</b></Default>
+
+234
+00:13:57,669 --> 00:13:59,259
+<Default><b>I can't break it!</b></Default>
+
+235
+00:14:00,419 --> 00:14:02,549
+<Default><b>[grunts] [screaming]</b></Default>
+
+236
+00:14:06,350 --> 00:14:07,590
+<Default><b>Big brother!</b></Default>
+
+237
+00:14:08,470 --> 00:14:10,220
+<Default><b>[roaring]</b></Default>
+
+238
+00:14:11,389 --> 00:14:12,440
+<Default><b>[gasps]</b></Default>
+
+239
+00:14:12,519 --> 00:14:13,519
+<Default><b>Atla!</b></Default>
+
+240
+00:14:13,690 --> 00:14:15,330
+<Default><b>You've gotta break it!</b></Default>
+
+241
+00:14:17,360 --> 00:14:19,610
+<Default><b>Damn it!</b></Default>
+
+242
+00:14:24,779 --> 00:14:25,859
+<Default><b>[grunts]</b></Default>
+
+243
+00:14:31,039 --> 00:14:32,959
+<Default><b>[ATLA]
+This is my last attack.</b></Default>
+
+244
+00:14:33,710 --> 00:14:35,590
+<Default><b>Even if it costs
+me my life.</b></Default>
+
+245
+00:14:36,039 --> 00:14:39,129
+<Default><b>I'll remove any obstacle that
+stands in my Masters way.</b></Default>
+
+246
+00:14:40,840 --> 00:14:42,720
+<Default><b>After all it's my duty!</b></Default>
+
+247
+00:14:47,259 --> 00:14:51,269
+<Default><b>♪</b></Default>
+
+248
+00:14:51,850 --> 00:14:53,090
+<Default><b>Because I...</b></Default>
+
+249
+00:14:53,980 --> 00:14:57,440
+<Default><b>Am Master
+Naofumi's Shield!</b></Default>
+
+250
+00:15:02,610 --> 00:15:03,650
+<Default><b>[gasps]</b></Default>
+
+251
+00:15:05,700 --> 00:15:06,820
+<Default><b>[roaring]</b></Default>
+
+252
+00:15:08,950 --> 00:15:10,110
+<Default><b>[crashing]</b></Default>
+
+253
+00:15:13,789 --> 00:15:14,829
+<Default><b>[thuds]</b></Default>
+
+254
+00:15:16,919 --> 00:15:18,239
+<Default><b>You did great.</b></Default>
+
+255
+00:15:18,960 --> 00:15:20,000
+<Default><b>Thanks.</b></Default>
+
+256
+00:15:21,000 --> 00:15:23,009
+<Default><b>[crackling]</b></Default>
+
+257
+00:15:26,049 --> 00:15:27,409
+<Default><b>There they are!</b></Default>
+
+258
+00:15:28,389 --> 00:15:29,589
+<Default><b>[straining]</b></Default>
+
+259
+00:15:32,389 --> 00:15:34,019
+<Default><b>[cooing]</b></Default>
+
+260
+00:15:40,899 --> 00:15:42,505
+<Default><b>[RAPHTALIA, MELTY]
+Filo!</b></Default>
+
+261
+00:15:42,529 --> 00:15:44,070
+<Default><b>Gaelion!</b></Default>
+
+262
+00:15:44,610 --> 00:15:45,610
+<Default><b>Filo!</b></Default>
+
+263
+00:15:45,860 --> 00:15:47,005
+<Default><b>Please wake up!</b></Default>
+
+264
+00:15:47,029 --> 00:15:49,029
+<Default><b>I'm begging you</b></Default>
+
+265
+00:15:50,240 --> 00:15:51,440
+<Default><b>[muttering]</b></Default>
+
+266
+00:15:52,950 --> 00:15:56,080
+<Default><b>Melty's here?
+And Raphtalia too?</b></Default>
+
+267
+00:15:56,370 --> 00:15:57,645
+<Default><b>Thank goodness!</b></Default>
+
+268
+00:15:57,669 --> 00:15:59,539
+<Default><b>I'm so glad you're safe.</b></Default>
+
+269
+00:16:00,169 --> 00:16:01,605
+<Default><b>Gaelion, you're okay!</b></Default>
+
+270
+00:16:01,629 --> 00:16:02,709
+<Default><b>[cooing]</b></Default>
+
+271
+00:16:03,629 --> 00:16:05,009
+<Default><b>Huh?</b></Default>
+
+272
+00:16:05,460 --> 00:16:06,660
+<Default><b>[crumbling]</b></Default>
+
+273
+00:16:10,429 --> 00:16:11,429
+<Default><b>Huh?!</b></Default>
+
+274
+00:16:13,519 --> 00:16:15,679
+<Default><b>♪</b></Default>
+
+275
+00:16:19,100 --> 00:16:20,730
+<Default><b>[gasping]</b></Default>
+
+276
+00:16:21,230 --> 00:16:22,390
+<Default><b>[bubbling]</b></Default>
+
+277
+00:16:26,740 --> 00:16:27,940
+<Default><b>[chuckling]</b></Default>
+
+278
+00:16:28,490 --> 00:16:29,690
+<Default><b>[splashing]</b></Default>
+
+279
+00:16:35,450 --> 00:16:36,476
+<Default><b>[chuckles]</b></Default>
+
+280
+00:16:36,500 --> 00:16:38,385
+<Default><b>Dad, can we
+go fly over there?</b></Default>
+
+281
+00:16:38,409 --> 00:16:40,919
+<Default><b>♪</b></Default>
+
+282
+00:16:44,000 --> 00:16:46,720
+<Default><b>Sweet dreams, Dad.
+Sleep tight, okay?</b></Default>
+
+283
+00:16:49,220 --> 00:16:52,179
+<Default><b>I'm... glad I got to
+be your daughter.</b></Default>
+
+284
+00:16:52,350 --> 00:16:53,576
+<Default><b>Goodbye, Dad.</b></Default>
+
+285
+00:16:53,600 --> 00:16:54,720
+<Default><b>[roaring]</b></Default>
+
+286
+00:16:59,559 --> 00:17:00,719
+<Default><b>[thudding]</b></Default>
+
+287
+00:17:06,480 --> 00:17:08,255
+<Default><b>[SADEENA, WYNDIA, MELTY]
+Hear me tainted land</b></Default>
+
+288
+00:17:08,279 --> 00:17:10,919
+<Default><b>for our desires and our
+wishes to save the world</b></Default>
+
+289
+00:17:10,990 --> 00:17:13,029
+<Default><b>are akin to a
+pure stream</b></Default>
+
+290
+00:17:13,119 --> 00:17:15,990
+<Default><b>washing away
+all hatred and anger.</b></Default>
+
+291
+00:17:16,289 --> 00:17:19,710
+<Default><b>Dragon vein, we call upon thee
+to grant us a miracle!</b></Default>
+
+292
+00:17:20,160 --> 00:17:22,420
+<Default><b>Erasing Aqua Splash!</b></Default>
+
+293
+00:17:23,289 --> 00:17:25,250
+<Default><b>♪</b></Default>
+
+294
+00:17:43,230 --> 00:17:44,519
+<Default><b>[shouting]</b></Default>
+
+295
+00:17:46,069 --> 00:17:47,990
+<Default><b>♪</b></Default>
+
+296
+00:18:00,829 --> 00:18:02,309
+<Default><b>Oh, no, you don't!</b></Default>
+
+297
+00:18:02,420 --> 00:18:05,839
+<Default><b>Air Strike Shield!
+Second Shield! Dritte Shield!</b></Default>
+
+298
+00:18:06,039 --> 00:18:07,199
+<Default><b>[grunting]</b></Default>
+
+299
+00:18:10,630 --> 00:18:13,009
+<Default><b>Here goes.
+Instant Blade, Mist!</b></Default>
+
+300
+00:18:14,549 --> 00:18:18,180
+<Default><b>♪</b></Default>
+
+301
+00:18:28,980 --> 00:18:31,150
+<Default><b>Is it all over now?</b></Default>
+
+302
+00:18:32,190 --> 00:18:33,200
+<Default><b>Yeah.</b></Default>
+
+303
+00:18:34,910 --> 00:18:36,070
+<Default><b>[chuckles]</b></Default>
+
+304
+00:18:42,200 --> 00:18:43,560
+<Default><b>Master Naofumi!</b></Default>
+
+305
+00:18:49,339 --> 00:18:51,025
+<Default><b>[EMPEROR DRAGON]
+Wrath will always dwell</b></Default>
+
+306
+00:18:51,049 --> 00:18:53,130
+<Default><b>within the depths
+of your heart.</b></Default>
+
+307
+00:18:58,140 --> 00:19:00,180
+<Default><b>[birds chirping]</b></Default>
+
+308
+00:19:05,059 --> 00:19:06,059
+<Default><b>Huh?</b></Default>
+
+309
+00:19:16,359 --> 00:19:17,466
+<Default><b>[MAYOR]
+Goodness.</b></Default>
+
+310
+00:19:17,490 --> 00:19:19,636
+<Default><b>I can't tell you just
+how thankful we are</b></Default>
+
+311
+00:19:19,660 --> 00:19:20,966
+<Default><b>you came, Shield Hero.</b></Default>
+
+312
+00:19:20,990 --> 00:19:22,176
+<Default><b>If it weren't for you</b></Default>
+
+313
+00:19:22,200 --> 00:19:25,160
+<Default><b>the Sword Hero would've gotten
+us killed by that plague.</b></Default>
+
+314
+00:19:25,250 --> 00:19:27,730
+<Default><b>[NAOFUMI] Don't blame Ren
+for what happened.</b></Default>
+
+315
+00:19:28,089 --> 00:19:29,476
+<Default><b>You're responsible.</b></Default>
+
+316
+00:19:29,500 --> 00:19:30,686
+<Default><b>You manipulated him</b></Default>
+
+317
+00:19:30,710 --> 00:19:33,106
+<Default><b>just so you could steal
+the dragon's treasure.</b></Default>
+
+318
+00:19:33,130 --> 00:19:34,930
+<Default><b>You got what
+you deserved.</b></Default>
+
+319
+00:19:35,259 --> 00:19:36,419
+<Default><b>[groaning]</b></Default>
+
+320
+00:19:46,599 --> 00:19:48,079
+<Default><b>Please forgive me.</b></Default>
+
+321
+00:19:49,269 --> 00:19:52,269
+<Default><b>I've done something
+that I can never atone for.</b></Default>
+
+322
+00:19:53,819 --> 00:19:55,499
+<Default><b>[WYNDIA]
+I already knew.</b></Default>
+
+323
+00:19:55,569 --> 00:19:56,569
+<Default><b>Huh?</b></Default>
+
+324
+00:19:56,819 --> 00:19:58,545
+<Default><b>I also knew that
+the villagers had</b></Default>
+
+325
+00:19:58,569 --> 00:20:00,889
+<Default><b>manipulated you to
+get what they wanted.</b></Default>
+
+326
+00:20:01,119 --> 00:20:03,410
+<Default><b>But, I still couldn't
+forgive you.</b></Default>
+
+327
+00:20:09,920 --> 00:20:11,280
+<Default><b>Thank you, Ren.</b></Default>
+
+328
+00:20:11,750 --> 00:20:12,880
+<Default><b>Huh?</b></Default>
+
+329
+00:20:13,420 --> 00:20:15,799
+<Default><b>You saved my life</b></Default>
+
+330
+00:20:16,220 --> 00:20:17,220
+<Default><b>Uh...</b></Default>
+
+331
+00:20:17,549 --> 00:20:19,759
+<Default><b>♪</b></Default>
+
+332
+00:20:24,019 --> 00:20:25,825
+<Default><b>[FATHER DRAGON ]
+I must say, Shield Hero</b></Default>
+
+333
+00:20:25,849 --> 00:20:28,745
+<Default><b>it's a wonderful thing to
+watch one's daughter grow up.</b></Default>
+
+334
+00:20:28,769 --> 00:20:31,309
+<Default><b>[gasps]
+Wait that voice. No way!</b></Default>
+
+335
+00:20:31,940 --> 00:20:34,126
+<Default><b>[FATHER DRAGON ] It seems
+this body became a vessel</b></Default>
+
+336
+00:20:34,150 --> 00:20:36,279
+<Default><b>allowing me to
+escape annihilation.</b></Default>
+
+337
+00:20:36,779 --> 00:20:37,795
+<Default><b>[NAOFUMI] Huh.</b></Default>
+
+338
+00:20:37,819 --> 00:20:40,339
+<Default><b>You sure you don't
+wanna say anything to her?</b></Default>
+
+339
+00:20:40,609 --> 00:20:43,529
+<Default><b>Not when Wyndia is trying
+to overcome my death.</b></Default>
+
+340
+00:20:43,990 --> 00:20:46,870
+<Default><b>I think it'd be best to
+keep it a secret for her sake.</b></Default>
+
+341
+00:20:47,829 --> 00:20:48,960
+<Default><b>Agreed.</b></Default>
+
+342
+00:20:49,539 --> 00:20:51,539
+<Default><b>♪</b></Default>
+
+343
+00:20:51,670 --> 00:20:52,870
+<Default><b>- Hm?
+- Huh?</b></Default>
+
+344
+00:20:53,170 --> 00:20:55,850
+<Default><b>Give back the experience
+points you took from me!</b></Default>
+
+345
+00:20:56,339 --> 00:20:57,419
+<Default><b>[scoffs]</b></Default>
+
+346
+00:20:58,130 --> 00:20:59,290
+<Default><b>[grunting]</b></Default>
+
+347
+00:21:00,220 --> 00:21:01,906
+<Default><b>Give them back!
+Give them back!</b></Default>
+
+348
+00:21:01,930 --> 00:21:03,759
+<Default><b>Give them
+back right now!</b></Default>
+
+349
+00:21:03,849 --> 00:21:06,099
+<Default><b>[NAOFUMI]
+Wait, Filo's curse is gone.</b></Default>
+
+350
+00:21:06,890 --> 00:21:08,930
+<Default><b>Did the Emperor Dragon
+absorb it?</b></Default>
+
+351
+00:21:11,230 --> 00:21:13,309
+<Default><b>All's well
+that ends well</b></Default>
+
+352
+00:21:14,109 --> 00:21:15,690
+<Default><b>Raphy.</b></Default>
+
+353
+00:21:16,440 --> 00:21:17,480
+<Default><b>[gasps]</b></Default>
+
+354
+00:21:18,950 --> 00:21:21,200
+<Default><b>- [roaring]
+- [whimpers]</b></Default>
+
+355
+00:21:25,450 --> 00:21:26,890
+<Default><b>Let me ride, too!</b></Default>
+
+356
+00:21:32,420 --> 00:21:33,420
+<Default><b>Huh!</b></Default>
+
+357
+00:21:34,420 --> 00:21:37,420
+<Default><b>♪</b></Default>
+
+358
+00:21:38,839 --> 00:21:39,906
+<Default><b>[exclaiming]</b></Default>
+
+359
+00:21:39,930 --> 00:21:41,970
+<Default><b>- [FILO] Wait!
+- Huh?</b></Default>
+
+360
+00:21:42,140 --> 00:21:44,116
+<Default><b>I'm the one
+who gives Master rides!</b></Default>
+
+361
+00:21:44,140 --> 00:21:45,890
+<Default><b>Me and nobody else!</b></Default>
+
+362
+00:21:46,430 --> 00:21:47,590
+<Default><b>[laughing]</b></Default>
+
+363
+00:21:49,180 --> 00:21:50,616
+<Default><b>Listen up Gaelion!</b></Default>
+
+364
+00:21:50,640 --> 00:21:52,456
+<Default><b>Grow up to be
+a great dragon.</b></Default>
+
+365
+00:21:52,480 --> 00:21:54,190
+<Default><b>Just like my dad was</b></Default>
+
+366
+00:21:55,690 --> 00:21:57,529
+<Default><b>[screeching]</b></Default>
+
