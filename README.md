@@ -171,6 +171,9 @@
 - Psychic School Wars
 - Psycho-Pass The Movie
 - Puella Magi Madoka Magica the Movie Rebellion
+- Rascal Does Not Dream of a Dreaming Girl
+- Rascal Does Not Dream of a Knapsack Kid
+- Rascal Does Not Dream of a Sister Venturing Out
 - Resident Evil Damnation
 - Ride your wave
 - Robin Hood II and the Invincible Knight
@@ -493,6 +496,8 @@
 - Free!-Dive to the Future
 - Free!-Eternal Summer
 - Freezing
+- Frieren: Beyond Journey's End
+- Frieren: Beyond Journey's End S2
 - Fruits Basket
 - Fruits Basket  S2
 - Fruits Basket  S3
@@ -741,6 +746,7 @@
 - One-Punch Man
 - One-Punch Man II
 - Our Last Crusade or the Rise of a New World
+- Our Last Crusade or the Rise of a New World S2
 - Ouran High School Host Club
 - Outlaw Star
 - Overlord
@@ -771,6 +777,8 @@
 - Psycho-Pass Season 2
 - Puella Magi Madoka Magica
 - Puzzle & Dragons X
+- Rascal Does Not Dream of Bunny Girl Senpai
+- Rascal Does Not Dream of Santa Claus
 - RADIANT
 - RADIANT Season 2
 - RE-MAIN
@@ -958,6 +966,8 @@
 - The Record of Lodoss War
 - The Rising of the Shield Hero
 - The Rising of the Shield Hero S2
+- The Rising of the Shield Hero S3
+- The Rising of the Shield Hero S4
 - The Rolling Girls
 - The Sacred Blacksmith
 - The Saint's Magic Power is Omnipotent
